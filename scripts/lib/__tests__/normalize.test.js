@@ -1,21 +1,28 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { normalizeBinding } from '../normalize.js';
+import { normalizeEntity } from '../normalize.js';
 
-test('normalizeBinding extracts all fields from a full binding', () => {
-  const binding = {
+test('normalizeEntity extracts all fields from a full coord binding + entity', () => {
+  const coordBinding = {
     item: { value: 'http://www.wikidata.org/entity/Q123456' },
-    nameEn: { value: 'Test Stadium' },
-    nameJa: { value: 'テストスタジアム' },
     coord: { value: 'Point(139.0 35.0)' },
-    capacity: { value: '50000' },
-    inception: { value: '1990-04-01T00:00:00Z' },
-    countryCode: { value: 'JP' },
-    wikipediaUrl: { value: 'https://ja.wikipedia.org/wiki/Test_Stadium' },
-    image: { value: 'https://commons.wikimedia.org/wiki/File:Test.jpg' },
+  };
+  const entity = {
+    labels: {
+      en: { language: 'en', value: 'Test Stadium' },
+      ja: { language: 'ja', value: 'テストスタジアム' },
+    },
+    claims: {
+      P1083: [{ mainsnak: { datavalue: { value: { amount: '+50000' } } } }],
+      P571: [{ mainsnak: { datavalue: { value: { time: '+1990-04-01T00:00:00Z' } } } }],
+      P18: [{ mainsnak: { datavalue: { value: 'Test.jpg' } } }],
+    },
+    sitelinks: {
+      jawiki: { title: 'Test Stadium' },
+    },
   };
 
-  const record = normalizeBinding(binding, '2026-09-08T00:00:00.000Z');
+  const record = normalizeEntity(coordBinding, entity, 'JP', '2026-09-08T00:00:00.000Z');
 
   assert.deepEqual(record, {
     id: 'Q123456',
@@ -32,58 +39,52 @@ test('normalizeBinding extracts all fields from a full binding', () => {
     teams: [],
     wikipedia_url: 'https://ja.wikipedia.org/wiki/Test_Stadium',
     wikidata_url: 'https://www.wikidata.org/wiki/Q123456',
-    image_url: 'https://commons.wikimedia.org/wiki/File:Test.jpg',
+    image_url: 'Test.jpg',
     sources: ['Wikidata', 'Wikipedia'],
     last_synced_at: '2026-09-08T00:00:00.000Z',
   });
 });
 
-test('normalizeBinding returns null when coordinates are missing', () => {
-  const binding = {
-    item: { value: 'http://www.wikidata.org/entity/Q999' },
-    nameEn: { value: 'No Coord Facility' },
-  };
-
-  assert.equal(normalizeBinding(binding, '2026-09-08T00:00:00.000Z'), null);
+test('normalizeEntity returns null when coordinates are missing', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q999' } };
+  assert.equal(normalizeEntity(coordBinding, {}, 'JP', '2026-09-08T00:00:00.000Z'), null);
 });
 
-test('normalizeBinding fills missing optional fields with null/empty defaults', () => {
-  const binding = {
+test('normalizeEntity fills missing optional fields with null/empty defaults', () => {
+  const coordBinding = {
     item: { value: 'http://www.wikidata.org/entity/Q1' },
     coord: { value: 'Point(0.0 0.0)' },
   };
 
-  const record = normalizeBinding(binding, '2026-09-08T00:00:00.000Z');
+  const record = normalizeEntity(coordBinding, {}, 'FR', '2026-09-08T00:00:00.000Z');
 
   assert.equal(record.name, 'Q1');
   assert.equal(record.name_ja, null);
   assert.equal(record.capacity, null);
   assert.equal(record.opened_year, null);
-  assert.equal(record.country, null);
   assert.deepEqual(record.sources, ['Wikidata']);
 });
 
-test('normalizeBinding falls back to the English Wikipedia sitelink when no Japanese one exists', () => {
-  const binding = {
-    item: { value: 'http://www.wikidata.org/entity/Q42' },
+test('normalizeEntity uses UNKNOWN countryCode as a null country', () => {
+  const coordBinding = {
+    item: { value: 'http://www.wikidata.org/entity/Q1' },
     coord: { value: 'Point(0.0 0.0)' },
-    wikipediaUrlEn: { value: 'https://en.wikipedia.org/wiki/Test_Stadium' },
   };
 
-  const record = normalizeBinding(binding, '2026-09-08T00:00:00.000Z');
+  const record = normalizeEntity(coordBinding, {}, 'UNKNOWN', '2026-09-08T00:00:00.000Z');
 
-  assert.equal(record.wikipedia_url, 'https://en.wikipedia.org/wiki/Test_Stadium');
-  assert.deepEqual(record.sources, ['Wikidata', 'Wikipedia']);
+  assert.equal(record.country, null);
 });
 
-test('normalizeBinding falls back to the label-service itemLabel when nameEn is absent', () => {
-  const binding = {
-    item: { value: 'http://www.wikidata.org/entity/Q42' },
+test('normalizeEntity falls back to the English Wikipedia sitelink when no Japanese one exists', () => {
+  const coordBinding = {
+    item: { value: 'http://www.wikidata.org/entity/Q1' },
     coord: { value: 'Point(0.0 0.0)' },
-    itemLabel: { value: 'Stade de Test' },
   };
+  const entity = { sitelinks: { enwiki: { title: 'Some Stadium' } } };
 
-  const record = normalizeBinding(binding, '2026-09-08T00:00:00.000Z');
+  const record = normalizeEntity(coordBinding, entity, 'US', '2026-09-08T00:00:00.000Z');
 
-  assert.equal(record.name, 'Stade de Test');
+  assert.equal(record.wikipedia_url, 'https://en.wikipedia.org/wiki/Some_Stadium');
+  assert.deepEqual(record.sources, ['Wikidata', 'Wikipedia']);
 });
