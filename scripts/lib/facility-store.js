@@ -12,18 +12,44 @@ export async function loadFacilities(dir, countryCode) {
   }
 }
 
+function deepEqual(a, b) {
+  if (a === b) return true;
+  if (typeof a !== typeof b || a === null || b === null) return false;
+  if (typeof a !== 'object') return false;
+  if (Array.isArray(a) !== Array.isArray(b)) return false;
+  const aKeys = Object.keys(a);
+  const bKeys = Object.keys(b);
+  if (aKeys.length !== bKeys.length) return false;
+  return aKeys.every((key) => deepEqual(a[key], b[key]));
+}
+
+function unchangedExceptTimestamp(existingRecord, incomingRecord) {
+  const { last_synced_at: _existingTs, ...existingRest } = existingRecord;
+  const { last_synced_at: _incomingTs, ...incomingRest } = incomingRecord;
+  return deepEqual(existingRest, incomingRest);
+}
+
+// Note: facilities are never removed from a country's file if their country changes
+// or they're deleted upstream in Wikidata; reconciliation across country files is
+// deferred to a later phase.
 export function mergeFacilities(existing, incoming) {
   const map = new Map(existing.map((record) => [record.id, record]));
   let newCount = 0;
   let updatedCount = 0;
 
   for (const record of incoming) {
-    if (map.has(record.id)) {
-      updatedCount++;
+    const existingRecord = map.get(record.id);
+    if (existingRecord) {
+      if (unchangedExceptTimestamp(existingRecord, record)) {
+        map.set(record.id, { ...record, last_synced_at: existingRecord.last_synced_at });
+      } else {
+        updatedCount++;
+        map.set(record.id, record);
+      }
     } else {
       newCount++;
+      map.set(record.id, record);
     }
-    map.set(record.id, record);
   }
 
   const merged = Array.from(map.values()).sort((a, b) => a.id.localeCompare(b.id));

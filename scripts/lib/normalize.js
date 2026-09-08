@@ -10,10 +10,11 @@ export function normalizeBinding(binding, syncedAt) {
   if (!coord) return null;
 
   const qid = binding.item.value.split('/').pop();
+  const wikipediaUrl = binding.wikipediaUrl || binding.wikipediaUrlEn;
 
   return {
     id: qid,
-    name: binding.nameEn ? binding.nameEn.value : qid,
+    name: binding.nameEn ? binding.nameEn.value : binding.itemLabel ? binding.itemLabel.value : qid,
     name_ja: binding.nameJa ? binding.nameJa.value : null,
     lat: coord.lat,
     lng: coord.lng,
@@ -24,10 +25,10 @@ export function normalizeBinding(binding, syncedAt) {
     closed_year: null,
     roof_type: null,
     teams: [],
-    wikipedia_url: binding.wikipediaUrl ? binding.wikipediaUrl.value : null,
+    wikipedia_url: wikipediaUrl ? wikipediaUrl.value : null,
     wikidata_url: `https://www.wikidata.org/wiki/${qid}`,
     image_url: binding.image ? binding.image.value : null,
-    sources: binding.wikipediaUrl ? ['Wikidata', 'Wikipedia'] : ['Wikidata'],
+    sources: wikipediaUrl ? ['Wikidata', 'Wikipedia'] : ['Wikidata'],
     last_synced_at: syncedAt,
   };
 }

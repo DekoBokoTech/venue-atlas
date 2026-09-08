@@ -62,3 +62,28 @@ test('normalizeBinding fills missing optional fields with null/empty defaults', 
   assert.equal(record.country, null);
   assert.deepEqual(record.sources, ['Wikidata']);
 });
+
+test('normalizeBinding falls back to the English Wikipedia sitelink when no Japanese one exists', () => {
+  const binding = {
+    item: { value: 'http://www.wikidata.org/entity/Q42' },
+    coord: { value: 'Point(0.0 0.0)' },
+    wikipediaUrlEn: { value: 'https://en.wikipedia.org/wiki/Test_Stadium' },
+  };
+
+  const record = normalizeBinding(binding, '2026-09-08T00:00:00.000Z');
+
+  assert.equal(record.wikipedia_url, 'https://en.wikipedia.org/wiki/Test_Stadium');
+  assert.deepEqual(record.sources, ['Wikidata', 'Wikipedia']);
+});
+
+test('normalizeBinding falls back to the label-service itemLabel when nameEn is absent', () => {
+  const binding = {
+    item: { value: 'http://www.wikidata.org/entity/Q42' },
+    coord: { value: 'Point(0.0 0.0)' },
+    itemLabel: { value: 'Stade de Test' },
+  };
+
+  const record = normalizeBinding(binding, '2026-09-08T00:00:00.000Z');
+
+  assert.equal(record.name, 'Stade de Test');
+});

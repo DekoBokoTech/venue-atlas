@@ -19,3 +19,16 @@ test('buildQuery requests both English and Japanese labels', () => {
   assert.match(query, /\?nameEn/);
   assert.match(query, /\?nameJa/);
 });
+
+test('buildQuery requests a broad-language label fallback via the label service', () => {
+  const query = buildQuery({ limit: 10, offset: 0 });
+  assert.match(query, /\?itemLabel/);
+  assert.match(query, /SERVICE wikibase:label/);
+});
+
+test('buildQuery requests both Japanese and English Wikipedia sitelinks', () => {
+  const query = buildQuery({ limit: 10, offset: 0 });
+  assert.match(query, /\?wikipediaUrl\b/);
+  assert.match(query, /\?wikipediaUrlEn\b/);
+  assert.match(query, /en\.wikipedia\.org/);
+});

@@ -27,14 +27,14 @@ test('saveFacilities writes records that loadFacilities reads back', async () =>
   }
 });
 
-test('mergeFacilities adds new records and updates existing ones by id', () => {
+test('mergeFacilities adds new records and updates existing ones by id when a real field changes', () => {
   const existing = [
-    { id: 'Q1', name: 'Old Name' },
-    { id: 'Q2', name: 'Unchanged' },
+    { id: 'Q1', name: 'Old Name', last_synced_at: '2026-09-01T00:00:00.000Z' },
+    { id: 'Q2', name: 'Unchanged', last_synced_at: '2026-09-01T00:00:00.000Z' },
   ];
   const incoming = [
-    { id: 'Q1', name: 'New Name' },
-    { id: 'Q3', name: 'Brand New' },
+    { id: 'Q1', name: 'New Name', last_synced_at: '2026-09-08T00:00:00.000Z' },
+    { id: 'Q3', name: 'Brand New', last_synced_at: '2026-09-08T00:00:00.000Z' },
   ];
 
   const { merged, newCount, updatedCount } = mergeFacilities(existing, incoming);
@@ -42,8 +42,25 @@ test('mergeFacilities adds new records and updates existing ones by id', () => {
   assert.equal(newCount, 1);
   assert.equal(updatedCount, 1);
   assert.deepEqual(merged, [
-    { id: 'Q1', name: 'New Name' },
-    { id: 'Q2', name: 'Unchanged' },
-    { id: 'Q3', name: 'Brand New' },
+    { id: 'Q1', name: 'New Name', last_synced_at: '2026-09-08T00:00:00.000Z' },
+    { id: 'Q2', name: 'Unchanged', last_synced_at: '2026-09-01T00:00:00.000Z' },
+    { id: 'Q3', name: 'Brand New', last_synced_at: '2026-09-08T00:00:00.000Z' },
+  ]);
+});
+
+test('mergeFacilities keeps the existing last_synced_at when nothing else changed', () => {
+  const existing = [
+    { id: 'Q1', name: 'Stadium A', capacity: 40000, last_synced_at: '2026-09-01T00:00:00.000Z' },
+  ];
+  const incoming = [
+    { id: 'Q1', name: 'Stadium A', capacity: 40000, last_synced_at: '2026-09-08T00:00:00.000Z' },
+  ];
+
+  const { merged, newCount, updatedCount } = mergeFacilities(existing, incoming);
+
+  assert.equal(newCount, 0);
+  assert.equal(updatedCount, 0);
+  assert.deepEqual(merged, [
+    { id: 'Q1', name: 'Stadium A', capacity: 40000, last_synced_at: '2026-09-01T00:00:00.000Z' },
   ]);
 });
