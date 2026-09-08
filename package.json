@@ -7,7 +7,7 @@
     "node": ">=18"
   },
   "scripts": {
-    "test": "node --test scripts/lib/__tests__/",
+    "test": "node --test",
     "collect": "node scripts/collect-facilities.js"
   }
 }
