@@ -2567,5 +2567,17 @@
     "updatedCount": 0,
     "errorCount": 0,
     "errors": []
+  },
+  {
+    "timestamp": "2026-09-08T15:10:23.011Z",
+    "countryCode": "UNKNOWN",
+    "pagesFetched": 0,
+    "totalFetched": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "errorCount": 1,
+    "errors": [
+      "SPARQL query failed after 4 attempts: Retryable HTTP status: 504"
+    ]
   }
 ]
