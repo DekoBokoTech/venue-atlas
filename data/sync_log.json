@@ -76,5 +76,16 @@
     "updatedCount": 9,
     "errorCount": 0,
     "errors": []
+  },
+  {
+    "timestamp": "2026-09-08T07:26:57.663Z",
+    "pagesFetched": 67,
+    "totalFetched": 3500,
+    "newCount": 3495,
+    "updatedCount": 3,
+    "errorCount": 1,
+    "errors": [
+      "SPARQL query failed after 4 attempts: Retryable HTTP status: 504"
+    ]
   }
 ]
