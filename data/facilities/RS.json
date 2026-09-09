@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,10 +18,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q106929995",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q10782307",
@@ -29,10 +31,13 @@
     "lat": 44.80999444,
     "lng": 20.47164722,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,11 +45,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q10782307",
     "image_url": "Stadion na Tašmajdanu - panoramio.jpg",
     "website": "https://tasmajdan.rs/stadion/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108133838",
@@ -53,10 +59,13 @@
     "lat": 44.828611,
     "lng": 20.405278,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -64,33 +73,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108133838",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q108294016",
-    "name": "Q108294016",
-    "name_ja": null,
-    "lat": 44.789861,
-    "lng": 20.442639,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q108294016",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108414747",
@@ -99,10 +86,13 @@
     "lat": 45.815822,
     "lng": 19.627244,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -110,161 +100,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108414747",
     "image_url": "TSC Arena Bačka Topola.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q108465969",
-    "name": "Q108465969",
-    "name_ja": null,
-    "lat": 43.723611,
-    "lng": 19.705,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q108465969",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q109652462",
-    "name": "Q109652462",
-    "name_ja": null,
-    "lat": 44.79,
-    "lng": 20.4975,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652462",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q109652466",
-    "name": "Q109652466",
-    "name_ja": null,
-    "lat": 43.870139,
-    "lng": 21.403472,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652466",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q109652467",
-    "name": "Q109652467",
-    "name_ja": null,
-    "lat": 45.117111,
-    "lng": 20.723556,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652467",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q109652648",
-    "name": "Q109652648",
-    "name_ja": null,
-    "lat": 42.990139,
-    "lng": 21.959556,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652648",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q109652713",
-    "name": "Q109652713",
-    "name_ja": null,
-    "lat": 44.750556,
-    "lng": 20.394444,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652713",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109652714",
     "name": "Stadion SC Mladost",
     "name_ja": null,
-    "lat": 44.879722,
-    "lng": 20.662778,
+    "lat": 44.879722222,
+    "lng": 20.662777777,
     "country": "RS",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -272,34 +126,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109652714",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q109652715",
-    "name": "Q109652715",
-    "name_ja": null,
-    "lat": 45.238333,
-    "lng": 19.846944,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652715",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109652716",
@@ -308,10 +140,13 @@
     "lat": 44.539212305,
     "lng": 19.230742111,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8030,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -319,11 +154,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109652716",
     "image_url": "Wide angle view of Lagator Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110045338",
@@ -332,10 +168,13 @@
     "lat": 44.618055555,
     "lng": 21.172222222,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -343,57 +182,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110045338",
     "image_url": "Poжarevac City Stadium (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q110045851",
-    "name": "Q110045851",
-    "name_ja": null,
-    "lat": 44.75423472,
-    "lng": 20.45639028,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q110045851",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q110046367",
-    "name": "Q110046367",
-    "name_ja": null,
-    "lat": 44.766492651,
-    "lng": 20.493252438,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q110046367",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1123407",
@@ -402,10 +196,13 @@
     "lat": 44.788611,
     "lng": 20.459167,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 32710,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -418,11 +215,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1123407",
     "image_url": "Panoramic of Partizan Stadium.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113164580",
@@ -431,10 +229,13 @@
     "lat": 45.24892,
     "lng": 19.793708,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1400,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -447,10 +248,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113164580",
     "image_url": "GAT Arena.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113947423",
@@ -459,10 +261,13 @@
     "lat": 44.774356244,
     "lng": 20.471915709,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -470,10 +275,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113947423",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122418128",
@@ -486,6 +292,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -493,34 +300,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122418128",
     "image_url": "Stadion dubocica107.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q122874071",
-    "name": "Q122874071",
-    "name_ja": null,
-    "lat": 44.985878,
-    "lng": 20.158041,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q122874071",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q125318049",
@@ -533,6 +318,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -545,10 +331,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q125318049",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q125886420",
@@ -557,72 +344,25 @@
     "lat": 44.771027777,
     "lng": 20.289166666,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 60000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
-    "events": [
-      {
-        "name": "施工",
-        "year": null
-      }
-    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125886420",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q12758463",
-    "name": "Q12758463",
-    "name_ja": null,
-    "lat": 44.763676969,
-    "lng": 20.473320073,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12758463",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q12759609",
-    "name": "Q12759609",
-    "name_ja": null,
-    "lat": 44.129444,
-    "lng": 20.980833,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12759609",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1278216",
@@ -635,6 +375,7 @@
     "capacity": null,
     "opened_year": 1979,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -642,23 +383,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1278216",
     "image_url": "Sava Centar Panorama.jpg",
     "website": "https://savacentar.rs",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q13567334",
     "name": "Mladost Stadium",
     "name_ja": "スタディオン・ムラドスト",
-    "lat": 43.860013888,
-    "lng": 20.132608333,
+    "lat": 43.860014,
+    "lng": 20.132608,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -671,56 +416,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q13567334",
     "image_url": "Stadion Mladost Lučani 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q140077797",
-    "name": "Q140077797",
-    "name_ja": null,
-    "lat": 44.309124,
-    "lng": 20.549435,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140077797",
-    "image_url": "Akva park Izvor 3.jpg",
-    "website": "http://www.aquapark-izvor.com/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q140077802",
-    "name": "Q140077802",
-    "name_ja": null,
-    "lat": 43.967004,
-    "lng": 21.267504,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140077802",
-    "image_url": "Akva park Jagodina.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1500139",
@@ -729,10 +429,13 @@
     "lat": 45.2475,
     "lng": 19.845556,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 11500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -745,11 +448,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1500139",
     "image_url": "Spens.jpg",
     "website": "http://www.spens.rs/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1515291",
@@ -758,10 +462,14 @@
     "lat": 45.118069,
     "lng": 21.3107,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バスケットボール"
+    ],
     "capacity": 5000,
     "opened_year": 2001,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -774,11 +482,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1515291",
     "image_url": "Vrsac, Centar Milenjum.jpg",
     "website": "http://www.millennium.rs/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15244014",
@@ -787,10 +496,14 @@
     "lat": 44.76515556,
     "lng": 20.47215278,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーリーグ"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -803,11 +516,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15244014",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1570168",
@@ -820,6 +534,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -832,11 +547,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1570168",
     "image_url": "Wiki.Vojvodina IV Kristalna palata 053.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1570192",
@@ -845,10 +561,15 @@
     "lat": 43.316944,
     "lng": 21.907778,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バレーボール",
+      "バスケットボール"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -861,11 +582,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1570192",
     "image_url": "Sportska hala Čair.JPG",
     "website": "http://sccair.rs",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16087249",
@@ -878,6 +600,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -885,10 +608,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16087249",
     "image_url": "Sokolski dom Šabac.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16088040",
@@ -897,10 +621,13 @@
     "lat": 45.290848638,
     "lng": 19.82500215,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -908,10 +635,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16088040",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1638077",
@@ -924,6 +652,7 @@
     "capacity": 13500,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -936,11 +665,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1638077",
     "image_url": "Karađorđev Park Stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16602027",
@@ -953,6 +683,7 @@
     "capacity": 4500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -965,10 +696,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16602027",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632693",
@@ -981,6 +713,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -988,11 +721,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632693",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1782654",
@@ -1001,10 +735,13 @@
     "lat": 45.246667,
     "lng": 19.842222,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 14458,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1021,57 +758,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1782654",
     "image_url": "2009 European Athletics Junior Championships.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q20180663",
-    "name": "Q20180663",
-    "name_ja": null,
-    "lat": 44.07183,
-    "lng": 22.10191,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20180663",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q20181221",
-    "name": "Q20181221",
-    "name_ja": null,
-    "lat": 44.84794,
-    "lng": 20.39789,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20181221",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20436619",
@@ -1084,6 +776,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1091,34 +784,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20436619",
     "image_url": "Kopaonik ski staza - panoramio.jpg",
     "website": "http://www.skijalistasrbije.rs/sr/o-centru-kopaonik",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q20437084",
-    "name": "Q20437084",
-    "name_ja": null,
-    "lat": 44.79448611,
-    "lng": 20.50964167,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20437084",
-    "image_url": "Свјетлопис СЦ Олимп, Звјездара, Биоград2.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20438001",
@@ -1131,6 +802,7 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1143,11 +815,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20438001",
     "image_url": "Hala sportova 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2075436",
@@ -1160,6 +833,7 @@
     "capacity": null,
     "opened_year": 1850,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1167,34 +841,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2075436",
     "image_url": "Akademija1.png",
     "website": "http://www.va.mod.gov.rs",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q21037002",
-    "name": "Q21037002",
-    "name_ja": null,
-    "lat": 42.692347,
-    "lng": 22.165431,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q21037002",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q22666723",
@@ -1203,10 +855,16 @@
     "lat": 44.540311,
     "lng": 19.232123,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール",
+      "ハンドボール",
+      "バレーボール",
+      "ボクシング"
+    ],
     "capacity": null,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1223,11 +881,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q22666723",
     "image_url": null,
     "website": "http://www.ufklagator.com/index.php/hala-lagator/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2326167",
@@ -1236,10 +895,13 @@
     "lat": 43.315528,
     "lng": 21.908533,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18151,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1252,11 +914,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2326167",
     "image_url": "Stadion cair atrajkovic.jpg",
     "website": "http://www.sccair.rs/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25346100",
@@ -1265,10 +928,13 @@
     "lat": 42.6833,
     "lng": 22.1666,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3312,
     "opened_year": 1955,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1276,11 +942,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q25346100",
     "image_url": "StadionSurdulica.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2743782",
@@ -1289,10 +956,14 @@
     "lat": 44.847942,
     "lng": 20.397972,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1305,11 +976,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2743782",
     "image_url": "Taurunum Boys.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2749462",
@@ -1318,10 +990,13 @@
     "lat": 44.815456,
     "lng": 20.494047,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 19100,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1334,11 +1009,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2749462",
     "image_url": "Ofk Belgrade stadion.OFK.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2812886",
@@ -1351,6 +1027,7 @@
     "capacity": 2200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1363,23 +1040,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2812886",
     "image_url": "Veliki Park Hall.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2938170",
     "name": "Careva Ćuprija Stadium",
     "name_ja": null,
-    "lat": 44.78972222,
-    "lng": 20.4275,
+    "lat": 44.78444167,
+    "lng": 20.43288611,
     "country": "RS",
     "sport_types": [],
     "capacity": 2400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1392,10 +1071,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2938170",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2945013",
@@ -1408,6 +1088,7 @@
     "capacity": 2300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1420,11 +1101,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2945013",
     "image_url": "Hala Pinki (1).JPG",
     "website": "http://www.pinki-zemun.co.rs",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3280007",
@@ -1433,10 +1115,13 @@
     "lat": 44.990527777,
     "lng": 20.192055555,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1444,11 +1129,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3280007",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3327321",
@@ -1461,6 +1147,7 @@
     "capacity": 5320,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1473,11 +1160,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3327321",
     "image_url": "Sportska hala Jezero.jpg",
     "website": "https://halajezero.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q33277",
@@ -1486,10 +1174,15 @@
     "lat": 44.814153,
     "lng": 20.421358,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バレーボール",
+      "バスケットボール"
+    ],
     "capacity": 18386,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1506,11 +1199,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q33277",
     "image_url": "Štark Arena.jpg",
     "website": "https://starkarena.co.rs/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3335099",
@@ -1523,6 +1217,7 @@
     "capacity": 15100,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1535,11 +1230,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3335099",
     "image_url": "FK-Šumadija-Radnicki-1923.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3435009",
@@ -1552,6 +1248,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1564,11 +1261,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435009",
     "image_url": "Stadion u Jagodini.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3435028",
@@ -1581,6 +1279,7 @@
     "capacity": 17200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1593,11 +1292,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435028",
     "image_url": "Stadion FK Smederevo.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3435068",
@@ -1606,10 +1306,13 @@
     "lat": 43.583114,
     "lng": 21.338122,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10331,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1622,11 +1325,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435068",
     "image_url": "Stadion Mladost Kruševac.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3435880",
@@ -1639,6 +1343,7 @@
     "capacity": 5973,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1651,11 +1356,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435880",
     "image_url": "Stadion Hajduk Kula.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3435888",
@@ -1664,10 +1370,13 @@
     "lat": 43.586122,
     "lng": 20.227239,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1680,11 +1389,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435888",
     "image_url": "FKJavorstadion.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3435895",
@@ -1697,6 +1407,7 @@
     "capacity": 13000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1709,11 +1420,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435895",
     "image_url": "Gradski stadion Subotica 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3440635",
@@ -1726,6 +1438,7 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1738,11 +1451,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3440635",
     "image_url": "Čačak Stadium East Stand (Field View).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3440669",
@@ -1751,10 +1465,13 @@
     "lat": 44.772658,
     "lng": 20.421639,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4070,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1767,11 +1484,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3440669",
     "image_url": "Stadion Cukarickog.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3440735",
@@ -1780,10 +1498,13 @@
     "lat": 44.876358,
     "lng": 20.444283,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2500,
     "opened_year": 1937,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1796,10 +1517,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3440735",
     "image_url": "Vizelj park.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3441751",
@@ -1808,10 +1530,13 @@
     "lat": 44.765156,
     "lng": 20.472153,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": 1977,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1824,11 +1549,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3441751",
     "image_url": "Stadio Kralj Petar.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q348848",
@@ -1841,6 +1567,7 @@
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1853,39 +1580,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q348848",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q3501393",
-    "name": "Q3501393",
-    "name_ja": null,
-    "lat": 44.026389,
-    "lng": 20.466667,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FKメタラツ・ゴルニ・ミラノヴァツ",
-        "url": "http://www.fkmetalac.rs"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3501393",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q367802",
@@ -1894,10 +1594,13 @@
     "lat": 44.815517,
     "lng": 20.485111,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 8150,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1910,34 +1613,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q367802",
     "image_url": "Hala Pionir Beograd.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q38244305",
-    "name": "Q38244305",
-    "name_ja": null,
-    "lat": 44.748424,
-    "lng": 19.685923,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q38244305",
-    "image_url": "Stadion FK Mačva, Šabac 002.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q393333",
@@ -1946,10 +1627,13 @@
     "lat": 46.0906,
     "lng": 19.6495,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1180,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1962,10 +1646,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q393333",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q41795236",
@@ -1978,6 +1663,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -1990,10 +1676,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q41795236",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4457040",
@@ -2002,10 +1689,13 @@
     "lat": 45.05,
     "lng": 20.09,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": 1933,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2018,11 +1708,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4457040",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q478000",
@@ -2031,10 +1722,13 @@
     "lat": 44.783333333,
     "lng": 20.464722222,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 55538,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2047,11 +1741,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q478000",
     "image_url": "Zvezda stadion.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q51749558",
@@ -2064,6 +1759,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2071,10 +1767,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q51749558",
     "image_url": "Zgrade, Ruma 010.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5249969",
@@ -2083,10 +1780,13 @@
     "lat": 44.03333333,
     "lng": 20.45,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2099,11 +1799,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5249969",
     "image_url": "Stadion FK Metalac.jpg",
     "website": "http://fkmetalac.rs/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5265659",
@@ -2116,6 +1817,7 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2128,10 +1830,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5265659",
     "image_url": "Fk novi sad.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5426276",
@@ -2140,10 +1843,13 @@
     "lat": 44.791586,
     "lng": 20.494644,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4600,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2156,11 +1862,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5426276",
     "image_url": "FK Obilić Stadium - photo by Prvoslav Vujčić.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5426473",
@@ -2169,10 +1876,13 @@
     "lat": 44.83867,
     "lng": 20.36833,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 500,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2180,10 +1890,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5426473",
     "image_url": "Zmaj zemun.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q56323114",
@@ -2192,10 +1903,13 @@
     "lat": 44.73078,
     "lng": 20.38852,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2203,11 +1917,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q56323114",
     "image_url": "Zeleznik Stadion.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5640966",
@@ -2220,6 +1935,7 @@
     "capacity": 4000,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2232,11 +1948,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5640966",
     "image_url": "Хала КК \"Борац\" Чачак.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5640987",
@@ -2249,6 +1966,7 @@
     "capacity": 5000,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2261,11 +1979,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5640987",
     "image_url": "Hala sportova Novi Beograd.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60755697",
@@ -2278,6 +1997,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2285,11 +2005,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q60755697",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60776288",
@@ -2302,6 +2023,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2309,11 +2031,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q60776288",
     "image_url": null,
     "website": "http://www.skijalistasrbije.rs/sr/o-centru-tornik-zlatibor",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60776290",
@@ -2326,6 +2049,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2333,11 +2057,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q60776290",
     "image_url": "Stara Planina (Old mountain).jpg",
     "website": "http://www.skijalistasrbije.rs/sr/o-centru-stara-planina",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60854100",
@@ -2346,10 +2071,13 @@
     "lat": 44.7966,
     "lng": 20.50048,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2357,10 +2085,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q60854100",
     "image_url": "Stadion Hajduk na Lionu.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6427922",
@@ -2373,6 +2102,7 @@
     "capacity": 2000,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2385,11 +2115,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6427922",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6435987",
@@ -2398,10 +2129,13 @@
     "lat": 43.7297,
     "lng": 20.6942,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2414,10 +2148,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6435987",
     "image_url": "Stadion FK Sloga Kraljevo.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6591266",
@@ -2430,6 +2165,7 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2442,11 +2178,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6591266",
     "image_url": "Sloboda Užice stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6593856",
@@ -2459,6 +2196,7 @@
     "capacity": 12000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2471,11 +2209,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6593856",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7196887",
@@ -2488,6 +2227,7 @@
     "capacity": 2000,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2504,11 +2244,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7196887",
     "image_url": "Pionir led.jpg",
     "website": "http://www.tasmajdan.rs/index.php?Itemid=1&lang=lat&option=com_content/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7242537",
@@ -2521,6 +2262,7 @@
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2533,11 +2275,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7242537",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7389386",
@@ -2550,6 +2293,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2557,11 +2301,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7389386",
     "image_url": "Sc teleoptik.jpg",
     "website": "http://www.en.partizan.rs/klub-info/sc-teleoptik/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7389400",
@@ -2574,6 +2319,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2586,11 +2332,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7389400",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7392798",
@@ -2603,6 +2350,7 @@
     "capacity": 4000,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2615,11 +2363,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7392798",
     "image_url": "SRC Dubočica.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7579732",
@@ -2632,6 +2381,7 @@
     "capacity": 2600,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2644,11 +2394,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579732",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596297",
@@ -2657,10 +2408,13 @@
     "lat": 43.1517,
     "lng": 22.5961,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13816,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2668,11 +2422,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596297",
     "image_url": "StadionDraganNikolic.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596301",
@@ -2685,6 +2440,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2697,11 +2453,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596301",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596313",
@@ -2714,6 +2471,7 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2726,11 +2484,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596313",
     "image_url": "SRC Krčagovo.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596319",
@@ -2739,10 +2498,13 @@
     "lat": 45.522,
     "lng": 20.5163,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2750,11 +2512,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596319",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596326",
@@ -2767,6 +2530,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2779,10 +2543,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596326",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596333",
@@ -2795,6 +2560,7 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2807,10 +2573,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596333",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596334",
@@ -2819,10 +2586,13 @@
     "lat": 45.289361,
     "lng": 19.82225,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2835,10 +2605,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596334",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7911748",
@@ -2851,6 +2622,7 @@
     "capacity": 1500,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2863,11 +2635,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7911748",
     "image_url": "Valjevo Sports Hall.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7938032",
@@ -2880,6 +2653,7 @@
     "capacity": 1500,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2892,11 +2666,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7938032",
     "image_url": "Vizura Sports Center.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7942542",
@@ -2905,10 +2680,13 @@
     "lat": 44.7749,
     "lng": 20.4902,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5200,
     "opened_year": 2013,
-    "closed_year": null,
+    "closed_year": 2011,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -2921,11 +2699,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7942542",
     "image_url": "Trzni Centar.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8064920",
@@ -2938,6 +2717,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2950,11 +2730,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8064920",
     "image_url": "FK Timok supporters, 15 November 2008.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8083629",
@@ -2967,6 +2748,7 @@
     "capacity": 8350,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2979,11 +2761,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8083629",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q85760247",
@@ -2996,6 +2779,7 @@
     "capacity": null,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -3003,80 +2787,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q85760247",
     "image_url": "FK Bor stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q86665947",
-    "name": "Q86665947",
-    "name_ja": null,
-    "lat": 44.783333,
-    "lng": 20.465,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86665947",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q86686549",
-    "name": "Q86686549",
-    "name_ja": null,
-    "lat": 45.815556,
-    "lng": 19.627222,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86686549",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q86687453",
-    "name": "Q86687453",
-    "name_ja": null,
-    "lat": 44.310528,
-    "lng": 20.551222,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86687453",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q88216210",
@@ -3089,6 +2805,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -3096,10 +2813,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q88216210",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q9275338",
@@ -3108,10 +2826,13 @@
     "lat": 45.8382,
     "lng": 20.4565,
     "country": "RS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -3124,62 +2845,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q9275338",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q9337449",
-    "name": "Q9337449",
-    "name_ja": null,
-    "lat": 44.7714,
-    "lng": 20.4369,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9337449",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q9341120",
-    "name": "Q9341120",
-    "name_ja": null,
-    "lat": 45.120833,
-    "lng": 19.221389,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FK Radnički Šid",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9341120",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q9341121",
@@ -3192,6 +2863,7 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -3204,39 +2876,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q9341121",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q9341219",
-    "name": "Q9341219",
-    "name_ja": null,
-    "lat": 45.938056,
-    "lng": 20.083889,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": 4500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FK Senta",
-        "url": "https://www.fk-senta.org.rs/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9341219",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97187712",
@@ -3249,6 +2894,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -3261,124 +2907,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q97187712",
     "image_url": "Pančevo Stadion Dinama6.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q97187720",
-    "name": "Q97187720",
-    "name_ja": null,
-    "lat": 44.963556,
-    "lng": 19.609278,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97187720",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q97187731",
-    "name": "Q97187731",
-    "name_ja": null,
-    "lat": 44.618111,
-    "lng": 21.172139,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97187731",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q97187738",
-    "name": "Q97187738",
-    "name_ja": null,
-    "lat": 44.825556,
-    "lng": 20.396111,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97187738",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q97277887",
-    "name": "Q97277887",
-    "name_ja": null,
-    "lat": 44.8225,
-    "lng": 20.231944,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97277887",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
-  },
-  {
-    "id": "Q97285346",
-    "name": "Q97285346",
-    "name_ja": null,
-    "lat": 44.775,
-    "lng": 20.49,
-    "country": "RS",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97285346",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:12:53.379Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
