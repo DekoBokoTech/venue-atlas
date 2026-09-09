@@ -3,13 +3,17 @@
     "id": "Q108450130",
     "name": "Abdelkrim Kerroum Stadium",
     "name_ja": null,
-    "lat": 35.527861555,
-    "lng": -0.209032931,
+    "lat": 35.5276053,
+    "lng": -0.2093114,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 20000,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,11 +26,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108450130",
     "image_url": "Sig stade.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110420175",
@@ -35,10 +40,13 @@
     "lat": 36.7241205,
     "lng": 3.5585726,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2300,
     "opened_year": 1923,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -51,10 +59,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110420175",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110472701",
@@ -67,6 +76,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -74,10 +84,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110472701",
     "image_url": "Cinéma Maghreb - Tébessa سنما المغرب - تبسة.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110472737",
@@ -90,6 +101,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -97,10 +109,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110472737",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q112861645",
@@ -113,6 +126,7 @@
     "capacity": null,
     "opened_year": 1844,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -120,10 +134,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q112861645",
     "image_url": "Centre equestre mostaganem (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113330745",
@@ -136,6 +151,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -143,10 +159,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113330745",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113946254",
@@ -155,10 +172,13 @@
     "lat": 35.428443023,
     "lng": 7.146491503,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -175,11 +195,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113946254",
     "image_url": "Hamma ammar stadium.webp",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113946263",
@@ -192,6 +213,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -199,11 +221,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113946263",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q116159835",
@@ -216,6 +239,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -223,10 +247,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q116159835",
     "image_url": "Tala guilef.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q116885033",
@@ -239,6 +264,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -246,10 +272,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q116885033",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q117839179",
@@ -258,10 +285,13 @@
     "lat": 35.679166666,
     "lng": -0.675277777,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -274,84 +304,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117839179",
     "image_url": "Stade Allal Toula.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q118391423",
-    "name": "Q118391423",
-    "name_ja": null,
-    "lat": 36.7432,
-    "lng": 3.7196,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q118391423",
-    "image_url": "Stade Salah Takdjerad de Bordj Menaiel.png",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q118496877",
-    "name": "Q118496877",
-    "name_ja": null,
-    "lat": 36.651666666,
-    "lng": 3.328611111,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": 1930,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "IB Khémis El Khechna",
-        "url": "https://ibkek.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q118496877",
-    "image_url": "Photo stade abdelkader zerrouki 052023 001.png",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q118949500",
-    "name": "Q118949500",
-    "name_ja": null,
-    "lat": 36.7434,
-    "lng": 3.7467,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q118949500",
-    "image_url": "Photo du nouveau stade bordj menaiel.png",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q118951495",
@@ -364,6 +321,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -371,10 +329,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q118951495",
     "image_url": "Stade Lahouari Benahmed.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q118951496",
@@ -387,6 +346,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -394,33 +354,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q118951496",
     "image_url": "Stade Mohamed Reggaz de Boufarik 3.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q118951497",
-    "name": "Q118951497",
-    "name_ja": null,
-    "lat": 36.7167,
-    "lng": 3.0454,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q118951497",
-    "image_url": "Photo stade birkhadem 15042023 001.png",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q120739455",
@@ -429,10 +367,13 @@
     "lat": 36.784849774,
     "lng": 2.900322572,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -440,10 +381,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q120739455",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122387510",
@@ -456,6 +398,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -463,33 +406,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122387510",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q122723129",
-    "name": "Q122723129",
-    "name_ja": null,
-    "lat": 36.840133,
-    "lng": 6.9587673,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q122723129",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122964878",
@@ -498,10 +419,13 @@
     "lat": 35.550440279,
     "lng": -0.443034561,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -509,79 +433,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122964878",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q123171859",
-    "name": "Q123171859",
-    "name_ja": null,
-    "lat": 36.1860709,
-    "lng": 5.4100759,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q123171859",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q125576473",
-    "name": "Q125576473",
-    "name_ja": null,
-    "lat": 36.3511786,
-    "lng": 6.6423052,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q125576473",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q125745037",
-    "name": "Q125745037",
-    "name_ja": null,
-    "lat": 36.4551,
-    "lng": 3.2807,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q125745037",
-    "image_url": "Photo boumerdes 08102014.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12811926",
@@ -590,10 +446,13 @@
     "lat": 34.8333,
     "lng": 0.15,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -606,11 +465,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q12811926",
     "image_url": "Stade Said Amara de Saida 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q133888192",
@@ -619,10 +479,14 @@
     "lat": 36.6878052,
     "lng": 3.5891273,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": null,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -630,10 +494,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q133888192",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q135318162",
@@ -646,6 +511,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -653,10 +519,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q135318162",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q137156848",
@@ -669,6 +536,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -676,10 +544,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q137156848",
     "image_url": "11 Decembre 1960 Stadium (Oued Tlelat).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1395123",
@@ -688,10 +557,13 @@
     "lat": 36.885833,
     "lng": 7.733056,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -704,11 +576,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1395123",
     "image_url": "Annaba Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1535159",
@@ -717,10 +590,13 @@
     "lat": 36.759889,
     "lng": 2.995194,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 76200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -738,11 +614,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1535159",
     "image_url": "Stade 5 Juillet 1962.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16511443",
@@ -751,10 +628,13 @@
     "lat": 36.0333,
     "lng": 6.58333,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -767,23 +647,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16511443",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16511447",
     "name": "Stade Abderrahmene Bensaci",
     "name_ja": null,
-    "lat": 35.631,
-    "lng": 5.908,
+    "lat": 35.6286,
+    "lng": 5.9117,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -796,11 +680,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16511447",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16511448",
@@ -809,10 +694,13 @@
     "lat": 36.9042,
     "lng": 7.75194,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -825,11 +713,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16511448",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16511492",
@@ -838,10 +727,13 @@
     "lat": 36.0667,
     "lng": 4.76667,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -854,23 +746,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16511492",
     "image_url": "Stade 20 Août 1955 by Samado.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16511493",
     "name": "Stade Imam Lyes de Médéa",
     "name_ja": null,
-    "lat": 36.261667,
-    "lng": 2.769722,
+    "lat": 36.2675,
+    "lng": 2.7501,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -883,39 +779,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16511493",
     "image_url": "Stade Imam Lyes 2016-17.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16511496",
-    "name": "Q16511496",
-    "name_ja": null,
-    "lat": 36.5126,
-    "lng": 2.41382,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Union Sportive Musulmane Madinet Hadjout",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16511496",
-    "image_url": "Stade du 5 juillet de HADJOUT.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16511497",
@@ -924,10 +793,13 @@
     "lat": 35.4053,
     "lng": 8.11632,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11000,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -940,11 +812,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16511497",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16511498",
@@ -953,10 +826,13 @@
     "lat": 36.8167,
     "lng": 5.76667,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -969,11 +845,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16511498",
     "image_url": "Stade Hocine Rouibah Jijel 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632428",
@@ -986,6 +863,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -998,67 +876,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632428",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16658242",
-    "name": "Q16658242",
-    "name_ja": null,
-    "lat": 35.8775,
-    "lng": 7.11361,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "US Chaouia",
-        "url": "https://chaouiaus.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16658242",
-    "image_url": "Stade zerdani belkacem.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16658245",
-    "name": "Q16658245",
-    "name_ja": null,
-    "lat": 35.2193,
-    "lng": 4.18167,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "A Bou Saâda",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16658245",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17639070",
@@ -1071,6 +894,7 @@
     "capacity": null,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1078,11 +902,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17639070",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19573442",
@@ -1095,6 +920,7 @@
     "capacity": 18000,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1107,11 +933,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q19573442",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19577957",
@@ -1124,6 +951,7 @@
     "capacity": 7200,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1131,11 +959,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q19577957",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19577958",
@@ -1144,10 +973,13 @@
     "lat": 36.5668,
     "lng": 3.14904,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1160,11 +992,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q19577958",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2023039",
@@ -1173,10 +1006,13 @@
     "lat": 36.801055,
     "lng": 3.048111,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 17000,
     "opened_year": 1919,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1189,11 +1025,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2023039",
     "image_url": "Omar Hammadi Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20971177",
@@ -1206,6 +1043,7 @@
     "capacity": 9000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1218,11 +1056,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20971177",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21328517",
@@ -1231,10 +1070,13 @@
     "lat": 36.8667,
     "lng": 6.9,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1247,11 +1089,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q21328517",
     "image_url": "Stade de 20 août 1955 de Skikda.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q252107",
@@ -1260,10 +1103,13 @@
     "lat": 35.388056,
     "lng": 0.159444,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1276,34 +1122,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q252107",
     "image_url": "Stade de l'Unité Africaine de Mascara 4.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q26845709",
-    "name": "Q26845709",
-    "name_ja": null,
-    "lat": 36.381438,
-    "lng": 3.876266,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q26845709",
-    "image_url": "Stade Rabah Bitat.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2743792",
@@ -1312,10 +1136,13 @@
     "lat": 36.349167,
     "lng": 6.625833,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1328,11 +1155,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2743792",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2822433",
@@ -1345,6 +1173,7 @@
     "capacity": null,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1352,10 +1181,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2822433",
     "image_url": "Académie militaire interarmes de Cherchell.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2990530",
@@ -1364,10 +1194,13 @@
     "lat": 34.877219778,
     "lng": -1.301144473,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1380,11 +1213,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990530",
     "image_url": "Stade Akid Lotfi.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30080164",
@@ -1397,6 +1231,7 @@
     "capacity": null,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1404,11 +1239,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q30080164",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3026036",
@@ -1417,10 +1253,13 @@
     "lat": 36.186944,
     "lng": 5.393056,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1433,11 +1272,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3026036",
     "image_url": "Vue aérienne de Sétif (Algérie).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3107395",
@@ -1446,10 +1286,13 @@
     "lat": 36.349167,
     "lng": 6.625833,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22968,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1467,11 +1310,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3107395",
     "image_url": "Mohamed Hamlaoui Stadium (Constantine, Algeria).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3119087",
@@ -1480,10 +1324,13 @@
     "lat": 35.683315,
     "lng": -0.636221,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40000,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1496,34 +1343,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3119087",
     "image_url": "Stade Ahmed Zabana 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3258881",
-    "name": "Q3258881",
-    "name_ja": null,
-    "lat": 35.55,
-    "lng": 6.17,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3258881",
-    "image_url": null,
-    "website": "http://www.lompipark.com/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3349688",
@@ -1532,10 +1357,13 @@
     "lat": 35.557222,
     "lng": 6.187778,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1548,11 +1376,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3349688",
     "image_url": "Stade du 1er Novembre 1954 Batna.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3361118",
@@ -1565,6 +1394,7 @@
     "capacity": 5000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1577,11 +1407,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3361118",
     "image_url": "Hamou Boutlélis Sports Palace (2024).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495484",
@@ -1590,10 +1421,13 @@
     "lat": 36.728894,
     "lng": 4.014039,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50000,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1606,11 +1440,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495484",
     "image_url": "Tizi Ouzou Stadium at night.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495620",
@@ -1619,10 +1454,13 @@
     "lat": 35.679167,
     "lng": -0.675278,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1639,11 +1477,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495620",
     "image_url": "Stade Habib Bouakeul - pelouse, gradin et virage ouest.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495760",
@@ -1652,10 +1491,13 @@
     "lat": 35.8604,
     "lng": -0.313219,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1668,10 +1510,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495760",
     "image_url": "Stade Menaouer Kerbouci.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495764",
@@ -1680,10 +1523,13 @@
     "lat": 36.1443,
     "lng": 5.72245,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1696,11 +1542,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495764",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495774",
@@ -1709,10 +1556,13 @@
     "lat": 36.7295,
     "lng": 3.09002,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1725,11 +1575,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495774",
     "image_url": "Photo stade benhaddad 29042023 003.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495789",
@@ -1738,10 +1589,13 @@
     "lat": 36.490278,
     "lng": 2.846667,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2001,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1758,39 +1612,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495789",
     "image_url": "Stade du Chahid Mustapha Tchaker.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495803",
-    "name": "Q3495803",
-    "name_ja": null,
-    "lat": 36.7289,
-    "lng": 4.01404,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "JSカビリー",
-        "url": "https://jskabylieclub.com"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495803",
-    "image_url": "Stade Oukil Ramdane Tizi Ouzou.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495874",
@@ -1799,10 +1626,13 @@
     "lat": 35.5578,
     "lng": 6.18022,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1815,11 +1645,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495874",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495878",
@@ -1828,10 +1659,13 @@
     "lat": 36.468889,
     "lng": 7.446111,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1844,11 +1678,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495878",
     "image_url": "Stade Souidani Boujemaa (Guelma, Algeria).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495956",
@@ -1857,10 +1692,13 @@
     "lat": 35.72848,
     "lng": -0.54941,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40143,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1868,11 +1706,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495956",
     "image_url": "Stade de Oran.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496008",
@@ -1881,10 +1720,13 @@
     "lat": 36.749411,
     "lng": 5.046539,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 19000,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1901,11 +1743,45 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496008",
     "image_url": "Stade de Béjaïa.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q3496064",
+    "name": "Complexe Sportif d'El Alia",
+    "name_ja": null,
+    "lat": 34.843,
+    "lng": 5.75415,
+    "country": "DZ",
+    "sport_types": [
+      "サッカー"
+    ],
+    "capacity": 30000,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [
+      {
+        "name": "US Biskra",
+        "url": "https://usbiskra.com/"
+      }
+    ],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/18_February_Stadium_(Biskra)",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3496064",
+    "image_url": "ملعب 18 فيفري.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496069",
@@ -1914,10 +1790,13 @@
     "lat": 36.734444,
     "lng": 3.131389,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1930,11 +1809,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496069",
     "image_url": "Stade 1er novembre mohammadia 4.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496074",
@@ -1943,10 +1823,13 @@
     "lat": 36.706944,
     "lng": 4.056111,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 30000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1959,11 +1842,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496074",
     "image_url": "TIFO Zona Amazigh (70ans).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3528392",
@@ -1976,6 +1860,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1983,34 +1868,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3528392",
     "image_url": "Village de Tikjda W. Bouira.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3578051",
-    "name": "Q3578051",
-    "name_ja": null,
-    "lat": 36.7899,
-    "lng": 3.25667,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1967,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3578051",
-    "image_url": null,
-    "website": "http://www.emp.edu.dz/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q36698475",
@@ -2023,6 +1886,7 @@
     "capacity": 10000,
     "opened_year": 1908,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2030,10 +1894,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q36698475",
     "image_url": "Arènes Oran.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q517352",
@@ -2042,10 +1907,13 @@
     "lat": 36.1615,
     "lng": 1.30902,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 25000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2058,11 +1926,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q517352",
     "image_url": "Stade Boumezrag.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5300222",
@@ -2071,10 +1940,13 @@
     "lat": 36.681666666,
     "lng": 2.961666666,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40000,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2087,11 +1959,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5300222",
     "image_url": "Stade ali la pointe douera.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5595115",
@@ -2100,10 +1973,13 @@
     "lat": 36.693784,
     "lng": 3.122006,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40784,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2111,34 +1987,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5595115",
     "image_url": "Nelson Mandela Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q55964939",
-    "name": "Q55964939",
-    "name_ja": null,
-    "lat": 36.738093,
-    "lng": 3.118165,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q55964939",
-    "image_url": "Hippodrome du Caroubier - 2026-06-18 - IMG 2002.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60748488",
@@ -2151,6 +2005,7 @@
     "capacity": null,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2158,80 +2013,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q60748488",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q60833976",
-    "name": "Q60833976",
-    "name_ja": null,
-    "lat": 34.878127351,
-    "lng": -1.315997309,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": 8000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q60833976",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q60848400",
-    "name": "Q60848400",
-    "name_ja": null,
-    "lat": 35.393056,
-    "lng": 0.134167,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q60848400",
-    "image_url": "Stade aouad meflah 1.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q60848708",
-    "name": "Q60848708",
-    "name_ja": null,
-    "lat": 35.193889,
-    "lng": -0.641389,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q60848708",
-    "image_url": "Stade des Trois Frères Amarouche.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q62267760",
@@ -2240,10 +2027,13 @@
     "lat": 36.765170576,
     "lng": 3.024835565,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2251,10 +2041,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q62267760",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65048040",
@@ -2267,6 +2058,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2274,11 +2066,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65048040",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6735730",
@@ -2287,10 +2080,13 @@
     "lat": 36.169166666,
     "lng": 5.513055555,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2303,11 +2099,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6735730",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q73510000",
@@ -2320,6 +2117,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -2332,10 +2130,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q73510000",
     "image_url": "Stade Amirouche Jijel 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7404968",
@@ -2344,10 +2143,13 @@
     "lat": 36.755523888,
     "lng": 3.05402,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 6000,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2360,11 +2162,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7404968",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596073",
@@ -2373,10 +2176,13 @@
     "lat": 31.6056,
     "lng": -2.21833,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2389,11 +2195,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596073",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596077",
@@ -2402,10 +2209,13 @@
     "lat": 36.260559071,
     "lng": 6.687453131,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2418,11 +2228,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596077",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596078",
@@ -2431,10 +2242,13 @@
     "lat": 35.3619,
     "lng": 1.33117,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2447,11 +2261,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596078",
     "image_url": "Stade Kaid Ahmed de Tiaret 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596101",
@@ -2464,6 +2279,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2471,23 +2287,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596101",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596111",
     "name": "Stade Frères Brakni",
     "name_ja": null,
-    "lat": 36.4903,
-    "lng": 2.84667,
+    "lat": 36.4793,
+    "lng": 2.81107,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": 1902,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2500,11 +2320,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596111",
     "image_url": "Supporteur de USMB 6.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596141",
@@ -2513,10 +2334,13 @@
     "lat": 35.9333,
     "lng": 0.083333,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18000,
     "opened_year": 1990,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2529,11 +2353,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596141",
     "image_url": "ملعب مستغانم الرائد فراج صورة 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596192",
@@ -2542,10 +2367,13 @@
     "lat": 35.2895,
     "lng": -1.14099,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11500,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2558,11 +2386,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596192",
     "image_url": "Stade Omar Oucief (Aïn Témouchent).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596208",
@@ -2571,10 +2400,13 @@
     "lat": 35.73255,
     "lng": 0.54489,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2587,11 +2419,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596208",
     "image_url": "ملعب الشهيد طاهر زوقاري غليزان.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596212",
@@ -2604,6 +2437,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2611,11 +2445,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596212",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596236",
@@ -2624,10 +2459,13 @@
     "lat": 36.801055555,
     "lng": 3.048111111,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2635,34 +2473,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596236",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q9293785",
-    "name": "Q9293785",
-    "name_ja": null,
-    "lat": 36.7496,
-    "lng": 3.04253,
-    "country": "DZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9293785",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q939080",
@@ -2671,10 +2487,13 @@
     "lat": 36.745633,
     "lng": 3.078511,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2687,11 +2506,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q939080",
     "image_url": "Stade du 20 août 1955 (Alger, 2014).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q940074",
@@ -2700,10 +2520,13 @@
     "lat": 36.743889,
     "lng": 3.091944,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": 1940,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2716,11 +2539,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q940074",
     "image_url": "Stade Zioui 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96416089",
@@ -2733,6 +2557,7 @@
     "capacity": 3000,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2740,11 +2565,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q96416089",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q968208",
@@ -2753,10 +2579,13 @@
     "lat": 35.184916666,
     "lng": -0.621638888,
     "country": "DZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50000,
     "opened_year": 1981,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2769,10 +2598,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q968208",
     "image_url": "Stade 24 Février 1956.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
