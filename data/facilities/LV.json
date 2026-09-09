@@ -1,38 +1,18 @@
 [
   {
-    "id": "Q110389117",
-    "name": "Q110389117",
-    "name_ja": null,
-    "lat": 56.965,
-    "lng": 24.230833,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q110389117",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q112650518",
     "name": "Ice hall \"Riga\"",
     "name_ja": null,
     "lat": 56.94575,
     "lng": 24.169638888,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -45,10 +25,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q112650518",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q112651223",
@@ -57,10 +38,13 @@
     "lat": 56.691138888,
     "lng": 23.7895,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -68,10 +52,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q112651223",
     "image_url": "Ozo ledus halle.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1133726",
@@ -80,10 +65,14 @@
     "lat": 56.95516667,
     "lng": 24.15886111,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技",
+      "サッカー"
+    ],
     "capacity": 10461,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -100,11 +89,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1133726",
     "image_url": "Grīziņkalns, Latgale Suburb, Riga, Latvia - panoramio.jpg",
     "website": "http://www.daugavasstadions.lv/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113685834",
@@ -113,10 +103,13 @@
     "lat": 57.159261071,
     "lng": 24.859534484,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -124,10 +117,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113685834",
     "image_url": null,
     "website": "https://www.siguldassports.lv/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q116025209",
@@ -136,10 +130,13 @@
     "lat": 56.908,
     "lng": 24.155,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2300,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -152,11 +149,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q116025209",
     "image_url": null,
     "website": "https://lnksportaparks.lv/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q117240038",
@@ -165,10 +163,13 @@
     "lat": 56.826571945,
     "lng": 24.239049673,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -176,10 +177,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117240038",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q120900661",
@@ -188,10 +190,13 @@
     "lat": 56.858737144,
     "lng": 24.33445894,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -199,10 +204,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q120900661",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12320948",
@@ -211,10 +217,13 @@
     "lat": 57.54105278,
     "lng": 25.44083611,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1232,
     "opened_year": 1938,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -222,57 +231,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q12320948",
     "image_url": "Jāņa Daliņa Stadium - 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q130246421",
-    "name": "Q130246421",
-    "name_ja": null,
-    "lat": 56.49888889,
-    "lng": 25.84138889,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q130246421",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q135439394",
-    "name": "Q135439394",
-    "name_ja": null,
-    "lat": 56.950277777,
-    "lng": 24.412222222,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q135439394",
-    "image_url": "Mazda6 2013 (8449423251).jpg",
-    "website": "https://333.lv/en/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q13635546",
@@ -281,10 +245,13 @@
     "lat": 57.164722222,
     "lng": 26.762222222,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -292,10 +259,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q13635546",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q138665071",
@@ -308,6 +276,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -315,130 +284,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q138665071",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q138885098",
-    "name": "Q138885098",
-    "name_ja": null,
-    "lat": 56.981388888,
-    "lng": 24.123611111,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FKメッタ",
-        "url": "http://www.fsmetta.lv/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q138885098",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139022364",
-    "name": "Q139022364",
-    "name_ja": null,
-    "lat": 56.963611111,
-    "lng": 24.141666666,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139022364",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139764039",
-    "name": "Q139764039",
-    "name_ja": null,
-    "lat": 56.538256,
-    "lng": 21.170801,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139764039",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139764077",
-    "name": "Q139764077",
-    "name_ja": null,
-    "lat": 57.386984,
-    "lng": 21.569933,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139764077",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139764194",
-    "name": "Q139764194",
-    "name_ja": null,
-    "lat": 56.953366,
-    "lng": 24.159562,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139764194",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q14491702",
@@ -447,10 +297,13 @@
     "lat": 55.874637,
     "lng": 26.55053,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3480,
     "opened_year": 2008,
-    "closed_year": null,
+    "closed_year": 2017,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -463,11 +316,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q14491702",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1474452",
@@ -476,10 +330,13 @@
     "lat": 56.961372,
     "lng": 24.116408,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8087,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -496,34 +353,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1474452",
     "image_url": "Skonto stadium (20.10.2025.).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q15219707",
-    "name": "Q15219707",
-    "name_ja": null,
-    "lat": 56.85731667,
-    "lng": 24.33668611,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": 648,
-    "opened_year": 2008,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q15219707",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16348326",
@@ -532,10 +367,13 @@
     "lat": 56.96790278,
     "lng": 24.12429167,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -556,11 +394,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16348326",
     "image_url": "Elektrum olimpiskais centrs.jpg",
     "website": "http://www.olimpiskais.lv/lv/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16351567",
@@ -569,10 +408,13 @@
     "lat": 56.9355606,
     "lng": 24.1487029,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -580,33 +422,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16351567",
     "image_url": "Rīgas Sporta manēža (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16352773",
-    "name": "Q16352773",
-    "name_ja": null,
-    "lat": 56.9636415,
-    "lng": 24.1430027,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16352773",
-    "image_url": "Sporta nams Daugava 2014.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16353023",
@@ -619,6 +439,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -626,34 +447,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16353023",
     "image_url": "Biķernieki RX track (30339849281).jpg",
     "website": "http://www.bksb.lv",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16355613",
-    "name": "Q16355613",
-    "name_ja": null,
-    "lat": 57.38742,
-    "lng": 21.55194,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16355613",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16355729",
@@ -666,6 +465,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -673,10 +473,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16355729",
     "image_url": "Valmiera Olympic Center-18.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16841150",
@@ -689,6 +490,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -701,23 +503,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16841150",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20402920",
     "name": "Stadium Lokomotīve",
     "name_ja": null,
-    "lat": 55.878888888,
-    "lng": 26.546111111,
+    "lat": 55.8788,
+    "lng": 26.5457,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "スピードウェイ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -725,11 +531,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20402920",
     "image_url": null,
     "website": "http://www.lokomotive.lv",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21663708",
@@ -742,6 +549,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -749,10 +557,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q21663708",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2204273",
@@ -765,6 +574,7 @@
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -777,34 +587,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2204273",
     "image_url": "Rīga, Sporta pils 2002-10-02 - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q2285399",
-    "name": "Q2285399",
-    "name_ja": null,
-    "lat": 57.15275,
-    "lng": 24.83552778,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2285399",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2331353",
@@ -816,7 +604,8 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1923,
-    "closed_year": null,
+    "closed_year": 2017,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -837,11 +626,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2331353",
     "image_url": "Virsliga 2007 FK Riga-Skronto.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2349111",
@@ -850,10 +640,13 @@
     "lat": 55.874667,
     "lng": 26.550619,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -870,34 +663,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2349111",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q23869459",
-    "name": "Q23869459",
-    "name_ja": null,
-    "lat": 56.81769444,
-    "lng": 24.61430556,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q23869459",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2560782",
@@ -906,10 +677,15 @@
     "lat": 57.152211,
     "lng": 24.838586,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "ボブスレー",
+      "スケルトン",
+      "リュージュ"
+    ],
     "capacity": null,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -917,11 +693,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2560782",
     "image_url": "Siguldas kamaniņu trase. Sigulda luge track - panoramio (2).jpg",
     "website": "http://bobtrase.lv/lv",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2637796",
@@ -930,10 +707,13 @@
     "lat": 57.3873,
     "lng": 21.5704,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -946,11 +726,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2637796",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q27055943",
@@ -959,10 +740,13 @@
     "lat": 56.6845278,
     "lng": 22.5620298,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 550,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -970,10 +754,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q27055943",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2981391",
@@ -982,10 +767,13 @@
     "lat": 56.502952,
     "lng": 20.995424,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5008,
     "opened_year": 1925,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1002,34 +790,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2981391",
     "image_url": "Daugavas stadions (Liepaja).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30223982",
-    "name": "Q30223982",
-    "name_ja": null,
-    "lat": 56.942652,
-    "lng": 23.914289,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": 602,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30223982",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q316777",
@@ -1042,6 +808,7 @@
     "capacity": null,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1049,11 +816,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q316777",
     "image_url": "Līvu Akvaparks.jpg",
     "website": "https://www.akvaparks.lv/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3228822",
@@ -1066,6 +834,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1082,10 +851,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3228822",
     "image_url": "Olimpiskais Centrs Liepāja Ledus Halle.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q32969",
@@ -1094,10 +864,13 @@
     "lat": 56.96194444,
     "lng": 24.11444444,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 6500,
     "opened_year": 1996,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1110,11 +883,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q32969",
     "image_url": "Olimpiskā Skonto halle.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q37277935",
@@ -1123,10 +897,13 @@
     "lat": 56.643777777,
     "lng": 23.721833333,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1134,10 +911,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q37277935",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q37287823",
@@ -1146,10 +924,13 @@
     "lat": 56.986971,
     "lng": 24.192197,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1157,10 +938,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q37287823",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q40297951",
@@ -1169,10 +951,13 @@
     "lat": 56.886357,
     "lng": 24.220958,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1185,33 +970,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q40297951",
     "image_url": null,
     "website": "http://kurbadshalle.lv/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q4155241",
-    "name": "Q4155241",
-    "name_ja": null,
-    "lat": 55.886042,
-    "lng": 26.495069,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1948,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4155241",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4155243",
@@ -1224,6 +987,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1231,10 +995,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4155243",
     "image_url": "Daugavpils Multifunctional Sports Complex.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4190982",
@@ -1243,10 +1008,14 @@
     "lat": 56.6617,
     "lng": 23.7563,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "バドミントン"
+    ],
     "capacity": 1560,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1263,11 +1032,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4190982",
     "image_url": "Zemgale Olympic Center.jpg",
     "website": "http://www.zoc.lv/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q42306531",
@@ -1280,6 +1050,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1287,10 +1058,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q42306531",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4423910",
@@ -1299,10 +1071,13 @@
     "lat": 56.9495911,
     "lng": 23.6101985,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1319,11 +1094,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4423910",
     "image_url": "Jūrmalas pilsētas stadions Sloka, 2016-09-04.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5227888",
@@ -1332,10 +1108,13 @@
     "lat": 55.872083,
     "lng": 26.53,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 1984,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1352,34 +1131,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5227888",
     "image_url": "Daugavpils ledus halle.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q55286119",
-    "name": "Q55286119",
-    "name_ja": null,
-    "lat": 56.96624,
-    "lng": 24.11954,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q55286119",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q641234",
@@ -1388,10 +1145,13 @@
     "lat": 56.967958,
     "lng": 24.121344,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 14500,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1416,11 +1176,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q641234",
     "image_url": "XIAOMI ARENA.jpg",
     "website": "https://xiaomi-arena.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q66566716",
@@ -1429,10 +1190,13 @@
     "lat": 57.430749,
     "lng": 25.9202925,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1445,10 +1209,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q66566716",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7116601",
@@ -1457,10 +1222,13 @@
     "lat": 57.03,
     "lng": 24.14055556,
     "country": "LV",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1468,11 +1236,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7116601",
     "image_url": null,
     "website": "http://www.ozogolf.lv/eng/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7579527",
@@ -1485,6 +1254,7 @@
     "capacity": 978,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1492,11 +1262,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579527",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596358",
@@ -1509,6 +1280,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1521,11 +1293,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596358",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7654244",
@@ -1538,6 +1311,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1545,57 +1319,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7654244",
     "image_url": "Kandavas Kartodroms Aero.jpg",
     "website": "http://www.kartodroms.lv",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q86005464",
-    "name": "Q86005464",
-    "name_ja": null,
-    "lat": 56.97472222,
-    "lng": 24.16888889,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86005464",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q86662552",
-    "name": "Q86662552",
-    "name_ja": null,
-    "lat": 56.96175,
-    "lng": 24.115611,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86662552",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q928427",
@@ -1608,6 +1337,7 @@
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1624,32 +1354,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q928427",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q97164003",
-    "name": "Q97164003",
-    "name_ja": null,
-    "lat": 56.951667,
-    "lng": 23.118472,
-    "country": "LV",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97164003",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
