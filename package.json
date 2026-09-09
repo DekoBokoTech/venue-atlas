@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "node --test",
-    "collect": "node scripts/collect-facilities.js"
+    "collect": "node scripts/collect-facilities.js",
+    "dev": "node scripts/dev-server.js"
   }
 }

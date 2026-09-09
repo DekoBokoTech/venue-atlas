@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Venue Atlas</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Noto+Sans+JP:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <div id="globeViz"></div>
+
+  <div class="app-header">
+    <div class="brand">
+      <div class="mark"><span class="dot"></span>Venue Atlas</div>
+      <div class="sub">世界のスタジアムを地球儀で巡る / Explore world venues on a globe</div>
+    </div>
+    <div class="theme-switcher" id="themeSwitcher">
+      <button class="theme-btn active" data-theme="real">リアル<span class="label-en">SATELLITE</span></button>
+      <button class="theme-btn" data-theme="flat">フラット<span class="label-en">LOW-POLY</span></button>
+      <button class="theme-btn" data-theme="dark">ダーク<span class="label-en">DATA-VIZ</span></button>
+    </div>
+  </div>
+
+  <div class="stats-badge">
+    <div><b id="pointCount">0</b> 施設を表示中 / venues shown</div>
+    <div class="hint">クリックして詳細を表示 / Click a marker for details</div>
+  </div>
+
+  <aside class="detail-panel" id="detailPanel">
+    <button class="panel-close" id="panelClose" aria-label="閉じる / Close">✕</button>
+    <div class="panel-scroll" id="panelScroll"></div>
+  </aside>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/globe.gl@2.32.5/dist/globe.gl.min.js" integrity="sha384-YGv2G8c/9ZTWZKc86h/POgb79+H4BMiwVMgwpfkwcaVunQRWDSttXAzTFJDTPl3v" crossorigin="anonymous"></script>
+<script src="app.js" defer></script>
+</body>
+</html>
