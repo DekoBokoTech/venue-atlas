@@ -1,38 +1,16 @@
 [
   {
-    "id": "Q118949550",
-    "name": "Q118949550",
-    "name_ja": null,
-    "lat": -16.00273667,
-    "lng": 46.5216333,
-    "country": "MG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q118949550",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q126811482",
     "name": "Military Academy of Antsirabe",
     "name_ja": null,
-    "lat": -19.849425,
-    "lng": 47.03797,
+    "lat": -19.866666666,
+    "lng": 47.033333333,
     "country": "MG",
     "sport_types": [],
     "capacity": null,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q126811482",
     "image_url": null,
     "website": "https://www.akademiaramila.org",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q128039031",
@@ -57,6 +36,7 @@
     "capacity": null,
     "opened_year": 1923,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -64,33 +44,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128039031",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q134888260",
-    "name": "Q134888260",
-    "name_ja": null,
-    "lat": -12.291479,
-    "lng": 49.304097,
-    "country": "MG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q134888260",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q138681182",
@@ -103,6 +61,7 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -110,10 +69,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q138681182",
     "image_url": "Batiment pour l'association des femmes.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16605613",
@@ -122,10 +82,13 @@
     "lat": -18.8951,
     "lng": 47.495,
     "country": "MG",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 15000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -133,103 +96,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16605613",
     "image_url": "Art Malagasy, rodorodon'ny tantsaha à Madagascar 2026.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605635",
-    "name": "Q16605635",
-    "name_ja": null,
-    "lat": -18.1469,
-    "lng": 49.3861,
-    "country": "MG",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605635",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605660",
-    "name": "Q16605660",
-    "name_ja": null,
-    "lat": -19.8556,
-    "lng": 47.0369,
-    "country": "MG",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605660",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605672",
-    "name": "Q16605672",
-    "name_ja": null,
-    "lat": -18.9002,
-    "lng": 47.5192,
-    "country": "MG",
-    "sport_types": [],
-    "capacity": 10000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605672",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q18088367",
-    "name": "Q18088367",
-    "name_ja": null,
-    "lat": -23.341,
-    "lng": 43.6732,
-    "country": "MG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q18088367",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2129178",
@@ -238,10 +110,17 @@
     "lat": -18.9197,
     "lng": 47.5262,
     "country": "MG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "バスケットボール",
+      "陸上競技",
+      "パラ陸上競技",
+      "ラグビーユニオン"
+    ],
     "capacity": 22000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -258,11 +137,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2129178",
     "image_url": "Antananarivo01.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4860728",
@@ -275,6 +155,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -287,11 +168,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4860728",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7278675",
@@ -304,6 +186,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -320,11 +203,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7278675",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596190",
@@ -333,10 +217,13 @@
     "lat": -18.933333,
     "lng": 47.516667,
     "country": "MG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -349,10 +236,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596190",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
