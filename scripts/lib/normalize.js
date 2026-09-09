@@ -19,6 +19,7 @@ function wikipediaUrlFromSitelink(sitelinks, site, lang) {
 const TEAM_CAP = 4;
 const EVENT_CAP = 5;
 const NON_SPORTING_EVENT_PATTERN = /テロ|事件|着工|竣工|施工|attack|bombing|groundbreaking|demolition/i;
+const NEVER_BUILT_CLASS = 'Q1570262'; // "unfinished building" (P31 instance-of)
 
 export function resolveClaimIds(entity, property) {
   return (entity?.claims?.[property] ?? [])
@@ -35,8 +36,14 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
 
   const nameEn = entity?.labels?.en?.value;
   const nameJa = entity?.labels?.ja?.value;
+  if (!nameEn && !nameJa) return null;
+
   const capacityAmount = entity?.claims?.P1083?.[0]?.mainsnak?.datavalue?.value?.amount;
   const inceptionTime = entity?.claims?.P571?.[0]?.mainsnak?.datavalue?.value?.time;
+  const dissolvedTime = entity?.claims?.P576?.[0]?.mainsnak?.datavalue?.value?.time;
+  const closedYear = dissolvedTime ? extractYear(dissolvedTime) : null;
+  const isNeverBuilt = resolveClaimIds(entity, 'P31').includes(NEVER_BUILT_CLASS);
+  const isExisting = closedYear === null && !isNeverBuilt;
   const imageValue = entity?.claims?.P18?.[0]?.mainsnak?.datavalue?.value;
   const websiteValue = entity?.claims?.P856?.[0]?.mainsnak?.datavalue?.value;
 
@@ -67,7 +74,8 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
     sport_types: [],
     capacity: capacityAmount ? parseInt(capacityAmount, 10) : null,
     opened_year: inceptionTime ? extractYear(inceptionTime) : null,
-    closed_year: null,
+    closed_year: closedYear,
+    is_existing: isExisting,
     roof_type: null,
     teams,
     events,

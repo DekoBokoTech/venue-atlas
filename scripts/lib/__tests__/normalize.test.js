@@ -36,6 +36,7 @@ test('normalizeEntity extracts all fields from a full coord binding + entity', (
     capacity: 50000,
     opened_year: 1990,
     closed_year: null,
+    is_existing: true,
     roof_type: null,
     teams: [],
     events: [],
@@ -59,10 +60,11 @@ test('normalizeEntity fills missing optional fields with null/empty defaults', (
     coord: { value: 'Point(0.0 0.0)' },
   };
 
-  const record = normalizeEntity(coordBinding, {}, 'FR', '2026-09-08T00:00:00.000Z', new Map());
+  const entity = { labels: { ja: { language: 'ja', value: 'テスト施設' } } };
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-08T00:00:00.000Z', new Map());
 
   assert.equal(record.name, 'Q1');
-  assert.equal(record.name_ja, null);
+  assert.equal(record.name_ja, 'テスト施設');
   assert.equal(record.capacity, null);
   assert.equal(record.opened_year, null);
   assert.deepEqual(record.sources, ['Wikidata']);
@@ -74,7 +76,8 @@ test('normalizeEntity uses UNKNOWN countryCode as a null country', () => {
     coord: { value: 'Point(0.0 0.0)' },
   };
 
-  const record = normalizeEntity(coordBinding, {}, 'UNKNOWN', '2026-09-08T00:00:00.000Z', new Map());
+  const entity = { labels: { en: { language: 'en', value: 'Some Facility' } } };
+  const record = normalizeEntity(coordBinding, entity, 'UNKNOWN', '2026-09-08T00:00:00.000Z', new Map());
 
   assert.equal(record.country, null);
 });
@@ -84,7 +87,7 @@ test('normalizeEntity falls back to the English Wikipedia sitelink when no Japan
     item: { value: 'http://www.wikidata.org/entity/Q1' },
     coord: { value: 'Point(0.0 0.0)' },
   };
-  const entity = { sitelinks: { enwiki: { title: 'Some Stadium' } } };
+  const entity = { labels: { en: { language: 'en', value: 'Some Stadium' } }, sitelinks: { enwiki: { title: 'Some Stadium' } } };
 
   const record = normalizeEntity(coordBinding, entity, 'US', '2026-09-08T00:00:00.000Z', new Map());
 
@@ -98,6 +101,7 @@ test('normalizeEntity extracts the facility website from P856', () => {
     coord: { value: 'Point(2.36 48.924444)' },
   };
   const entity = {
+    labels: { en: { language: 'en', value: 'Stade de France' } },
     claims: {
       P856: [{ mainsnak: { datavalue: { value: 'http://www.stadefrance.com/' } } }],
     },
@@ -114,7 +118,8 @@ test('normalizeEntity leaves website null when P856 is absent', () => {
     coord: { value: 'Point(0.0 0.0)' },
   };
 
-  const record = normalizeEntity(coordBinding, {}, 'FR', '2026-09-09T00:00:00.000Z', new Map());
+  const entity = { labels: { en: { language: 'en', value: 'Some Facility' } } };
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map());
 
   assert.equal(record.website, null);
 });
@@ -125,6 +130,7 @@ test('normalizeEntity resolves teams from P466 via the relatedEntities map', () 
     coord: { value: 'Point(2.36 48.924444)' },
   };
   const entity = {
+    labels: { en: { language: 'en', value: 'Stade de France' } },
     claims: {
       P466: [
         { mainsnak: { datavalue: { value: { id: 'Q47774' } } } },
@@ -148,6 +154,7 @@ test('normalizeEntity resolves teams from P466 via the relatedEntities map', () 
 test('normalizeEntity caps teams at 4 and skips unresolved (null-label) QIDs', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
   const entity = {
+    labels: { en: { language: 'en', value: 'Some Facility' } },
     claims: {
       P466: ['Q1', 'Q2', 'Q3', 'Q4', 'Q5'].map((id) => ({ mainsnak: { datavalue: { value: { id } } } })),
     },
@@ -168,6 +175,7 @@ test('normalizeEntity caps teams at 4 and skips unresolved (null-label) QIDs', (
 test('normalizeEntity resolves events from P793, sorted by year, filtering non-sporting entries', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q13205' }, coord: { value: 'Point(2.36 48.924444)' } };
   const entity = {
+    labels: { en: { language: 'en', value: 'Stade de France' } },
     claims: {
       P793: ['Q1', 'Q2', 'Q3', 'Q4'].map((id) => ({ mainsnak: { datavalue: { value: { id } } } })),
     },
@@ -190,6 +198,7 @@ test('normalizeEntity resolves events from P793, sorted by year, filtering non-s
 test('normalizeEntity caps events at 5, sorting null years last', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
   const entity = {
+    labels: { en: { language: 'en', value: 'Some Facility' } },
     claims: {
       P793: ['Q1', 'Q2', 'Q3', 'Q4', 'Q5', 'Q6'].map((id) => ({ mainsnak: { datavalue: { value: { id } } } })),
     },
@@ -210,7 +219,8 @@ test('normalizeEntity caps events at 5, sorting null years last', () => {
 
 test('normalizeEntity returns empty teams/events arrays when there are no P466/P793 claims', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
-  const record = normalizeEntity(coordBinding, {}, 'FR', '2026-09-09T00:00:00.000Z', new Map());
+  const entity = { labels: { en: { language: 'en', value: 'Some Facility' } } };
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map());
   assert.deepEqual(record.teams, []);
   assert.deepEqual(record.events, []);
 });
@@ -218,6 +228,7 @@ test('normalizeEntity returns empty teams/events arrays when there are no P466/P
 test('normalizeEntity filters out an event labeled 施工 (construction work)', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q125886420' }, coord: { value: 'Point(0.0 0.0)' } };
   const entity = {
+    labels: { en: { language: 'en', value: 'Some Stadium' } },
     claims: {
       P793: [{ mainsnak: { datavalue: { value: { id: 'Q1' } } } }],
     },
@@ -232,6 +243,7 @@ test('normalizeEntity filters out an event labeled 施工 (construction work)', 
 test('normalizeEntity filters out an English-labeled non-sporting event', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
   const entity = {
+    labels: { en: { language: 'en', value: 'Some Stadium' } },
     claims: {
       P793: [{ mainsnak: { datavalue: { value: { id: 'Q1' } } } }],
     },
@@ -246,6 +258,7 @@ test('normalizeEntity filters out an English-labeled non-sporting event', () => 
 test('normalizeEntity does not throw when called without relatedEntities on an entity with P466/P793 claims', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
   const entity = {
+    labels: { en: { language: 'en', value: 'Some Facility' } },
     claims: {
       P466: [{ mainsnak: { datavalue: { value: { id: 'Q47774' } } } }],
       P793: [{ mainsnak: { datavalue: { value: { id: 'Q1' } } } }],
@@ -256,4 +269,64 @@ test('normalizeEntity does not throw when called without relatedEntities on an e
 
   assert.deepEqual(record.teams, []);
   assert.deepEqual(record.events, []);
+});
+
+test('normalizeEntity derives closed_year from P576 and marks is_existing false', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Former Stadium' } },
+    claims: {
+      P576: [{ mainsnak: { datavalue: { value: { time: '+2005-06-15T00:00:00Z' } } } }],
+    },
+  };
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map());
+
+  assert.equal(record.closed_year, 2005);
+  assert.equal(record.is_existing, false);
+});
+
+test('normalizeEntity defaults is_existing to true when there is no P576 and no unfinished-building P31', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = { labels: { en: { language: 'en', value: 'Active Stadium' } } };
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map());
+
+  assert.equal(record.closed_year, null);
+  assert.equal(record.is_existing, true);
+});
+
+test('normalizeEntity marks is_existing false for a never-built proposal (P31=Q1570262), leaving closed_year null', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Deutsches Stadion' } },
+    claims: {
+      P31: [{ mainsnak: { datavalue: { value: { id: 'Q1570262' } } } }],
+    },
+  };
+
+  const record = normalizeEntity(coordBinding, entity, 'DE', '2026-09-09T00:00:00.000Z', new Map());
+
+  assert.equal(record.is_existing, false);
+  assert.equal(record.closed_year, null);
+});
+
+test('normalizeEntity returns null when neither an English nor a Japanese label is available', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q120218965' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = { labels: { fr: { language: 'fr', value: 'Nom Français' } } };
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map());
+
+  assert.equal(record, null);
+});
+
+test('normalizeEntity does not return null when only a Japanese label exists, and sets name_ja correctly', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = { labels: { ja: { language: 'ja', value: '日本語スタジアム' } } };
+
+  const record = normalizeEntity(coordBinding, entity, 'JP', '2026-09-09T00:00:00.000Z', new Map());
+
+  assert.notEqual(record, null);
+  assert.equal(record.name, 'Q1');
+  assert.equal(record.name_ja, '日本語スタジアム');
 });

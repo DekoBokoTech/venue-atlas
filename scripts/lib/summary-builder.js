@@ -41,6 +41,7 @@ export async function buildSummary(facilitiesDir) {
       lng: r.lng,
       country: r.country,
       capacity: r.capacity,
+      is_existing: r.is_existing,
     }));
 
   return { summary, centroids };
