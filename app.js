@@ -430,7 +430,24 @@
     controls.enableDamping = true;
   }
 
+  // OrbitControls.autoRotate only advances the azimuthal (longitude) angle
+  // each frame - it never touches the camera's distance from the target, so
+  // pov.altitude stays constant (up to float noise) while the globe is only
+  // auto-spinning. A real zoom step (scroll wheel / pinch, or a programmatic
+  // pointOfView(..., duration) fly-to) dollies the camera and changes
+  // distance by a relative factor each tick, so even at the closest allowed
+  // altitude (~0.01, near OrbitControls' minDistance) a single tick still
+  // moves altitude by several hundredths. ZOOM_ALTITUDE_EPSILON (1e-4) sits
+  // comfortably below that smallest realistic tick delta while staying well
+  // above ordinary floating-point jitter from recomputing spherical
+  // coordinates every frame, so it reliably distinguishes "actually zoomed"
+  // from "just auto-rotating".
+  var ZOOM_ALTITUDE_EPSILON = 1e-4;
+
   world.onZoom(function (pov) {
+    if (Math.abs(pov.altitude - currentAltitude) > ZOOM_ALTITUDE_EPSILON) {
+      if (controls) controls.autoRotate = false;
+    }
     currentAltitude = pov.altitude;
     requestRadiusRefresh();
     if (pov.altitude < ZOOM_ALTITUDE_THRESHOLD) {
