@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108414955",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q111241834",
@@ -30,10 +32,13 @@
     "lat": -1.2965,
     "lng": 36.8204,
     "country": "KE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,10 +46,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q111241834",
     "image_url": "Kenya Railways Golf Course, a hidden gem in Nairobi..jpg",
     "website": "https://krgc.co.ke/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q121766817",
@@ -53,10 +59,13 @@
     "lat": -1.229964642,
     "lng": 36.888502439,
     "country": "KE",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -64,10 +73,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q121766817",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1385710",
@@ -76,10 +86,14 @@
     "lat": -1.228056,
     "lng": 36.890556,
     "country": "KE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "バドミントン"
+    ],
     "capacity": 60000,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -92,11 +106,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1385710",
     "image_url": "A few minutes before the match, Kasarani, Nairobi.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15036590",
@@ -109,6 +124,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -116,11 +132,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15036590",
     "image_url": "Ngong Race Court, Nairobi, Kenya 2011 (5750467489).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15036603",
@@ -133,6 +150,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -145,10 +163,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15036603",
     "image_url": "Ligi Ndogo grounds.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1582845",
@@ -157,10 +176,13 @@
     "lat": -1.303611,
     "lng": 36.824167,
     "country": "KE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -173,34 +195,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1582845",
     "image_url": "Nyayo stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q1954506",
-    "name": "Q1954506",
-    "name_ja": null,
-    "lat": -1.34501,
-    "lng": 36.71724,
-    "country": "KE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q1954506",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21015845",
@@ -213,6 +213,7 @@
     "capacity": null,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -220,11 +221,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q21015845",
     "image_url": null,
     "website": "http://www.ndc.go.ke/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2975412",
@@ -233,10 +235,13 @@
     "lat": -1.2591,
     "lng": 36.8371,
     "country": "KE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1913,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -244,11 +249,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2975412",
     "image_url": "Kenya Colony. Nairobi. The Muthaiga Club, exterior LOC matpc.00380.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4689416",
@@ -261,6 +267,7 @@
     "capacity": 8200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -268,11 +275,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4689416",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4986856",
@@ -285,6 +293,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -292,11 +301,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4986856",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5090360",
@@ -309,6 +319,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -321,11 +332,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5090360",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5620901",
@@ -338,6 +350,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -350,11 +363,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5620901",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6414612",
@@ -367,6 +381,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -374,11 +389,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6414612",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65065842",
@@ -387,10 +403,13 @@
     "lat": -1.26061,
     "lng": 36.82754,
     "country": "KE",
-    "sport_types": [],
+    "sport_types": [
+      "フィールドホッケー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -398,11 +417,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65065842",
     "image_url": "City Park Hockey Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6897056",
@@ -415,6 +435,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -427,11 +448,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6897056",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6959780",
@@ -444,6 +466,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -460,11 +483,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6959780",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6959784",
@@ -473,10 +497,13 @@
     "lat": -1.27,
     "lng": 36.82736111,
     "country": "KE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -484,11 +511,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6959784",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7276595",
@@ -501,6 +529,7 @@
     "capacity": 3000,
     "opened_year": 1955,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -517,11 +546,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7276595",
     "image_url": "RFUEA looking SouthWest.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7375724",
@@ -534,6 +564,7 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -546,11 +577,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7375724",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7555904",
@@ -563,6 +595,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -570,10 +603,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7555904",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
