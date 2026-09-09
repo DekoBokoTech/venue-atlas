@@ -12,14 +12,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trade_Fair_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q11243341",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q113827330",
@@ -34,14 +36,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tambankulu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q113827330",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15526482",
@@ -56,13 +60,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15526482",
     "image_url": "Royalswazisungolf.JPG",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16575643",
@@ -77,14 +83,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mayaluka_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16575643",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16726242",
@@ -99,13 +107,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16726242",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3493512",
@@ -119,15 +129,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカースワジランド代表",
+        "url": "http://www.nfas.org.sz/index.php/national-teams/men/sihlangu"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%A0%E3%83%9B%E3%83%AD%E3%83%AD%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3493512",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q6794328",
@@ -142,14 +159,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mavuso_Sports_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6794328",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7521389",
@@ -164,12 +183,14 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7521389",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]
