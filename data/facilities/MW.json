@@ -12,14 +12,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mzuzu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16580483",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1723423",
@@ -33,15 +35,30 @@
     "opened_year": 1964,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーマラウイ代表",
+        "url": "http://www.fam.mw/"
+      },
+      {
+        "name": "ニャサ・ビッグ・ブレットFC",
+        "url": "http://www.bigbulletsfc.com/"
+      },
+      {
+        "name": "ビィ・フォアード ワンダラーズFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1723423",
     "image_url": "Kamuzu Stadium exterior.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q28457050",
@@ -55,15 +72,22 @@
     "opened_year": 2017,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーマラウイ代表",
+        "url": "http://www.fam.mw/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bingu_National_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28457050",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5124788",
@@ -77,15 +101,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CIVOユナイテッドFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Civo_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5124788",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7516367",
@@ -99,14 +130,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Silver Strikers F.C.",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Silver_Stadium%2C_Lilongwe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7516367",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]
