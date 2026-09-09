@@ -6,10 +6,13 @@
     "lat": 6.36065,
     "lng": 2.420139,
     "country": "BJ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,33 +20,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q105117870",
     "image_url": "Hall des arts de Cotonou angle 3 (cropped).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q108285803",
-    "name": "Q108285803",
-    "name_ja": null,
-    "lat": 10.275277777,
-    "lng": 1.365,
-    "country": "BJ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2000,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q108285803",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q121386626",
@@ -52,10 +33,13 @@
     "lat": 6.349213392,
     "lng": 2.087957603,
     "country": "BJ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -63,33 +47,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q121386626",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q137794530",
-    "name": "Q137794530",
-    "name_ja": null,
-    "lat": 6.349672,
-    "lng": 2.22485,
-    "country": "BJ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q137794530",
-    "image_url": "Ouidah Golf Club - 1.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3116163",
@@ -98,10 +60,13 @@
     "lat": 6.477778,
     "lng": 2.618611,
     "country": "BJ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -114,11 +79,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3116163",
     "image_url": "Stade charles de Gaulle de Porto-Novo.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596114",
@@ -131,6 +97,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -143,11 +110,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596114",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596169",
@@ -160,6 +128,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -172,11 +141,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596169",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596174",
@@ -189,6 +159,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -201,11 +172,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596174",
     "image_url": "Stade municipal de Bohicon tonnerre.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596176",
@@ -218,6 +190,7 @@
     "capacity": 3400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -230,11 +203,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596176",
     "image_url": "Stade municipal de djougou 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596181",
@@ -247,6 +221,7 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -259,11 +234,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596181",
     "image_url": "Stade municipal de Parakou.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596185",
@@ -272,10 +248,13 @@
     "lat": 6.49722222,
     "lng": 2.605,
     "country": "BJ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -283,11 +262,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596185",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7596200",
@@ -300,6 +280,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -307,11 +288,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596200",
     "image_url": "Stade René Pleven d'Akpakpa.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q927991",
@@ -320,10 +302,13 @@
     "lat": 6.386,
     "lng": 2.379333333,
     "country": "BJ",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -336,10 +321,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q927991",
     "image_url": "Stade de l'amitié de Cotonou.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
