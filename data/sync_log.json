@@ -2693,5 +2693,15 @@
     "errors": [
       "wbgetentities batch failed after 4 attempts: fetch failed"
     ]
+  },
+  {
+    "timestamp": "2026-09-09T01:56:35.614Z",
+    "countryCode": "US",
+    "pagesFetched": 10,
+    "totalFetched": 5000,
+    "newCount": 0,
+    "updatedCount": 102,
+    "errorCount": 0,
+    "errors": []
   }
 ]
