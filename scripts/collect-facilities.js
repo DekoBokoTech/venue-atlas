@@ -20,9 +20,9 @@ const MAX_COUNTRIES = Number(process.env.COLLECT_MAX_COUNTRIES) || Infinity;
 const PAGE_DELAY_MS = 200;
 const COMMIT_EVERY_PAGES = Number(process.env.COLLECT_COMMIT_EVERY_PAGES) || 10;
 
-async function flushCountry(countryCode, records, syncedAt, errors, page, progress) {
+async function flushCountry(countryCode, records, pendingDeletions, syncedAt, errors, page, progress) {
   const existing = await loadFacilities(DATA_DIR, countryCode);
-  const result = mergeFacilities(existing, records);
+  const result = mergeFacilities(existing, records, pendingDeletions);
   await saveFacilities(DATA_DIR, countryCode, result.merged);
 
   await appendSyncLog(SYNC_LOG_PATH, {
@@ -32,6 +32,7 @@ async function flushCountry(countryCode, records, syncedAt, errors, page, progre
     totalFetched: records.length,
     newCount: result.newCount,
     updatedCount: result.updatedCount,
+    deletedCount: result.deletedCount,
     errorCount: errors.length,
     errors,
   });
@@ -41,19 +42,21 @@ async function flushCountry(countryCode, records, syncedAt, errors, page, progre
   const { committed } = commitAndPush(`chore: update facility data (${countryCode}, through page ${page})`);
 
   console.log(
-    `[${countryCode}] through page ${page}: ${records.length} facilities (${result.newCount} new, ${result.updatedCount} updated). Committed: ${committed}. Progress: country ${progress.countryIndex}, offset ${progress.offset}.`
+    `[${countryCode}] through page ${page}: ${records.length} facilities (${result.newCount} new, ${result.updatedCount} updated, ${result.deletedCount} deleted). Committed: ${committed}. Progress: country ${progress.countryIndex}, offset ${progress.offset}.`
   );
 
-  return { newCount: result.newCount, updatedCount: result.updatedCount };
+  return { newCount: result.newCount, updatedCount: result.updatedCount, deletedCount: result.deletedCount };
 }
 
 async function collectCountry(countryQid, countryCode, countryIndex, totalCountries, startOffset, syncedAt, allErrors, relatedEntityCache) {
   let offset = startOffset;
   let page = 0;
   let pending = [];
+  let pendingDeletions = [];
   const countryErrors = [];
   let totalNew = 0;
   let totalUpdated = 0;
+  let totalDeleted = 0;
 
   while (page < MAX_PAGES_PER_COUNTRY) {
     let coordBindings;
@@ -92,14 +95,13 @@ async function collectCountry(countryQid, countryCode, countryIndex, totalCountr
         break;
       }
 
-      const records = coordBindings
-        .map((binding) => {
-          const qid = binding.item.value.split('/').pop();
-          return normalizeEntity(binding, entities[qid], countryCode, syncedAt, relatedEntities);
-        })
-        .filter((record) => record !== null);
+      const normalized = coordBindings.map((binding) => {
+        const qid = binding.item.value.split('/').pop();
+        return { qid, record: normalizeEntity(binding, entities[qid], countryCode, syncedAt, relatedEntities) };
+      });
 
-      pending.push(...records);
+      pending.push(...normalized.filter(({ record }) => record !== null).map(({ record }) => record));
+      pendingDeletions.push(...normalized.filter(({ record }) => record === null).map(({ qid }) => qid));
     }
 
     page++;
@@ -111,24 +113,27 @@ async function collectCountry(countryQid, countryCode, countryIndex, totalCountr
       const progress = isLastPage
         ? { countryIndex: (countryIndex + 1) % totalCountries, offset: 0 }
         : { countryIndex, offset };
-      const { newCount, updatedCount } = await flushCountry(countryCode, pending, syncedAt, countryErrors, page, progress);
+      const { newCount, updatedCount, deletedCount } = await flushCountry(countryCode, pending, pendingDeletions, syncedAt, countryErrors, page, progress);
       totalNew += newCount;
       totalUpdated += updatedCount;
+      totalDeleted += deletedCount;
       pending = [];
+      pendingDeletions = [];
     }
 
     if (isLastPage) break;
     await new Promise((resolve) => setTimeout(resolve, PAGE_DELAY_MS));
   }
 
-  if (pending.length > 0 || countryErrors.length > 0) {
+  if (pending.length > 0 || pendingDeletions.length > 0 || countryErrors.length > 0) {
     const progress = { countryIndex, offset };
-    const { newCount, updatedCount } = await flushCountry(countryCode, pending, syncedAt, countryErrors, page, progress);
+    const { newCount, updatedCount, deletedCount } = await flushCountry(countryCode, pending, pendingDeletions, syncedAt, countryErrors, page, progress);
     totalNew += newCount;
     totalUpdated += updatedCount;
+    totalDeleted += deletedCount;
   }
 
-  return { newCount: totalNew, updatedCount: totalUpdated, errorCount: countryErrors.length };
+  return { newCount: totalNew, updatedCount: totalUpdated, deletedCount: totalDeleted, errorCount: countryErrors.length };
 }
 
 async function main() {
@@ -159,13 +164,14 @@ async function main() {
 
   let grandNew = 0;
   let grandUpdated = 0;
+  let grandDeleted = 0;
 
   for (let i = 0; i < countriesToProcess; i++) {
     const idx = (startIndex + i) % countries.length;
     const { countryQid, countryCode } = countries[idx];
     const startOffset = i === 0 ? progress.offset : 0;
 
-    const { newCount, updatedCount, errorCount } = await collectCountry(
+    const { newCount, updatedCount, deletedCount, errorCount } = await collectCountry(
       countryQid,
       countryCode,
       idx,
@@ -177,13 +183,14 @@ async function main() {
     );
     grandNew += newCount;
     grandUpdated += updatedCount;
+    grandDeleted += deletedCount;
     if (errorCount > 0) {
       console.log(`[${countryCode}] stopped early after an error; moving on to the next country.`);
     }
   }
 
   console.log(
-    `Synced ${countriesToProcess} countries starting at index ${startIndex}: ${grandNew} new, ${grandUpdated} updated, ${errors.length} errors.`
+    `Synced ${countriesToProcess} countries starting at index ${startIndex}: ${grandNew} new, ${grandUpdated} updated, ${grandDeleted} deleted, ${errors.length} errors.`
   );
 
   if (errors.length > 0) {
