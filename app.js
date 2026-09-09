@@ -173,27 +173,14 @@
       atmosphere: '#3fd6c0',
       atmosphereAlt: 0.22,
       graticules: false,
+      // Real, public-domain Earth imagery (NASA Blue Marble, "The Blue Marble:
+      // Land Surface, Ocean Color, Sea Ice and Clouds", eoimages.gsfc.nasa.gov
+      // image record 57735, 2048x1024 equirectangular JPEG) committed as a
+      // static asset at assets/earth-texture.jpg - see commit message for the
+      // source URL and license. Unlike the flat/dark themes below, this is a
+      // plain image path rather than a generated canvas data URL.
       texture: function () {
-        return makeTexture(function (ctx, w, h) {
-          var g = ctx.createLinearGradient(0, 0, 0, h);
-          g.addColorStop(0, '#0c3d52');
-          g.addColorStop(0.5, '#0e5a67');
-          g.addColorStop(1, '#0a3448');
-          ctx.fillStyle = g;
-          ctx.fillRect(0, 0, w, h);
-          drawContinents(ctx, '#3c8c5a');
-          // Subtle decorative highlight overlay on top of the real land shapes
-          // (kept from the original theme for visual character; purely cosmetic,
-          // does not define land/ocean boundaries).
-          var rnd = mulberry32(7);
-          ctx.fillStyle = 'rgba(255,255,255,0.06)';
-          for (var j = 0; j < 10; j++) {
-            var cx = rnd() * w, cy = rnd() * h * 0.5;
-            ctx.beginPath();
-            ctx.ellipse(cx, cy, 50 + rnd() * 60, 8 + rnd() * 10, 0, 0, Math.PI * 2);
-            ctx.fill();
-          }
-        });
+        return 'assets/earth-texture.jpg';
       }
     },
     flat: {
