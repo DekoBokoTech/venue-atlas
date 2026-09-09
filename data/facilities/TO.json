@@ -10,6 +10,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,23 +18,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q11767056",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16572770",
     "name": "Loto-Tonga Soka Centrek",
     "name_ja": "ロト＝トンガ・ソカ・センター",
-    "lat": -21.1844,
-    "lng": -175.225,
+    "lat": -21.1901862,
+    "lng": -175.2230169,
     "country": "TO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": 2001,
-    "closed_year": null,
+    "closed_year": 2022,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,11 +46,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16572770",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2406972",
@@ -54,10 +60,14 @@
     "lat": -21.14138889,
     "lng": -175.20738889,
     "country": "TO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -70,10 +80,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2406972",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
