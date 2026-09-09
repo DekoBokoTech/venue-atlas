@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q114972660",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1973140",
@@ -30,10 +32,13 @@
     "lat": 23.573055555,
     "lng": 58.399444444,
     "country": "OM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 34000,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -46,11 +51,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1973140",
     "image_url": "MuscatGulfCup2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2734640",
@@ -59,10 +65,13 @@
     "lat": 23.6086,
     "lng": 58.5067,
     "country": "OM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -75,11 +84,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2734640",
     "image_url": "Flickr - tpower1978 - World Cup Qualifiers (7).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q28220830",
@@ -88,10 +98,13 @@
     "lat": 23.48808333,
     "lng": 58.49397222,
     "country": "OM",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -99,11 +112,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28220830",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3272395",
@@ -116,6 +130,7 @@
     "capacity": 14000,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -128,11 +143,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3272395",
     "image_url": "Seeb stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4702964",
@@ -145,6 +161,7 @@
     "capacity": 5000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -152,11 +169,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702964",
     "image_url": "Al-Musannah Sports City.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4703144",
@@ -169,6 +187,7 @@
     "capacity": 12000,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -181,11 +200,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4703144",
     "image_url": "Oman vs KSA Al Saada Stadium August142009 Salalah4life.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7042275",
@@ -198,6 +218,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -210,11 +231,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7042275",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7403515",
@@ -227,6 +249,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -234,11 +257,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7403515",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7554672",
@@ -251,6 +275,7 @@
     "capacity": 19000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -258,11 +283,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7554672",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7645240",
@@ -275,6 +301,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -282,10 +309,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7645240",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
