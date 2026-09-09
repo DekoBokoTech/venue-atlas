@@ -10,6 +10,7 @@
     "capacity": 1700,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q116986730",
     "image_url": "My Mongolia Park Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q125065762",
@@ -34,6 +36,7 @@
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,10 +44,36 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q125065762",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
+  },
+  {
+    "id": "Q130279340",
+    "name": "Darkhan United Arena",
+    "name_ja": null,
+    "lat": 49.464138888,
+    "lng": 105.960861111,
+    "country": "MN",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q130279340",
+    "image_url": "Darkhan United Arena.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q133933816",
@@ -57,6 +86,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -64,11 +94,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q133933816",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1451543",
@@ -81,6 +112,7 @@
     "capacity": 20000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -93,11 +125,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1451543",
     "image_url": "2019 National Sports Stadium (Mongolia) 02.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1638795",
@@ -106,10 +139,13 @@
     "lat": 47.9,
     "lng": 106.916111,
     "country": "MN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3500,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -122,34 +158,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1638795",
     "image_url": "The MFF Football Centre in 2024.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605707",
-    "name": "Q16605707",
-    "name_ja": null,
-    "lat": 49.4916,
-    "lng": 105.912,
-    "country": "MN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605707",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16998259",
@@ -158,10 +172,13 @@
     "lat": 47.882,
     "lng": 107.044,
     "country": "MN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -169,11 +186,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16998259",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2154011",
@@ -186,6 +204,7 @@
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -193,11 +212,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2154011",
     "image_url": "Wrestling Palace.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q28163465",
@@ -210,6 +230,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -217,23 +238,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28163465",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q28163470",
     "name": "Erdenet Stadium",
     "name_ja": null,
     "lat": 49.0265,
-    "lng": 104.049,
+    "lng": 104.0489,
     "country": "MN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -241,11 +266,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28163470",
     "image_url": "Erdenet Stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4155958",
@@ -258,6 +284,7 @@
     "capacity": 5045,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -265,11 +292,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4155958",
     "image_url": "Buyant Ukhaa Sport Palace (2025).jpg",
     "website": "http://www.sport.gov.mn/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4438171",
@@ -282,6 +310,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -289,10 +318,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4438171",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q48790878",
@@ -305,6 +335,7 @@
     "capacity": null,
     "opened_year": 2019,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -312,11 +343,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q48790878",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q64867610",
@@ -325,10 +357,13 @@
     "lat": 47.90005255,
     "lng": 106.916268108,
     "country": "MN",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -336,10 +371,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q64867610",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q65066205",
@@ -348,10 +384,13 @@
     "lat": 47.847554694,
     "lng": 106.793059111,
     "country": "MN",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 3600,
     "opened_year": 2019,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -364,11 +403,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65066205",
     "image_url": "AIC Steppe Arena.jpg",
     "website": "https://steppearena.mn/el/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7537479",
@@ -381,6 +421,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -388,11 +429,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7537479",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q75678797",
@@ -401,10 +443,13 @@
     "lat": 47.90053299,
     "lng": 106.915520481,
     "country": "MN",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -412,9 +457,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q75678797",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
