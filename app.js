@@ -472,6 +472,11 @@
       if (isSafeUrl(wikidataFallbackUrl)) html += '<a class="source-link" href="' + escAttr(wikidataFallbackUrl) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
     }
     if (d.wikipedia_url && isSafeUrl(d.wikipedia_url)) html += '<a class="source-link" href="' + escAttr(d.wikipedia_url) + '" target="_blank" rel="noopener">Wikipedia <span class="arrow">↗</span></a>';
+    // d.res_url is pipeline-constructed (fixed https://equipements.sports.gouv.fr/
+    // prefix from normalize.js), not raw external user input, so it doesn't need
+    // isSafeUrl scheme-gating the way d.website/t.url do -- but still needs escAttr
+    // for the href, matching d.wikidata_url's treatment above.
+    if (d.res_url) html += '<a class="source-link" href="' + escAttr(d.res_url) + '" target="_blank" rel="noopener">RES (仏政府) <span class="arrow">↗</span></a>';
     html += '</div>';
 
     panelScroll.innerHTML = html;
