@@ -3,7 +3,8 @@ import path from 'node:path';
 import { querySparql } from './lib/sparql-client.js';
 import { buildScanQuery } from './lib/build-query.js';
 import { fetchEntities } from './lib/wikidata-entities.js';
-import { normalizeEntity } from './lib/normalize.js';
+import { normalizeEntity, resolveClaimIds } from './lib/normalize.js';
+import { createRelatedEntityCache, resolveRelatedEntities } from './lib/related-entities.js';
 import { loadFacilities, mergeFacilities, saveFacilities } from './lib/facility-store.js';
 import { appendSyncLog } from './lib/sync-log.js';
 import { commitAndPush } from './lib/git-commit.js';
@@ -46,7 +47,7 @@ async function flushCountry(countryCode, records, syncedAt, errors, page, progre
   return { newCount: result.newCount, updatedCount: result.updatedCount };
 }
 
-async function collectCountry(countryQid, countryCode, countryIndex, totalCountries, startOffset, syncedAt, allErrors) {
+async function collectCountry(countryQid, countryCode, countryIndex, totalCountries, startOffset, syncedAt, allErrors, relatedEntityCache) {
   let offset = startOffset;
   let page = 0;
   let pending = [];
@@ -77,10 +78,17 @@ async function collectCountry(countryQid, countryCode, countryIndex, totalCountr
         break;
       }
 
+      const relatedQids = [];
+      for (const qid of qids) {
+        const entity = entities[qid];
+        relatedQids.push(...resolveClaimIds(entity, 'P466'), ...resolveClaimIds(entity, 'P793'));
+      }
+      const relatedEntities = await resolveRelatedEntities(relatedQids, relatedEntityCache);
+
       const records = coordBindings
         .map((binding) => {
           const qid = binding.item.value.split('/').pop();
-          return normalizeEntity(binding, entities[qid], countryCode, syncedAt);
+          return normalizeEntity(binding, entities[qid], countryCode, syncedAt, relatedEntities);
         })
         .filter((record) => record !== null);
 
@@ -140,6 +148,8 @@ async function main() {
 
   console.log(`Resuming from country index ${startIndex} (${countries[startIndex].countryCode}), offset ${progress.offset}.`);
 
+  const relatedEntityCache = createRelatedEntityCache();
+
   let grandNew = 0;
   let grandUpdated = 0;
 
@@ -155,7 +165,8 @@ async function main() {
       countries.length,
       startOffset,
       syncedAt,
-      errors
+      errors,
+      relatedEntityCache
     );
     grandNew += newCount;
     grandUpdated += updatedCount;
