@@ -1,61 +1,18 @@
 [
   {
-    "id": "Q16530442",
-    "name": "Q16530442",
-    "name_ja": null,
-    "lat": 13.0187,
-    "lng": 42.7469,
-    "country": "ER",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16530442",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16563529",
-    "name": "Q16563529",
-    "name_ja": null,
-    "lat": 15.7777,
-    "lng": 38.4577,
-    "country": "ER",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16563529",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q5256659",
     "name": "Denden Stadium",
     "name_ja": "デンデン・スタジアム",
     "lat": 15.3435,
     "lng": 38.92563889,
     "country": "ER",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -63,11 +20,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5256659",
     "image_url": "Asmara aerial view 1981 05.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q733142",
@@ -76,10 +34,13 @@
     "lat": 15.34927222,
     "lng": 38.92125556,
     "country": "ER",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1939,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -104,11 +65,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q733142",
     "image_url": "Eritrea corner's 08.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7388873",
@@ -121,6 +83,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -128,10 +91,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7388873",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
