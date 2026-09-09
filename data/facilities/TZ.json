@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q134531048",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16842493",
@@ -34,6 +36,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,11 +44,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16842493",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16901215",
@@ -58,6 +62,7 @@
     "capacity": null,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -65,11 +70,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16901215",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q18345785",
@@ -82,6 +88,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -89,11 +96,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18345785",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3568832",
@@ -102,10 +110,14 @@
     "lat": -6.85568,
     "lng": 39.2727,
     "country": "TZ",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技",
+      "ラグビーユニオン"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -113,11 +125,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3568832",
     "image_url": null,
     "website": "http://www.habari.go.tz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4738976",
@@ -126,10 +139,13 @@
     "lat": -6.165944444,
     "lng": 39.223805555,
     "country": "TZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -137,11 +153,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4738976",
     "image_url": "Amaan Stadium Zanzibar 3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5009644",
@@ -150,10 +167,13 @@
     "lat": -2.499734,
     "lng": 32.899772,
     "country": "TZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -161,11 +181,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5009644",
     "image_url": "CCM Kirumba Stadium Mwanza.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6146332",
@@ -178,6 +199,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -185,11 +207,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6146332",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6477960",
@@ -202,6 +225,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -209,11 +233,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6477960",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6753167",
@@ -226,6 +251,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -233,11 +259,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6753167",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q737149",
@@ -250,6 +277,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -266,11 +294,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q737149",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7492899",
@@ -279,10 +308,13 @@
     "lat": -3.36888889,
     "lng": 36.68583333,
     "country": "TZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -290,11 +322,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7492899",
     "image_url": "Sheikh Amri Abeid Memorial Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7555144",
@@ -307,6 +340,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -314,11 +348,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7555144",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q850225",
@@ -327,10 +362,13 @@
     "lat": -6.8535,
     "lng": 39.273811,
     "country": "TZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 60000,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -347,10 +385,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q850225",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
