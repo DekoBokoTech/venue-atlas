@@ -3,13 +3,14 @@
     "id": "Q123860511",
     "name": "Central Stadium of Hisor City",
     "name_ja": "ギッサール・セントラル・スタジアム",
-    "lat": 38.549361,
-    "lng": 68.556389,
+    "lat": 38.549289761,
+    "lng": 68.556477884,
     "country": "TJ",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -26,11 +27,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q123860511",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q124479216",
@@ -43,6 +45,7 @@
     "capacity": null,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -50,10 +53,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124479216",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16647100",
@@ -66,6 +70,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -73,10 +78,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16647100",
     "image_url": "Душанбинский аквапарк.jpg",
     "website": "http://www.delfin.tj/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16879232",
@@ -89,6 +95,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -96,34 +103,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16879232",
     "image_url": "Garm-stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q25394984",
-    "name": "Q25394984",
-    "name_ja": null,
-    "lat": 38.52833,
-    "lng": 68.7325,
-    "country": "TJ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q25394984",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2981137",
@@ -132,10 +117,13 @@
     "lat": 38.58590556,
     "lng": 68.76951111,
     "country": "TJ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 24000,
     "opened_year": 1946,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -148,11 +136,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2981137",
     "image_url": "Fc-Istiklol..jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4630612",
@@ -165,6 +154,7 @@
     "capacity": 25000,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -177,11 +167,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4630612",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5931038",
@@ -190,10 +181,13 @@
     "lat": 38.51761,
     "lng": 68.2162,
     "country": "TJ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -206,23 +200,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5931038",
     "image_url": "Regar celebrates.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6485721",
     "name": "Langari Langarieva Stadium",
     "name_ja": null,
-    "lat": 37.915917,
-    "lng": 69.800944,
+    "lat": 39.65889,
+    "lng": 66.94833,
     "country": "TJ",
     "sport_types": [],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -235,11 +231,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6485721",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q64867607",
@@ -248,10 +245,16 @@
     "lat": 38.601379991,
     "lng": 68.771313172,
     "country": "TJ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン",
+      "競泳",
+      "サッカー",
+      "テニス"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -259,10 +262,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q64867607",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7849551",
@@ -275,6 +279,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -287,11 +292,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7849551",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q85757999",
@@ -304,6 +310,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -311,10 +318,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q85757999",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
