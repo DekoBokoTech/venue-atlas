@@ -6,10 +6,13 @@
     "lat": -13.836756,
     "lng": -171.75195,
     "country": "WS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,39 +25,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1784042",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q2439101",
-    "name": "Q2439101",
-    "name_ja": null,
-    "lat": -13.84270833,
-    "lng": -171.80330833,
-    "country": "WS",
-    "sport_types": [],
-    "capacity": 3500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "ラグビーサモア代表",
-        "url": "https://manusamoa.com/teams/#1"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2439101",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2858293",
@@ -63,10 +39,14 @@
     "lat": -13.836205,
     "lng": -171.752014,
     "country": "WS",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン",
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -87,11 +67,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2858293",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6765698",
@@ -104,6 +85,7 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -111,11 +93,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6765698",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7243966",
@@ -124,10 +107,13 @@
     "lat": -13.710027777,
     "lng": -172.207772222,
     "country": "WS",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -135,11 +121,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7243966",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7850628",
@@ -152,6 +139,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -159,10 +147,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7850628",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
