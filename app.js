@@ -205,6 +205,14 @@
   }
 
   var allPoints = [];
+  var existingOnly = true;
+
+  // Treat is_existing !== false as "counts as existing": undefined (not yet
+  // backfilled by the nightly collection cycle) and true both count.
+  function getVisiblePoints() {
+    if (!existingOnly) return allPoints;
+    return allPoints.filter(function (r) { return r.is_existing !== false; });
+  }
 
   var centroids = {};
   var loadedCountries = {};
@@ -268,8 +276,9 @@
       })
       .then(function (records) {
         allPoints = mergeById(allPoints, records);
-        world.pointsData(allPoints);
+        world.pointsData(getVisiblePoints());
         updatePointCount();
+        if (listPanel.classList.contains('open')) renderList();
       })
       .catch(function (err) {
         console.error('Failed to load facilities for', countryCode, err);
@@ -285,7 +294,7 @@
     .atmosphereColor(THEMES.real.atmosphere)
     .atmosphereAltitude(THEMES.real.atmosphereAlt)
     .showGraticules(false)
-    .pointsData(allPoints)
+    .pointsData(getVisiblePoints())
     .pointLat('lat')
     .pointLng('lng')
     .pointColor(function () { return THEMES.real.pointColor; })
@@ -330,15 +339,16 @@
   });
 
   function updatePointCount() {
-    document.getElementById('pointCount').textContent = allPoints.length;
+    document.getElementById('pointCount').textContent = getVisiblePoints().length;
   }
 
   fetch('data/summary.json')
     .then(function (res) { return res.json(); })
     .then(function (data) {
       allPoints = data;
-      world.pointsData(allPoints);
+      world.pointsData(getVisiblePoints());
       updatePointCount();
+      if (listPanel.classList.contains('open')) renderList();
     })
     .catch(function (err) { console.error('Failed to load data/summary.json', err); });
 
@@ -434,9 +444,135 @@
 
   world.onPointClick(openPanel);
 
+  // --- Existing-only toggle ---------------------------------------------
+
+  var existingToggle = document.getElementById('existingToggle');
+
+  existingToggle.addEventListener('click', function () {
+    existingOnly = !existingOnly;
+    existingToggle.classList.toggle('active', existingOnly);
+    existingToggle.setAttribute('aria-pressed', String(existingOnly));
+    world.pointsData(getVisiblePoints());
+    updatePointCount();
+    if (listPanel.classList.contains('open')) renderList();
+  });
+
+  // --- List panel ----------------------------------------------------------
+
+  var listPanel = document.getElementById('listPanel');
+  var listPanelClose = document.getElementById('listPanelClose');
+  var listOpenBtn = document.getElementById('listOpenBtn');
+  var listRows = document.getElementById('listRows');
+  var sortKeySelect = document.getElementById('sortKey');
+  var sortDirBtn = document.getElementById('sortDir');
+
+  var sortState = { key: 'capacity', dir: 'desc' };
+  var currentListData = [];
+
+  // Numeric comparator: null/undefined always sort last, regardless of
+  // direction. Non-null values compare per `dir`.
+  function compareNullsLast(a, b, dir) {
+    var an = (a === null || a === undefined || isNaN(a));
+    var bn = (b === null || b === undefined || isNaN(b));
+    if (an && bn) return 0;
+    if (an) return 1;
+    if (bn) return -1;
+    var cmp = a < b ? -1 : (a > b ? 1 : 0);
+    return dir === 'asc' ? cmp : -cmp;
+  }
+
+  function sortRecords(records) {
+    var key = sortState.key;
+    var dir = sortState.dir;
+    var copy = records.slice();
+    copy.sort(function (a, b) {
+      if (key === 'name') {
+        var an = a.name_ja || a.name || '';
+        var bn = b.name_ja || b.name || '';
+        var cmp = String(an).localeCompare(String(bn));
+        return dir === 'asc' ? cmp : -cmp;
+      }
+      if (key === 'opened_year') {
+        return compareNullsLast(
+          a.opened_year == null ? null : Number(a.opened_year),
+          b.opened_year == null ? null : Number(b.opened_year),
+          dir
+        );
+      }
+      // default: capacity
+      return compareNullsLast(
+        a.capacity == null ? null : Number(a.capacity),
+        b.capacity == null ? null : Number(b.capacity),
+        dir
+      );
+    });
+    return copy;
+  }
+
+  function renderListRows(records) {
+    if (records.length === 0) {
+      listRows.innerHTML = '<div class="list-empty">条件に一致する施設がありません<br>No facilities match the current filter.</div>';
+      return;
+    }
+    var html = '';
+    records.forEach(function (d) {
+      var name = (d.name_ja && d.name) ? (esc(d.name_ja) + ' / ' + esc(d.name)) : esc(d.name_ja || d.name);
+      var country = esc(d.country || '—');
+      var capacity = d.capacity ? esc(Number(d.capacity).toLocaleString('en-US')) : '—';
+      var opened = (d.opened_year != null && d.opened_year !== '') ? esc(d.opened_year) : '—';
+      html += '<div class="list-row" data-id="' + escAttr(d.id) + '">';
+      html += '<div class="lr-name">' + name + '</div>';
+      html += '<div class="lr-meta"><span class="lr-country">' + country + '</span><span class="lr-capacity">' + capacity + '</span><span class="lr-year">' + opened + '</span></div>';
+      html += '</div>';
+    });
+    listRows.innerHTML = html;
+  }
+
+  function renderList() {
+    currentListData = sortRecords(getVisiblePoints());
+    renderListRows(currentListData);
+  }
+
+  sortKeySelect.value = sortState.key;
+  sortDirBtn.textContent = sortState.dir === 'desc' ? '↓' : '↑';
+  sortDirBtn.setAttribute('data-dir', sortState.dir);
+
+  sortKeySelect.addEventListener('change', function () {
+    sortState.key = sortKeySelect.value;
+    renderList();
+  });
+
+  sortDirBtn.addEventListener('click', function () {
+    sortState.dir = sortState.dir === 'desc' ? 'asc' : 'desc';
+    sortDirBtn.textContent = sortState.dir === 'desc' ? '↓' : '↑';
+    sortDirBtn.setAttribute('data-dir', sortState.dir);
+    renderList();
+  });
+
+  listOpenBtn.addEventListener('click', function () {
+    renderList();
+    listPanel.classList.add('open');
+  });
+
+  listPanelClose.addEventListener('click', function () {
+    listPanel.classList.remove('open');
+  });
+
+  listRows.addEventListener('click', function (e) {
+    var row = e.target.closest('.list-row');
+    if (!row) return;
+    var id = row.getAttribute('data-id');
+    var record = currentListData.filter(function (r) { return String(r.id) === id; })[0];
+    if (!record) return;
+    listPanel.classList.remove('open');
+    world.pointOfView({ lat: record.lat, lng: record.lng, altitude: 1.15 }, 900);
+    openPanel(record);
+  });
+
   window.__venueAtlas = {
     world: world,
     getAllPoints: function () { return allPoints; },
+    getVisiblePoints: getVisiblePoints,
     loadCountryData: loadCountryData,
     nearestCountries: nearestCountries
   };

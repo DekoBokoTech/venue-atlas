@@ -17,10 +17,21 @@
       <div class="mark"><span class="dot"></span>Venue Atlas</div>
       <div class="sub">世界のスタジアムを地球儀で巡る / Explore world venues on a globe</div>
     </div>
-    <div class="theme-switcher" id="themeSwitcher">
-      <button class="theme-btn active" data-theme="real">リアル<span class="label-en">SATELLITE</span></button>
-      <button class="theme-btn" data-theme="flat">フラット<span class="label-en">LOW-POLY</span></button>
-      <button class="theme-btn" data-theme="dark">ダーク<span class="label-en">DATA-VIZ</span></button>
+    <div class="header-controls">
+      <div class="theme-switcher" id="themeSwitcher">
+        <button class="theme-btn active" data-theme="real">リアル<span class="label-en">SATELLITE</span></button>
+        <button class="theme-btn" data-theme="flat">フラット<span class="label-en">LOW-POLY</span></button>
+        <button class="theme-btn" data-theme="dark">ダーク<span class="label-en">DATA-VIZ</span></button>
+      </div>
+      <div class="control-row">
+        <button class="toggle-btn active" id="existingToggle" type="button" aria-pressed="true">
+          <span class="toggle-track"><span class="toggle-thumb"></span></span>
+          <span class="toggle-text">現存のみ<span class="label-en">EXISTING ONLY</span></span>
+        </button>
+        <button class="list-open-btn" id="listOpenBtn" type="button">
+          一覧<span class="label-en">LIST</span>
+        </button>
+      </div>
     </div>
   </div>
 
@@ -32,6 +43,23 @@
   <aside class="detail-panel" id="detailPanel">
     <button class="panel-close" id="panelClose" aria-label="閉じる / Close">✕</button>
     <div class="panel-scroll" id="panelScroll"></div>
+  </aside>
+
+  <aside class="detail-panel list-panel" id="listPanel">
+    <button class="panel-close" id="listPanelClose" aria-label="閉じる / Close">✕</button>
+    <div class="list-panel-header">
+      <h2 class="list-panel-title">施設一覧<span class="label-en">FACILITY LIST</span></h2>
+      <div class="sort-row">
+        <label class="sort-label" for="sortKey">並び替え<br>SORT</label>
+        <select class="sort-select" id="sortKey">
+          <option value="capacity">収容人数 CAPACITY</option>
+          <option value="opened_year">開場年 OPENED</option>
+          <option value="name">名前 NAME</option>
+        </select>
+        <button class="sort-dir-btn" id="sortDir" type="button" data-dir="desc" aria-label="並び替え方向 / Sort direction">↓</button>
+      </div>
+    </div>
+    <div class="list-rows" id="listRows"></div>
   </aside>
 </div>
 
