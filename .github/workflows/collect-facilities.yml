@@ -26,6 +26,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
       - run: npm run collect
+      - name: Build summary
+        if: always()
+        run: node scripts/build-summary.js
       - name: Commit and push if changed
         if: always()
         run: |
