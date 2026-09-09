@@ -10,6 +10,7 @@
     "capacity": 7300,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,11 +23,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1008046",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q105834123",
@@ -35,10 +37,13 @@
     "lat": 43.264085375,
     "lng": 68.342428028,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -46,22 +51,24 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q105834123",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1072092",
     "name": "Alau Ice Palace",
     "name_ja": null,
-    "lat": 51.105,
+    "lat": 51.10472222,
     "lng": 71.405,
     "country": "KZ",
     "sport_types": [],
     "capacity": 8000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -74,11 +81,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1072092",
     "image_url": null,
     "website": "http://www.alau.info/eng/index.php",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1074493",
@@ -91,6 +99,7 @@
     "capacity": 6300,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -103,11 +112,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1074493",
     "image_url": "Shahter Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1125989",
@@ -120,6 +130,7 @@
     "capacity": 12525,
     "opened_year": 1936,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -132,11 +143,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1125989",
     "image_url": "Central stadium in Taraz.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113566511",
@@ -149,6 +161,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -156,11 +169,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113566511",
     "image_url": null,
     "website": "https://ak-bulak.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114347070",
@@ -173,6 +187,7 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -180,11 +195,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q114347070",
     "image_url": "Sokol Circuit - Big Ring.png",
     "website": "https://sokolinternationalcircuit.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q120669431",
@@ -193,10 +209,13 @@
     "lat": 42.30127113,
     "lng": 69.632850676,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -204,10 +223,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q120669431",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q125252907",
@@ -216,10 +236,13 @@
     "lat": 51.203561256,
     "lng": 51.36775263,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -227,10 +250,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q125252907",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12528566",
@@ -243,6 +267,7 @@
     "capacity": null,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -250,11 +275,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q12528566",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q135089978",
@@ -267,6 +293,7 @@
     "capacity": 800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -274,33 +301,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q135089978",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q135106379",
-    "name": "Q135106379",
-    "name_ja": null,
-    "lat": 51.132222222,
-    "lng": 71.719722222,
-    "country": "KZ",
-    "sport_types": [],
-    "capacity": 500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q135106379",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1445312",
@@ -313,6 +318,7 @@
     "capacity": 16000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -325,11 +331,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1445312",
     "image_url": "MHSK Stadioni 081022 183350.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1641948",
@@ -342,6 +349,7 @@
     "capacity": 2500,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -354,11 +362,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1641948",
     "image_url": "Ак Жолтай - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632800",
@@ -371,6 +380,7 @@
     "capacity": 12000,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -383,11 +393,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632800",
     "image_url": "Barys Arena 2014-03-15.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18125175",
@@ -400,6 +411,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -407,11 +419,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18125175",
     "image_url": "Ice Palace \"Almaty Arena\".jpg",
     "website": "https://almatyarena.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18128224",
@@ -424,6 +437,7 @@
     "capacity": null,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -431,11 +445,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18128224",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q190784",
@@ -444,10 +459,13 @@
     "lat": 50.291389,
     "lng": 57.160278,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12800,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -460,11 +478,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q190784",
     "image_url": "Aktobe Central Stadium (02).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q190788",
@@ -473,10 +492,14 @@
     "lat": 43.238331,
     "lng": 76.92435,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 23804,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -489,11 +512,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q190788",
     "image_url": "Kazakhstan P9240988 08 (39408856325).jpg",
     "website": "http://centralstadium.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q190789",
@@ -506,6 +530,7 @@
     "capacity": 15000,
     "opened_year": 1947,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -518,11 +543,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q190789",
     "image_url": "Centralny stadium Pavlodar.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q190791",
@@ -535,6 +561,7 @@
     "capacity": 8323,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -547,11 +574,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q190791",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20036756",
@@ -564,6 +592,7 @@
     "capacity": null,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -576,11 +605,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20036756",
     "image_url": null,
     "website": "http://ntc-daulet.kz/index.php/ru/o-nas/obshchaya-informatsiya",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2047375",
@@ -593,6 +623,7 @@
     "capacity": null,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -600,11 +631,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2047375",
     "image_url": "Palace of the Republic, Almaty 2022.jpg",
     "website": "http://www.almaty-ayenderi.kz",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25212545",
@@ -617,6 +649,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -624,11 +657,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q25212545",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q268402",
@@ -641,6 +675,7 @@
     "capacity": 8320,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -653,11 +688,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q268402",
     "image_url": "Стадион имени Петра Атояна.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2963663",
@@ -670,6 +706,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -677,11 +714,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2963663",
     "image_url": "Shymbulak in Almaty.JPG",
     "website": "http://www.shymbulak.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2986461",
@@ -690,10 +728,13 @@
     "lat": 51.162739,
     "lng": 71.413312,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12350,
     "opened_year": 1938,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -706,11 +747,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2986461",
     "image_url": "Стадион имени Мунайтпасова.jpg",
     "website": "http://www.skdostykastana.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4126424",
@@ -723,6 +765,7 @@
     "capacity": 8500,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -735,11 +778,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4126424",
     "image_url": "Восток (Стадион).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4155968",
@@ -752,6 +796,7 @@
     "capacity": 4400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -768,11 +813,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4155968",
     "image_url": "Aleksandrov Sports Arena.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4155969",
@@ -785,6 +831,7 @@
     "capacity": null,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -797,11 +844,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4155969",
     "image_url": "Baluan Sholak sport centre.jpg",
     "website": "http://dvorecsporta.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4179789",
@@ -814,6 +862,7 @@
     "capacity": 4000,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -826,11 +875,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4179789",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4213697",
@@ -843,6 +893,7 @@
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -855,11 +906,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4213697",
     "image_url": "Ледовый дворец - panoramio (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4230441",
@@ -872,6 +924,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -879,10 +932,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4230441",
     "image_url": "Astana Concert Hall.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4366821",
@@ -895,6 +949,7 @@
     "capacity": null,
     "opened_year": 1931,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -902,11 +957,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4366821",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4408858",
@@ -915,10 +971,13 @@
     "lat": 51.11011,
     "lng": 71.40743,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 9200,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -931,11 +990,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4408858",
     "image_url": "Saryarka Velodrome (inside).JPG",
     "website": "http://velotrek.kz/index.php/en/#",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4430724",
@@ -948,6 +1008,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -960,10 +1021,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4430724",
     "image_url": "Spartak Semej Stadion.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4827654",
@@ -976,6 +1038,7 @@
     "capacity": 11000,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -988,11 +1051,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827654",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q55606151",
@@ -1005,6 +1069,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1012,11 +1077,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q55606151",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q588138",
@@ -1029,6 +1095,7 @@
     "capacity": 8660,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1041,11 +1108,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q588138",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q606918",
@@ -1058,6 +1126,7 @@
     "capacity": 4158,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1070,11 +1139,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q606918",
     "image_url": "Кокшетау, стадион \"Окжетпес\". Начало матча \"Окжетпес\" - \"Тобол\" (25.06.2005).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60851842",
@@ -1087,6 +1157,7 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1099,11 +1170,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q60851842",
     "image_url": "Халык Арена.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q746559",
@@ -1112,10 +1184,13 @@
     "lat": 51.1082,
     "lng": 71.4026,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1136,11 +1211,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q746559",
     "image_url": "Astana Arena (inside interior).JPG",
     "website": "https://astanaarena.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q798494",
@@ -1149,10 +1225,13 @@
     "lat": 42.335493,
     "lng": 69.593568,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1165,11 +1244,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q798494",
     "image_url": "Kazhymukan-Munaitpasov- Stadium-Shymkent-Kazakhstan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8070634",
@@ -1182,6 +1262,7 @@
     "capacity": 3500,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1194,11 +1275,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8070634",
     "image_url": "Жас Канат.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q846879",
@@ -1211,6 +1293,7 @@
     "capacity": 19000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1223,11 +1306,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q846879",
     "image_url": "Shakhtyor Stadium (Karagandy) 2013-05-22 18.11.25.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q864796",
@@ -1240,6 +1324,7 @@
     "capacity": 8500,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1252,11 +1337,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q864796",
     "image_url": "Medeobanen1.jpg",
     "website": "http://www.medey.kz/en/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q954730",
@@ -1269,6 +1355,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1276,11 +1363,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q954730",
     "image_url": "AlmatySkiJump.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96626780",
@@ -1289,10 +1377,13 @@
     "lat": 50.0676,
     "lng": 72.9777,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1305,9 +1396,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q96626780",
     "image_url": "Metallurg stadium (Temirtau).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
