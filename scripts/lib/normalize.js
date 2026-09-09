@@ -16,7 +16,17 @@ function wikipediaUrlFromSitelink(sitelinks, site, lang) {
   return `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(title)}`;
 }
 
-export function normalizeEntity(coordBinding, entity, countryCode, syncedAt) {
+const TEAM_CAP = 4;
+const EVENT_CAP = 5;
+const NON_SPORTING_EVENT_PATTERN = /テロ|事件|着工|竣工/;
+
+export function resolveClaimIds(entity, property) {
+  return (entity?.claims?.[property] ?? [])
+    .map((claim) => claim.mainsnak?.datavalue?.value?.id)
+    .filter(Boolean);
+}
+
+export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, relatedEntities) {
   if (!coordBinding.coord) return null;
   const coord = parsePoint(coordBinding.coord.value);
   if (!coord) return null;
@@ -34,6 +44,19 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt) {
   const wikipediaUrlEn = wikipediaUrlFromSitelink(entity?.sitelinks, 'enwiki', 'en');
   const wikipediaUrl = wikipediaUrlJa || wikipediaUrlEn;
 
+  const teams = resolveClaimIds(entity, 'P466')
+    .map((teamQid) => relatedEntities.get(teamQid))
+    .filter((info) => info && info.label)
+    .slice(0, TEAM_CAP)
+    .map((info) => ({ name: info.label, url: info.website }));
+
+  const events = resolveClaimIds(entity, 'P793')
+    .map((eventQid) => relatedEntities.get(eventQid))
+    .filter((info) => info && info.label && !NON_SPORTING_EVENT_PATTERN.test(info.label))
+    .sort((a, b) => (a.year ?? Infinity) - (b.year ?? Infinity))
+    .slice(0, EVENT_CAP)
+    .map((info) => ({ name: info.label, year: info.year }));
+
   return {
     id: qid,
     name: nameEn ?? qid,
@@ -46,7 +69,8 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt) {
     opened_year: inceptionTime ? extractYear(inceptionTime) : null,
     closed_year: null,
     roof_type: null,
-    teams: [],
+    teams,
+    events,
     wikipedia_url: wikipediaUrl,
     wikidata_url: `https://www.wikidata.org/wiki/${qid}`,
     image_url: imageValue ?? null,
