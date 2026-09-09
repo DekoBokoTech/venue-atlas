@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,37 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q106432714",
     "image_url": "Ba-chukhe wrestling at Zeynal-Khan pitch, Esfarayen, Iran 20180404 Tasnim 05.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q108474130",
+    "name": "15 Khordad Sports Complex",
+    "name_ja": null,
+    "lat": 34.352777777,
+    "lng": 47.112222222,
+    "country": "IR",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q108474130",
+    "image_url": "5555y5.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q10861377",
@@ -34,6 +61,7 @@
     "capacity": 12000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -46,11 +74,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q10861377",
     "image_url": "Bonyan Diesel Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108784633",
@@ -63,6 +92,7 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -70,10 +100,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108784633",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109549128",
@@ -86,6 +117,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -93,10 +125,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109549128",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113466853",
@@ -109,6 +142,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -116,10 +150,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113466853",
     "image_url": "Manjil Marine Training Base (22).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113685743",
@@ -128,10 +163,13 @@
     "lat": 33.891170769,
     "lng": 50.45299661,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -139,10 +177,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113685743",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q115595820",
@@ -155,6 +194,7 @@
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -162,10 +202,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q115595820",
     "image_url": "Inauguration of IRGC Center for Higher Aviation Training (39).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1165865",
@@ -178,6 +219,7 @@
     "capacity": null,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -185,11 +227,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1165865",
     "image_url": "Imam Hossein University Engineering Faculties.jpg",
     "website": "http://www.ihu.ac.ir",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q117982807",
@@ -202,6 +245,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -209,10 +253,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117982807",
     "image_url": "دوچرخه‌سواری بی‌ام‌اکس در پارک آب و آتش تهران BMX bike ride in \"Water and Fire\" park in Tehran 20.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q120669480",
@@ -221,10 +266,13 @@
     "lat": 35.710038377,
     "lng": 51.428178572,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -232,10 +280,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q120669480",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124316507",
@@ -248,6 +297,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -255,10 +305,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124316507",
     "image_url": "Hemmat Exp. And Sheykh Fazlollah Exp. - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124372295",
@@ -267,10 +318,13 @@
     "lat": 31.831897183,
     "lng": 54.35294925,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -278,10 +332,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124372295",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124397403",
@@ -294,6 +349,7 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -301,34 +357,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124397403",
     "image_url": "ورزشگاه کیش.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12642643",
-    "name": "Q12642643",
-    "name_ja": null,
-    "lat": 30.307222,
-    "lng": 57.079444,
-    "country": "IR",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12642643",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q127947",
@@ -341,6 +375,7 @@
     "capacity": 14000,
     "opened_year": 1946,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -353,11 +388,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q127947",
     "image_url": "Hafez Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130615639",
@@ -370,6 +406,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -377,56 +414,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q130615639",
     "image_url": "Shohada Stadium of Kazerun 9.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139934818",
-    "name": "Q139934818",
-    "name_ja": null,
-    "lat": 35.684875,
-    "lng": 51.416069,
-    "country": "IR",
-    "sport_types": [],
-    "capacity": 1800,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139934818",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139934897",
-    "name": "Q139934897",
-    "name_ja": null,
-    "lat": 29.6631018,
-    "lng": 52.5644574,
-    "country": "IR",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1982,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139934897",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q140936146",
@@ -439,6 +431,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -446,10 +439,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q140936146",
     "image_url": "Pahlevan Ali Mirza Zurkhaneh 2018-06-30 16.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q141212701",
@@ -462,6 +456,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -469,10 +464,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q141212701",
     "image_url": "Attack on the Farhang Sports Hall of Kermanshah Province 4.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1435981",
@@ -485,6 +481,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -497,11 +494,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1435981",
     "image_url": "Panae3.jpg",
     "website": "http://www.zobahanclub.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q14624521",
@@ -514,6 +512,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -526,11 +525,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q14624521",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q14889394",
@@ -543,6 +543,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -550,11 +551,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q14889394",
     "image_url": "Shemshak.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15195531",
@@ -567,6 +569,7 @@
     "capacity": 3000,
     "opened_year": 1971,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -579,11 +582,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15195531",
     "image_url": "Iran men's national volleyball team in training, 30 December 2019 14.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16046889",
@@ -592,10 +596,13 @@
     "lat": 35.612111111,
     "lng": 51.358055555,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -603,11 +610,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16046889",
     "image_url": "Sorinet Stadium (Rah-Ahan F.C.) - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16074652",
@@ -620,6 +628,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -627,10 +636,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16074652",
     "image_url": "University of Tehran Stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16074727",
@@ -643,6 +653,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -650,10 +661,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16074727",
     "image_url": "Papaei ski resort in Zanjan province 2020-02-01 09.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632784",
@@ -666,6 +678,7 @@
     "capacity": 25000,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -678,11 +691,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632784",
     "image_url": null,
     "website": "http://sport.aqr.ir/Portal/home/?5807/%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%DB%8C%D9%88%D9%85%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%B1%D8%B6%D8%A7",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16888200",
@@ -695,6 +709,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -707,11 +722,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16888200",
     "image_url": "Tehran City Park 1965.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17002964",
@@ -724,6 +740,7 @@
     "capacity": 8000,
     "opened_year": 1909,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -736,11 +753,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17002964",
     "image_url": "Stadiumnaftmis.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17070322",
@@ -753,6 +771,7 @@
     "capacity": 25000,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -765,11 +784,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17070322",
     "image_url": "ورزشگاه شهدای شهرقدس2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17991635",
@@ -782,6 +802,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -789,10 +810,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17991635",
     "image_url": "Shirbad Ski Resort (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17994703",
@@ -805,6 +827,7 @@
     "capacity": null,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -817,11 +840,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17994703",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17994709",
@@ -834,6 +858,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -841,10 +866,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17994709",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17994714",
@@ -857,6 +883,7 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -864,11 +891,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17994714",
     "image_url": "CAM00173 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20111094",
@@ -881,6 +909,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -893,10 +922,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20111094",
     "image_url": "2021 Islamic Republic of Iran Army Day in Rasht (04).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20111264",
@@ -909,6 +939,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -916,11 +947,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20111264",
     "image_url": "Aryamehr Azadi stadium cycling track 25Mehr1350.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20987799",
@@ -933,6 +965,7 @@
     "capacity": null,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -940,11 +973,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20987799",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q210151",
@@ -957,6 +991,7 @@
     "capacity": 50000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -969,11 +1004,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q210151",
     "image_url": "Pars Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q23043388",
@@ -986,6 +1022,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -998,11 +1035,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q23043388",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q259613",
@@ -1015,6 +1053,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1022,11 +1061,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q259613",
     "image_url": "Dizin ski resort.jpg",
     "website": "http://dizinskiresort.ir/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q26701454",
@@ -1039,6 +1079,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1046,11 +1087,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q26701454",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q26709212",
@@ -1063,6 +1105,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1070,11 +1113,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q26709212",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28169483",
@@ -1087,6 +1131,7 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1099,11 +1144,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28169483",
     "image_url": "شهید سلیمانی.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28169720",
@@ -1116,6 +1162,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1123,11 +1170,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28169720",
     "image_url": "Takhti Stadium Jam 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28656906",
@@ -1140,6 +1188,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1147,11 +1196,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28656906",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2990521",
@@ -1164,6 +1214,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1171,11 +1222,37 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990521",
     "image_url": "نمایی از ورزشگاه ۱۲ هزار نفری.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q30224437",
+    "name": "Azadi Sports Complex",
+    "name_ja": null,
+    "lat": 34.338166666,
+    "lng": 47.09075,
+    "country": "IR",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30224437",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30349565",
@@ -1188,6 +1265,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1195,10 +1273,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q30349565",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q31067331",
@@ -1207,10 +1286,13 @@
     "lat": 35.767895,
     "lng": 51.401253,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1218,11 +1300,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q31067331",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q31067399",
@@ -1235,6 +1318,7 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1242,11 +1326,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q31067399",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q31068964",
@@ -1259,6 +1344,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1266,10 +1352,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q31068964",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q31070753",
@@ -1282,6 +1369,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1289,10 +1377,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q31070753",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3273189",
@@ -1301,10 +1390,13 @@
     "lat": 38.026667,
     "lng": 46.295833,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 66833,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1317,11 +1409,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3273189",
     "image_url": "Sahand Stadium.jpg",
     "website": "http://www.yadegar-emam.ea-sport.org",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3277536",
@@ -1334,6 +1427,7 @@
     "capacity": 8250,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1354,11 +1448,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277536",
     "image_url": "PAS Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3397857",
@@ -1371,6 +1466,7 @@
     "capacity": null,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1378,11 +1474,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3397857",
     "image_url": "Pooladkaf ski resort Ardakan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3445299",
@@ -1395,6 +1492,7 @@
     "capacity": 30000,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1407,11 +1505,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3445299",
     "image_url": "Takhti Stadium of Ahvaz.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3545654",
@@ -1420,10 +1519,13 @@
     "lat": 35.710278,
     "lng": 51.4275,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1939,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1436,11 +1538,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3545654",
     "image_url": "Amjadie Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4724739",
@@ -1453,6 +1556,7 @@
     "capacity": 20000,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1465,11 +1569,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4724739",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4784275",
@@ -1478,10 +1583,13 @@
     "lat": 35.76823611,
     "lng": 51.40159444,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1489,11 +1597,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4784275",
     "image_url": "Ararat Stadium 18.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4832083",
@@ -1505,7 +1614,8 @@
     "sport_types": [],
     "capacity": 12000,
     "opened_year": 1974,
-    "closed_year": null,
+    "closed_year": 2026,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -1522,11 +1632,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4832083",
     "image_url": "نمایی از ورزشگاه ۱۲ هزار نفری.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4832084",
@@ -1535,10 +1646,13 @@
     "lat": 35.728611,
     "lng": 51.263056,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 3000,
     "opened_year": 1971,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1551,11 +1665,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4832084",
     "image_url": "نمایی از ورزشگاه ۱۲ هزار نفری.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q48969629",
@@ -1568,6 +1683,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1575,11 +1691,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q48969629",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q48969631",
@@ -1588,10 +1705,13 @@
     "lat": 35.767895,
     "lng": 51.401253,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1599,11 +1719,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q48969631",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5261292",
@@ -1616,6 +1737,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1623,11 +1745,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5261292",
     "image_url": "Persepolis first training after the death of Norouzi 11.jpg",
     "website": "http://fc-perspolis.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5368862",
@@ -1640,6 +1763,7 @@
     "capacity": 10000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1652,11 +1776,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5368862",
     "image_url": "Atlas-tensile-structures-emam-reza-stadium-tehran-esteghlal6.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5377614",
@@ -1665,10 +1790,13 @@
     "lat": 35.78301,
     "lng": 51.40145,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1676,11 +1804,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5377614",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5377615",
@@ -1693,6 +1822,7 @@
     "capacity": 15000,
     "opened_year": 2001,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1709,11 +1839,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5377615",
     "image_url": "Enghelab-Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5555191",
@@ -1722,10 +1853,13 @@
     "lat": 31.320278,
     "lng": 48.669167,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 51000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1738,11 +1872,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5555191",
     "image_url": "Al-Ghadeer Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q558651",
@@ -1755,6 +1890,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1767,11 +1903,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q558651",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q56360643",
@@ -1784,6 +1921,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1791,10 +1929,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q56360643",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5685460",
@@ -1807,6 +1946,7 @@
     "capacity": null,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1814,11 +1954,37 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5685460",
     "image_url": "Javad Zarif at DAFOOS 2020-02-03 03.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q5694304",
+    "name": "Shahid Chamran Cultural and Sports Complex",
+    "name_ja": null,
+    "lat": 35.784972222,
+    "lng": 51.436527777,
+    "country": "IR",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5694304",
+    "image_url": "Javan Cinema.jpg",
+    "website": "https://chamrancomplex.ir/",
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5701246",
@@ -1831,6 +1997,7 @@
     "capacity": 100,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1838,10 +2005,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5701246",
     "image_url": "Shahid Fahmideh Zurkhaneh.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5722539",
@@ -1854,6 +2022,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1861,11 +2030,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5722539",
     "image_url": "Tractor Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5725135",
@@ -1878,6 +2048,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1885,11 +2056,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5725135",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5875140",
@@ -1902,6 +2074,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1909,11 +2082,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5875140",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5883311",
@@ -1926,6 +2100,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1933,11 +2108,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5883311",
     "image_url": "Takhti Zurkhaneh.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5918700",
@@ -1950,6 +2126,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1957,11 +2134,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5918700",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5931001",
@@ -1974,6 +2152,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1981,11 +2160,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5931001",
     "image_url": "Fereydunshahr-ski-resort-iran.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5931110",
@@ -1998,6 +2178,7 @@
     "capacity": 15430,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2010,11 +2191,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5931110",
     "image_url": "Shahid Bahonar Stadium.jpg",
     "website": "http://www.emamalisportcomplex.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5931161",
@@ -2027,6 +2209,7 @@
     "capacity": 45000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2039,11 +2222,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5931161",
     "image_url": "Naghsh-e-Jahan Stadium3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5939857",
@@ -2056,6 +2240,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2063,10 +2248,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5939857",
     "image_url": "Mashhad Samen Velodrome (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5951506",
@@ -2079,6 +2265,7 @@
     "capacity": null,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2091,11 +2278,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5951506",
     "image_url": "Sardar-azadegan Stadium PANO.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5955020",
@@ -2108,6 +2296,7 @@
     "capacity": null,
     "opened_year": 1921,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2115,34 +2304,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5955020",
     "image_url": "3517313 رونمایی از نشان «فداکاری» ارتش.jpg",
     "website": "http://imamaliuniv.aja.ir",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5963409",
-    "name": "Q5963409",
-    "name_ja": null,
-    "lat": 35.72706217,
-    "lng": 51.287557398,
-    "country": "IR",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2008,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5963409",
-    "image_url": "Nasser Hejazi Camp in 6 July 2023.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6066831",
@@ -2155,6 +2322,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2167,10 +2335,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6066831",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q61064354",
@@ -2183,6 +2352,7 @@
     "capacity": null,
     "opened_year": 1933,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2190,11 +2360,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q61064354",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q61065320",
@@ -2207,6 +2378,7 @@
     "capacity": 15000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2214,10 +2386,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q61065320",
     "image_url": "666p6.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q627541",
@@ -2230,6 +2403,7 @@
     "capacity": 11000,
     "opened_year": 1990,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2242,11 +2416,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q627541",
     "image_url": "Shahid Dr. Azodi Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6320826",
@@ -2259,6 +2434,7 @@
     "capacity": 12000,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2271,11 +2447,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6320826",
     "image_url": "Malavan FC vs Esteghlal FC, 18 August 2022 - 02.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6369229",
@@ -2288,6 +2465,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2295,11 +2473,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6369229",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65195568",
@@ -2312,6 +2491,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2319,10 +2499,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65195568",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65199804",
@@ -2335,6 +2516,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2342,11 +2524,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65199804",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q653535",
@@ -2355,10 +2538,13 @@
     "lat": 35.724417,
     "lng": 51.275528,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 84412,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2375,11 +2561,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q653535",
     "image_url": "Azadi Stadium ACL 2018.jpg",
     "website": "http://www.azadisportcomplex.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587500",
@@ -2392,6 +2579,7 @@
     "capacity": 25000,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2404,11 +2592,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587500",
     "image_url": "Takhti Stadium Tabriz.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587506",
@@ -2421,6 +2610,7 @@
     "capacity": 22000,
     "opened_year": 1915,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2433,11 +2623,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587506",
     "image_url": "Sanat Naft Abadan FC vs Esteghlal FC, 24 May 2021 - 07.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587525",
@@ -2450,6 +2641,7 @@
     "capacity": 30122,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2466,11 +2658,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587525",
     "image_url": "Takhti Stadium.jpg",
     "website": "http://www.takhtisportcomplex.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587542",
@@ -2483,6 +2676,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2495,11 +2689,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587542",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587868",
@@ -2512,6 +2707,7 @@
     "capacity": 15000,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2519,11 +2715,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587868",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587890",
@@ -2536,6 +2733,7 @@
     "capacity": 15000,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2548,11 +2746,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587890",
     "image_url": "Sardar Jangal Stadium of Rasht.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587938",
@@ -2565,6 +2764,7 @@
     "capacity": 6000,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2577,11 +2777,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587938",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587962",
@@ -2594,6 +2795,7 @@
     "capacity": 12000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2601,11 +2803,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587962",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6587998",
@@ -2618,6 +2821,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2630,11 +2834,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587998",
     "image_url": "Vatani std.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6588461",
@@ -2647,6 +2852,7 @@
     "capacity": 10610,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2659,11 +2865,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6588461",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7007609",
@@ -2672,10 +2879,13 @@
     "lat": 31.279084,
     "lng": 48.779745,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30655,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2688,11 +2898,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7007609",
     "image_url": "Foolad-Sepahan 20190315 05.jpg",
     "website": "http://www.kowsarco.org",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7319859",
@@ -2705,6 +2916,7 @@
     "capacity": 6000,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2712,11 +2924,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7319859",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7461706",
@@ -2729,6 +2942,7 @@
     "capacity": 6000,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2741,11 +2955,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7461706",
     "image_url": "Sahand Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7678260",
@@ -2758,6 +2973,7 @@
     "capacity": 10000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2770,11 +2986,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7678260",
     "image_url": "ملعب خليج فارس.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q85021237",
@@ -2787,6 +3004,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2794,10 +3012,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q85021237",
     "image_url": "Sangtarashha Zurkhaneh 2019-07-19 03.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96749959",
@@ -2810,6 +3029,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2817,10 +3037,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q96749959",
     "image_url": "1400020920083513522659494 بمناسبت روز ملی خلیج فارس.jpg",
     "website": "https://marina-kish.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97208156",
@@ -2829,10 +3050,13 @@
     "lat": 35.72583333,
     "lng": 51.26444444,
     "country": "IR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2840,11 +3064,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q97208156",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q988285",
@@ -2857,6 +3082,7 @@
     "capacity": 35000,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2869,11 +3095,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q988285",
     "image_url": "Samen stadium mashhad.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q989253",
@@ -2886,6 +3113,7 @@
     "capacity": 12000,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2898,10 +3126,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q989253",
     "image_url": null,
     "website": "http://www.sorinetsport.ir/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
