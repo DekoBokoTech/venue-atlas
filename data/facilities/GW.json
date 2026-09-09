@@ -1,38 +1,18 @@
 [
   {
-    "id": "Q16544164",
-    "name": "Q16544164",
-    "name_ja": null,
-    "lat": 12.2835,
-    "lng": -14.2266,
-    "country": "GW",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16544164",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q16544168",
     "name": "Estádio Rocha",
     "name_ja": null,
     "lat": 12.1781,
     "lng": -14.6536,
     "country": "GW",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,10 +20,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16544168",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4118209",
@@ -56,6 +37,7 @@
     "capacity": 20000,
     "opened_year": 1989,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -68,11 +50,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4118209",
     "image_url": "Viagem de Bissau para Bolama, Guiné-Bissau – 2018-03-02 – DSCN0973.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5402072",
@@ -85,6 +68,7 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -97,11 +81,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402072",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q54531095",
@@ -110,10 +95,13 @@
     "lat": 11.57984,
     "lng": -15.47291,
     "country": "GW",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -121,10 +109,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q54531095",
     "image_url": "Campo de andebol, Bolama, Guiné-Bissau – 2018-03-02 – DSCN1043.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q55110364",
@@ -137,6 +126,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -144,9 +134,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q55110364",
     "image_url": "Piscina Municipal, Bolama, Guiné-Bissau – 2018-03-03 – DSCN1332.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
