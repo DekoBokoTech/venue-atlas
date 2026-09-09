@@ -1,51 +1,5 @@
 [
   {
-    "id": "Q11777042",
-    "name": "Q11777042",
-    "name_ja": null,
-    "lat": 34.528306,
-    "lng": 69.184861,
-    "country": "AF",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q11777042",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12912307",
-    "name": "Q12912307",
-    "name_ja": null,
-    "lat": 33.55,
-    "lng": 68.4333,
-    "country": "AF",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12912307",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q1521498",
     "name": "Ghazi Stadium",
     "name_ja": "ガジ・スタジアム",
@@ -56,6 +10,7 @@
     "capacity": 30000,
     "opened_year": 1923,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -68,34 +23,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1521498",
     "image_url": "Ahmad Faisal - football - D.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16557592",
-    "name": "Q16557592",
-    "name_ja": null,
-    "lat": 34.3419,
-    "lng": 62.2031,
-    "country": "AF",
-    "sport_types": [],
-    "capacity": 20000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16557592",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q17069550",
@@ -104,10 +37,13 @@
     "lat": 33.332777777,
     "lng": 69.92,
     "country": "AF",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -115,11 +51,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17069550",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q18386862",
@@ -128,10 +65,13 @@
     "lat": 31.6405,
     "lng": 65.7626,
     "country": "AF",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -139,11 +79,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18386862",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q383181",
@@ -152,10 +93,13 @@
     "lat": 34.52,
     "lng": 69.196667,
     "country": "AF",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -168,11 +112,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q383181",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5556050",
@@ -181,10 +126,13 @@
     "lat": 34.28319167,
     "lng": 70.65299722,
     "country": "AF",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": 14000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -192,11 +140,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5556050",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6344435",
@@ -205,10 +154,13 @@
     "lat": 34.55023,
     "lng": 69.03517,
     "country": "AF",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -216,11 +168,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6344435",
     "image_url": null,
     "website": "http://www.kabulgolfclub.org/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6344444",
@@ -233,6 +186,7 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -240,11 +194,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6344444",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q65052430",
@@ -253,10 +208,13 @@
     "lat": 34.871,
     "lng": 71.158,
     "country": "AF",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -264,10 +222,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65052430",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
