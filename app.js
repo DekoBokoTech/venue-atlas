@@ -106,6 +106,14 @@
     return d.innerHTML;
   }
 
+  function escAttr(s) {
+    return esc(s).replace(/"/g, '&quot;');
+  }
+
+  function isSafeUrl(url) {
+    return /^https?:\/\//i.test(url || '');
+  }
+
   var allPoints = [];
 
   var centroids = {};
@@ -254,8 +262,8 @@
     html += '<h2 class="panel-title">' + esc(d.name) + '</h2>';
     if (d.name_ja) html += '<p class="panel-title-ja">' + esc(d.name_ja) + '</p>';
 
-    if (d.website) {
-      html += '<a class="image-link" href="' + esc(d.website) + '" target="_blank" rel="noopener">';
+    if (d.website && isSafeUrl(d.website)) {
+      html += '<a class="image-link" href="' + escAttr(d.website) + '" target="_blank" rel="noopener">';
       html += '<span class="icon">🌐</span>';
       html += '<span class="meta"><span class="t">公式サイト / Official site</span><span class="s">' + esc(d.website.replace(/^https?:\/\//, '')) + '</span></span>';
       html += '<span class="arrow">↗</span></a>';
@@ -279,8 +287,8 @@
     if (d.teams && d.teams.length) {
       html += '<div class="team-list">';
       d.teams.forEach(function (t) {
-        var tag = t.url ? 'a' : 'span';
-        var hrefAttr = t.url ? ' href="' + esc(t.url) + '" target="_blank" rel="noopener"' : '';
+        var tag = (t.url && isSafeUrl(t.url)) ? 'a' : 'span';
+        var hrefAttr = (t.url && isSafeUrl(t.url)) ? ' href="' + escAttr(t.url) + '" target="_blank" rel="noopener"' : '';
         html += '<' + tag + ' class="team-chip"' + hrefAttr + '><span class="swatch"></span>' + esc(t.name) + '</' + tag + '>';
       });
       html += '</div>';
@@ -300,9 +308,9 @@
     html += '</div>';
 
     html += '<div class="sources"><div class="heading">出典 — SOURCES</div>';
-    if (d.wikidata_url) html += '<a class="source-link" href="' + esc(d.wikidata_url) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
-    else html += '<a class="source-link" href="' + esc('https://www.wikidata.org/wiki/' + d.id) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
-    if (d.wikipedia_url) html += '<a class="source-link" href="' + esc(d.wikipedia_url) + '" target="_blank" rel="noopener">Wikipedia <span class="arrow">↗</span></a>';
+    if (d.wikidata_url) html += '<a class="source-link" href="' + escAttr(d.wikidata_url) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
+    else html += '<a class="source-link" href="' + escAttr('https://www.wikidata.org/wiki/' + d.id) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
+    if (d.wikipedia_url) html += '<a class="source-link" href="' + escAttr(d.wikipedia_url) + '" target="_blank" rel="noopener">Wikipedia <span class="arrow">↗</span></a>';
     html += '</div>';
 
     panelScroll.innerHTML = html;
