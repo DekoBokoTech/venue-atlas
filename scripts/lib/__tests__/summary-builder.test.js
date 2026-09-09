@@ -63,15 +63,15 @@ test('buildSummary includes a teams-having record with null capacity, ranked aft
   assert.deepEqual(summary.map((r) => r.id), ['Q2', 'Q1']);
 }));
 
-test('buildSummary caps the result at 5000 records', () => withTempDir(async (dir) => {
-  const records = Array.from({ length: 5020 }, (_, i) => ({
-    id: 'Q' + i, name: 'S' + i, name_ja: null, lat: 0, lng: 0, country: 'XX', capacity: 5020 - i, teams: ['Q' + i + 'team'],
+test('buildSummary caps the result at 700 records', () => withTempDir(async (dir) => {
+  const records = Array.from({ length: 720 }, (_, i) => ({
+    id: 'Q' + i, name: 'S' + i, name_ja: null, lat: 0, lng: 0, country: 'XX', capacity: 720 - i, teams: ['Q' + i + 'team'],
   }));
   await writeFile(path.join(dir, 'XX.json'), JSON.stringify(records));
 
   const { summary } = await buildSummary(dir);
 
-  assert.equal(summary.length, 5000);
+  assert.equal(summary.length, 700);
   assert.equal(summary[0].id, 'Q0');
 }));
 

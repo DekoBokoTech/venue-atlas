@@ -2,10 +2,12 @@ import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 // Cap on the initial-load summary set (venues with a professional/notable team
-// occupant, per Wikidata P466). Generously above today's real count (~1,859) so
-// there's no behavior change now — it exists purely to protect against
-// unbounded payload growth as the nightly collector resolves more teams data.
-const SUMMARY_CAP = 5000;
+// occupant, per Wikidata P466), taking the highest-capacity ones first. Kept
+// deliberately small (matching the site's original top-700 density) so the
+// first view reads as "notable pro venues," not "every venue with any team
+// record" — the team-having pool is already ~1,859 and growing, so without a
+// tight cap here the initial view looks just as dense/uncurated as before.
+const SUMMARY_CAP = 700;
 export const PER_COUNTRY_CAP = 3000;
 
 export async function buildSummary(facilitiesDir) {
