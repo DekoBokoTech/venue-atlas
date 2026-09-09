@@ -12,13 +12,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110602093",
     "image_url": "Monte-Carlo, Tir Aux Pigeons. (135-91) (NBY 419785).jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q13385309",
@@ -33,14 +35,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rainier_III_Nautical_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13385309",
     "image_url": "Piscine de Monaco.jpg",
+    "website": "http://www.monaco-mairie.mc/produits/stade-nautique-rainier-iii",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q140113827",
@@ -55,13 +59,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q140113827",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q14922134",
@@ -76,13 +82,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14922134",
     "image_url": "Fontvieille - panoramio (4).jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q171400",
@@ -97,14 +105,21 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "モナコグランプリ",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E5%B8%82%E8%A1%97%E5%9C%B0%E3%82%B3%E3%83%BC%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q171400",
     "image_url": "MONACO FORMULA 1 TURN 1 - panoramio.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q22936222",
@@ -118,15 +133,22 @@
     "opened_year": 1985,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ASモナコ",
+        "url": "https://asmonaco.basketball"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Salle_Gaston_M%C3%A9decin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22936222",
     "image_url": "Salle Gaston Médecin.JPG",
+    "website": "http://www.stadelouis2.mc/installations-sportives/salle-omnisports/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q318851",
@@ -140,15 +162,27 @@
     "opened_year": 1981,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ASモナコ",
+        "url": "https://asmonaco.com"
+      }
+    ],
+    "events": [
+      {
+        "name": "Pope's visit to Monaco 2026",
+        "year": 2026
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%83%AB%E3%82%A4%E3%83%BB%E3%83%89%E3%82%A5",
     "wikidata_url": "https://www.wikidata.org/wiki/Q318851",
     "image_url": "Monaco Stade Louis-II 1.jpg",
+    "website": "http://www.stadelouis2.mc",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3446217",
@@ -162,14 +196,21 @@
     "opened_year": 1939,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ASモナコ",
+        "url": "https://asmonaco.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Louis_II_(1939)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3446217",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]
