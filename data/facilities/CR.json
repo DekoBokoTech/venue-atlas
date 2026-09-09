@@ -6,10 +6,13 @@
     "lat": 9.9225,
     "lng": -84.077222222,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,10 +20,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q11967977",
     "image_url": "Estadio Antonio Escarre.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130348326",
@@ -33,6 +37,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,33 +45,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q130348326",
     "image_url": "Guanacaste (2004) 19.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q131785182",
-    "name": "Q131785182",
-    "name_ja": null,
-    "lat": 10.4534897,
-    "lng": -84.276587,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q131785182",
-    "image_url": "Estadio de Pital.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369050",
@@ -75,10 +58,13 @@
     "lat": 10.021666666,
     "lng": -84.209166666,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 17700,
     "opened_year": 1942,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -95,11 +81,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369050",
     "image_url": "Estadio Morera Soto.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369626",
@@ -108,10 +95,13 @@
     "lat": 9.965427,
     "lng": -84.075455,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -124,11 +114,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369626",
     "image_url": "Kevin Montero Giralt.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16492923",
@@ -141,6 +132,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -148,10 +140,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16492923",
     "image_url": "Estadio Nicolás Masís.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16492931",
@@ -160,10 +153,13 @@
     "lat": 9.898888888,
     "lng": -83.675833333,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -176,33 +172,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16492931",
     "image_url": "Estadio Rafael Ángel Camacho.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16564649",
-    "name": "Q16564649",
-    "name_ja": null,
-    "lat": 9.91417,
-    "lng": -84.0431,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16564649",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1656772",
@@ -211,10 +185,13 @@
     "lat": 9.99963,
     "lng": -84.123065,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8068,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -227,11 +204,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1656772",
     "image_url": "Heredia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1657264",
@@ -244,6 +222,7 @@
     "capacity": 8831,
     "opened_year": 1949,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -256,11 +235,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1657264",
     "image_url": "Vista Aérea del Estadio José Rafael Fello Meza Ivancovich 2016 Ortogonal.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19607991",
@@ -269,10 +249,14 @@
     "lat": 9.921111111,
     "lng": -84.104138888,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール",
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -280,10 +264,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q19607991",
     "image_url": "BN Arena.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24284189",
@@ -292,10 +277,13 @@
     "lat": 10.0575,
     "lng": -84.429722222,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -303,10 +291,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q24284189",
     "image_url": "Estadio Jorge \"Palmareño\" Solís (2019).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24285240",
@@ -315,10 +304,13 @@
     "lat": 9.965555555,
     "lng": -84.047777777,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -326,10 +318,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q24285240",
     "image_url": "Estadio Luis Ángel 'Pipilo' Umaña.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2522000",
@@ -338,10 +331,13 @@
     "lat": 9.936389,
     "lng": -84.107778,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35175,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -354,11 +350,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2522000",
     "image_url": "Estadio Nacional de Costa Rica, 2011.jpg",
     "website": "https://www.youtube.com/watch?v=TD69nSyjgoU",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3067683",
@@ -367,10 +364,13 @@
     "lat": 9.9365,
     "lng": -84.107878,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": 1924,
-    "closed_year": null,
+    "closed_year": 2008,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -383,11 +383,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3067683",
     "image_url": "Antiguo Estadio Nacional de Costa Rica.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30915228",
@@ -400,6 +401,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -407,10 +409,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q30915228",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3371208",
@@ -419,10 +422,13 @@
     "lat": 9.94455,
     "lng": -84.0441,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -435,43 +441,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3371208",
     "image_url": "Estadio Ecológico.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495546",
-    "name": "Q3495546",
-    "name_ja": null,
-    "lat": 10.04083333,
-    "lng": -84.16055556,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": 3300,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "ADカルメリタ",
-        "url": null
-      },
-      {
-        "name": "La U Universitarios",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Alvarado_Stadium",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495546",
-    "image_url": "Estadio Carlos Alvarado.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata",
-      "Wikipedia"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495572",
@@ -480,10 +454,13 @@
     "lat": 10.211389,
     "lng": -83.789722,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -496,11 +473,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495572",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495574",
@@ -509,10 +487,13 @@
     "lat": 10.635833,
     "lng": -85.433333,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5979,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -525,11 +506,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495574",
     "image_url": "Nuevo Estadio Edgardo Baltodano Briceño.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495614",
@@ -538,10 +520,13 @@
     "lat": 10.091711,
     "lng": -84.476272,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": 1961,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -554,11 +539,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495614",
     "image_url": "Estadio Guillermo Vargas Roldán.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495661",
@@ -567,10 +553,13 @@
     "lat": 9.889628,
     "lng": -84.049322,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -583,11 +572,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495661",
     "image_url": "Estadio-cuty-monge-aerea-stadium-source.jpg",
     "website": "https://www.desamparados.go.cr/es/servicios/villa-olimpica",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495669",
@@ -596,10 +586,13 @@
     "lat": 9.991111111,
     "lng": -83.033055555,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2349,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -612,10 +605,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495669",
     "image_url": "Estadio Juan Gobán.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495703",
@@ -624,10 +618,13 @@
     "lat": 9.976422,
     "lng": -84.838781,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4105,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -635,51 +632,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495703",
     "image_url": "Estadio Miguel Ángel \"Lito\" Pérez.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495782",
-    "name": "Q3495782",
-    "name_ja": null,
-    "lat": 9.97276,
-    "lng": -84.0069,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "CSウルグアイ・デ・コロナド",
-        "url": "http://www.csuruguay.com"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495782",
-    "image_url": "Estadio Municipal El Labrador.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495785",
     "name": "Estadio Municipal de Pérez Zeledón",
     "name_ja": null,
-    "lat": 9.368786,
-    "lng": -83.704653,
+    "lat": 9.368611111,
+    "lng": -83.704444444,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3259,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -692,11 +665,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495785",
     "image_url": "Estadio-municipal-perez-zeledon-aerea-stadium-source.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495797",
@@ -705,10 +679,13 @@
     "lat": 9.988055555,
     "lng": -83.065833333,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -721,38 +698,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495797",
     "image_url": "Nuevo de limon.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q431546",
-    "name": "Q431546",
-    "name_ja": null,
-    "lat": 10.1389,
-    "lng": -85.4547,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": 4000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "AD Guanacasteca",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q431546",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q47482045",
@@ -761,10 +711,13 @@
     "lat": 9.995833333,
     "lng": -84.243611111,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2400,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -777,34 +730,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q47482045",
     "image_url": "Nuevo Estadio de Carmelita.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5577740",
-    "name": "Q5577740",
-    "name_ja": null,
-    "lat": 9.976944444,
-    "lng": -84.1925,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": 982,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5577740",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5847758",
@@ -813,10 +744,13 @@
     "lat": 10.07611111,
     "lng": -84.30944444,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3354,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -829,61 +763,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847758",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5847987",
-    "name": "Q5847987",
-    "name_ja": null,
-    "lat": 8.823611111,
-    "lng": -82.972777777,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": 4100,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Coto Brus Canton",
-        "url": "http://www.municotobrus.go.cr/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5847987",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q6116014",
-    "name": "Q6116014",
-    "name_ja": null,
-    "lat": 9.86389,
-    "lng": -84.0825,
-    "country": "CR",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q6116014",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q70146436",
@@ -892,10 +776,13 @@
     "lat": 9.958055555,
     "lng": -85.119444444,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -908,10 +795,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q70146436",
     "image_url": "Estadio Asociación Civica Jicaraleña.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7126322",
@@ -920,10 +808,13 @@
     "lat": 9.999154,
     "lng": -84.122131,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -931,11 +822,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7126322",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8842819",
@@ -948,6 +840,7 @@
     "capacity": 4200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -955,10 +848,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8842819",
     "image_url": "Estadio Colleya Fonseca (Cancha).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q967466",
@@ -967,10 +861,13 @@
     "lat": 10.334217,
     "lng": -84.43445,
     "country": "CR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -983,10 +880,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q967466",
     "image_url": "Panorama-del-Carlos-Ugalde.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
