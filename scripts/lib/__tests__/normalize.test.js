@@ -214,3 +214,46 @@ test('normalizeEntity returns empty teams/events arrays when there are no P466/P
   assert.deepEqual(record.teams, []);
   assert.deepEqual(record.events, []);
 });
+
+test('normalizeEntity filters out an event labeled 施工 (construction work)', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q125886420' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    claims: {
+      P793: [{ mainsnak: { datavalue: { value: { id: 'Q1' } } } }],
+    },
+  };
+  const relatedEntities = new Map([['Q1', { label: '施工', website: null, year: null }]]);
+
+  const record = normalizeEntity(coordBinding, entity, 'RS', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.events, []);
+});
+
+test('normalizeEntity filters out an English-labeled non-sporting event', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    claims: {
+      P793: [{ mainsnak: { datavalue: { value: { id: 'Q1' } } } }],
+    },
+  };
+  const relatedEntities = new Map([['Q1', { label: 'Groundbreaking ceremony', website: null, year: null }]]);
+
+  const record = normalizeEntity(coordBinding, entity, 'US', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.events, []);
+});
+
+test('normalizeEntity does not throw when called without relatedEntities on an entity with P466/P793 claims', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    claims: {
+      P466: [{ mainsnak: { datavalue: { value: { id: 'Q47774' } } } }],
+      P793: [{ mainsnak: { datavalue: { value: { id: 'Q1' } } } }],
+    },
+  };
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z');
+
+  assert.deepEqual(record.teams, []);
+  assert.deepEqual(record.events, []);
+});

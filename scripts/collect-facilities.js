@@ -83,7 +83,14 @@ async function collectCountry(countryQid, countryCode, countryIndex, totalCountr
         const entity = entities[qid];
         relatedQids.push(...resolveClaimIds(entity, 'P466'), ...resolveClaimIds(entity, 'P793'));
       }
-      const relatedEntities = await resolveRelatedEntities(relatedQids, relatedEntityCache);
+      let relatedEntities;
+      try {
+        relatedEntities = await resolveRelatedEntities(relatedQids, relatedEntityCache);
+      } catch (error) {
+        countryErrors.push(error.message);
+        allErrors.push(`[${countryCode}] related: ${error.message}`);
+        break;
+      }
 
       const records = coordBindings
         .map((binding) => {

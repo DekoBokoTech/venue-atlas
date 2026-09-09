@@ -18,7 +18,7 @@ function wikipediaUrlFromSitelink(sitelinks, site, lang) {
 
 const TEAM_CAP = 4;
 const EVENT_CAP = 5;
-const NON_SPORTING_EVENT_PATTERN = /テロ|事件|着工|竣工/;
+const NON_SPORTING_EVENT_PATTERN = /テロ|事件|着工|竣工|施工|attack|bombing|groundbreaking|demolition/i;
 
 export function resolveClaimIds(entity, property) {
   return (entity?.claims?.[property] ?? [])
@@ -26,7 +26,7 @@ export function resolveClaimIds(entity, property) {
     .filter(Boolean);
 }
 
-export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, relatedEntities) {
+export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, relatedEntities = new Map()) {
   if (!coordBinding.coord) return null;
   const coord = parsePoint(coordBinding.coord.value);
   if (!coord) return null;
