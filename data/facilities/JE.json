@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q130262864",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q24748156",
@@ -34,6 +36,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,11 +44,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748156",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2769854",
@@ -54,10 +58,13 @@
     "lat": 49.192375,
     "lng": -2.218444,
     "country": "JE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -65,11 +72,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2769854",
     "image_url": "La Moye Golf Club Jersey a.jpg",
     "website": "https://www.lamoyegolfclub.co.uk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5424688",
@@ -82,6 +90,7 @@
     "capacity": null,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -94,11 +103,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5424688",
     "image_url": "FB Fields 01.jpg",
     "website": "http://www.gov.je/Leisure/Sport/Facilities/Outdoor/Pages/FbPlayingFields.aspx",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5575736",
@@ -111,6 +121,7 @@
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -123,11 +134,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5575736",
     "image_url": "Springfield côtchiéthe Saint Hélyi.jpg",
     "website": "http://www.gov.je/Leisure/Sport/Facilities/Indoor/Pages/Springfield.aspx",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7401356",
@@ -140,6 +152,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -147,11 +160,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7401356",
     "image_url": "Jersey Boat Show.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7591439",
@@ -164,6 +178,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -176,10 +191,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7591439",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
