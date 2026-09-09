@@ -47,6 +47,30 @@ export async function buildSummary(facilitiesDir) {
   return { summary, centroids };
 }
 
+export async function buildSearchIndex(facilitiesDir) {
+  const files = (await readdir(facilitiesDir)).filter((f) => f.endsWith('.json'));
+  const index = [];
+
+  for (const file of files) {
+    const content = await readFile(path.join(facilitiesDir, file), 'utf-8');
+    const records = JSON.parse(content);
+
+    for (const record of records) {
+      index.push({
+        id: record.id,
+        name: record.name,
+        name_ja: record.name_ja,
+        lat: record.lat,
+        lng: record.lng,
+        country: record.country,
+        capacity: record.capacity,
+      });
+    }
+  }
+
+  return index;
+}
+
 function byCapacityDescNullsLast(a, b) {
   const aNull = a.capacity == null;
   const bNull = b.capacity == null;

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { buildSummary, buildWebFacilities, PER_COUNTRY_CAP } from '../summary-builder.js';
+import { buildSummary, buildWebFacilities, buildSearchIndex, PER_COUNTRY_CAP } from '../summary-builder.js';
 
 async function withTempDir(fn) {
   const dir = await mkdtemp(path.join(tmpdir(), 'summary-builder-'));
@@ -188,4 +188,47 @@ test('buildWebFacilities creates outDir recursively if it does not exist', () =>
 
   const written = JSON.parse(await readFile(path.join(nestedOutDir, 'XX.json'), 'utf-8'));
   assert.equal(written.length, 1);
+}));
+
+test('buildSearchIndex includes every record across multiple country files, not just a capped subset', () => withTempDir(async (dir) => {
+  const xxRecords = Array.from({ length: 10 }, (_, i) => ({
+    id: 'X' + i, name: 'X' + i, name_ja: null, lat: 0, lng: 0, country: 'XX', capacity: i,
+  }));
+  const yyRecords = Array.from({ length: 5 }, (_, i) => ({
+    id: 'Y' + i, name: 'Y' + i, name_ja: null, lat: 0, lng: 0, country: 'YY', capacity: i,
+  }));
+  await writeFile(path.join(dir, 'XX.json'), JSON.stringify(xxRecords));
+  await writeFile(path.join(dir, 'YY.json'), JSON.stringify(yyRecords));
+
+  const index = await buildSearchIndex(dir);
+
+  assert.equal(index.length, 15);
+}));
+
+test('buildSearchIndex includes records with null capacity', () => withTempDir(async (dir) => {
+  await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
+    { id: 'Q1', name: 'NoCapacity', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: null },
+  ]));
+
+  const index = await buildSearchIndex(dir);
+
+  assert.deepEqual(index.map((r) => r.id), ['Q1']);
+}));
+
+test('buildSearchIndex only includes the fields needed for search', () => withTempDir(async (dir) => {
+  await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
+    { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, is_existing: true, wikidata_url: 'https://www.wikidata.org/wiki/Q1', teams: [], events: [] },
+  ]));
+
+  const index = await buildSearchIndex(dir);
+
+  assert.deepEqual(index[0], { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000 });
+}));
+
+test('buildSearchIndex contributes zero entries from an empty country file', () => withTempDir(async (dir) => {
+  await writeFile(path.join(dir, 'EMPTY.json'), JSON.stringify([]));
+
+  const index = await buildSearchIndex(dir);
+
+  assert.deepEqual(index, []);
 }));
