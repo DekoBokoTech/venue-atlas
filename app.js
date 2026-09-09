@@ -299,11 +299,14 @@
     return RADIUS_MIN_SCALE + (1 - RADIUS_MIN_SCALE) * t;
   }
 
-  // Same capacity-based baseline as before (0.32..0.87 "globe units"),
-  // multiplied by the live zoom-based scale factor so big stadiums still
-  // read as bigger than small ones at any zoom level.
+  // Capacity-based baseline, roughly halved from the previous 0.32..0.87
+  // range per user feedback ("マーカーはもっと細くしたい" - markers should be
+  // thinner still) which was reported at the default whole-globe view
+  // (altitude ~2.3, i.e. scale=1.0, so only this baseline range matters
+  // there), multiplied by the live zoom-based scale factor so big stadiums
+  // still read as bigger than small ones at any zoom level.
   function pointRadiusFn(d) {
-    var base = 0.32 + Math.min(d.capacity || 0, 200000) / 200000 * 0.55;
+    var base = 0.16 + Math.min(d.capacity || 0, 200000) / 200000 * 0.28;
     return base * pointRadiusScaleForAltitude(currentAltitude);
   }
 
