@@ -1,33 +1,5 @@
 [
   {
-    "id": "Q16530398",
-    "name": "Q16530398",
-    "name_ja": null,
-    "lat": -7.92391,
-    "lng": -14.4067,
-    "country": "SH",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Ascension Island Football League",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16530398",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q5482211",
     "name": "Francis Plain Playing Field",
     "name_ja": null,
@@ -38,6 +10,7 @@
     "capacity": 2000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -45,10 +18,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5482211",
     "image_url": "Francis Plain (16261769307).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
