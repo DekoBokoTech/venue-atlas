@@ -1,51 +1,5 @@
 [
   {
-    "id": "Q16605641",
-    "name": "Q16605641",
-    "name_ja": null,
-    "lat": 11.1573,
-    "lng": 42.7073,
-    "country": "DJ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605641",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605686",
-    "name": "Q16605686",
-    "name_ja": null,
-    "lat": 11.5825,
-    "lng": 43.1543,
-    "country": "DJ",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605686",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q2945087",
     "name": "Combat Training Center at Arta Beach",
     "name_ja": null,
@@ -56,6 +10,7 @@
     "capacity": null,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -63,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2945087",
     "image_url": "CECAP 2.jpg",
     "website": "http://www.troupesdemarine.org/actuel/unites/5riaom.htm",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3064296",
@@ -76,10 +32,13 @@
     "lat": 11.57413889,
     "lng": 43.13188889,
     "country": "DJ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": 1993,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -92,10 +51,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3064296",
     "image_url": "El Hadj Hassan Gouled Aptidon Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
