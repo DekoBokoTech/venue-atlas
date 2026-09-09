@@ -6,10 +6,13 @@
     "lat": 12.513055555,
     "lng": -70.023611111,
     "country": "AW",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,11 +25,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1121555",
     "image_url": "Trinidad Stadium Aruba Pitch.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q117089397",
@@ -35,10 +39,13 @@
     "lat": 12.514088825,
     "lng": -70.026777722,
     "country": "AW",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -46,10 +53,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117089397",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q132183073",
@@ -58,10 +66,13 @@
     "lat": 12.448024,
     "lng": -69.945236,
     "country": "AW",
-    "sport_types": [],
+    "sport_types": [
+      "競泳"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -69,33 +80,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q132183073",
     "image_url": "Piscina Olimpico na Savaneta, Atuba.jpeg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16582589",
-    "name": "Q16582589",
-    "name_ja": null,
-    "lat": 12.5662,
-    "lng": -70.035,
-    "country": "AW",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16582589",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q19259698",
@@ -108,6 +97,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -115,56 +105,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q19259698",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q1983132",
-    "name": "Q1983132",
-    "name_ja": null,
-    "lat": 12.539719,
-    "lng": -70.056744,
-    "country": "AW",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q1983132",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q2030572",
-    "name": "Q2030572",
-    "name_ja": null,
-    "lat": 12.45135,
-    "lng": -69.889547,
-    "country": "AW",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2030572",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5360550",
@@ -173,10 +118,13 @@
     "lat": 12.509234,
     "lng": -70.022239,
     "country": "AW",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -184,11 +132,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5360550",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q576959",
@@ -201,6 +150,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -208,11 +158,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q576959",
     "image_url": "Antilla.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6980582",
@@ -225,6 +176,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -232,10 +184,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6980582",
     "image_url": "Aruba-Natural-Pool-2013.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
