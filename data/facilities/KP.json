@@ -1,26 +1,28 @@
 [
   {
-    "id": "Q107455744",
-    "name": "Q107455744",
+    "id": "Q107454605",
+    "name": "Chongchun Sports Street",
     "name_ja": null,
-    "lat": 39.035127914,
-    "lng": 125.762676,
+    "lat": 39.014790687,
+    "lng": 125.684205293,
     "country": "KP",
     "sport_types": [],
     "capacity": null,
-    "opened_year": null,
+    "opened_year": 1989,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
     "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q107455744",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q107454605",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1137515",
@@ -29,10 +31,13 @@
     "lat": 39.043722222,
     "lng": 125.757694444,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 70000,
     "opened_year": 1926,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -49,11 +54,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1137515",
     "image_url": "North Korea v Philippines, 8 October 2015 C.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114880084",
@@ -66,6 +72,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -73,10 +80,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q114880084",
     "image_url": "North Korea 046 (6160327725).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q123284415",
@@ -89,6 +97,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -96,10 +105,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q123284415",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1234669",
@@ -108,10 +118,15 @@
     "lat": 39.02286,
     "lng": 125.7313,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー",
+      "スピードスケート",
+      "フィギュアスケート"
+    ],
     "capacity": 6000,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -119,11 +134,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1234669",
     "image_url": "Pyongyang-Ice-Rink-2014.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12588564",
@@ -136,6 +152,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -143,11 +160,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q12588564",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12621796",
@@ -160,6 +178,7 @@
     "capacity": 600,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -167,11 +186,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q12621796",
     "image_url": "International House of Culture top roof view from Yanggakdo Hotel.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131129575",
@@ -184,6 +204,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -191,10 +212,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q131129575",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16602030",
@@ -207,6 +229,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -214,11 +237,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16602030",
     "image_url": "Masikryong North Korea Ski Resort (12299601295).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17198628",
@@ -231,6 +255,7 @@
     "capacity": null,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -238,11 +263,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17198628",
     "image_url": "Munsu Water Park - Pyongyang, North Korea (11511854045).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18654918",
@@ -251,10 +277,13 @@
     "lat": 38.9974,
     "lng": 125.75,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -262,10 +291,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18654918",
     "image_url": "Yangjiaodao.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19720787",
@@ -278,6 +308,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -285,10 +316,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q19720787",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q211618",
@@ -297,10 +329,13 @@
     "lat": 39.049722222,
     "lng": 125.775277777,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 114000,
     "opened_year": 1989,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -313,11 +348,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q211618",
     "image_url": "Rŭngrado May First Stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25056913",
@@ -326,10 +362,13 @@
     "lat": 38.8937,
     "lng": 125.4355,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -337,11 +376,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q25056913",
     "image_url": "7th Hole, Pyongyang Golf Club.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28195938",
@@ -350,10 +390,13 @@
     "lat": 39.028742,
     "lng": 125.767359,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "スケートボーディング"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -361,11 +404,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28195938",
     "image_url": "Pyongyang Skate Rink (10875726704).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q38253692",
@@ -378,6 +422,7 @@
     "capacity": null,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -385,11 +430,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q38253692",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q39980",
@@ -402,6 +448,7 @@
     "capacity": null,
     "opened_year": 1948,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -409,11 +456,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q39980",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q48927153",
@@ -422,10 +470,13 @@
     "lat": 39.0143,
     "lng": 125.8466,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "乗馬"
+    ],
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -433,10 +484,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q48927153",
     "image_url": "Mirim Equestrian Horse Riding Club (11511845375).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5329205",
@@ -445,10 +497,13 @@
     "lat": 39.0016,
     "lng": 125.8328,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -456,11 +511,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5329205",
     "image_url": "East Pyongyang Stadium JS bin.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5516663",
@@ -473,6 +529,7 @@
     "capacity": 35000,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -480,11 +537,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5516663",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5638169",
@@ -497,6 +555,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -504,11 +563,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5638169",
     "image_url": "Haeju Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5644546",
@@ -521,6 +581,7 @@
     "capacity": 35000,
     "opened_year": 1981,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -528,11 +589,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5644546",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5876492",
@@ -545,6 +607,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -552,11 +615,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5876492",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5952037",
@@ -569,6 +633,7 @@
     "capacity": 7500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -576,11 +641,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5952037",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6410033",
@@ -593,6 +659,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -605,11 +672,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6410033",
     "image_url": "Kimchaek Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65239165",
@@ -622,6 +690,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -629,10 +698,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65239165",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6716493",
@@ -645,6 +715,7 @@
     "capacity": null,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -652,11 +723,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6716493",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6962044",
@@ -665,10 +737,13 @@
     "lat": 38.734552777,
     "lng": 125.367155555,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -676,11 +751,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6962044",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q698088",
@@ -689,10 +765,13 @@
     "lat": 39.04,
     "lng": 125.735,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "バレーボール"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -700,11 +779,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q698088",
     "image_url": "Ryugyong Chung Joo Young Sports Stadium (15890076640).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q708572",
@@ -713,10 +793,13 @@
     "lat": 38.991547222,
     "lng": 125.743525,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1989,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -729,11 +812,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q708572",
     "image_url": "Yanggakdo stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7424137",
@@ -746,6 +830,7 @@
     "capacity": 35000,
     "opened_year": 1981,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -753,11 +838,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7424137",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7451630",
@@ -766,10 +852,13 @@
     "lat": 39.005277777,
     "lng": 125.691388888,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -777,11 +866,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7451630",
     "image_url": "Chongchun Street - 16.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7525167",
@@ -790,10 +880,13 @@
     "lat": 40.110525,
     "lng": 124.414083333,
     "country": "KP",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 17500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -806,11 +899,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7525167",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7638805",
@@ -823,6 +917,7 @@
     "capacity": 40000,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -830,10 +925,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7638805",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8032099",
@@ -846,6 +942,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -853,11 +950,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8032099",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96385958",
@@ -870,6 +968,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -877,10 +976,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q96385958",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
