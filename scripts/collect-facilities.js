@@ -21,6 +21,13 @@ const MAX_PAGES_PER_COUNTRY = Number(process.env.COLLECT_MAX_PAGES_PER_COUNTRY) 
 const MAX_COUNTRIES = Number(process.env.COLLECT_MAX_COUNTRIES) || Infinity;
 const PAGE_DELAY_MS = 200;
 const COMMIT_EVERY_PAGES = Number(process.env.COLLECT_COMMIT_EVERY_PAGES) || 10;
+// Cooldown after a country's scan/enrich/related query fails (typically a
+// Wikidata rate-limit or timeout). Without this, an errored country falls
+// through to the next one with zero delay, and immediately issuing another
+// SPARQL request while WDQS is already rate-limiting/timing out just
+// compounds the problem — observed live as three consecutive countries
+// (FR/US/DE) each failing outright (429/504) with no recovery between them.
+const COUNTRY_ERROR_COOLDOWN_MS = Number(process.env.COLLECT_COUNTRY_ERROR_COOLDOWN_MS) || 10000;
 
 // Loads the RES (French sports-facility registry) numero -> nom lookup
 // generated manually by scripts/fetch-res-names.js, as a Map. This script
@@ -206,7 +213,8 @@ async function main() {
     grandUpdated += updatedCount;
     grandDeleted += deletedCount;
     if (errorCount > 0) {
-      console.log(`[${countryCode}] stopped early after an error; moving on to the next country.`);
+      console.log(`[${countryCode}] stopped early after an error; cooling down ${COUNTRY_ERROR_COOLDOWN_MS}ms before the next country.`);
+      await new Promise((resolve) => setTimeout(resolve, COUNTRY_ERROR_COOLDOWN_MS));
     }
   }
 
