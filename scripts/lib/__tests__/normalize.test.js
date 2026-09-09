@@ -16,6 +16,7 @@ test('normalizeEntity extracts all fields from a full coord binding + entity', (
       P1083: [{ mainsnak: { datavalue: { value: { amount: '+50000' } } } }],
       P571: [{ mainsnak: { datavalue: { value: { time: '+1990-04-01T00:00:00Z' } } } }],
       P18: [{ mainsnak: { datavalue: { value: 'Test.jpg' } } }],
+      P856: [{ mainsnak: { datavalue: { value: 'https://example.com' } } }],
     },
     sitelinks: {
       jawiki: { title: 'Test Stadium' },
@@ -40,6 +41,7 @@ test('normalizeEntity extracts all fields from a full coord binding + entity', (
     wikipedia_url: 'https://ja.wikipedia.org/wiki/Test_Stadium',
     wikidata_url: 'https://www.wikidata.org/wiki/Q123456',
     image_url: 'Test.jpg',
+    website: 'https://example.com',
     sources: ['Wikidata', 'Wikipedia'],
     last_synced_at: '2026-09-08T00:00:00.000Z',
   });
@@ -87,4 +89,31 @@ test('normalizeEntity falls back to the English Wikipedia sitelink when no Japan
 
   assert.equal(record.wikipedia_url, 'https://en.wikipedia.org/wiki/Some_Stadium');
   assert.deepEqual(record.sources, ['Wikidata', 'Wikipedia']);
+});
+
+test('normalizeEntity extracts the facility website from P856', () => {
+  const coordBinding = {
+    item: { value: 'http://www.wikidata.org/entity/Q13205' },
+    coord: { value: 'Point(2.36 48.924444)' },
+  };
+  const entity = {
+    claims: {
+      P856: [{ mainsnak: { datavalue: { value: 'http://www.stadefrance.com/' } } }],
+    },
+  };
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z');
+
+  assert.equal(record.website, 'http://www.stadefrance.com/');
+});
+
+test('normalizeEntity leaves website null when P856 is absent', () => {
+  const coordBinding = {
+    item: { value: 'http://www.wikidata.org/entity/Q1' },
+    coord: { value: 'Point(0.0 0.0)' },
+  };
+
+  const record = normalizeEntity(coordBinding, {}, 'FR', '2026-09-09T00:00:00.000Z');
+
+  assert.equal(record.website, null);
 });

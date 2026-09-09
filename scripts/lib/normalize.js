@@ -28,6 +28,7 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt) {
   const capacityAmount = entity?.claims?.P1083?.[0]?.mainsnak?.datavalue?.value?.amount;
   const inceptionTime = entity?.claims?.P571?.[0]?.mainsnak?.datavalue?.value?.time;
   const imageValue = entity?.claims?.P18?.[0]?.mainsnak?.datavalue?.value;
+  const websiteValue = entity?.claims?.P856?.[0]?.mainsnak?.datavalue?.value;
 
   const wikipediaUrlJa = wikipediaUrlFromSitelink(entity?.sitelinks, 'jawiki', 'ja');
   const wikipediaUrlEn = wikipediaUrlFromSitelink(entity?.sitelinks, 'enwiki', 'en');
@@ -49,6 +50,7 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt) {
     wikipedia_url: wikipediaUrl,
     wikidata_url: `https://www.wikidata.org/wiki/${qid}`,
     image_url: imageValue ?? null,
+    website: websiteValue ?? null,
     sources: wikipediaUrl ? ['Wikidata', 'Wikipedia'] : ['Wikidata'],
     last_synced_at: syncedAt,
   };
