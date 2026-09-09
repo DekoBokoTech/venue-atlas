@@ -10,16 +10,25 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CCDロス・カイマネス",
+        "url": "https://www.facebook.com/pg/Club-Los-Caimanes-Oficial-240614479810455/posts/?ref=page_internal"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Francisco_Mendoza_Pizarro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10955005",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110829679",
@@ -28,20 +37,26 @@
     "lat": -5.448333333,
     "lng": -80.740277777,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_de_Bernal",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110829679",
     "image_url": "Estadio Municipal de Bernal - Enero 2022.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113570076",
@@ -54,36 +69,19 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113570076",
     "image_url": "Qaphacñan Cajamarca.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q118452608",
-    "name": "Q118452608",
-    "name_ja": null,
-    "lat": -4.925523,
-    "lng": -80.345776,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q118452608",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124356108",
@@ -92,40 +90,25 @@
     "lat": -12.063106623,
     "lng": -77.121946019,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124356108",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q124660833",
-    "name": "Q124660833",
-    "name_ja": null,
-    "lat": -6.647834623,
-    "lng": -79.789626071,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 6000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q124660833",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q126365855",
@@ -134,19 +117,25 @@
     "lat": -12.0725,
     "lng": -77.054611111,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
-    "closed_year": null,
+    "closed_year": 1940,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126365855",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q129115",
@@ -155,20 +144,35 @@
     "lat": -13.525,
     "lng": -71.966,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 34500,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "シエンシアーノ",
+        "url": null
+      },
+      {
+        "name": "Club Deportivo Garcilaso",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Garcilaso",
     "wikidata_url": "https://www.wikidata.org/wiki/Q129115",
     "image_url": "Estadio Inca Garcilaso De la vega.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130236631",
@@ -177,20 +181,26 @@
     "lat": -13.173499232,
     "lng": -74.209782624,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Las_Am%C3%A9ricas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q130236631",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130296107",
@@ -203,15 +213,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130296107",
     "image_url": "Y todavía no.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130332956",
@@ -224,57 +238,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130332956",
     "image_url": "Ministra de Defensa sobrevoló diferentes distritos de la capital para supervisar desarrollo del proceso electoral (51109821891).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q130357822",
-    "name": "Q130357822",
-    "name_ja": null,
-    "lat": -12.081359561,
-    "lng": -77.054490881,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q130357822",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q130536235",
-    "name": "Q130536235",
-    "name_ja": null,
-    "lat": -7.815633,
-    "lng": -78.042583,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q130536235",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1331178",
@@ -283,20 +259,31 @@
     "lat": -16.40729,
     "lng": -71.520203,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40370,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FBCメルガール",
+        "url": "https://fbcmelgar.com.pe/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Monumental_Virgen_de_Chapi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1331178",
     "image_url": "Tribuna Occidente Estadio Virgen de Chapi.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q133882637",
@@ -305,20 +292,26 @@
     "lat": -8.026858814,
     "lng": -79.073437283,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_C%C3%A9sar_Acu%C3%B1a_Peralta",
     "wikidata_url": "https://www.wikidata.org/wiki/Q133882637",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q134455053",
@@ -331,37 +324,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Complejo_Juan_Pablo_II",
     "wikidata_url": "https://www.wikidata.org/wiki/Q134455053",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q134698473",
-    "name": "Q134698473",
-    "name_ja": null,
-    "lat": -14.043055555,
-    "lng": -75.697222222,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q134698473",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q135961532",
@@ -370,19 +346,25 @@
     "lat": -13.151829,
     "lng": -74.222425,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135961532",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q136707836",
@@ -391,20 +373,32 @@
     "lat": -13.406,
     "lng": -76.1325,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": null,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーペルー女子代表",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_F%C3%A9lix_Castillo_Tard%C3%ADo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q136707836",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369054",
@@ -413,20 +407,31 @@
     "lat": -12.068542,
     "lng": -77.022886,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 33938,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アリアンサ・リマ",
+        "url": "https://clubalianzalima.com.pe/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alejandro_Villanueva_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369054",
     "image_url": "Vista aérea del Estadio Alejandro Villanueva 2023.jpg",
+    "website": "https://clubalianzalima.com.pe",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369199",
@@ -435,20 +440,31 @@
     "lat": -6.768333,
     "lng": -79.860833,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 24500,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "フアン・アウリチ",
+        "url": "http://www.clubjuanaurich.com.pe"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_El%C3%ADas_Aguirre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369199",
     "image_url": "Panorámica del estadio \"Elias Aguirre\" de la ciudad de Chiclayo.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369426",
@@ -457,20 +473,31 @@
     "lat": -12.055694,
     "lng": -76.935972,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 80093,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウニベルシタリオ・デポルテス",
+        "url": "https://universitario.pe/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A2%E3%83%8C%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB_(%E3%83%9A%E3%83%AB%E3%83%BC)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369426",
     "image_url": "Estadio Monumental 2021.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369495",
@@ -479,41 +506,38 @@
     "lat": -12.067138888,
     "lng": -77.033722222,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技",
+      "パワーリフティング",
+      "格闘技"
+    ],
     "capacity": 43086,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーペルー代表",
+        "url": "https://fpf.org.pe/seleccion-mayor/"
+      },
+      {
+        "name": "CAデフェンソール・リマ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%8A%E3%82%B7%E3%82%AA%E3%83%8A%E3%83%AB_(%E3%83%AA%E3%83%9E)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369495",
     "image_url": "Vista aérea del estadio nacional del Perú (2021).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q138640514",
-    "name": "Q138640514",
-    "name_ja": null,
-    "lat": -12.054551,
-    "lng": -77.045325,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q138640514",
-    "image_url": "Palacio de los Deportes Jai Alai.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q138662993",
@@ -526,57 +550,24 @@
     "capacity": 3000,
     "opened_year": 2025,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Juan Pablo II College Sports Club Association",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138662993",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q139784545",
-    "name": "Q139784545",
-    "name_ja": null,
-    "lat": -5.212862206,
-    "lng": -80.10041131,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139784545",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q139843707",
-    "name": "Q139843707",
-    "name_ja": null,
-    "lat": -12.114103,
-    "lng": -77.009858,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139843707",
-    "image_url": "Entrada Estadio Municipal Carlos A. Moscoso.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q140196019",
@@ -589,15 +580,19 @@
     "capacity": null,
     "opened_year": 1920,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q140196019",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1592544",
@@ -610,163 +605,20 @@
     "capacity": 13773,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Hugo_Sotil",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1592544",
     "image_url": "Ivan Elias Moreno.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q16491298",
-    "name": "Q16491298",
-    "name_ja": null,
-    "lat": -8.089247,
-    "lng": -79.120494,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16491298",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q16491301",
-    "name": "Q16491301",
-    "name_ja": null,
-    "lat": -8.143984,
-    "lng": -79.036589,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16491301",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q16491305",
-    "name": "Q16491305",
-    "name_ja": null,
-    "lat": -8.118197,
-    "lng": -79.016767,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 5500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16491305",
-    "image_url": "Inauguración XVII Juegos Bolivarianos Trujillo 2013.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q16492903",
-    "name": "Q16492903",
-    "name_ja": null,
-    "lat": -8.117979,
-    "lng": -79.016333,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 5500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16492903",
-    "image_url": "Estadio Chan Chan.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q16564684",
-    "name": "Q16564684",
-    "name_ja": null,
-    "lat": -14.781595,
-    "lng": -71.41425,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 12000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16564684",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q16619228",
-    "name": "Q16619228",
-    "name_ja": null,
-    "lat": -8.106439,
-    "lng": -79.029657,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16619228",
-    "image_url": "PiscinaOlimpicaMansiche.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q16620765",
-    "name": "Q16620765",
-    "name_ja": null,
-    "lat": -8.118601,
-    "lng": -79.017337,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16620765",
-    "image_url": "Polideportivo Huaca del Sol.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16830535",
@@ -779,78 +631,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16830535",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q17631540",
-    "name": "Q17631540",
-    "name_ja": null,
-    "lat": -12.04847,
-    "lng": -75.224205,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q17631540",
-    "image_url": "Estadio Mariscal Castilla (16624542763).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q17632546",
-    "name": "Q17632546",
-    "name_ja": null,
-    "lat": -16.43105,
-    "lng": -71.546037,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q17632546",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q20022000",
-    "name": "Q20022000",
-    "name_ja": null,
-    "lat": -12.069567,
-    "lng": -77.042703,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20022000",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20895273",
@@ -859,20 +652,26 @@
     "lat": -6.697335,
     "lng": -79.904494,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_C%C3%A9sar_Flores_Marigorda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20895273",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20896423",
@@ -885,15 +684,19 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20896423",
     "image_url": "PLENARIO DE COMITES REGIONALES.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20902296",
@@ -906,36 +709,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20902296",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q21573905",
-    "name": "Q21573905",
-    "name_ja": null,
-    "lat": -5.562201,
-    "lng": -80.822919,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q21573905",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2190996",
@@ -944,41 +730,31 @@
     "lat": -3.743611,
     "lng": -73.252778,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 24576,
     "opened_year": 1942,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Colegio Nacional Iquitos",
+        "url": "http://www.cni.pe/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Max_August%C3%ADn",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2190996",
     "image_url": "Max augustin drone.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q22752531",
-    "name": "Q22752531",
-    "name_ja": null,
-    "lat": -4.8870528,
-    "lng": -80.6790947,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q22752531",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2364041",
@@ -987,83 +763,31 @@
     "lat": -15.83691,
     "lng": -70.022028,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Alfonso Ugarte de Puno",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_E._Torres_Bel%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2364041",
     "image_url": "Estadio Enrique Torres Belon de Puno.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q23995153",
-    "name": "Q23995153",
-    "name_ja": null,
-    "lat": -12.148096,
-    "lng": -76.953232,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q23995153",
-    "image_url": "Campo de Béisbol - Lima 2019.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q26553066",
-    "name": "Q26553066",
-    "name_ja": null,
-    "lat": -12.704195,
-    "lng": -76.631169,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q26553066",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q26556903",
-    "name": "Q26556903",
-    "name_ja": null,
-    "lat": -12.0820244,
-    "lng": -76.9287849,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q26556903",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q26559685",
@@ -1076,58 +800,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Costa_Verde_Pan-American_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q26559685",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q26863447",
-    "name": "Q26863447",
-    "name_ja": null,
-    "lat": -12.081638888,
-    "lng": -76.998277777,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 12000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q26863447",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q26863798",
-    "name": "Q26863798",
-    "name_ja": null,
-    "lat": -12.351864,
-    "lng": -76.8156,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q26863798",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2744878",
@@ -1140,16 +826,20 @@
     "capacity": null,
     "opened_year": 1766,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Plaza_de_toros_de_Acho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2744878",
     "image_url": "Plaza Acho.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28124248",
@@ -1162,16 +852,20 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_IPD_de_Nueva_Cajamarca",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28124248",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2835306",
@@ -1180,20 +874,36 @@
     "lat": -5.192174,
     "lng": -80.616797,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 18000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アトレティコ・グラウ",
+        "url": null
+      },
+      {
+        "name": "アリアンサ・アトレティコ",
+        "url": "http://alianzaatletico-peru.blogspot.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Miguel_Grau_(Piura)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2835306",
     "image_url": "ESTADIO MIGUEL GRAU (PIURA) INTERIOR.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2838923",
@@ -1202,41 +912,31 @@
     "lat": -12.057916,
     "lng": -77.083634,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 67469,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "国立サン・マルコス大学",
+        "url": "https://www.unmsm.edu.pe"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Universidad_San_Marcos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2838923",
     "image_url": "UNMSM Estadio San Marcos - 2019.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q2917855",
-    "name": "Q2917855",
-    "name_ja": null,
-    "lat": -12.067772,
-    "lng": -77.038685,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2917855",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3033412",
@@ -1245,83 +945,31 @@
     "lat": -16.408803,
     "lng": -71.535024,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FBCメルガール",
+        "url": "https://fbcmelgar.com.pe/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Melgar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3033412",
     "image_url": "Estadio Mariano Melgar.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q30917230",
-    "name": "Q30917230",
-    "name_ja": null,
-    "lat": -15.826589,
-    "lng": -70.015757,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30917230",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q34560121",
-    "name": "Q34560121",
-    "name_ja": null,
-    "lat": -7.2446339,
-    "lng": -79.4637086,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q34560121",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q34560771",
-    "name": "Q34560771",
-    "name_ja": null,
-    "lat": -14.2755196,
-    "lng": -71.2350774,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q34560771",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3733343",
@@ -1330,20 +978,31 @@
     "lat": -12.067138888,
     "lng": -77.033722222,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40000,
     "opened_year": 1897,
-    "closed_year": null,
+    "closed_year": 1951,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーペルー代表",
+        "url": "https://fpf.org.pe/seleccion-mayor/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Nacional_(1897)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3733343",
     "image_url": "Marcha escolar en el Estado nacional de Lima en 1924.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4117009",
@@ -1352,62 +1011,32 @@
     "lat": -12.072778,
     "lng": -75.201944,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 24450,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルト・ワンカヨ",
+        "url": "http://elsporthuancayo.blogspot.ch/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Huancayo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4117009",
     "image_url": "Estadio Huancayo Noche.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q41843977",
-    "name": "Q41843977",
-    "name_ja": null,
-    "lat": -12.60165,
-    "lng": -69.186813,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q41843977",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q44648875",
-    "name": "Q44648875",
-    "name_ja": null,
-    "lat": -12.5927523,
-    "lng": -69.1971922,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q44648875",
-    "image_url": "Puerto Maldonado, Peru - panoramio (14).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q48573470",
@@ -1416,20 +1045,26 @@
     "lat": -6.231387,
     "lng": -77.867984,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ku%C3%A9lap",
     "wikidata_url": "https://www.wikidata.org/wiki/Q48573470",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5145739",
@@ -1442,16 +1077,20 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseo_Amauta",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5145739",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5145740",
@@ -1464,16 +1103,25 @@
     "capacity": 13000,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "バレーボールペルー女子代表",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseo_Cerrado",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5145740",
     "image_url": null,
+    "website": "http://www.ipd.gob.pe/coliseo-casa-de-la-juventud",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5145746",
@@ -1486,16 +1134,25 @@
     "capacity": 4600,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "バスケットボールペルー代表",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseo_Eduardo_Dib%C3%B3s",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5145746",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5145750",
@@ -1508,16 +1165,25 @@
     "capacity": 7000,
     "opened_year": 1971,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2011 FIVB Women's Junior World Championship",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseo_Gran_Chimu",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5145750",
     "image_url": "Trinchera Norte - Estadio Mansiche 9.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5145754",
@@ -1530,16 +1196,25 @@
     "capacity": 11320,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2011 FIVB Women's Junior World Championship",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseo_Polideportivo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5145754",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5145757",
@@ -1552,15 +1227,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5145757",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q539811",
@@ -1573,16 +1252,20 @@
     "capacity": null,
     "opened_year": 1830,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chorrillos_Military_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q539811",
     "image_url": "ANIVERSARIO DEL NATALICIO DEL CORONEL FRANCISCO BOLOGNESI - 50570658152.jpg",
+    "website": "https://www.escuelamilitar.edu.pe/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q539837",
@@ -1591,20 +1274,31 @@
     "lat": -8.106655,
     "lng": -79.030977,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 24000,
     "opened_year": 1946,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDウニベルシダ・セサル・バジェホ",
+        "url": "http://www.ucvclub.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Mansiche",
     "wikidata_url": "https://www.wikidata.org/wiki/Q539837",
     "image_url": "El estadio Trujillano fue remodelado en el 2004 con una capacidad actual de 25 000 personas.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400087",
@@ -1613,20 +1307,45 @@
     "lat": -8.386389,
     "lng": -74.539167,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "バレーボール",
+      "バスケットボール"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Tecnológico de Pucallpa",
+        "url": null
+      },
+      {
+        "name": "Deportivo Pucallpa",
+        "url": "http://clubdeportivopucallpa.blogspot.com/"
+      },
+      {
+        "name": "Asociación Deportiva Hospital",
+        "url": null
+      },
+      {
+        "name": "Club Social Deportivo Bancos",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Aliardo_Soria_P%C3%A9rez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400087",
     "image_url": "Aliardo Soria Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400114",
@@ -1639,16 +1358,25 @@
     "capacity": 8000,
     "opened_year": 1977,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Club Atlético Torino",
+        "url": "http://www.munitalara.gob.pe/clubtorino/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Campeon%C3%ADsimo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400114",
     "image_url": "Campeonicimo de talara.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400119",
@@ -1661,16 +1389,25 @@
     "capacity": 8000,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アリアンサ・アトレティコ",
+        "url": "http://alianzaatletico-peru.blogspot.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Campeones_del_36",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400119",
     "image_url": "FACHADACAMPEONESDEL36.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400120",
@@ -1683,16 +1420,29 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Unión Tarapoto",
+        "url": null
+      },
+      {
+        "name": "Club Social Deportivo Cali",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_Carlos_Vidaurre_Garc%C3%ADa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400120",
     "image_url": "Estadio Carlos Vidaurre García, Tarapoto (16853373512).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400138",
@@ -1705,16 +1455,25 @@
     "capacity": 15000,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アヤクーチョFC",
+        "url": "http://intigasdeportes.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Cuman%C3%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400138",
     "image_url": "Estadio Ciudad de Cumaná.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400157",
@@ -1727,16 +1486,20 @@
     "capacity": null,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Country_Club_Lima_Hotel",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400157",
     "image_url": "Country Club Lima Hotel.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400246",
@@ -1749,16 +1512,25 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDウニオン・コメルシオ",
+        "url": "http://clubunioncomercio.com/site/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_IPD_de_Moyobamba",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400246",
     "image_url": "Estadio Regional de San Martin en Moyobamba.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400248",
@@ -1767,20 +1539,31 @@
     "lat": -9.940567,
     "lng": -76.252778,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "レオン・デ・ワヌコ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Heraclio_Tapia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400248",
     "image_url": "ESTADIO HERACLIO TAPIA LEON - HUANUCO.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400252",
@@ -1793,16 +1576,29 @@
     "capacity": 18000,
     "opened_year": 1942,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Cajamarca",
+        "url": null
+      },
+      {
+        "name": "CCDウニベルシダ・テクニカ・デ・カハマルカ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_H%C3%A9roes_de_San_Ram%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400252",
     "image_url": "Estadio Heroes de San Ramón.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400280",
@@ -1811,20 +1607,31 @@
     "lat": -18.005,
     "lng": -70.253056,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 19850,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コロネル・ボログネシ",
+        "url": "http://www.bolognesifc.com.pe"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jorge_Basadre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400280",
     "image_url": "Tacna estadio jorge basadre.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400296",
@@ -1833,20 +1640,26 @@
     "lat": -14.067981,
     "lng": -75.7389661,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Picasso_Peratta",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400296",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400302",
@@ -1859,16 +1672,29 @@
     "capacity": 13000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コメルシアンテス・ウニドス",
+        "url": "https://clubcomerciantesunidos.com/"
+      },
+      {
+        "name": "Los Inseparables Sports and Cultural Club",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Juan_Maldonado_Gamarra",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400302",
     "image_url": "Foto del Estadio Municipal Juan Maldonado desde el Mirador Ilucán.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400307",
@@ -1877,20 +1703,26 @@
     "lat": -11.4967628,
     "lng": -77.2171497,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5962,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Julio_Lores_Col%C3%A1n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400307",
     "image_url": "Julio Lores Colan.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400330",
@@ -1903,16 +1735,25 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "José María Arguedas de Andahuaylas",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Los_Chankas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400330",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400346",
@@ -1921,19 +1762,25 @@
     "lat": -5.637101,
     "lng": -78.536431,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400346",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400347",
@@ -1942,19 +1789,25 @@
     "lat": -9.06444444,
     "lng": -78.58972222,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400347",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400352",
@@ -1967,16 +1820,29 @@
     "capacity": 35000,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ホセ・ガルベスFBC",
+        "url": "http://www.josegalvezfbc.com/"
+      },
+      {
+        "name": "Unión Juventud",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Manuel_Rivera_S%C3%A1nchez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400352",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400355",
@@ -1989,15 +1855,24 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Deportivo Enersur",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400355",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400356",
@@ -2010,16 +1885,25 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Defensor San José",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Mariscal_C%C3%A1ceres",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400356",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400380",
@@ -2032,16 +1916,25 @@
     "capacity": 10000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Deportivo Educación",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Monumental_de_Condebamba",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400380",
     "image_url": "Mare Roja - Abancay.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400382",
@@ -2050,20 +1943,26 @@
     "lat": -11.7857707,
     "lng": -75.4858112,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Monumental_de_Jauja",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400382",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400385",
@@ -2076,16 +1975,20 @@
     "capacity": 40000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Monumental_Universidad_Andina_de_Juliaca",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400385",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400387",
@@ -2098,15 +2001,24 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDウニオン・コメルシオ",
+        "url": "http://clubunioncomercio.com/site/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400387",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400406",
@@ -2119,16 +2031,25 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "デポルティーボ・ムニシパル",
+        "url": "http://www.echamuni.net/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_de_Chorrillos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400406",
     "image_url": "PRESIDENTA DEL CONSJEO DE MINISTROS Y MINISTRA DE DEFENSA REALIZARON UN SOBREVUELO POR LA CAPITAL - 51230805610.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400409",
@@ -2141,16 +2062,20 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_de_La_Uni%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400409",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400420",
@@ -2163,16 +2088,25 @@
     "capacity": 5000,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Atlético Minero",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_de_Matucana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400420",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400476",
@@ -2185,15 +2119,24 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Deportivo Coopsol",
+        "url": "http://www.deportivocoopsol.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400476",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400482",
@@ -2206,16 +2149,25 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Sport Áncash",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Rosas_Pampa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400482",
     "image_url": "RosasPampa.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400493",
@@ -2228,16 +2180,25 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Juventud Barranco",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Segundo_Aranda_Torres",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400493",
     "image_url": "Estadio Segundo Aranda Torres.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q54196702",
@@ -2246,19 +2207,25 @@
     "lat": -12.080409213,
     "lng": -77.000361734,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q54196702",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5483169",
@@ -2271,59 +2238,48 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Daniel_Alcides_Carri%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5483169",
     "image_url": "Estadio Daniel Alcides Carrión de Cerro de Pasco.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q5551155",
-    "name": "Q5551155",
-    "name_ja": null,
-    "lat": -12.08112,
-    "lng": -77.002173,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5551155",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5653937",
     "name": "Víctor Montoya Segura Stadium",
     "name_ja": null,
-    "lat": 5.4203,
-    "lng": -5.700905,
+    "lat": -5.700905,
+    "lng": -78.807464,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Montoya_Segura",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5653937",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5713001",
@@ -2336,37 +2292,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_La_Chutana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5713001",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q5745736",
-    "name": "Q5745736",
-    "name_ja": null,
-    "lat": -12.279659,
-    "lng": -76.891803,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5745736",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5768742",
@@ -2379,16 +2318,48 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%AA%E3%83%BC%E3%82%B3%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5768742",
     "image_url": "Jockey Club del Perú - Santiago de Surco, Lima, Peru 002.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q5779882",
+    "name": "Manuel Bonilla Sports Complex",
+    "name_ja": null,
+    "lat": -12.1101517,
+    "lng": -77.0526686,
+    "country": "PE",
+    "sport_types": [
+      "バドミントン"
+    ],
+    "capacity": 6500,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Bonilla_Sports_Complex",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5779882",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5847722",
@@ -2401,16 +2372,20 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_de_Nasca",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847722",
     "image_url": "ENTRADA DEL ESTADIO MUNICIPAL DE NASCA.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5847982",
@@ -2423,16 +2398,20 @@
     "capacity": 14100,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Guillermo_Brice%C3%B1o_Rosamedina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847982",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848007",
@@ -2441,20 +2420,26 @@
     "lat": -12.784679,
     "lng": -74.967996,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_IPD_de_Huancavelica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848007",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848021",
@@ -2467,16 +2452,20 @@
     "capacity": 21000,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Joel_Guti%C3%A9rrez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848021",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848114",
@@ -2489,16 +2478,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_G%C3%A1lvez_Chipoco_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848114",
     "image_url": "Barranco Sunset.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848214",
@@ -2507,41 +2500,26 @@
     "lat": -12.93601,
     "lng": -74.242215,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_Manuel_Eloy_Molina_Robles",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848214",
     "image_url": "Estadio Manuel Eloy Molina Robles.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q5848217",
-    "name": "Q5848217",
-    "name_ja": null,
-    "lat": -12.085284,
-    "lng": -76.890655,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5848217",
-    "image_url": "Estadio Manuel Eloy Molina Robles.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848411",
@@ -2550,19 +2528,30 @@
     "lat": -12.063972222,
     "lng": -77.130708333,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Atlético Chalaco",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848411",
     "image_url": "Estadio Telmo Carbajo.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q589422",
@@ -2571,20 +2560,31 @@
     "lat": -17.185731,
     "lng": -70.930052,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 21000,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "San Simón de Moquegua",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_25_de_Noviembre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q589422",
     "image_url": "Fachada estadio 25 de noviembre.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5898485",
@@ -2596,17 +2596,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1938,
-    "closed_year": null,
+    "closed_year": 1960,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hip%C3%B3dromo_de_San_Felipe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5898485",
     "image_url": "October Fair 1949 (\"San Felipe\" Racetrack. Lima - Peru).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5971923",
@@ -2615,19 +2619,25 @@
     "lat": -12.066756,
     "lng": -77.038702,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5971923",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5976473",
@@ -2636,20 +2646,26 @@
     "lat": -12.101227,
     "lng": -77.044717,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lima_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5976473",
     "image_url": "Lima Golf Club, San Isidro District.jpg",
+    "website": "http://www.limagolfclub.org.pe/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6162117",
@@ -2662,16 +2678,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Villa_Deportiva_Nacional",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6162117",
     "image_url": "DSS helps Japan prepare for the 2020 Tokyo Summer Olympics (49105948452).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q61948251",
@@ -2684,78 +2704,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q61948251",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q64411303",
-    "name": "Q64411303",
-    "name_ja": null,
-    "lat": -12.062819788,
-    "lng": -77.121009769,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q64411303",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q65649845",
-    "name": "Q65649845",
-    "name_ja": null,
-    "lat": -12.080972,
-    "lng": -76.999919,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q65649845",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q65651415",
-    "name": "Q65651415",
-    "name_ja": null,
-    "lat": -12.080027777,
-    "lng": -76.999,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": 2300,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q65651415",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7171165",
@@ -2768,16 +2729,20 @@
     "capacity": null,
     "opened_year": 1657,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Peruvian_Naval_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7171165",
     "image_url": null,
+    "website": "http://www.escuelanaval.edu.pe/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7203683",
@@ -2790,16 +2755,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Plaza_de_Sol_y_Sombra",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7203683",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7579840",
@@ -2812,16 +2781,20 @@
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mansiche_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579840",
     "image_url": "El estadio Trujillano fue remodelado en el 2004 con una capacidad actual de 25 000 personas.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q839058",
@@ -2834,16 +2807,20 @@
     "capacity": null,
     "opened_year": 1943,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Leoncio_Prado_Military_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q839058",
     "image_url": null,
+    "website": "http://www.leoncioprado.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8842833",
@@ -2856,16 +2833,25 @@
     "capacity": 4000,
     "opened_year": 1952,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウニベルシタリオ・デポルテス",
+        "url": "https://universitario.pe/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Teodoro_Lolo_Fern%C3%A1ndez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8842833",
     "image_url": "Estadio LOLO Fernández - 31146098066.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8842862",
@@ -2874,20 +2860,31 @@
     "lat": -12.05972,
     "lng": -77.11995,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルト・ボーイズ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Miguel_Grau_(Callao)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8842862",
     "image_url": "SPORT BOYS VS CRISTAL - ESTADIO MIGUEL GRAU (53188443722).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8845455",
@@ -2900,16 +2897,25 @@
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Asociación Deportiva Tarma",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Uni%C3%B3n_Tarma",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8845455",
     "image_url": "Tarma, Peru - panoramio - Tours Centro Peru.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q930349",
@@ -2918,41 +2924,31 @@
     "lat": -12.038,
     "lng": -77.045,
     "country": "PE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルティング・クリスタル",
+        "url": "https://www.clubsportingcristal.pe/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Alberto_Gallardo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q930349",
     "image_url": "Extremosanmartín.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q94155852",
-    "name": "Q94155852",
-    "name_ja": null,
-    "lat": -5.7624857,
-    "lng": -78.4284394,
-    "country": "PE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q94155852",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97528730",
@@ -2965,14 +2961,18 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97528730",
     "image_url": null,
+    "website": "http://www.ipd.gob.pe/coliseo-wanca",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
