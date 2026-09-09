@@ -10,6 +10,7 @@
     "capacity": 12000,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -26,11 +27,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q106054690",
     "image_url": "Estadio Banco Guayaquil1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369320",
@@ -39,10 +41,13 @@
     "lat": -0.107694,
     "lng": -78.489083,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 41596,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -55,11 +60,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369320",
     "image_url": "Estadio de LDU Tribuna E.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369402",
@@ -68,10 +74,13 @@
     "lat": -2.178861,
     "lng": -79.894369,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 48000,
     "opened_year": 1959,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -79,11 +88,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369402",
     "image_url": "Estadio modelo ecuador.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369436",
@@ -92,10 +102,13 @@
     "lat": -2.185869,
     "lng": -79.924931,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 60,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -112,11 +125,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369436",
     "image_url": "Estadio BSC.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15194060",
@@ -129,6 +143,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -136,34 +151,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15194060",
     "image_url": "Yahuarcocha Corto.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16303216",
-    "name": "Q16303216",
-    "name_ja": null,
-    "lat": -2.88517,
-    "lng": -78.98946,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16303216",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17374389",
@@ -172,10 +165,13 @@
     "lat": -0.213648,
     "lng": -78.486987,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "トラックレース"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -183,33 +179,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17374389",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q17631514",
-    "name": "Q17631514",
-    "name_ja": null,
-    "lat": -2.887222222,
-    "lng": -78.785277777,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q17631514",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18761361",
@@ -218,10 +192,13 @@
     "lat": -2.102822222,
     "lng": -79.903758333,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -229,11 +206,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18761361",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1929904",
@@ -246,6 +224,7 @@
     "capacity": 3400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -253,11 +232,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1929904",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2020768",
@@ -266,10 +246,13 @@
     "lat": -0.177528,
     "lng": -78.476583,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35742,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -294,11 +277,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2020768",
     "image_url": "MIRANDO A QUITO DESDE LAS ALTURAS (37628605982).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2093598",
@@ -311,6 +295,7 @@
     "capacity": 14935,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -323,57 +308,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2093598",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q20994063",
-    "name": "Q20994063",
-    "name_ja": null,
-    "lat": -3.40637,
-    "lng": -78.58,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20994063",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q21484121",
-    "name": "Q21484121",
-    "name_ja": null,
-    "lat": -0.7577,
-    "lng": -90.31464,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q21484121",
-    "image_url": "Las Grietas, isla Santa Cruz, islas Galápagos, Ecuador, 2015-07-26, DD 81.JPG",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2450040",
@@ -386,6 +326,7 @@
     "capacity": 22500,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -393,11 +334,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2450040",
     "image_url": "Estadio Chillogallo (15182945714).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2780259",
@@ -406,10 +348,13 @@
     "lat": -2.9072,
     "lng": -79.005489,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22000,
     "opened_year": 1945,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -434,11 +379,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2780259",
     "image_url": "Estadiocuenca.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2866159",
@@ -451,6 +397,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -458,11 +405,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2866159",
     "image_url": "PLAZA TOROS QUITO (14847885289).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q29577535",
@@ -471,10 +419,13 @@
     "lat": -1.854068,
     "lng": -79.977626,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -482,10 +433,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q29577535",
     "image_url": "Estadio Los Daulis.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3277328",
@@ -494,10 +446,13 @@
     "lat": -1.035628,
     "lng": -79.467863,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 16200,
     "opened_year": 1952,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -510,11 +465,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277328",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3319102",
@@ -527,6 +483,7 @@
     "capacity": 35000,
     "opened_year": 1943,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -539,11 +496,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3319102",
     "image_url": "ESTADIO CAPWELL 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4356807",
@@ -556,6 +514,7 @@
     "capacity": 14729,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -563,11 +522,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4356807",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4755061",
@@ -580,6 +540,7 @@
     "capacity": 18000,
     "opened_year": 1945,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -592,11 +553,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4755061",
     "image_url": "Estadio Bellavista.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4846173",
@@ -609,6 +571,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -621,11 +584,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4846173",
     "image_url": "EC Riobamba EstadioOlímpico 2012.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400193",
@@ -638,6 +602,7 @@
     "capacity": 12000,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -650,11 +615,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400193",
     "image_url": "Estadio etho vega.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400212",
@@ -663,10 +629,13 @@
     "lat": 0.96128333,
     "lng": -79.65587778,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 16000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -674,11 +643,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400212",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400264",
@@ -691,6 +661,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -698,11 +669,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400264",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400269",
@@ -715,6 +687,7 @@
     "capacity": 15000,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -727,11 +700,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400269",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400314",
@@ -744,6 +718,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -751,11 +726,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400314",
     "image_url": "Cancha estadio La Cocha.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400446",
@@ -768,6 +744,7 @@
     "capacity": 18600,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -780,11 +757,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400446",
     "image_url": "En ibarra.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400480",
@@ -793,10 +771,13 @@
     "lat": -0.329167,
     "lng": -78.445,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": 1941,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -809,10 +790,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400480",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q541523",
@@ -825,6 +807,7 @@
     "capacity": 16500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -837,11 +820,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q541523",
     "image_url": "Estadio 9 de Mayo Machala.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5476415",
@@ -850,10 +834,13 @@
     "lat": -2.1353,
     "lng": -79.5901,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -861,33 +848,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5476415",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q54855946",
-    "name": "Q54855946",
-    "name_ja": null,
-    "lat": -0.21885,
-    "lng": -78.50551,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q54855946",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q56116160",
@@ -900,6 +865,7 @@
     "capacity": null,
     "opened_year": 1942,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -907,10 +873,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q56116160",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5639664",
@@ -923,6 +890,7 @@
     "capacity": 3500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -930,125 +898,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5639664",
     "image_url": "Estadio fertisa.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5838870",
-    "name": "Q5838870",
-    "name_ja": null,
-    "lat": -0.085,
-    "lng": -78.48722222,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5838870",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5847915",
-    "name": "Q5847915",
-    "name_ja": null,
-    "lat": -0.329136,
-    "lng": -78.4451,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 10500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5847915",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5848075",
-    "name": "Q5848075",
-    "name_ja": null,
-    "lat": -2.051444444,
-    "lng": -79.912430555,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 1700,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5848075",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5848099",
-    "name": "Q5848099",
-    "name_ja": null,
-    "lat": -0.697633,
-    "lng": -80.091,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5848099",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5848158",
-    "name": "Q5848158",
-    "name_ja": null,
-    "lat": -2.54839,
-    "lng": -78.9485,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 7000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5848158",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848304",
@@ -1057,10 +911,13 @@
     "lat": -2.16949,
     "lng": -79.8403,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1068,33 +925,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848304",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5848441",
-    "name": "Q5848441",
-    "name_ja": null,
-    "lat": -0.201981,
-    "lng": -78.5041,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 15000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5848441",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q604975",
@@ -1107,6 +942,7 @@
     "capacity": 25000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1114,34 +950,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q604975",
     "image_url": "Reales tamarindos.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q6080284",
-    "name": "Q6080284",
-    "name_ja": null,
-    "lat": -0.163258,
-    "lng": -78.484,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": 13000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q6080284",
-    "image_url": "Monumental Raúl Dávalos Riobamba.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60852830",
@@ -1150,10 +964,13 @@
     "lat": -1.254338888,
     "lng": -78.622858333,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1161,11 +978,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q60852830",
     "image_url": "Estadio Mushuc Runa.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8842796",
@@ -1177,7 +995,8 @@
     "sport_types": [],
     "capacity": 20000,
     "opened_year": 1932,
-    "closed_year": null,
+    "closed_year": 1966,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -1190,11 +1009,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8842796",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8842873",
@@ -1203,10 +1023,13 @@
     "lat": 0.05090556,
     "lng": -78.138825,
     "country": "EC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1214,33 +1037,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8842873",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q8842906",
-    "name": "Q8842906",
-    "name_ja": null,
-    "lat": 9.27805556,
-    "lng": -75.40916667,
-    "country": "EC",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q8842906",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
