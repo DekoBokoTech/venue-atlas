@@ -6,10 +6,13 @@
     "lat": -11.4499,
     "lng": 34.0229,
     "country": "MW",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +20,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16580483",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1723423",
@@ -34,6 +38,7 @@
     "capacity": 32000,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -54,11 +59,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1723423",
     "image_url": "Kamuzu Stadium exterior.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q28457050",
@@ -71,6 +77,7 @@
     "capacity": 41100,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -83,11 +90,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28457050",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q5124788",
@@ -96,10 +104,13 @@
     "lat": -13.97825,
     "lng": 33.758611,
     "country": "MW",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -112,11 +123,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5124788",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q7516367",
@@ -129,6 +141,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -141,10 +154,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7516367",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
