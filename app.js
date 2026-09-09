@@ -108,6 +108,63 @@
 
   var allPoints = [];
 
+  var centroids = {};
+  var loadedCountries = {};
+  var ZOOM_ALTITUDE_THRESHOLD = 0.5;
+
+  fetch('data/country-centroids.json')
+    .then(function (res) { return res.json(); })
+    .then(function (data) { centroids = data; })
+    .catch(function (err) { console.error('Failed to load data/country-centroids.json', err); });
+
+  function haversineDistance(lat1, lng1, lat2, lng2) {
+    var toRad = function (d) { return d * Math.PI / 180; };
+    var R = 6371;
+    var dLat = toRad(lat2 - lat1);
+    var dLng = toRad(lng2 - lng1);
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+      Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  }
+
+  function nearestCountry(lat, lng) {
+    var nearest = null;
+    var minDist = Infinity;
+    Object.keys(centroids).forEach(function (code) {
+      var c = centroids[code];
+      var d = haversineDistance(lat, lng, c.lat, c.lng);
+      if (d < minDist) { minDist = d; nearest = code; }
+    });
+    return nearest;
+  }
+
+  function mergeById(existing, incoming) {
+    var map = {};
+    existing.forEach(function (r) { map[r.id] = r; });
+    incoming.forEach(function (r) { map[r.id] = r; });
+    return Object.keys(map).map(function (id) { return map[id]; });
+  }
+
+  function loadCountryData(countryCode) {
+    if (!countryCode || loadedCountries[countryCode]) return;
+    loadedCountries[countryCode] = true;
+    fetch('data/facilities/' + countryCode + '.json')
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function (records) {
+        allPoints = mergeById(allPoints, records);
+        world.pointsData(allPoints);
+        updatePointCount();
+      })
+      .catch(function (err) {
+        console.error('Failed to load facilities for', countryCode, err);
+        delete loadedCountries[countryCode];
+      });
+  }
+
   var globeEl = document.getElementById('globeViz');
   var world = Globe()(globeEl)
     .backgroundColor('rgba(0,0,0,0)')
@@ -133,6 +190,12 @@
     controls.autoRotateSpeed = 0.35;
     controls.enableDamping = true;
   }
+
+  world.onZoom(function (pov) {
+    if (pov.altitude < ZOOM_ALTITUDE_THRESHOLD) {
+      loadCountryData(nearestCountry(pov.lat, pov.lng));
+    }
+  });
 
   function applyTheme(key) {
     var t = THEMES[key];
@@ -171,5 +234,10 @@
     world.width(globeEl.clientWidth).height(globeEl.clientHeight);
   });
 
-  window.__venueAtlas = { world: world, getAllPoints: function () { return allPoints; } };
+  window.__venueAtlas = {
+    world: world,
+    getAllPoints: function () { return allPoints; },
+    loadCountryData: loadCountryData,
+    nearestCountry: nearestCountry
+  };
 })();
