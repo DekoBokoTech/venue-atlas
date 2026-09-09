@@ -10,6 +10,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,11 +23,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1545643",
     "image_url": "Kirani James Athletic Stadium, Nov 2016.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16528008",
@@ -35,10 +37,13 @@
     "lat": 12.1938,
     "lng": -61.7061,
     "country": "GD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -46,10 +51,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16528008",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16531894",
@@ -58,10 +64,13 @@
     "lat": 12.0931,
     "lng": -61.7498,
     "country": "GD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -69,10 +78,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16531894",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3537142",
@@ -81,10 +91,13 @@
     "lat": 12.05905556,
     "lng": -61.75211111,
     "country": "GD",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -92,11 +105,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3537142",
     "image_url": "Grenadacricket.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q39053760",
@@ -109,6 +123,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -116,10 +131,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q39053760",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
