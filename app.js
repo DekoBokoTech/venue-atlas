@@ -278,8 +278,8 @@
 
     var na = '不明 / Unknown';
     html += '<div class="stat-grid">';
-    html += '<div class="stat-cell"><div class="k">収容人数 CAPACITY</div><div class="v">' + (d.capacity ? Number(d.capacity).toLocaleString('en-US') : na) + '</div></div>';
-    html += '<div class="stat-cell"><div class="k">開場年 OPENED</div><div class="v">' + (d.opened_year || na) + '</div></div>';
+    html += '<div class="stat-cell"><div class="k">収容人数 CAPACITY</div><div class="v">' + (d.capacity ? esc(Number(d.capacity).toLocaleString('en-US')) : esc(na)) + '</div></div>';
+    html += '<div class="stat-cell"><div class="k">開場年 OPENED</div><div class="v">' + esc(d.opened_year || na) + '</div></div>';
     html += '<div class="stat-cell wide"><div class="k">座標 COORDINATES</div><div class="v">' + esc(formatCoord(d.lat, d.lng)) + '</div></div>';
     html += '</div>';
 
@@ -300,7 +300,7 @@
     html += '<div class="events"><div class="heading">開催イベント — HELD HERE</div>';
     if (d.events && d.events.length) {
       d.events.forEach(function (ev) {
-        html += '<div class="event-row"><span class="year">' + (ev.year || '—') + '</span><span class="name">' + esc(ev.name) + '</span></div>';
+        html += '<div class="event-row"><span class="year">' + esc(ev.year || '—') + '</span><span class="name">' + esc(ev.name) + '</span></div>';
       });
     } else {
       html += '<p class="no-events">情報なし / No data</p>';
