@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,10 +18,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q111344334",
     "image_url": "Circuit Andorra track layout.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q134706123",
@@ -29,10 +31,13 @@
     "lat": 42.533527,
     "lng": 1.575941,
     "country": "AD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5250,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -45,11 +50,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q134706123",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16295036",
@@ -62,6 +68,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -69,56 +76,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16295036",
     "image_url": "Tobotronc (Naturlandia, Andorra) 02.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16534722",
-    "name": "Q16534722",
-    "name_ja": null,
-    "lat": 42.5303,
-    "lng": 1.5717,
-    "country": "AD",
-    "sport_types": [],
-    "capacity": 500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16534722",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16534728",
-    "name": "Q16534728",
-    "name_ja": null,
-    "lat": 42.5546,
-    "lng": 1.5309,
-    "country": "AD",
-    "sport_types": [],
-    "capacity": 200,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16534728",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16830887",
@@ -131,6 +93,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -138,10 +101,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16830887",
     "image_url": null,
     "website": "https://www.circuit-andorra.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q17587283",
@@ -154,6 +118,7 @@
     "capacity": null,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -161,10 +126,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17587283",
     "image_url": "Auditori Nacional d'Andorra.jpg",
     "website": "https://www.cultura.ad/auditori-nacional-d-andorra",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q18125598",
@@ -173,10 +139,13 @@
     "lat": 42.5046,
     "lng": 1.51746,
     "country": "AD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3306,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -193,11 +162,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18125598",
     "image_url": "Estadi Nacional d‘Andorra.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1918034",
@@ -210,6 +180,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -217,10 +188,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1918034",
     "image_url": "Pas de la Casa-Hivern.jpg",
     "website": "https://www.grandvalira.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2551051",
@@ -229,10 +201,14 @@
     "lat": 42.542781,
     "lng": 1.492425,
     "country": "AD",
-    "sport_types": [],
+    "sport_types": [
+      "アルペンスキー",
+      "スノーボード"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -240,11 +216,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2551051",
     "image_url": "Casamanya 03.jpg",
     "website": "http://www.vallnord.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3212119",
@@ -257,6 +234,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -264,10 +242,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3212119",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3360738",
@@ -280,6 +259,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -287,10 +267,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3360738",
     "image_url": "2020 01 24 Copa del Món Esqui Muntanya (Martin Imatge)-0942.jpg",
     "website": "https://www.palarinsal.com/es",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q546015",
@@ -303,6 +284,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -310,10 +292,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q546015",
     "image_url": "Subida a Ordino.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q546027",
@@ -322,10 +305,13 @@
     "lat": 42.501222,
     "lng": 1.513833,
     "country": "AD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 850,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -338,11 +324,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q546027",
     "image_url": "Stadium andorra.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q65229769",
@@ -355,6 +342,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -362,10 +350,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65229769",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q65246793",
@@ -378,6 +367,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -385,11 +375,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65246793",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q857795",
@@ -398,10 +389,13 @@
     "lat": 42.476389,
     "lng": 1.487667,
     "country": "AD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -418,11 +412,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q857795",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q9054498",
@@ -435,6 +430,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -447,9 +443,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q9054498",
     "image_url": null,
     "website": "http://www.palaudegelandorra.com",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
