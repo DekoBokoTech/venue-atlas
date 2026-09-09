@@ -6,10 +6,13 @@
     "lat": 49.472222222,
     "lng": 6.084722222,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4650,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,34 +25,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1040373",
     "image_url": "Jos Nosbaum-026-Haupttribuene.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q107679882",
-    "name": "Q107679882",
-    "name_ja": null,
-    "lat": 49.626667,
-    "lng": 6.2,
-    "country": "LU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q107679882",
-    "image_url": "Findel Street Circuit.png",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108455871",
@@ -62,6 +43,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -69,39 +51,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108455871",
     "image_url": "Stade an der Trell (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q109652280",
-    "name": "Q109652280",
-    "name_ja": null,
-    "lat": 49.617861,
-    "lng": 6.071667,
-    "country": "LU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC UNAシュトラッセン",
-        "url": "https://www.fcuna-strassen.lu/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652280",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110206052",
@@ -110,10 +65,13 @@
     "lat": 49.515088888,
     "lng": 6.098652777,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "体操"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -121,10 +79,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110206052",
     "image_url": null,
     "website": "https://bettembourg.lu/visiteurs/sports-et-loisirs/centre-sportif-et-culturel/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q117240254",
@@ -133,10 +92,13 @@
     "lat": 49.704296526,
     "lng": 6.252192026,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -144,10 +106,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117240254",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q117463286",
@@ -156,10 +119,13 @@
     "lat": 49.613597222,
     "lng": 6.109113888,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "体操"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -167,33 +133,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117463286",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q119009893",
-    "name": "Q119009893",
-    "name_ja": null,
-    "lat": 49.511293111,
-    "lng": 6.116579859,
-    "country": "LU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q119009893",
-    "image_url": "Haupttribüne SCB.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124101128",
@@ -202,10 +146,13 @@
     "lat": 49.470403194,
     "lng": 6.076294645,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -213,10 +160,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124101128",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124286588",
@@ -225,10 +173,13 @@
     "lat": 49.484736686,
     "lng": 6.089230256,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -236,10 +187,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124286588",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124610972",
@@ -248,10 +200,13 @@
     "lat": 49.472347547,
     "lng": 6.073800601,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -259,102 +214,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124610972",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q13105094",
-    "name": "Q13105094",
-    "name_ja": null,
-    "lat": 49.586033,
-    "lng": 6.166467,
-    "country": "LU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q13105094",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q13105395",
-    "name": "Q13105395",
-    "name_ja": null,
-    "lat": 49.611583333,
-    "lng": 6.109638888,
-    "country": "LU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1921,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q13105395",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139281328",
-    "name": "Q139281328",
-    "name_ja": null,
-    "lat": 49.609152777,
-    "lng": 6.156052777,
-    "country": "LU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139281328",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q15919542",
-    "name": "Q15919542",
-    "name_ja": null,
-    "lat": 49.5093,
-    "lng": 6.28961,
-    "country": "LU",
-    "sport_types": [],
-    "capacity": 3600,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q15919542",
-    "image_url": "Haupttribüne Mondorf.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16605647",
@@ -367,6 +231,7 @@
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -379,11 +244,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16605647",
     "image_url": "Stade Rue de Lenningen ticketbooth.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632488",
@@ -392,10 +258,13 @@
     "lat": 49.573055555,
     "lng": 6.109722222,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 2500,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -408,11 +277,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632488",
     "image_url": "Ana Ivanovic - Luxembourg September 2007.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632623",
@@ -425,6 +295,7 @@
     "capacity": 1800,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -437,11 +308,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632623",
     "image_url": "Haupttribüne Differdingen.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16900634",
@@ -454,6 +326,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -466,11 +339,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16900634",
     "image_url": "TerrKäerj97.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1735744",
@@ -479,10 +353,13 @@
     "lat": 49.686868,
     "lng": 6.448519,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4062,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -495,11 +372,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1735744",
     "image_url": "Stade Op Flohr1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1877233",
@@ -508,10 +386,13 @@
     "lat": 49.522158333,
     "lng": 5.875475,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -528,11 +409,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1877233",
     "image_url": "Entrée Stade du Thillenberg 01.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2263835",
@@ -541,10 +423,13 @@
     "lat": 49.604722222,
     "lng": 6.140277777,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5814,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -557,11 +442,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2263835",
     "image_url": "Stade Achille Hammerel, Luxembourg, 2014.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2325813",
@@ -570,10 +456,13 @@
     "lat": 49.575353,
     "lng": 6.158297,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4100,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -586,11 +475,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2325813",
     "image_url": "Stade Alphonse Theis.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q247672",
@@ -603,6 +493,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -610,11 +501,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q247672",
     "image_url": "Circuit Goodyear.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25384178",
@@ -623,10 +515,14 @@
     "lat": 49.577138888,
     "lng": 6.115730555,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 9386,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -634,11 +530,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q25384178",
     "image_url": "Baustelle National-Stadion Luxembourg 01.jpg",
     "website": "https://www.stadedeluxembourg.lu/en",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3133033",
@@ -647,10 +544,13 @@
     "lat": 49.485833333,
     "lng": 5.976944444,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -663,11 +563,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3133033",
     "image_url": "Jeunesse Stadion 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495624",
@@ -676,10 +577,13 @@
     "lat": 49.646388888,
     "lng": 6.135277777,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4830,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -692,11 +596,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495624",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495660",
@@ -705,10 +610,13 @@
     "lat": 49.546111111,
     "lng": 5.903369444,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4830,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -721,11 +629,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495660",
     "image_url": "Stade Jos Haupert.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496262",
@@ -734,10 +643,13 @@
     "lat": 49.492222222,
     "lng": 5.989722222,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -750,11 +662,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496262",
     "image_url": "Stade municipal Emile Mayrisch Esch-sur-Alzette 2024-12 ---4.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q55709434",
@@ -767,6 +680,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -779,10 +693,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q55709434",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q61123298",
@@ -795,6 +710,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -802,10 +718,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q61123298",
     "image_url": "Skatepark Pétrusse - DSC05292.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q66372238",
@@ -818,6 +735,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -825,10 +743,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q66372238",
     "image_url": "Berdorf, Wanterbaach climbing (106).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6706202",
@@ -841,6 +760,7 @@
     "capacity": 2800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -853,11 +773,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6706202",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7192491",
@@ -870,6 +791,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -882,11 +804,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7192491",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596084",
@@ -899,6 +822,7 @@
     "capacity": 2020,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -911,11 +835,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596084",
     "image_url": "Etzella-Spillterrain.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596095",
@@ -928,6 +853,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -935,11 +861,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596095",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596098",
@@ -952,6 +879,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -959,11 +887,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596098",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596102",
@@ -976,6 +905,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -983,11 +913,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596102",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596110",
@@ -1000,6 +931,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1007,11 +939,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596110",
     "image_url": "FC Mamer Tribün.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596118",
@@ -1024,6 +957,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1036,11 +970,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596118",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596125",
@@ -1053,6 +988,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1060,11 +996,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596125",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596144",
@@ -1077,6 +1014,7 @@
     "capacity": 2400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1089,11 +1027,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596144",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596145",
@@ -1106,6 +1045,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1113,11 +1053,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596145",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596146",
@@ -1130,6 +1071,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1137,11 +1079,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596146",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596160",
@@ -1154,6 +1097,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1166,11 +1110,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596160",
     "image_url": "Stade municipal cso.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7926495",
@@ -1179,10 +1124,13 @@
     "lat": 49.8085,
     "lng": 6.50567,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1190,11 +1138,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7926495",
     "image_url": "Terrain Victoria Rosport.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8023456",
@@ -1207,6 +1156,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1214,11 +1164,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8023456",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q945298",
@@ -1227,10 +1178,13 @@
     "lat": 49.615630555,
     "lng": 6.109661111,
     "country": "LU",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 8054,
     "opened_year": 1931,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1248,10 +1202,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q945298",
     "image_url": "Stade Josy Barthel.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
