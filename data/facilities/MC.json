@@ -6,10 +6,13 @@
     "lat": 43.738638888,
     "lng": 7.428916666,
     "country": "MC",
-    "sport_types": [],
+    "sport_types": [
+      "ピジョン射撃"
+    ],
     "capacity": null,
     "opened_year": 1872,
-    "closed_year": null,
+    "closed_year": 1972,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,10 +20,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110602093",
     "image_url": "Monte-Carlo, Tir Aux Pigeons. (135-91) (NBY 419785).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q13385309",
@@ -33,6 +37,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,11 +45,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q13385309",
     "image_url": "Piscine de Monaco.jpg",
     "website": "http://www.monaco-mairie.mc/produits/stade-nautique-rainier-iii",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q140113827",
@@ -57,6 +63,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -64,10 +71,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q140113827",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q14922134",
@@ -80,6 +88,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -87,10 +96,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q14922134",
     "image_url": "Fontvieille - panoramio (4).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q171400",
@@ -99,10 +109,13 @@
     "lat": 43.734722222,
     "lng": 7.420555555,
     "country": "MC",
-    "sport_types": [],
+    "sport_types": [
+      "自動車競技"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -115,11 +128,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q171400",
     "image_url": "MONACO FORMULA 1 TURN 1 - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q22936222",
@@ -132,6 +146,7 @@
     "capacity": null,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -144,11 +159,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q22936222",
     "image_url": "Salle Gaston Médecin.JPG",
     "website": "http://www.stadelouis2.mc/installations-sportives/salle-omnisports/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q318851",
@@ -157,10 +173,13 @@
     "lat": 43.727778,
     "lng": 7.415556,
     "country": "MC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18523,
     "opened_year": 1981,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -178,11 +197,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q318851",
     "image_url": "Monaco Stade Louis-II 1.jpg",
     "website": "http://www.stadelouis2.mc",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3446217",
@@ -195,6 +215,7 @@
     "capacity": 12000,
     "opened_year": 1939,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -207,10 +228,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3446217",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
