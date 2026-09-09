@@ -10,6 +10,7 @@
     "capacity": 18000,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q105393795",
     "image_url": null,
     "website": "https://www.etihadarena.ae/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1067672",
@@ -34,6 +36,7 @@
     "capacity": null,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,11 +44,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1067672",
     "image_url": "SkiDubai.JPG",
     "website": "https://www.skidxb.com/en",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q107649270",
@@ -58,6 +62,7 @@
     "capacity": null,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -65,11 +70,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q107649270",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108804099",
@@ -82,6 +88,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -89,10 +96,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108804099",
     "image_url": null,
     "website": "http://www.mubadala-arena.ae",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q11323916",
@@ -105,6 +113,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -112,11 +121,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q11323916",
     "image_url": "Nad Al Sheba on 1 May 2007.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q123524426",
@@ -129,6 +139,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -136,10 +147,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q123524426",
     "image_url": "Entrance to water park at Al Montazah Park in Sharjah UAE.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q13574521",
@@ -148,10 +160,13 @@
     "lat": 25.2416922,
     "lng": 55.3333163,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -159,11 +174,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q13574521",
     "image_url": "From Al Garhoud Bridge, Dubai UAE.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q138787051",
@@ -176,6 +192,7 @@
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -192,11 +209,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q138787051",
     "image_url": "GymNation gym interior 2024.jpg",
     "website": "https://gymnation.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15646927",
@@ -205,10 +223,13 @@
     "lat": 24.2456,
     "lng": 55.7166,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -221,11 +242,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15646927",
     "image_url": "IRN-JPN 20190128 01.jpg",
     "website": "https://alainclub.ae/en/facility/hazza-bin-zayed-stadium-hbzs-2/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q167831",
@@ -234,10 +256,14 @@
     "lat": 24.416088888,
     "lng": 54.453591666,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技",
+      "ラグビーユニオン"
+    ],
     "capacity": 43000,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -250,11 +276,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q167831",
     "image_url": "Abu Dhabi Zayed Sports City Stadium 1.jpg",
     "website": "http://www.zsc.ae/en/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q172869",
@@ -267,6 +294,7 @@
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -274,11 +302,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q172869",
     "image_url": "YasMarina1.jpeg",
     "website": "https://www.yasmarinacircuit.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18434851",
@@ -287,10 +316,13 @@
     "lat": 24.5434,
     "lng": 54.4389,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -298,10 +330,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q18434851",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2000728",
@@ -310,10 +343,13 @@
     "lat": 24.207291666,
     "lng": 55.766333333,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 16000,
     "opened_year": 1971,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -326,11 +362,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2000728",
     "image_url": "Sheikh Khalifa International Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q200856",
@@ -343,6 +380,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -350,34 +388,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q200856",
     "image_url": "Wild-wadi.jpg",
     "website": "http://www.wildwadidubai.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q20421107",
-    "name": "Q20421107",
-    "name_ja": null,
-    "lat": 25.748321,
-    "lng": 55.927824,
-    "country": "AE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20421107",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2056065",
@@ -386,10 +402,14 @@
     "lat": 24.989444444,
     "lng": 55.463055555,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "7人制ラグビー",
+      "ラグビーユニオン"
+    ],
     "capacity": 50000,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -397,11 +417,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2056065",
     "image_url": "2013 Dubai7s - Land Rover MENA (11188212983).jpg",
     "website": "https://www.thesevensstadium.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2080478",
@@ -410,10 +431,13 @@
     "lat": 25.748527777,
     "lng": 55.928113888,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -426,11 +450,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2080478",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20807637",
@@ -439,10 +464,13 @@
     "lat": 25.036666666,
     "lng": 55.227777777,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -450,11 +478,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20807637",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2081620",
@@ -467,6 +496,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -474,10 +504,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2081620",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21152188",
@@ -486,10 +517,13 @@
     "lat": 25.403057166,
     "lng": 55.564932548,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -497,10 +531,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q21152188",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2525218",
@@ -509,10 +544,14 @@
     "lat": 25.279655555,
     "lng": 55.360605555,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 18000,
     "opened_year": 1949,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -525,11 +564,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2525218",
     "image_url": "Rashid Stadium3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2701976",
@@ -538,10 +578,13 @@
     "lat": 25.2189,
     "lng": 55.317147222,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -554,11 +597,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2701976",
     "image_url": "Campo de juego del estadio Zabeel.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2758483",
@@ -567,10 +611,13 @@
     "lat": 25.290833333,
     "lng": 55.348333333,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18000,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -583,11 +630,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2758483",
     "image_url": "Dubai Maktoum Bin Rashid Al Maktoum Stadium 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28221604",
@@ -600,6 +648,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -607,11 +656,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28221604",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q283849",
@@ -620,10 +670,13 @@
     "lat": 24.452764,
     "lng": 54.392019,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": 42056,
     "opened_year": 1979,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -636,11 +689,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q283849",
     "image_url": "IRN-YMN 20190107 Asian Cup 4.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q285692",
@@ -649,10 +703,13 @@
     "lat": 24.469397222,
     "lng": 54.375252777,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15894,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -665,11 +722,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q285692",
     "image_url": "IRN-VIETNAM 20190112 Asian Cup 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q29565518",
@@ -678,10 +736,13 @@
     "lat": 25.315786,
     "lng": 55.522188,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "トラックレース"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -689,10 +750,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q29565518",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3056365",
@@ -701,10 +763,13 @@
     "lat": 25.33082222,
     "lng": 55.42095556,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -712,11 +777,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3056365",
     "image_url": "SharjahCricket.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30590751",
@@ -729,6 +795,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -736,11 +803,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q30590751",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30590752",
@@ -749,10 +817,13 @@
     "lat": 25.48096,
     "lng": 55.51471,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -760,11 +831,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q30590752",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3119433",
@@ -773,10 +845,13 @@
     "lat": 25.24,
     "lng": 55.313055555,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": 1981,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -789,11 +864,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3119433",
     "image_url": "Iran & Iraq match by Amir Ostovari, 2019 AFC Asian Cup 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3277528",
@@ -806,6 +882,7 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -818,11 +895,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277528",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3607490",
@@ -831,10 +909,13 @@
     "lat": 23.666627777,
     "lng": 53.696686111,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -842,11 +923,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3607490",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q39050568",
@@ -859,6 +941,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -866,11 +949,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q39050568",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4116974",
@@ -879,10 +963,13 @@
     "lat": 24.34986,
     "lng": 54.68571,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9570,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -895,11 +982,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4116974",
     "image_url": "BaniyasStadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4118113",
@@ -908,10 +996,13 @@
     "lat": 25.013611111,
     "lng": 55.183888888,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -919,11 +1010,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4118113",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4670136",
@@ -932,10 +1024,13 @@
     "lat": 24.413819444,
     "lng": 54.459302777,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 5000,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -948,11 +1043,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4670136",
     "image_url": "International Tennis Centre (Mubadala Abu Dhabi Open).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4699899",
@@ -965,6 +1061,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -972,11 +1069,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4699899",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4828629",
@@ -985,10 +1083,13 @@
     "lat": 25.242869444,
     "lng": 55.3425,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 5000,
     "opened_year": 1996,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1001,11 +1102,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4828629",
     "image_url": "PXL 20230121 083119935.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5206119",
@@ -1014,10 +1116,13 @@
     "lat": 25.04666667,
     "lng": 55.21888889,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1025,11 +1130,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5206119",
     "image_url": "Emarat Road Abudhabi to Dubai 2013 pic 96 - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5206120",
@@ -1038,10 +1144,13 @@
     "lat": 25.021708333,
     "lng": 55.132986111,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "フィールドホッケー"
+    ],
     "capacity": 5000,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1049,11 +1158,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5206120",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5206123",
@@ -1066,6 +1176,7 @@
     "capacity": 60000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1073,11 +1184,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5206123",
     "image_url": "Cricket Stadium at Dubai Sports City Under Construction on 14 June 2007.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5310526",
@@ -1086,10 +1198,13 @@
     "lat": 25.214722222,
     "lng": 55.325833333,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1097,11 +1212,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5310526",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5310611",
@@ -1110,10 +1226,13 @@
     "lat": 25.051255,
     "lng": 55.31804,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 15000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1126,11 +1245,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5310611",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5358067",
@@ -1139,10 +1259,13 @@
     "lat": 24.268244444,
     "lng": 55.756397222,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15187,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1150,11 +1273,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5358067",
     "image_url": "Al Ain Club By Eng. Fadi Fayyadh Al Toubeh - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5372570",
@@ -1163,10 +1287,13 @@
     "lat": 25.08528,
     "lng": 55.15984,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1174,11 +1301,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5372570",
     "image_url": "EGC2001.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q54205139",
@@ -1187,10 +1315,13 @@
     "lat": 25.241762036,
     "lng": 55.312037097,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1198,10 +1329,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q54205139",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5507334",
@@ -1214,6 +1346,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1221,11 +1354,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5507334",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q56071912",
@@ -1238,6 +1372,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1245,10 +1380,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q56071912",
     "image_url": "Atlantis Aquapark.JPG",
     "website": "https://www.atlantisthepalm.com/marine-water-park/aquaventure-waterpark",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q588356",
@@ -1261,6 +1397,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1268,11 +1405,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q588356",
     "image_url": "Finish line Dubai Autodrome.jpg",
     "website": "http://www.dubaiautodrome.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q605556",
@@ -1281,10 +1419,13 @@
     "lat": 25.374202777,
     "lng": 55.423058333,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1297,11 +1438,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q605556",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q63859108",
@@ -1314,6 +1456,7 @@
     "capacity": 17000,
     "opened_year": 2019,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1326,11 +1469,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q63859108",
     "image_url": "Coca-Cola Arena - 15 Nov 2019 .jpg",
     "website": "https://www.coca-cola-arena.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7209487",
@@ -1343,6 +1487,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1350,11 +1495,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7209487",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7492977",
@@ -1363,10 +1509,13 @@
     "lat": 24.39638889,
     "lng": 54.54055556,
     "country": "AE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1374,11 +1523,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7492977",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7751415",
@@ -1391,6 +1541,7 @@
     "capacity": null,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1398,11 +1549,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7751415",
     "image_url": null,
     "website": "http://www.mhschool.ae/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7836567",
@@ -1415,6 +1567,7 @@
     "capacity": null,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1422,11 +1575,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7836567",
     "image_url": "Jaguar Style Stakes - Dubai World Cup 2013 (8609387342).jpg",
     "website": "https://www.dubairacingclub.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q90912517",
@@ -1439,6 +1593,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1446,9 +1601,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q90912517",
     "image_url": "Fresh Milk Tea 3.jpg",
     "website": "https://www.bowlingdubai.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
