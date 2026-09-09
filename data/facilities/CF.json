@@ -6,10 +6,13 @@
     "lat": 4.374417,
     "lng": 18.564389,
     "country": "CF",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,10 +25,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990483",
     "image_url": "Avenue des Martyrs, Bangui - Mapillary (v3azRkJmiUnTDVXUJf35ng).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
