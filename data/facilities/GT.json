@@ -1,28 +1,5 @@
 [
   {
-    "id": "Q106547925",
-    "name": "Q106547925",
-    "name_ja": null,
-    "lat": 14.637171715,
-    "lng": -90.544022176,
-    "country": "GT",
-    "sport_types": [],
-    "capacity": 13500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q106547925",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q125449682",
     "name": "Fuentes Georginas",
     "name_ja": null,
@@ -33,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,33 +18,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q125449682",
     "image_url": "Fuentes Georginas hot springs 02.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q141071842",
-    "name": "Q141071842",
-    "name_ja": null,
-    "lat": 14.613742943,
-    "lng": -90.507397798,
-    "country": "GT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1899,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q141071842",
-    "image_url": "Campo Marte (Guatemala City) 4.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1961773",
@@ -75,10 +31,13 @@
     "lat": 14.501944,
     "lng": -90.557778,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -91,11 +50,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1961773",
     "image_url": "Julio cobar.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2880486",
@@ -104,10 +64,13 @@
     "lat": 15.72527778,
     "lng": -88.59444444,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -115,11 +78,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2880486",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3025641",
@@ -128,10 +92,13 @@
     "lat": 14.676078,
     "lng": -90.488547,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 14022,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -144,11 +111,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3025641",
     "image_url": "Estadio Cementos Progreso 3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3050285",
@@ -157,10 +125,13 @@
     "lat": 14.61694444,
     "lng": -90.53472222,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -173,11 +144,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3050285",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3058828",
@@ -186,10 +158,13 @@
     "lat": 14.61555556,
     "lng": -90.50972222,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -202,11 +177,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3058828",
     "image_url": "Estadio de Aurora F.C..jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495549",
@@ -215,10 +191,13 @@
     "lat": 14.531667,
     "lng": -91.509167,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -231,11 +210,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495549",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495563",
@@ -244,10 +224,13 @@
     "lat": 14.96694444,
     "lng": -89.52694444,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -260,11 +243,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495563",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495680",
@@ -273,10 +257,13 @@
     "lat": 16.981944,
     "lng": -89.903889,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -289,11 +276,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495680",
     "image_url": "Estadio Julian Tesucún.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495695",
@@ -302,10 +290,13 @@
     "lat": 14.64,
     "lng": -89.98583333,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7055,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -318,11 +309,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495695",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495696",
@@ -331,10 +323,13 @@
     "lat": 14.7950799,
     "lng": -89.5444,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -347,11 +342,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495696",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495708",
@@ -360,10 +356,13 @@
     "lat": 15.320833,
     "lng": -91.481667,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5340,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -376,11 +375,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495708",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495740",
@@ -389,10 +389,13 @@
     "lat": 14.841944,
     "lng": -91.517222,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11220,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -405,11 +408,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495740",
     "image_url": "MarioCamposecoStadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495741",
@@ -418,10 +422,13 @@
     "lat": 14.967045,
     "lng": -91.7917,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -434,11 +441,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495741",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495783",
@@ -447,10 +455,13 @@
     "lat": 14.48722222,
     "lng": -90.61611111,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -458,11 +469,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495783",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495820",
@@ -471,10 +483,13 @@
     "lat": 14.5675,
     "lng": -90.73805556,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -487,11 +502,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495820",
     "image_url": "Juan chang soccer.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495872",
@@ -500,10 +516,13 @@
     "lat": 14.91194444,
     "lng": -92.06,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -516,11 +535,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495872",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495902",
@@ -529,10 +549,13 @@
     "lat": 15.4762068,
     "lng": -90.3769094,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -545,11 +568,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495902",
     "image_url": "Estadio Verapaz \"José Ángel Rossi\".JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496027",
@@ -558,10 +582,13 @@
     "lat": 14.58666667,
     "lng": -90.54805556,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -574,11 +601,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496027",
     "image_url": "Estadio Revolucion.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496263",
@@ -587,10 +615,13 @@
     "lat": 14.54,
     "lng": -91.680556,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -603,11 +634,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496263",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4827236",
@@ -620,6 +652,7 @@
     "capacity": null,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -627,11 +660,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827236",
     "image_url": null,
     "website": "http://autodromopedrocofino.com/guatemala/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5291330",
@@ -644,6 +678,7 @@
     "capacity": 7500,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -651,11 +686,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5291330",
     "image_url": "Domo Polideportivo.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5391925",
@@ -668,6 +704,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -680,11 +717,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5391925",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400164",
@@ -697,6 +735,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -709,11 +748,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400164",
     "image_url": "Estadio Del Monte.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400256",
@@ -726,6 +766,7 @@
     "capacity": 20000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -738,11 +779,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400256",
     "image_url": "Barrios.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400305",
@@ -755,6 +797,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -762,11 +805,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400305",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5400531",
@@ -775,10 +819,13 @@
     "lat": 14.294722,
     "lng": -89.893611,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -786,11 +833,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400531",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q582585",
@@ -799,10 +847,13 @@
     "lat": 14.625764,
     "lng": -90.510489,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -815,11 +866,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q582585",
     "image_url": "Estadio Mateo Flores Guatemala.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848252",
@@ -828,10 +880,13 @@
     "lat": 14.680246388,
     "lng": -90.624520277,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -839,10 +894,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848252",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q64821438",
@@ -851,10 +907,13 @@
     "lat": 14.62382895,
     "lng": -90.514535231,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -862,10 +921,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q64821438",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q66816215",
@@ -874,10 +934,13 @@
     "lat": 14.623083069,
     "lng": -90.510277774,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -885,10 +948,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q66816215",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q9255040",
@@ -897,10 +961,13 @@
     "lat": 14.55,
     "lng": -90.522083,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -908,10 +975,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q9255040",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q966119",
@@ -920,10 +988,13 @@
     "lat": 14.33777778,
     "lng": -89.71444444,
     "country": "GT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -936,10 +1007,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q966119",
     "image_url": "Estadio La Asunción.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
