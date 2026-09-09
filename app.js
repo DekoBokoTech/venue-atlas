@@ -614,6 +614,146 @@
     openPanel(record);
   });
 
+  // --- Full-dataset name search --------------------------------------------
+
+  var searchBox = document.getElementById('searchBox');
+  var searchInput = document.getElementById('searchInput');
+  var searchDropdown = document.getElementById('searchDropdown');
+
+  var SEARCH_DEBOUNCE_MS = 180;
+  var SEARCH_RESULT_CAP = 20;
+
+  // Lazy-loaded, fetched at most once, cached in memory for the session.
+  var searchIndexData = null;
+  var searchIndexFetchPromise = null;
+  var currentSearchResults = [];
+  var searchDebounceTimer = null;
+
+  function ensureSearchIndexLoaded() {
+    if (searchIndexData) return Promise.resolve(searchIndexData);
+    if (searchIndexFetchPromise) return searchIndexFetchPromise;
+    searchIndexFetchPromise = fetch('data/search-index.json')
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        searchIndexData = data;
+        return data;
+      })
+      .catch(function (err) {
+        console.error('Failed to load data/search-index.json', err);
+        searchIndexFetchPromise = null;
+        throw err;
+      });
+    return searchIndexFetchPromise;
+  }
+
+  function recordMatchesQuery(record, lowerQuery) {
+    var name = (record.name || '').toLowerCase();
+    if (name.indexOf(lowerQuery) !== -1) return true;
+    var nameJa = record.name_ja ? String(record.name_ja).toLowerCase() : '';
+    return nameJa !== '' && nameJa.indexOf(lowerQuery) !== -1;
+  }
+
+  // Case-insensitive substring match against name/name_ja, sorted by
+  // capacity descending with nulls last, capped at SEARCH_RESULT_CAP.
+  function searchFacilities(records, query) {
+    var q = String(query || '').trim().toLowerCase();
+    if (q.length < 2) return [];
+    var matches = records.filter(function (r) { return recordMatchesQuery(r, q); });
+    matches.sort(function (a, b) {
+      return compareNullsLast(
+        a.capacity == null ? null : Number(a.capacity),
+        b.capacity == null ? null : Number(b.capacity),
+        'desc'
+      );
+    });
+    return matches.slice(0, SEARCH_RESULT_CAP);
+  }
+
+  function renderSearchResults(records) {
+    var html = '';
+    records.forEach(function (d) {
+      var name = (d.name_ja && d.name) ? (esc(d.name_ja) + ' / ' + esc(d.name)) : esc(d.name_ja || d.name);
+      var country = esc(d.country || '—');
+      var capacity = d.capacity ? esc(Number(d.capacity).toLocaleString('en-US')) : '—';
+      html += '<div class="search-result-row" data-id="' + escAttr(d.id) + '">';
+      html += '<div class="sr-name">' + name + '</div>';
+      html += '<div class="sr-meta"><span class="sr-country">' + country + '</span><span class="sr-capacity">' + capacity + '</span></div>';
+      html += '</div>';
+    });
+    searchDropdown.innerHTML = html;
+    searchDropdown.hidden = false;
+  }
+
+  function closeSearchDropdown() {
+    searchDropdown.hidden = true;
+    searchDropdown.innerHTML = '';
+  }
+
+  function showSearchLoading() {
+    searchDropdown.innerHTML = '<div class="search-loading">読み込み中... Loading...</div>';
+    searchDropdown.hidden = false;
+  }
+
+  function showSearchEmpty() {
+    searchDropdown.innerHTML = '<div class="search-empty">見つかりません / No results</div>';
+    searchDropdown.hidden = false;
+  }
+
+  function runSearch() {
+    var query = searchInput.value;
+    if (query.trim().length < 2) {
+      currentSearchResults = [];
+      closeSearchDropdown();
+      return;
+    }
+    if (!searchIndexData) {
+      if (searchIndexFetchPromise) showSearchLoading();
+      else closeSearchDropdown();
+      return;
+    }
+    currentSearchResults = searchFacilities(searchIndexData, query);
+    if (currentSearchResults.length === 0) showSearchEmpty();
+    else renderSearchResults(currentSearchResults);
+  }
+
+  searchInput.addEventListener('focus', function () {
+    ensureSearchIndexLoaded()
+      .then(function () {
+        if (searchInput.value.trim().length >= 2) runSearch();
+      })
+      .catch(function () { /* already logged in ensureSearchIndexLoaded */ });
+  });
+
+  searchInput.addEventListener('input', function () {
+    clearTimeout(searchDebounceTimer);
+    searchDebounceTimer = setTimeout(runSearch, SEARCH_DEBOUNCE_MS);
+  });
+
+  searchInput.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeSearchDropdown();
+  });
+
+  document.addEventListener('click', function (e) {
+    if (!searchBox.contains(e.target)) closeSearchDropdown();
+  });
+
+  searchDropdown.addEventListener('click', function (e) {
+    var row = e.target.closest('.search-result-row');
+    if (!row) return;
+    var id = row.getAttribute('data-id');
+    var record = currentSearchResults.filter(function (r) { return String(r.id) === id; })[0];
+    if (!record) return;
+    // Leave the typed query in the input (not cleared) so the user can
+    // reopen the same result set by refocusing; only the dropdown closes.
+    closeSearchDropdown();
+    world.pointOfView({ lat: record.lat, lng: record.lng, altitude: 1.15 }, 900);
+    loadCountryData(record.country);
+    openPanel(record);
+  });
+
   window.__venueAtlas = {
     world: world,
     getAllPoints: function () { return allPoints; },
