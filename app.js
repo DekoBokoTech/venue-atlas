@@ -16,6 +16,113 @@
     };
   }
 
+  // Equirectangular projection matching globe.gl's globeImageUrl texture mapping:
+  // lng -180..180 -> x 0..512, lat +90..-90 -> y 0..256 (canvas is 512x256).
+  function project(lng, lat) {
+    return [(lng + 180) / 360 * 512, (90 - lat) / 180 * 256];
+  }
+
+  // Simplified, but genuinely coastline-derived, continent/island outlines.
+  // Each entry is a closed ring of [lng, lat] vertex pairs (first point not
+  // repeated). Anchored on real reference coordinates (capitals, capes,
+  // straits) rather than arbitrary shapes - see project README/commit message
+  // for the point-in-polygon self-check that validates this data.
+  var CONTINENTS = [
+    { name: 'Eurasia', points: [
+      [-9.5, 38.7], [-4.5, 48.4], [3.0, 51.5], [8.5, 56.5], [5.3, 60.4],
+      [25.8, 71.2], [40.0, 68.0], [70.0, 72.0], [105.0, 77.5], [170.0, 66.0],
+      [160.0, 56.0], [135.0, 55.0], [125.0, 40.0], [122.0, 31.0], [108.0, 20.0],
+      [105.5, 10.5], [104.0, 1.3], [98.0, 12.0], [92.0, 22.0], [80.3, 13.0],
+      [77.5, 8.1], [72.0, 19.0], [67.0, 24.8], [60.0, 25.5], [58.5, 23.6],
+      [45.0, 12.8], [43.0, 15.0], [39.2, 21.5], [35.0, 28.0], [34.8, 31.5],
+      [36.0, 36.5], [29.0, 41.0], [23.0, 39.5], [19.0, 42.0], [18.0, 40.0],
+      [15.6, 38.1], [14.2, 40.8], [12.5, 41.9], [9.0, 44.4], [7.0, 43.5],
+      [2.2, 41.4], [-5.4, 36.1]
+    ] },
+    { name: 'Africa', points: [
+      [10.0, 37.0], [30.0, 31.2], [34.0, 29.0], [37.0, 19.0], [43.0, 12.0],
+      [51.3, 11.8], [45.3, 2.0], [39.6, -4.0], [35.0, -18.0], [31.0, -29.9],
+      [18.4, -34.4], [12.0, -23.0], [13.0, -9.0], [9.0, 0.0], [3.4, 6.5],
+      [-4.0, 5.0], [-10.8, 6.3], [-17.4, 14.7], [-16.5, 20.8], [-9.5, 32.0],
+      [-7.6, 33.6]
+    ] },
+    { name: 'Madagascar', points: [
+      [49.3, -12.3], [50.3, -16.0], [47.5, -24.9], [45.0, -23.0], [43.3, -16.0], [45.5, -13.5]
+    ] },
+    { name: 'North America', points: [
+      [-168.0, 65.7], [-156.0, 71.3], [-110.0, 70.0], [-85.0, 66.0], [-85.0, 60.0],
+      [-82.0, 55.0], [-78.0, 58.0], [-65.0, 60.0], [-60.0, 55.0], [-53.0, 48.0],
+      [-63.0, 45.0], [-68.0, 44.0], [-73.0, 40.6], [-76.0, 35.0], [-80.1, 25.1],
+      [-85.0, 30.0], [-90.0, 29.2], [-97.0, 26.0], [-96.0, 19.2], [-88.0, 21.5],
+      [-84.0, 9.5], [-83.0, 8.0], [-87.0, 11.5], [-97.0, 16.0], [-106.0, 23.2],
+      [-110.0, 22.9], [-115.0, 28.0], [-117.2, 32.6], [-122.4, 37.8], [-124.0, 44.0],
+      [-127.0, 49.0], [-135.0, 57.0], [-150.0, 61.0], [-160.0, 55.0]
+    ] },
+    { name: 'South America', points: [
+      [-77.0, 8.5], [-71.0, 11.5], [-60.0, 8.0], [-50.0, 0.5], [-35.0, -7.5],
+      [-38.5, -12.5], [-43.2, -22.9], [-48.5, -26.5], [-53.0, -33.0], [-57.5, -36.5],
+      [-62.0, -41.0], [-65.3, -45.0], [-68.5, -52.5], [-67.0, -55.9], [-72.5, -52.0],
+      [-74.5, -45.0], [-73.5, -37.0], [-71.6, -33.0], [-70.3, -20.0], [-70.3, -18.3],
+      [-81.1, -4.5], [-80.0, 0.2], [-77.5, 3.8]
+    ] },
+    { name: 'Australia', points: [
+      [142.5, -10.7], [145.8, -16.9], [150.0, -22.0], [153.0, -27.5], [152.0, -33.8],
+      [147.0, -38.0], [144.9, -38.3], [140.0, -38.0], [138.6, -34.9], [131.0, -31.5],
+      [124.0, -33.0], [115.9, -32.0], [114.0, -22.0], [122.0, -18.0], [130.8, -12.4],
+      [135.0, -16.0], [139.0, -17.5], [141.5, -13.0]
+    ] },
+    { name: 'Greenland', points: [
+      [-43.9, 59.8], [-51.7, 64.2], [-56.0, 70.0], [-65.0, 76.0], [-60.0, 82.0],
+      [-40.0, 83.0], [-22.0, 76.0], [-25.0, 70.0], [-35.0, 65.0]
+    ] },
+    { name: 'Great Britain', points: [
+      [-5.7, 50.1], [-3.0, 50.7], [1.4, 51.4], [1.7, 53.0], [-1.5, 55.5],
+      [-3.0, 58.6], [-6.0, 56.8], [-5.0, 53.4]
+    ] },
+    { name: 'Ireland', points: [
+      [-8.0, 51.5], [-10.0, 52.5], [-8.5, 55.2], [-6.0, 54.5], [-6.0, 52.3]
+    ] },
+    { name: 'Japan', points: [
+      [130.5, 31.2], [131.5, 33.5], [133.9, 34.2], [135.9, 33.5], [137.0, 34.7],
+      [138.9, 34.7], [139.9, 35.3], [140.9, 35.9], [140.9, 37.3], [141.5, 38.3],
+      [141.9, 39.6], [141.4, 40.9], [140.1, 39.7], [139.0, 37.9], [136.6, 36.6],
+      [135.5, 35.5], [131.5, 34.2]
+    ] },
+    { name: 'Hokkaido', points: [
+      [140.7, 41.8], [140.0, 43.8], [141.5, 45.4], [145.3, 43.8], [142.5, 42.3]
+    ] },
+    { name: 'New Zealand North Island', points: [
+      [172.7, -34.4], [178.3, -37.7], [176.9, -39.9], [174.8, -38.0], [174.3, -36.0]
+    ] },
+    { name: 'New Zealand South Island', points: [
+      [173.3, -40.5], [174.3, -41.3], [173.9, -43.6], [170.5, -46.0], [166.5, -45.5], [171.0, -42.0]
+    ] },
+    { name: 'Indonesia', points: [
+      [95.3, 5.5], [104.0, -1.0], [106.8, -6.2], [114.5, -8.0], [117.0, -3.5], [110.0, 7.0], [100.0, 5.9]
+    ] },
+    { name: 'Philippines', points: [
+      [121.5, 18.5], [122.2, 12.5], [125.5, 9.0], [123.5, 6.5], [120.0, 7.5], [119.8, 13.0], [120.3, 16.5]
+    ] }
+  ];
+
+  // Fills the real continent/island outlines above onto a 2D canvas context
+  // already sized/positioned for the equirectangular texture (512x256).
+  function drawContinents(ctx, landColor) {
+    ctx.fillStyle = landColor;
+    for (var i = 0; i < CONTINENTS.length; i++) {
+      var pts = CONTINENTS[i].points;
+      ctx.beginPath();
+      var p0 = project(pts[0][0], pts[0][1]);
+      ctx.moveTo(p0[0], p0[1]);
+      for (var j = 1; j < pts.length; j++) {
+        var p = project(pts[j][0], pts[j][1]);
+        ctx.lineTo(p[0], p[1]);
+      }
+      ctx.closePath();
+      ctx.fill();
+    }
+  }
+
   var THEMES = {
     real: {
       bg: '#050a14',
@@ -31,15 +138,11 @@
           g.addColorStop(1, '#0a3448');
           ctx.fillStyle = g;
           ctx.fillRect(0, 0, w, h);
+          drawContinents(ctx, '#3c8c5a');
+          // Subtle decorative highlight overlay on top of the real land shapes
+          // (kept from the original theme for visual character; purely cosmetic,
+          // does not define land/ocean boundaries).
           var rnd = mulberry32(7);
-          ctx.fillStyle = 'rgba(60, 140, 90, 0.55)';
-          for (var i = 0; i < 46; i++) {
-            var x = rnd() * w, y = h * 0.15 + rnd() * h * 0.7;
-            var rx = 10 + rnd() * 34, ry = 6 + rnd() * 16;
-            ctx.beginPath();
-            ctx.ellipse(x, y, rx, ry, rnd() * Math.PI, 0, Math.PI * 2);
-            ctx.fill();
-          }
           ctx.fillStyle = 'rgba(255,255,255,0.06)';
           for (var j = 0; j < 10; j++) {
             var cx = rnd() * w, cy = rnd() * h * 0.5;
@@ -60,20 +163,7 @@
         return makeTexture(function (ctx, w, h) {
           ctx.fillStyle = '#bfe0ec';
           ctx.fillRect(0, 0, w, h);
-          var rnd = mulberry32(23);
-          var palette = ['#8fd3b6', '#6fc19c', '#a9dfc4'];
-          for (var i = 0; i < 60; i++) {
-            var x = rnd() * w, y = h * 0.12 + rnd() * h * 0.76;
-            var s = 14 + rnd() * 26;
-            ctx.fillStyle = palette[i % palette.length];
-            ctx.beginPath();
-            ctx.moveTo(x, y - s);
-            ctx.lineTo(x + s, y);
-            ctx.lineTo(x, y + s);
-            ctx.lineTo(x - s, y);
-            ctx.closePath();
-            ctx.fill();
-          }
+          drawContinents(ctx, '#7fcaa0');
         });
       }
     },
