@@ -12,14 +12,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wunna_Theikdi_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108628963",
     "image_url": "State and Region Volleyball Competition Myanmar (2022).jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q116894472",
@@ -34,13 +36,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116894472",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q127296549",
@@ -55,13 +59,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q127296549",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q13633787",
@@ -76,14 +82,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Defence_Services_Medical_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13633787",
     "image_url": "Dsma0.jpg",
+    "website": "https://www.dsma.edu.mm/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15283825",
@@ -97,15 +105,22 @@
     "opened_year": 2013,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ヤダナボンFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%80%E3%83%A9%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A8%E3%83%AA%E3%83%BC%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15283825",
     "image_url": "Mandalarthiri Stadium.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15334026",
@@ -120,14 +135,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%B3%E3%83%8A%E3%83%BB%E3%83%86%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15334026",
     "image_url": "Seagame.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1639369",
@@ -141,15 +158,22 @@
     "opened_year": 1985,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーミャンマー代表",
+        "url": "http://the-mff.org/my_MM/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%82%A6%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1639369",
     "image_url": "Thuwunna Stadium.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18344253",
@@ -163,14 +187,21 @@
     "opened_year": 2015,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "エーヤワディー・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18344253",
     "image_url": "Ayar Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18350190",
@@ -184,14 +215,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ズウェガビン・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18350190",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18387193",
@@ -205,15 +243,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ネピドー",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Paung_Laung_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18387193",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18395855",
@@ -227,15 +272,22 @@
     "opened_year": 2016,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サザン・ミャンマー・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yamanya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18395855",
     "image_url": "Yamanya Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18395897",
@@ -249,15 +301,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ヤンゴン・ユナイテッドFC",
+        "url": "http://www.ygnutd.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yangon_United_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18395897",
     "image_url": "Yangon United Sports Complex .jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q19713698",
@@ -272,14 +331,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defence_College_(Myanmar)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19713698",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q20992119",
@@ -294,14 +355,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wai_Thar_Li_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20992119",
     "image_url": "Wai Thar Li Stadion Sittwe.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q22673565",
@@ -316,14 +379,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Padonmar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22673565",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q22673590",
@@ -338,14 +403,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Salin_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22673590",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4753555",
@@ -360,14 +427,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Andaman_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4753555",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4834485",
@@ -382,14 +451,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/BAA_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4834485",
     "image_url": "BAA Ground.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5251261",
@@ -404,14 +475,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Defence_Services_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5251261",
     "image_url": "Pyinoolwin -- DSA.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5251268",
@@ -426,14 +499,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Defence_Services_Technological_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5251268",
     "image_url": "Pyinoolwin -- DSTA.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5269061",
@@ -448,14 +523,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dhanyawaddy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5269061",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q6732565",
@@ -469,15 +546,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "マグウェイFC",
+        "url": "http://magwayfootballclub.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Magway_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6732565",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q6906987",
@@ -491,15 +575,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ザヤシュエメFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Monywa_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6906987",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7144738",
@@ -513,15 +604,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "エーヤワディー・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pathein_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7144738",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7688744",
@@ -535,15 +633,22 @@
     "opened_year": 2012,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "シャン・ユナイテッドFC",
+        "url": "http://kbzfc.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Taunggyi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7688744",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q8063649",
@@ -558,14 +663,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zabuthiri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8063649",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q8067583",
@@ -579,15 +686,22 @@
     "opened_year": 2012,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2013年東南アジア競技大会",
+        "url": "http://www.27seagames2013.com/home/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zayarthiri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8067583",
     "image_url": "Zayyarthiri Stadium.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q890722",
@@ -601,15 +715,22 @@
     "opened_year": 1909,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ヤンゴン・ユナイテッドFC",
+        "url": "http://www.ygnutd.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q890722",
     "image_url": "DTYangon162.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q954171",
@@ -623,14 +744,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ヤダナボンFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%82%A5%E3%83%BC%E3%83%BB%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q954171",
     "image_url": "Bahtoo Stadium.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]
