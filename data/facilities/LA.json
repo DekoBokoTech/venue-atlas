@@ -3,13 +3,14 @@
     "id": "Q1061137",
     "name": "Champasak Stadium",
     "name_ja": null,
-    "lat": 15.1184127,
-    "lng": 105.8163491,
+    "lat": 15.118333,
+    "lng": 105.816389,
     "country": "LA",
     "sport_types": [],
     "capacity": 11000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,23 +23,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1061137",
     "image_url": "Champasak Stadium in 2025.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q11257134",
     "name": "Laos National Stadium",
     "name_ja": "アヌウォン・スタジアム",
-    "lat": 17.9686,
-    "lng": 102.608,
+    "lat": 17.96852778,
+    "lng": 102.60791667,
     "country": "LA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -51,34 +56,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q11257134",
     "image_url": "StadAnouvong.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q116637648",
-    "name": "Q116637648",
-    "name_ja": null,
-    "lat": 18.000582,
-    "lng": 102.632969,
-    "country": "LA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q116637648",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q124465915",
@@ -91,6 +74,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -98,22 +82,24 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124465915",
     "image_url": "Blue Lagoon at Vang Vieng - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1382956",
     "name": "New Laos National Stadium",
     "name_ja": "アヌウォン・スタジアム",
-    "lat": 18.06194444,
-    "lng": 102.70388889,
+    "lat": 18.061944,
+    "lng": 102.703889,
     "country": "LA",
     "sport_types": [],
     "capacity": 25000,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -126,11 +112,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1382956",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2227985",
@@ -143,6 +130,7 @@
     "capacity": 15000,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -155,11 +143,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2227985",
     "image_url": "SVK-std-inside3.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q25057321",
@@ -172,6 +161,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -179,11 +169,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q25057321",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6487755",
@@ -196,6 +187,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -203,10 +195,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6487755",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q6695013",
@@ -219,6 +212,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -231,10 +225,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6695013",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
