@@ -10,16 +10,25 @@
     "capacity": 13013,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCヘルマンシュタット",
+        "url": "https://fchermannstadt.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sibiu_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q104851625",
     "image_url": "Sibiu Stadium 2023.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q104857831",
@@ -28,20 +37,31 @@
     "lat": 44.455080555,
     "lng": 26.102438888,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25059,
     "opened_year": 2025,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCディナモ・ブカレスト",
+        "url": "http://www.fcdinamo.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium_(2025)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q104857831",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q104869168",
@@ -54,16 +74,25 @@
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Făurei",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Or%C4%83%C8%99enesc_(F%C4%83urei)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q104869168",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q104869187",
@@ -76,16 +105,25 @@
     "capacity": 1030,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Progresul Spartac",
+        "url": "https://progresulspartac.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Progresul_Spartac",
     "wikidata_url": "https://www.wikidata.org/wiki/Q104869187",
     "image_url": "Poză de ansamblu a Stadionului Progresul Spartac.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q104869204",
@@ -98,37 +136,25 @@
     "capacity": 1360,
     "opened_year": 2019,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSO Filiași",
+        "url": "http://www.csofiliasi.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Or%C4%83%C8%99enesc_(Filia%C8%99i)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q104869204",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q112043227",
-    "name": "Q112043227",
-    "name_ja": null,
-    "lat": 45.3576,
-    "lng": 25.5311,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1976,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112043227",
-    "image_url": "Boberi români 1979.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1136394",
@@ -141,16 +167,25 @@
     "capacity": 5750,
     "opened_year": 1937,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCブラショヴ",
+        "url": "http://www.fcbrasov.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Silviu_Ploe%C8%99teanu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1136394",
     "image_url": "Overview Brasov 1.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114825237",
@@ -163,15 +198,19 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114825237",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1158963",
@@ -180,20 +219,40 @@
     "lat": 45.740556,
     "lng": 21.244167,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 32972,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポリテフニカ・ティミショアラ",
+        "url": "http://www.politimisoara.com/"
+      },
+      {
+        "name": "ACSポリ・ティミショアラ",
+        "url": "http://www.acspoli.ro/"
+      },
+      {
+        "name": "SCMラグビー・ティミショアラ",
+        "url": "http://rugby-timisoara.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_P%C4%83ltini%C8%99anu_Stadium_(1963)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1158963",
     "image_url": "Panoramio - V&A Dudush - Stadionu Dan Paltinisan.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q121947724",
@@ -202,19 +261,25 @@
     "lat": 46.553789993,
     "lng": 26.915794939,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121947724",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1226240",
@@ -223,20 +288,36 @@
     "lat": 44.455083,
     "lng": 26.102444,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 15032,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCディナモ・ブカレスト",
+        "url": "http://www.fcdinamo.ro"
+      },
+      {
+        "name": "CS Dinamo București",
+        "url": "http://www.csdinamo.eu/sectia-jocuri-sportive/fotbal-dinamo-bucuresti/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium_(1951)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1226240",
     "image_url": "Stadionul Dinamo front.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122700646",
@@ -249,15 +330,19 @@
     "capacity": 4100,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122700646",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1253767",
@@ -266,20 +351,31 @@
     "lat": 46.779678,
     "lng": 23.577247,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 23500,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFRクルジュ",
+        "url": "https://cfr1907.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr._Constantin_R%C4%83dulescu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1253767",
     "image_url": "Cluj-Napoca Stadionul Dr. Constantin Rădulescu 1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12719863",
@@ -292,16 +388,20 @@
     "capacity": null,
     "opened_year": 1920,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolae_B%C4%83lcescu_Land_Forces_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12719863",
     "image_url": "Academia Fortelor Terestre \"Nicolae Balcescu\" Sibiu.jpg",
+    "website": "http://www.armyacademy.ro/english/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12719874",
@@ -314,16 +414,20 @@
     "capacity": null,
     "opened_year": 1872,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mircea_cel_B%C4%83tr%C3%A2n_Naval_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12719874",
     "image_url": "Fatada ANMB cu timona.jpg",
+    "website": "http://www.anmb.ro",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12721595",
@@ -336,15 +440,19 @@
     "capacity": null,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12721595",
     "image_url": "Bacău (3175448897).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12723723",
@@ -357,16 +465,20 @@
     "capacity": null,
     "opened_year": 1898,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vatra_Dornei_Casino",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12723723",
     "image_url": "Cazinou-Vatra-Dornei.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12723728",
@@ -379,16 +491,20 @@
     "capacity": null,
     "opened_year": 1913,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sinaia_Casino",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12723728",
     "image_url": null,
+    "website": "https://www.casino-sinaia.ro",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12740329",
@@ -401,15 +517,19 @@
     "capacity": null,
     "opened_year": 1932,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12740329",
     "image_url": null,
+    "website": "https://www.dalles.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12740331",
@@ -422,15 +542,19 @@
     "capacity": 1800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12740331",
     "image_url": "Polivalenta Turnu Severin.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12740334",
@@ -439,20 +563,31 @@
     "lat": 45.7828,
     "lng": 24.1456,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 3000,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSU Sibiu",
+        "url": "https://bc-csusibiu.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sala_Transilvania",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12740334",
     "image_url": "Sibiu, Transilvania 2006.jpeg",
+    "website": "http://www.salatransilvania.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12740337",
@@ -465,16 +600,25 @@
     "capacity": 3126,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Oltchim Râmnicu Vâlcea",
+        "url": "https://scmrmvalcea.ro/scm/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Traian_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12740337",
     "image_url": "Sala Sporturilor Traian.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12741238",
@@ -483,41 +627,26 @@
     "lat": 45.845444444,
     "lng": 23.010972222,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1933,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_CFR_(Simeria)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12741238",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q12741242",
-    "name": "Q12741242",
-    "name_ja": null,
-    "lat": 44.4642,
-    "lng": 26.3322,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12741242",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12741247",
@@ -530,15 +659,24 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Turnu Severin",
+        "url": "http://www.csseverin.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12741247",
     "image_url": "Stadionul Depou CFR.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12741248",
@@ -551,58 +689,25 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCデルタ・トゥルチャ",
+        "url": "http://www.delta-tulcea.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Delta_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12741248",
     "image_url": "Stadionul Delta.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q12741250",
-    "name": "Q12741250",
-    "name_ja": null,
-    "lat": 46.5497,
-    "lng": 24.5458,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12741250",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q12741252",
-    "name": "Q12741252",
-    "name_ja": null,
-    "lat": 47.6394,
-    "lng": 26.2461,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12741252",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12741258",
@@ -615,37 +720,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSO Ovidiu",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Or%C4%83%C8%99enesc_(Ovidiu)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12741258",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q1290949",
-    "name": "Q1290949",
-    "name_ja": null,
-    "lat": 46.7660515,
-    "lng": 23.5632491,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q1290949",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130307959",
@@ -654,19 +747,26 @@
     "lat": 44.379096219,
     "lng": 26.132998586,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "フィギュアスケート",
+      "アイスホッケー"
+    ],
     "capacity": 800,
     "opened_year": 2024,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130307959",
     "image_url": null,
+    "website": "https://berceniarena.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130486012",
@@ -675,19 +775,26 @@
     "lat": 44.566109992,
     "lng": 26.065101895,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー",
+      "フィギュアスケート"
+    ],
     "capacity": 450,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130486012",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131449967",
@@ -696,19 +803,25 @@
     "lat": 45.761744609,
     "lng": 21.229652484,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131449967",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131450308",
@@ -717,19 +830,25 @@
     "lat": 45.74134479,
     "lng": 21.241947321,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131450308",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131561932",
@@ -738,20 +857,26 @@
     "lat": 46.481027777,
     "lng": 24.461055555,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Ungheni)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q131561932",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131620158",
@@ -764,15 +889,19 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131620158",
     "image_url": "ThermeBucuresti.jpg",
+    "website": "https://therme.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q132201073",
@@ -781,19 +910,25 @@
     "lat": 47.154329,
     "lng": 27.588373,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q132201073",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1322113",
@@ -806,16 +941,25 @@
     "capacity": 7814,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSガズ・メタン・メディアシュ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gaz_Metan_Stadium_(Media%C8%99)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1322113",
     "image_url": "Stadionul Gaz Metan Medias.PNG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1323999",
@@ -827,17 +971,26 @@
     "sport_types": [],
     "capacity": 14200,
     "opened_year": 1927,
-    "closed_year": null,
+    "closed_year": 2020,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Inter Sibiu",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sibiu_Municipal_Stadium_(1927)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1323999",
     "image_url": "Municipal Sibiu.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q13580789",
@@ -850,16 +1003,25 @@
     "capacity": null,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "AFCキンディア・トゥルゴヴィシュテ",
+        "url": "https://www.afcchindiatargoviste.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Eugen_Popescu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13580789",
     "image_url": null,
+    "website": "https://www.afcchindiatargoviste.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q136735280",
@@ -868,19 +1030,25 @@
     "lat": 44.455769525,
     "lng": 26.058224316,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "ボクシング"
+    ],
     "capacity": null,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136735280",
     "image_url": null,
+    "website": "https://csrapid.ro/sporturi/box/stiri",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1378838",
@@ -893,16 +1061,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%96%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1378838",
     "image_url": "Valea Cărbunării Ski Jumping Hill.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139601105",
@@ -911,19 +1083,35 @@
     "lat": 44.948625,
     "lng": 24.923429,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バレーボール"
+    ],
     "capacity": 2200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Dacia Mioveni 2012",
+        "url": null
+      },
+      {
+        "name": "CS Dacia Mioveni 2012",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139601105",
     "image_url": "Sala Sporturilor Mioveni Interior.jpg",
+    "website": "https://salasporturilormioveni.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1399176",
@@ -936,37 +1124,25 @@
     "capacity": 7000,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCウニレア・ウルジチェニ",
+        "url": "http://www.fcunirea.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tineretului_Stadium_(Urziceni)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1399176",
     "image_url": "Intrare stadion - panoramio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q140130586",
-    "name": "Q140130586",
-    "name_ja": null,
-    "lat": 44.061888,
-    "lng": 28.638508,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140130586",
-    "image_url": "Eforie Aqua Park 6.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q140528963",
@@ -979,15 +1155,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q140528963",
     "image_url": null,
+    "website": "https://champdugolf.ro",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1409157",
@@ -996,20 +1176,39 @@
     "lat": 44.313889,
     "lng": 23.784167,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30944,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウニヴェルシタテア・クライオヴァ",
+        "url": "https://fcuniversitatea.ro/"
+      },
+      {
+        "name": "CSウニヴェルシタテア・クラヨーヴァ",
+        "url": "https://www.ucv1948.ro/"
+      },
+      {
+        "name": "CSウニヴェルシタテア・クラヨーヴァ",
+        "url": "https://www.ucv1948.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%83%A8%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%96%E3%83%AC%E3%83%A1%E3%83%B3%E3%82%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1409157",
     "image_url": "OblemencoNewStadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q141320695",
@@ -1018,19 +1217,30 @@
     "lat": 45.339783,
     "lng": 24.249151,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Lotru Brezoi",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141320695",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1423327",
@@ -1039,20 +1249,31 @@
     "lat": 44.455931,
     "lng": 26.056831,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 19100,
     "opened_year": 1939,
-    "closed_year": null,
+    "closed_year": 2019,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラピド・ブカレスト",
+        "url": "https://www.fcrapid.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Giule%C8%99ti-Valentin_St%C4%83nescu_(1939)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1423327",
     "image_url": "Giulesti Stadium - Rapid.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q14322671",
@@ -1065,16 +1286,29 @@
     "capacity": 1000,
     "opened_year": 1928,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポリテフニカ・ティミショアラ",
+        "url": "http://www.politimisoara.com/"
+      },
+      {
+        "name": "SSポリテフニカ・ティミショアラ",
+        "url": "http://www.sspolitehnica.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C8%98tiin%C8%9Ba_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14322671",
     "image_url": "Poli Timisoara Mecanica sport 1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1532041",
@@ -1087,58 +1321,25 @@
     "capacity": 7800,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ACFグロリア・ビストリツァ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_P%C4%83dureanu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1532041",
     "image_url": "StadionGloriaBistrita.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q15851349",
-    "name": "Q15851349",
-    "name_ja": null,
-    "lat": 45.51255556,
-    "lng": 25.59338889,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q15851349",
-    "image_url": "Old ski-jump facility in Predeal.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q15851350",
-    "name": "Q15851350",
-    "name_ja": null,
-    "lat": 46.69066667,
-    "lng": 25.61405556,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q15851350",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15977299",
@@ -1147,20 +1348,31 @@
     "lat": 44.437199,
     "lng": 26.152202,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 60120,
     "opened_year": 1953,
-    "closed_year": null,
+    "closed_year": 2007,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカールーマニア代表",
+        "url": "http://www.frf.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Na%C8%9Bional_(1953)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15977299",
     "image_url": "National Stadium, Bucharest.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632616",
@@ -1173,16 +1385,25 @@
     "capacity": 10000,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCオルト・スラティナ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/May_1_Stadium_(Slatina)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632616",
     "image_url": "Stadionul 1 Mai a.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632617",
@@ -1195,16 +1416,25 @@
     "capacity": 5000,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSミネルル・モトル",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Minerul_(Motru)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632617",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632618",
@@ -1217,16 +1447,25 @@
     "capacity": 1000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Luceafărul Oradea",
+        "url": "http://www.luceafaruloradea.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Luceaf%C4%83rul",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632618",
     "image_url": "Stadionul Luceafărul (2).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632705",
@@ -1239,16 +1478,25 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "BC Mureș",
+        "url": "http://www.bcmures.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sala_Sporturilor_(T%C3%A2rgu_Mure%C8%99)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632705",
     "image_url": "Bcm dinamo.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632716",
@@ -1261,16 +1509,25 @@
     "capacity": 2538,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Dinamo București",
+        "url": "http://www.csdinamo.eu/sectia-jocuri-sportive/volei-feminin/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Polyvalent_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632716",
     "image_url": "Dinamo Polyvalent Hall.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632726",
@@ -1283,16 +1540,20 @@
     "capacity": 1700,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sala_Sporturilor_Dumitru_Popescu_Coliba%C8%99i",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632726",
     "image_url": "Sala Sporturilor, Braşov, Romania, August 2013, 03.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17511104",
@@ -1305,16 +1566,25 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Brazi",
+        "url": "http://clubulsportivbrazi.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Chimia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17511104",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17511105",
@@ -1327,16 +1597,20 @@
     "capacity": 1732,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Conpet",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17511105",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1804862",
@@ -1349,15 +1623,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1804862",
     "image_url": "Arad 2023 - Palatul Cultural din Arad - 04.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18127710",
@@ -1370,16 +1648,25 @@
     "capacity": 500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Dinamo",
+        "url": "http://www.steauabaschet.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sala_Mihai_Viteazu",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18127710",
     "image_url": "Sala Mihai Viteazu.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18127712",
@@ -1392,16 +1679,25 @@
     "capacity": 461,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Gaz Metan Mediaș",
+        "url": "http://www.gaz-metan-medias.ro/baschet.html"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sala_Sporturilor_Media%C8%99",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18127712",
     "image_url": "Sala Sporturilor Mediaș.png",
+    "website": "http://cultura.primariamedias.ro/structura/sala-sporturilor/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18547662",
@@ -1414,16 +1710,20 @@
     "capacity": null,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lasc%C4%83r_Pan%C4%83_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18547662",
     "image_url": "Sala Sporturilor Baia Mare 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18548065",
@@ -1436,38 +1736,46 @@
     "capacity": null,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_CMC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18548065",
     "image_url": "Stadionul CMC.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18548066",
     "name": "Stadionul ANEFS",
     "name_ja": null,
-    "lat": 44.4393,
-    "lng": 26.0701,
+    "lat": 44.39028,
+    "lng": 26.10333,
     "country": "RO",
     "sport_types": [],
     "capacity": 6000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_ANEFS",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18548066",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1888199",
@@ -1480,16 +1788,25 @@
     "capacity": 10020,
     "opened_year": 1920,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCスポルトゥル・ストゥデンツェスク・ブカレスト",
+        "url": "https://sportulstudentesc.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Regie_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1888199",
     "image_url": "Regie stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19709184",
@@ -1502,16 +1819,25 @@
     "capacity": null,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Oșorhei",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Comunal_(Alparea)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19709184",
     "image_url": "Stadionul Comunal (Alparea).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19710046",
@@ -1524,15 +1850,19 @@
     "capacity": null,
     "opened_year": 1872,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q19710046",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21977813",
@@ -1545,16 +1875,25 @@
     "capacity": null,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Unirea Tărlungeni",
+        "url": "http://unireatarlungeni.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Comunal_(T%C4%83rlungeni)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21977813",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2213748",
@@ -1567,16 +1906,29 @@
     "capacity": 2525,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Universitatea Cluj-Napoca",
+        "url": "https://u-cluj.ro/"
+      },
+      {
+        "name": "CSウニヴェルシタテア・クルジュ＝ナポカ",
+        "url": "https://www.u-bt.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Horia_Demian_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2213748",
     "image_url": "Kolozsvar Sportcsarnok.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2262973",
@@ -1585,20 +1937,35 @@
     "lat": 47.184583,
     "lng": 27.561389,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11390,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポリテフニカ・ヤシ",
+        "url": "https://www.politehnicaiasi.ro/"
+      },
+      {
+        "name": "CSMストゥデンツェスク・ヤシ",
+        "url": "https://www.politehnicaiasi.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Emil_Alexandrescu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2262973",
     "image_url": "Stadionul Emil Alexandrescu panorama.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q22667774",
@@ -1607,20 +1974,31 @@
     "lat": 44.26388889,
     "lng": 28.55583333,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCヴィトルル・コンスタンツァ",
+        "url": "https://www.farulconstanta.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Gheorghe_Hagi_Academy)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22667774",
     "image_url": "Ovidiu 2017 (4).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q23051502",
@@ -1629,20 +2007,31 @@
     "lat": 46.36694444,
     "lng": 25.80291667,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1904,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK Csíkszereda",
+        "url": "http://fkcsikszereda.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Miercurea_Ciuc_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23051502",
     "image_url": "Stadionul Municipal (Miercurea Ciuc).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q23894984",
@@ -1655,16 +2044,25 @@
     "capacity": null,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Șoimii Pâncota",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_%C8%98oimii",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23894984",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2437251",
@@ -1673,20 +2071,32 @@
     "lat": 44.197278,
     "lng": 28.639333,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 15500,
     "opened_year": 1957,
-    "closed_year": null,
+    "closed_year": 2023,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCファルル・コンスタンツァ",
+        "url": "https://www.farulconstanta.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Farul",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2437251",
     "image_url": "Stadionul Farul in the 80's.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24969466",
@@ -1695,20 +2105,31 @@
     "lat": 46.53958333,
     "lng": 26.92419444,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCMバカウ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Constantin_Anghelache_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24969466",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24969467",
@@ -1717,20 +2138,31 @@
     "lat": 44.37777778,
     "lng": 25.94083333,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCアカデミカ・クリンチェニ",
+        "url": "https://interilfov.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Clinceni_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24969467",
     "image_url": "Stadion Clinceni.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24969855",
@@ -1743,16 +2175,20 @@
     "capacity": null,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Anghel_Iord%C4%83nescu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24969855",
     "image_url": "Anghel Iordanescu stadium seen from outside.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24970064",
@@ -1761,20 +2197,31 @@
     "lat": 46.36955556,
     "lng": 22.12736111,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Național Sebiș",
+        "url": "http://nationalsebis.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Cri%C8%99ana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24970064",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25202899",
@@ -1787,16 +2234,20 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Motorul_(Arad)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25202899",
     "image_url": "Motorul Stadium (Arad).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25203389",
@@ -1805,20 +2256,31 @@
     "lat": 44.61722222,
     "lng": 26.09916667,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Balotești",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Central_(Balote%C8%99ti)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25203389",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25203918",
@@ -1827,20 +2289,31 @@
     "lat": 45.67435556,
     "lng": 21.910725,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Lugoj",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Tineretului_(Lugoj)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25203918",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25203920",
@@ -1853,16 +2326,25 @@
     "capacity": 320,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Motorul Oradea",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Motorul_(Oradea)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25203920",
     "image_url": "Motorul Stadium (Oradea).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25204592",
@@ -1871,20 +2353,31 @@
     "lat": 45.86291667,
     "lng": 25.77613889,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4774,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "シェプシOSKスフントゥ・ゲオルゲ",
+        "url": "https://sepsiosk.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sf%C3%A2ntu_Gheorghe_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25204592",
     "image_url": "Stadionul Municipal Sfantul Gheorghe.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25204708",
@@ -1893,20 +2386,26 @@
     "lat": 43.76013333,
     "lng": 24.87744167,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turnu_M%C4%83gurele_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25204708",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25208720",
@@ -1915,41 +2414,26 @@
     "lat": 44.53305556,
     "lng": 26.25986111,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Comunal_(Afuma%C8%9Bi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25208720",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q25387062",
-    "name": "Q25387062",
-    "name_ja": null,
-    "lat": 44.4704112,
-    "lng": 26.0739838,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q25387062",
-    "image_url": "Rugby Park Bucharest.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2576588",
@@ -1962,16 +2446,25 @@
     "capacity": 14542,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCプログレスル・ブカレスト",
+        "url": "http://www.progresulfc.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cotroceni_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2576588",
     "image_url": "StadiumCotroceniProgresulBucharest2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2607402",
@@ -1984,16 +2477,25 @@
     "capacity": 5123,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSコンコルディア・キアジナ",
+        "url": "http://www.csconcordia.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Concordia_Stadium_(Chiajna)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2607402",
     "image_url": "Stadion Chiajna.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2654347",
@@ -2006,16 +2508,25 @@
     "capacity": 5300,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2019 European Wrestling Championships",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polyvalent_Hall_(Bucharest)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2654347",
     "image_url": "Sala Polivalentă București Exterior.jpg",
+    "website": "https://salapolivalenta.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28195235",
@@ -2024,20 +2535,26 @@
     "lat": 44.5926079,
     "lng": 24.5516649,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13500,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Viitorul_Stadium_(Scornice%C8%99ti)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28195235",
     "image_url": "Stadionul Viitorul Scornicesti.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28230315",
@@ -2046,20 +2563,26 @@
     "lat": 46.26663889,
     "lng": 21.63497222,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Otto_Greffner",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28230315",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28230358",
@@ -2072,16 +2595,25 @@
     "capacity": null,
     "opened_year": 1956,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCメタログロブス・ブカレスト",
+        "url": "https://metaloglobusfc.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Metaloglobus_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28230358",
     "image_url": "Metaloglobus stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30591221",
@@ -2090,20 +2622,26 @@
     "lat": 45.72819444,
     "lng": 21.26158333,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Ciarda_Ro%C8%99ie",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30591221",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30597348",
@@ -2115,17 +2653,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1967,
-    "closed_year": null,
+    "closed_year": 2015,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Ion_Oblemenco_(1967)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30597348",
     "image_url": "Stadium Ion Oblemenco - inside.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30597365",
@@ -2134,19 +2676,30 @@
     "lat": 45.04363889,
     "lng": 23.27005556,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
-    "closed_year": null,
+    "closed_year": 2015,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSパンドゥリイ・トゥルグ・ジウ",
+        "url": "http://www.panduriics.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30597365",
     "image_url": "RO GJ Targu Jiu stadium 1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30609747",
@@ -2155,20 +2708,31 @@
     "lat": 47.16080556,
     "lng": 27.48497222,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Știința Miroslava",
+        "url": "http://www.stiintamiroslava.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Comunal_Stadium_(Uricani)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30609747",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3121017",
@@ -2177,20 +2741,31 @@
     "lat": 45.430236,
     "lng": 28.022378,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13500,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCオツェルル・ガラツィ",
+        "url": "https://ascotelul.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/O%C8%9Belul_Stadium_(1982)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3121017",
     "image_url": "Tribuna1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3274884",
@@ -2199,20 +2774,31 @@
     "lat": 44.940278,
     "lng": 26.033333,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15500,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCペトロルル・プロイェシュティ",
+        "url": "https://fcpetrolul.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%AA%E3%82%A8%E3%83%BB%E3%82%AA%E3%82%A2%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3274884",
     "image_url": "Ploiești Stadionul Ilie Oană 2.jpg",
+    "website": "http://www.fcpetrolul.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3331098",
@@ -2221,20 +2807,31 @@
     "lat": 44.638611,
     "lng": 22.667222,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20054,
     "opened_year": 1977,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCドロベタ＝トゥルヌ・セヴェリン",
+        "url": "http://www.gdds-ubesk.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Drobeta-Turnu_Severin_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3331098",
     "image_url": "StadionulmDTS.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q338602",
@@ -2243,20 +2840,35 @@
     "lat": 44.4372,
     "lng": 26.1525,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 55634,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカールーマニア代表",
+        "url": "http://www.frf.ro/"
+      },
+      {
+        "name": "FCSB",
+        "url": "https://www.fcsb.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%83%8A%E3%83%84%E3%82%A3%E3%82%AA%E3%83%8A%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q338602",
     "image_url": "Arena-bukareszt.jpg",
+    "website": "https://arena-nationala.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495521",
@@ -2265,20 +2877,32 @@
     "lat": 44.468893,
     "lng": 26.074991,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン",
+      "サッカー"
+    ],
     "capacity": 8207,
     "opened_year": 1913,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCディナモ・ブカレスト",
+        "url": "http://www.fcdinamo.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E5%87%B1%E6%97%8B%E9%96%80%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495521",
     "image_url": "Arcul de Triumf stadium.jpg",
+    "website": "https://csnarculdetriumf.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496040",
@@ -2287,20 +2911,31 @@
     "lat": 44.4283,
     "lng": 26.0819,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 28000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカールーマニア代表",
+        "url": "http://www.frf.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Republicii",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496040",
     "image_url": "Ilustrată Stadionul Republicii.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496765",
@@ -2309,20 +2944,31 @@
     "lat": 46.768422,
     "lng": 23.572078,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 28000,
     "opened_year": 1911,
-    "closed_year": null,
+    "closed_year": 2009,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFRクルジュ",
+        "url": "https://cfr1907.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Ion_Moina_(1960)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496765",
     "image_url": "Stadionul Ion Moina.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3544993",
@@ -2331,20 +2977,31 @@
     "lat": 45.043639,
     "lng": 23.270056,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9200,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSパンドゥリイ・トゥルグ・ジウ",
+        "url": "http://www.panduriics.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Tudor_Vladimirescu_(1963)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3544993",
     "image_url": "RO GJ Targu Jiu stadium 1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q39047056",
@@ -2353,20 +3010,26 @@
     "lat": 46.670833333,
     "lng": 22.358888888,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1921,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Francisc_Matei",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39047056",
     "image_url": "Stadionul Francisc Matei.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q39047118",
@@ -2375,20 +3038,31 @@
     "lat": 45.14472222,
     "lng": 26.80277778,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "AFC Metalul Buzău",
+        "url": "http://metalulbuzau.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Metalul_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39047118",
     "image_url": "Metalul Buzau Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q39071695",
@@ -2397,20 +3071,26 @@
     "lat": 47.84186111,
     "lng": 25.90361111,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%C4%83d%C4%83u%C8%9Bi_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39071695",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q42310391",
@@ -2423,16 +3103,20 @@
     "capacity": 2300,
     "opened_year": 1853,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ion_%C8%9Airiac_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q42310391",
     "image_url": "RO BV Liceul Sportiv.jpg",
+    "website": "http://www.lpsbrasov.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q42993702",
@@ -2445,15 +3129,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q42993702",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4684229",
@@ -2462,20 +3150,31 @@
     "lat": 47.7483,
     "lng": 26.6519,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCボトシャニ",
+        "url": "http://www.fcbotosani.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Boto%C8%99ani_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4684229",
     "image_url": "MunicipalBotosani.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4716709",
@@ -2488,16 +3187,25 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Sportul Șimleu Silvaniei",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_M%C4%83gura_(%C8%98imleu_Silvaniei)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4716709",
     "image_url": "Stadionul Măgura (Șimleu Silvaniei) 2nd stand.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4789005",
@@ -2506,20 +3214,31 @@
     "lat": 44.43082,
     "lng": 26.07662,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 5000,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "BRDナスターゼ・ティリアク・トロフィー",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arenele_BNR",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4789005",
     "image_url": "Arenele BNR main court at the 2012 BRD Năstase Țiriac Trophy.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4822210",
@@ -2532,16 +3251,20 @@
     "capacity": null,
     "opened_year": 1939,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aurel_Vlaicu_Flight_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4822210",
     "image_url": "Boboc Air Base Swift Response 21.jpg",
+    "website": "https://afas.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4875080",
@@ -2550,20 +3273,31 @@
     "lat": 45.449167,
     "lng": 28.058889,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Oțelul II Galați",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baza_Sportiv%C4%83_Zoltan_David",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4875080",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4959054",
@@ -2576,16 +3310,25 @@
     "capacity": 2000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ASC Corona 2010 Braşov",
+        "url": "http://www.asccorona.ro/competitii-hochei/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bra%C8%99ov_Olympic_Ice_Rink",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4959054",
     "image_url": "Brașov Olympic Ice Rink.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5044391",
@@ -2598,16 +3341,20 @@
     "capacity": null,
     "opened_year": 1889,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carol_I_National_Defence_University",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5044391",
     "image_url": null,
+    "website": "http://www.unap.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5163738",
@@ -2616,20 +3363,31 @@
     "lat": 45.7463,
     "lng": 21.24167,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 1400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "BC Timişoara",
+        "url": "http://bctimisoara.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Constantin_Jude_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5163738",
     "image_url": "Sala Sporturilor „Constantin Jude” ( Sala Olimpia ) - 2023 - IMG 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5181791",
@@ -2642,16 +3400,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Craiova_Hippodrome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5181791",
     "image_url": "Hipodrom stich2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5195610",
@@ -2664,16 +3426,25 @@
     "capacity": 10000,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSミオヴェニ",
+        "url": "https://csmioveni.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Or%C4%83%C8%99enesc_Stadium_(Mioveni)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5195610",
     "image_url": "Stadionul dacia din mioveni 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q53307062",
@@ -2686,16 +3457,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Târgu Jiu",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Constantina_Di%C8%9B%C4%83-Tomescu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q53307062",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q549018",
@@ -2704,20 +3484,31 @@
     "lat": 46.6335,
     "lng": 27.733319,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9240,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCヴァスルイ",
+        "url": "https://vasluifc.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vaslui_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q549018",
     "image_url": "Stadionul Municipal (Vaslui).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5518169",
@@ -2726,20 +3517,31 @@
     "lat": 45.45472222,
     "lng": 28.03333333,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 5100,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Dunărea Galați",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gala%C8%9Bi_Ice_Rink",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5518169",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5556431",
@@ -2748,20 +3550,31 @@
     "lat": 46.726843952,
     "lng": 25.592306616,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 1480,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Gyergyói Hoki Klub",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gheorgheni_Ice_Rink",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5556431",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q55605063",
@@ -2770,20 +3583,26 @@
     "lat": 46.764171029,
     "lng": 23.63032108,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baza_Sportiv%C4%83_Dan_Anca",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55605063",
     "image_url": "Baza Sportivă Dan Anca.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q55633861",
@@ -2792,20 +3611,26 @@
     "lat": 44.46889,
     "lng": 26.07492,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 7500,
     "opened_year": 1914,
-    "closed_year": null,
+    "closed_year": 2018,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Arcul_de_Triumf_(1914)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55633861",
     "image_url": "Stadionul Arcul de Triumf 2016.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q55633862",
@@ -2818,16 +3643,20 @@
     "capacity": null,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_CUG",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55633862",
     "image_url": "Stadionul CUG.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q56508907",
@@ -2840,15 +3669,44 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q56508907",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q60500356",
+    "name": "Complexul Weekend, Târgu Mureș",
+    "name_ja": null,
+    "lat": 46.5617,
+    "lng": 24.5735,
+    "country": "RO",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q60500356",
+    "image_url": "RO MS Complexul Weekend 2.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60745280",
@@ -2861,16 +3719,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Cri%C8%99ul_(Chi%C8%99ineu-Cri%C8%99)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60745280",
     "image_url": "Stadionul Crișul (Chișineu-Criș).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q60785079",
@@ -2882,17 +3744,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1928,
-    "closed_year": null,
+    "closed_year": 2016,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_UMT",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60785079",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q61082380",
@@ -2905,15 +3771,24 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM București",
+        "url": "https://www.csmbucuresti.ro/handbal"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q61082380",
     "image_url": "Sala Rapid 1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q61387864",
@@ -2926,16 +3801,25 @@
     "capacity": 12584,
     "opened_year": 2020,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC UTAアラド",
+        "url": "https://www.uta-arad.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%AF%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61387864",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q61996033",
@@ -2948,16 +3832,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Romeo_Iamandi_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61996033",
     "image_url": "RO BZ Sports hall.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6270699",
@@ -2966,19 +3854,30 @@
     "lat": 44.54262,
     "lng": 26.06784,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1300,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSオトペニ",
+        "url": "http://www.csotopeni.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6270699",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6271260",
@@ -2987,20 +3886,31 @@
     "lat": 45.258058,
     "lng": 27.94715,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFブライラ",
+        "url": "https://daciaunireabraila.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Br%C4%83ila_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6271260",
     "image_url": "Tribunabr.JPG",
+    "website": "http://brailasuntemnoi.wordpress.com/stadion/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6271952",
@@ -3013,16 +3923,29 @@
     "capacity": 8200,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ASAトゥルグ・ムレシュ (2013)",
+        "url": "http://www.asatirgumures.ro"
+      },
+      {
+        "name": "ASA Târgu Mureș",
+        "url": "https://asatargumures.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trans-Sil_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6271952",
     "image_url": "Stadionul-trans-sil.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q636034",
@@ -3035,16 +3958,20 @@
     "capacity": null,
     "opened_year": 1949,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Technical_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q636034",
     "image_url": null,
+    "website": "http://www.mta.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q641822",
@@ -3057,16 +3984,20 @@
     "capacity": null,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%AB%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%83%AA%E3%83%B3%E3%82%AF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q641822",
     "image_url": "Bucharest Ring circuit map.svg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6459746",
@@ -3079,16 +4010,25 @@
     "capacity": 400,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Satu Mare",
+        "url": "http://www.csmsatumare.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ecaterina_Both_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6459746",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65090741",
@@ -3097,20 +4037,32 @@
     "lat": 44.413169235,
     "lng": 26.040313104,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 31254,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCSB",
+        "url": "https://www.fcsb.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A2%E3%82%A6%E3%82%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65090741",
     "image_url": "Romania bucharest Steaua Stadium.jpg",
+    "website": "https://stadionulsteaua.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65117053",
@@ -3119,20 +4071,35 @@
     "lat": 47.639167,
     "lng": 23.509444,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 600,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ACSFコムナ・レチェア",
+        "url": null
+      },
+      {
+        "name": "ACS Fotbal Feminin Baia",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Central_(Recea)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65117053",
     "image_url": "Stadionul Central (Recea).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6541963",
@@ -3145,16 +4112,25 @@
     "capacity": null,
     "opened_year": 1911,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Olimpia Salonta",
+        "url": "http://www.csmos.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Municipal_(Salonta)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6541963",
     "image_url": "Stadionul Municipal (Salonta).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6845073",
@@ -3163,20 +4139,26 @@
     "lat": 44.433611111,
     "lng": 26.1469,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": null,
     "opened_year": 1958,
-    "closed_year": null,
+    "closed_year": 2016,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mihai_Flamaropol_Ice_Rink",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6845073",
     "image_url": "Flamaropol Ice Skating Rink.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7086887",
@@ -3185,20 +4167,31 @@
     "lat": 44.94,
     "lng": 26.03,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 3500,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSU Asesoft Ploiești",
+        "url": "http://www.csuasesoft.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Olimpia_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7086887",
     "image_url": "Sala Sporturilor Olimpia.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7227134",
@@ -3211,16 +4204,25 @@
     "capacity": 4215,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCM CSU Craiova",
+        "url": "http://www.scmcraiova.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polyvalent_Hall_(Craiova)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7227134",
     "image_url": "Polyvalent Hall Craiova.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7227135",
@@ -3229,20 +4231,31 @@
     "lat": 46.766972222,
     "lng": 23.570388888,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 9777,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSウニヴェルシタテア・クルジュ＝ナポカ",
+        "url": "https://www.u-bt.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/BTarena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7227135",
     "image_url": "U-BT Cluj-Napoca vs CSM Oradea 28.05.2023.png",
+    "website": "http://polivalentacluj.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7227137",
@@ -3255,16 +4268,20 @@
     "capacity": 4000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polyvalent_Hall_(Piatra_Neam%C8%9B)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7227137",
     "image_url": "Piatra Neamt Polyvalent Hall.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q737106",
@@ -3273,20 +4290,31 @@
     "lat": 46.938517,
     "lng": 26.354424,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18000,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCチェアラゥル・ピアトラ・ネアムツ",
+        "url": "http://csmceahlaul.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ceahl%C4%83ul_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q737106",
     "image_url": "Ceahlăul Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7385886",
@@ -3299,16 +4327,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%A2nca",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7385886",
     "image_url": "RO GJ DN67C Transalpina 7.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q74413",
@@ -3317,20 +4349,32 @@
     "lat": 46.768333,
     "lng": 23.572222,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 30335,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCウニヴェルシタテア・クルジュ",
+        "url": "https://www.fcucluj.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q74413",
     "image_url": "Cluj-Napoca (42741215562).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q750214",
@@ -3343,16 +4387,25 @@
     "capacity": 10000,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCアストラ・プロイェシュティ",
+        "url": "http://www.afcastragiurgiu.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Astra_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q750214",
     "image_url": "Stadionul Astra.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596361",
@@ -3361,20 +4414,31 @@
     "lat": 46.529594,
     "lng": 26.912234,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSアエロスタル・バカウ",
+        "url": "http://cs.aerostar.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aerostar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596361",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596362",
@@ -3383,20 +4447,31 @@
     "lat": 44.5606,
     "lng": 27.3727,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "AFCウニレア・スロボジア",
+        "url": "https://afcunireaslobozia.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/May_1_Stadium_(Slobozia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596362",
     "image_url": "Stadionul 1 mai (Slobozia) - panoramio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596363",
@@ -3409,16 +4484,29 @@
     "capacity": 7000,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ACSフォレスタ・スチャヴァ",
+        "url": "https://www.forestasuceava.com/"
+      },
+      {
+        "name": "CSM Cetatea Suceava",
+        "url": "https://cetateasuceava.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Areni_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596363",
     "image_url": "Stadionul Areni7.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596366",
@@ -3427,20 +4515,31 @@
     "lat": 44.3086,
     "lng": 26.1839,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2700,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ACS Berceni",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Berceni",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596366",
     "image_url": "Stadionul Berceni.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596368",
@@ -3453,16 +4552,20 @@
     "capacity": 450,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_of_the_Romanian_National_Football_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596368",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596369",
@@ -3475,38 +4578,56 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Pașcani",
+        "url": "http://www.csmpascani.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_CFR_(Pa%C8%99cani)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596369",
     "image_url": "Stadion CS Kosarom Pascani.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596370",
     "name": "Stadionul CFR",
     "name_ja": null,
-    "lat": 45.7539,
-    "lng": 21.2105,
+    "lat": 45.753859,
+    "lng": 21.21052,
     "country": "RO",
     "sport_types": [],
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC CFRティミショアラ",
+        "url": "https://www.csfcfrtimisoara1933.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_CFR_(Timi%C8%99oara)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596370",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596372",
@@ -3515,20 +4636,26 @@
     "lat": 45.6481,
     "lng": 25.6503,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1950,
-    "closed_year": null,
+    "closed_year": 2020,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carpa%C8%9Bi_Stadium_(1950)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596372",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596375",
@@ -3537,20 +4664,31 @@
     "lat": 46.42463889,
     "lng": 21.83275,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1920,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Victoria Ineu",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central-Parc_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596375",
     "image_url": "Stadionul Central-Parc.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596378",
@@ -3563,16 +4701,29 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Mureșul Deva",
+        "url": "http://www.csmuresuldeva.ro/"
+      },
+      {
+        "name": "CSM Deva",
+        "url": "http://www.cnscetatedeva.ro"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Cetate_(Deva)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596378",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596379",
@@ -3585,16 +4736,25 @@
     "capacity": 2000,
     "opened_year": 1936,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Dermata Cluj",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Clujana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596379",
     "image_url": "Stadionul Clujana, main stand, interior view.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596380",
@@ -3607,16 +4767,25 @@
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCヴィクトリア・ブラネシュティ",
+        "url": "http://www.victoriafc.ro/fc-victoria-branesti.html"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_C%C4%83t%C4%83lin_H%C3%AEldan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596380",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596383",
@@ -3629,16 +4798,25 @@
     "capacity": 1000,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Dacia Orăștie",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Dacia_(Or%C4%83%C8%99tie)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596383",
     "image_url": "Stadionul Dacia (Orăștie).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596385",
@@ -3651,15 +4829,19 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596385",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596387",
@@ -3668,20 +4850,31 @@
     "lat": 44.406,
     "lng": 26.0852,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1939,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "エレクトロマグネティカ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Electromagnetica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596387",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596389",
@@ -3694,16 +4887,25 @@
     "capacity": null,
     "opened_year": 1949,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Craiova",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Extensiv_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596389",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596393",
@@ -3716,16 +4918,25 @@
     "capacity": 10000,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Flacăra Moreni",
+        "url": "https://flacaramoreni.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Flac%C4%83ra_Stadium_(Moreni)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596393",
     "image_url": "Flacara Moreni Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596394",
@@ -3734,42 +4945,54 @@
     "lat": 45.666934,
     "lng": 25.610821,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Forex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596394",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596395",
     "name": "Stadionul Flacăra",
     "name_ja": null,
-    "lat": 44.324868,
-    "lng": 28.618544,
+    "lat": 44.3247,
+    "lng": 28.6186,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Flac%C4%83ra_(N%C4%83vodari)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596395",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596397",
@@ -3778,20 +5001,31 @@
     "lat": 44.4575,
     "lng": 26.1025,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Victoria București",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Florea_Dumitrache",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596397",
     "image_url": "Stadionul Florea Dumitrache.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596398",
@@ -3804,37 +5038,55 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ACS Fortuna Covaci",
+        "url": "http://www.fortuna-covaci.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596398",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596399",
     "name": "Stadionul Francisc von Neumann",
     "name_ja": null,
-    "lat": 46.192575,
-    "lng": 21.311442,
+    "lat": 46.1925,
+    "lng": 21.3114,
     "country": "RO",
     "sport_types": [],
     "capacity": 7287,
     "opened_year": 1946,
-    "closed_year": null,
+    "closed_year": 2014,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC UTAアラド",
+        "url": "https://www.uta-arad.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Francisc_von_Neuman_(1946)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596399",
     "image_url": "Stadionuta.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596400",
@@ -3843,20 +5095,35 @@
     "lat": 44.37675,
     "lng": 26.20391667,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Inter Gaz București",
+        "url": null
+      },
+      {
+        "name": "SC Popești-Leordeni",
+        "url": "https://scpopestileordeni.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Inter_Gaz_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596400",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596401",
@@ -3868,17 +5135,26 @@
     "sport_types": [],
     "capacity": 14000,
     "opened_year": 1937,
-    "closed_year": null,
+    "closed_year": 2010,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCペトロルル・プロイェシュティ",
+        "url": "https://fcpetrolul.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ilie_Oan%C4%83_Stadium_(1937)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596401",
     "image_url": "Stadion Ilie Oană.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596403",
@@ -3891,16 +5167,25 @@
     "capacity": null,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Medgidia",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Iftimie_Ilisei_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596403",
     "image_url": "Stadionul \"Iftimie Ilisei\".jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596404",
@@ -3909,20 +5194,31 @@
     "lat": 47.071944,
     "lng": 21.93,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11067,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCビホル・オラデア",
+        "url": "http://www.fcbihor.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Iuliu_Bodola_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596404",
     "image_url": "Municipal Oradea.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596405",
@@ -3935,16 +5231,25 @@
     "capacity": 8000,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ユヴェントス・ブカレスト",
+        "url": "http://www.juventusbucuresti.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Colentina_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596405",
     "image_url": "Juventus Bucureşti Stadium during a 24 May 2009 match with AS Filipeştii de Pădure, score 4-0.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596406",
@@ -3957,16 +5262,25 @@
     "capacity": 15500,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Jiul Petroșani",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Petre_Libardi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596406",
     "image_url": "Stadionul Jiul (1922) stand on fire.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596407",
@@ -3979,16 +5293,20 @@
     "capacity": null,
     "opened_year": 1908,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Mihai_Adam",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596407",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596408",
@@ -3997,20 +5315,35 @@
     "lat": 43.896111,
     "lng": 25.981389,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5500,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCドゥナレア・ジュルジュ",
+        "url": null
+      },
+      {
+        "name": "FCアストラ・プロイェシュティ",
+        "url": "http://www.afcastragiurgiu.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%8A%E3%82%B9%E3%82%BF%E3%82%BD%E3%83%B4%E3%82%A3%E3%83%81",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596408",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596409",
@@ -4023,16 +5356,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ladislau_B%C3%B6l%C3%B6ni_Stadium_(T%C3%A2rgu_Mure%C8%99)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596409",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596410",
@@ -4045,16 +5382,25 @@
     "capacity": null,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Focșani",
+        "url": "http://www.csmfocsani2007.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Milcovul_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596410",
     "image_url": "Stadionul Milcovul.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596412",
@@ -4067,16 +5413,25 @@
     "capacity": null,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCコルヴィヌル・フネドアラ",
+        "url": "https://fccorvinul1921.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Klein_Stadium_(1960)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596412",
     "image_url": "MK02.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596414",
@@ -4089,16 +5444,25 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Minerul Lupeni",
+        "url": "https://minerullupeni.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Minerul_(Lupeni)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596414",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596415",
@@ -4111,16 +5475,25 @@
     "capacity": null,
     "opened_year": 1926,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCMレシツァ",
+        "url": "https://csmresita.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mircea_Chivu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596415",
     "image_url": "Reŝico, stadiono Mircea Chivu, 1.jpeg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596421",
@@ -4133,16 +5506,20 @@
     "capacity": 2000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Mogo%C8%99oaia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596421",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596422",
@@ -4154,17 +5531,21 @@
     "sport_types": [],
     "capacity": 30000,
     "opened_year": null,
-    "closed_year": null,
+    "closed_year": 2008,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Municipal_(Bra%C8%99ov%2C_old)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596422",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596423",
@@ -4177,16 +5558,25 @@
     "capacity": null,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Roman",
+        "url": "http://csmroman.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Moldova_(Roman)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596423",
     "image_url": "Stadionul moldova.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596424",
@@ -4195,20 +5585,31 @@
     "lat": 46.557222,
     "lng": 26.913333,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 17500,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCMバカウ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Municipal_Stadium_(Bac%C4%83u)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596424",
     "image_url": "BacauStadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596425",
@@ -4221,16 +5622,25 @@
     "capacity": 7500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCインテルナツィオナル・クルテア・デ・アルジェシュ",
+        "url": "http://www.fcinternational.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Municipal_(Curtea_de_Arge%C8%99)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596425",
     "image_url": "Stadium Municipal Curtea de Arges.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596426",
@@ -4239,20 +5649,31 @@
     "lat": 44.200718,
     "lng": 27.327948,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "AFCドゥナレア・カララシ",
+        "url": "https://afcdunarea.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ion_Com%C8%99a_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596426",
     "image_url": "RO CL Calarasi Dunarea Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596427",
@@ -4265,16 +5686,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Municipal_(Dorohoi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596427",
     "image_url": "Dorohoi Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596428",
@@ -4287,16 +5712,29 @@
     "capacity": 18000,
     "opened_year": 1942,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCグロリア・ブザウ",
+        "url": "http://www.fcgloriabuzau.ro/"
+      },
+      {
+        "name": "SCMグロリア・ブザウ",
+        "url": "https://scm-gloriabuzau.ro/fotbal/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Buz%C4%83u_Municipal_Stadium_(Cr%C3%A2ng_Stadium)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596428",
     "image_url": "Bz stadium gloria.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596429",
@@ -4305,20 +5743,31 @@
     "lat": 46.78083333,
     "lng": 24.71022222,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Avântul Reghin",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Municipal_(Reghin)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596429",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596430",
@@ -4331,16 +5780,25 @@
     "capacity": 12000,
     "opened_year": 1946,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Chimia Râmnicu Vâlcea",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%A2mnicu_V%C3%A2lcea_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596430",
     "image_url": "Stadionul Municipal.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596432",
@@ -4353,16 +5811,25 @@
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSM Râmnicu Sărat",
+        "url": "https://csmramnicusarat.wordpress.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%A2mnicu_S%C4%83rat_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596432",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596433",
@@ -4375,16 +5842,25 @@
     "capacity": 10000,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Arieșul Turda",
+        "url": "http://sticlaariesulturda.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turda_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596433",
     "image_url": "2010-IMG 6312.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596436",
@@ -4396,17 +5872,26 @@
     "sport_types": [],
     "capacity": 15000,
     "opened_year": 1964,
-    "closed_year": null,
+    "closed_year": 2023,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCアルジェシュ・ピテシュティ",
+        "url": "https://argesfc.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Nicolae_Dobrin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596436",
     "image_url": "Nicolae Dobrin stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596437",
@@ -4419,16 +5904,25 @@
     "capacity": 18000,
     "opened_year": 1942,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCオリンピア・サトゥ・マーレ",
+        "url": "http://www.fcolimpia.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Prodan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596437",
     "image_url": "Stadion Olimpia-Daniel Prodan.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596439",
@@ -4441,16 +5935,25 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCアカデミカ・クリンチェニ",
+        "url": "https://interilfov.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Or%C4%83%C8%99enesc_(Buftea)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596439",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596440",
@@ -4463,16 +5966,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Parc_Stadium_(Caracal)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596440",
     "image_url": "Stadion parc.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596441",
@@ -4485,16 +5992,25 @@
     "capacity": 23000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCオツェルル・ガラツィ",
+        "url": "https://ascotelul.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolae_Rainea_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596441",
     "image_url": "Dunarea Galati.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596442",
@@ -4503,20 +6019,26 @@
     "lat": 45.13041667,
     "lng": 25.71580556,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Poiana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596442",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596444",
@@ -4529,16 +6051,25 @@
     "capacity": 800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSO Tricolorul Breaza",
+        "url": "https://csotricolorulbreaza.ro/echipe/echipe-2/fotbal-seniori/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Eugen_%C8%98oriceanu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596444",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596445",
@@ -4551,16 +6082,25 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Prahova Ploiești",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Prahova",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596445",
     "image_url": "Stadionul Prahova.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596446",
@@ -4573,16 +6113,20 @@
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vasile_Enache_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596446",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596448",
@@ -4591,20 +6135,31 @@
     "lat": 45.420694,
     "lng": 28.026944,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Oțelul II Galați",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Siderurgistul",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596448",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596450",
@@ -4617,16 +6172,25 @@
     "capacity": 2000,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CS Snagov",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Voin%C8%9Ba_(Gherm%C4%83ne%C8%99ti)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596450",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596453",
@@ -4639,16 +6203,25 @@
     "capacity": 10000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSP UM Timișoara",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Electrica_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596453",
     "image_url": "Stadionul Electrica.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596454",
@@ -4661,16 +6234,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCウニレア・デジ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Unirea_Stadium_(Dej)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596454",
     "image_url": "Stadionul Municipal Dej 2021.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596456",
@@ -4682,17 +6264,26 @@
     "sport_types": [],
     "capacity": 15000,
     "opened_year": 1931,
-    "closed_year": null,
+    "closed_year": 1953,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Venus București",
+        "url": "http://www.venusbucuresti.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Venus",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596456",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596458",
@@ -4701,20 +6292,26 @@
     "lat": 46.77638889,
     "lng": 23.66536111,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Victoria_Some%C8%99eni",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596458",
     "image_url": "Stadionul Victoria Someșeni.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596459",
@@ -4727,16 +6324,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Victoria_(V%C3%A2nju_Mare)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596459",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596461",
@@ -4749,16 +6350,25 @@
     "capacity": null,
     "opened_year": 1923,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Baia Mare",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Viorel_Mateianu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596461",
     "image_url": "Stadionul Viorel Mateianu.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7944176",
@@ -4767,20 +6377,36 @@
     "lat": 46.357969,
     "lng": 25.80033,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HSC Csíkszereda",
+        "url": null
+      }
+    ],
+    "events": [
+      {
+        "name": "就任式",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lajos_V%C3%A1k%C3%A1r_Ice_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7944176",
     "image_url": "Vákár Lajos műjégpálya 2014.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8073910",
@@ -4793,16 +6419,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zone_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8073910",
     "image_url": null,
+    "website": "http://www.zone-arena.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q88647073",
@@ -4815,15 +6445,19 @@
     "capacity": null,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q88647073",
     "image_url": null,
+    "website": "https://colmil-mv.roaf.ro/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q909374",
@@ -4832,62 +6466,31 @@
     "lat": 44.412806,
     "lng": 26.040444,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 27557,
     "opened_year": 1974,
-    "closed_year": null,
+    "closed_year": 2018,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCSB",
+        "url": "https://www.fcsb.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Steaua_(1974)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q909374",
     "image_url": "Stadionul Steaua.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q9341259",
-    "name": "Q9341259",
-    "name_ja": null,
-    "lat": 47.6525,
-    "lng": 23.57,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9341259",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q9358785",
-    "name": "Q9358785",
-    "name_ja": null,
-    "lat": 47.6179,
-    "lng": 24.768465,
-    "country": "RO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9358785",
-    "image_url": "Sáncavató-1944.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q951120",
@@ -4896,20 +6499,31 @@
     "lat": 46.079078,
     "lng": 23.566553,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 18000,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCウニレア・アルバ・ユリア",
+        "url": "https://csmunireaalbaiulia.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cetate_Stadium_(Alba_Iulia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q951120",
     "image_url": "Victoria Cetate Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96410650",
@@ -4922,16 +6536,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Transilvania_Motor_Ring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q96410650",
     "image_url": null,
+    "website": "https://transilvaniamotorring.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97356274",
@@ -4944,16 +6562,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sala_Polivalent%C4%83_(Bra%C8%99ov)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97356274",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97356281",
@@ -4966,16 +6588,20 @@
     "capacity": 5890,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pite%C8%99ti_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97356281",
     "image_url": "2023 Sala Pitesti.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97356289",
@@ -4988,16 +6614,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/TeraPlast_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97356289",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97356336",
@@ -5010,16 +6640,20 @@
     "capacity": null,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sala_Polivalent%C4%83_(Constan%C8%9Ba)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97356336",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97356342",
@@ -5032,16 +6666,20 @@
     "capacity": null,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oradea_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97356342",
     "image_url": "Sala Polivalentă (Oradea).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97889239",
@@ -5050,19 +6688,30 @@
     "lat": 44.455888888,
     "lng": 26.056805555,
     "country": "RO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 14000,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラピド・ブカレスト",
+        "url": "https://www.fcrapid.ro/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%94%E3%83%89%EF%BC%9D%E3%82%B8%E3%83%A5%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97889239",
     "image_url": "Romania bucharest Rapid-Giulești Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
