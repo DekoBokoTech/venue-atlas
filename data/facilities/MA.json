@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1001887",
     "image_url": "Neige ifrane.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108920989",
@@ -30,10 +32,13 @@
     "lat": 33.4824,
     "lng": -7.7174,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,10 +46,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q108920989",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1092834",
@@ -53,10 +59,13 @@
     "lat": 31.58638889,
     "lng": -7.98611111,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "自動車競技"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -64,11 +73,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1092834",
     "image_url": "Marrakech 0741 (3508109645).jpg",
     "website": "https://www.marrakechgrandprix.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109313435",
@@ -81,6 +91,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -88,10 +99,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109313435",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110206194",
@@ -104,6 +116,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -111,10 +124,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110206194",
     "image_url": "Cinema \" salle des fetes \" Youssoufia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1144931",
@@ -123,10 +137,13 @@
     "lat": 35.5725,
     "lng": -5.348611,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -139,34 +156,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1144931",
     "image_url": "Stadio Saniat Rmel.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q121518406",
-    "name": "Q121518406",
-    "name_ja": null,
-    "lat": 33.435806944,
-    "lng": -5.2253625,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q121518406",
-    "image_url": "Azrou Sports Complex.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q121766659",
@@ -175,10 +170,13 @@
     "lat": 31.629386141,
     "lng": -8.055703446,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -186,10 +184,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q121766659",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122519335",
@@ -202,6 +201,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -209,10 +209,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122519335",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124356582",
@@ -221,10 +222,13 @@
     "lat": 33.581542416,
     "lng": -7.6451637,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -232,56 +236,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124356582",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q124651042",
-    "name": "Q124651042",
-    "name_ja": null,
-    "lat": 32.50609,
-    "lng": -6.69253,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q124651042",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q124656169",
-    "name": "Q124656169",
-    "name_ja": null,
-    "lat": 32.59016,
-    "lng": -6.25867,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 10000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q124656169",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q127268971",
@@ -290,10 +249,13 @@
     "lat": 32.661472,
     "lng": -8.422906,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -301,10 +263,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q127268971",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q132438181",
@@ -313,10 +276,13 @@
     "lat": 34.005218,
     "lng": -6.845432,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18000,
     "opened_year": 2025,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -334,11 +300,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q132438181",
     "image_url": "Al Barid Stadium (Nov 25).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q133893184",
@@ -351,6 +318,7 @@
     "capacity": 21000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -363,11 +331,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q133893184",
     "image_url": "Olympic Stadium, Rabat (8).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q134713646",
@@ -376,10 +345,13 @@
     "lat": 33.959861,
     "lng": -6.889111,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 69500,
     "opened_year": 2025,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -405,11 +377,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q134713646",
     "image_url": "Moulay Abdellah Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q138588467",
@@ -422,6 +395,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -429,10 +403,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q138588467",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1479283",
@@ -441,10 +416,13 @@
     "lat": 34.00283,
     "lng": -4.968851,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 45000,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -462,11 +440,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1479283",
     "image_url": "Complexe sportif de Fès.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15211418",
@@ -475,10 +454,13 @@
     "lat": 33.588134,
     "lng": -7.625837,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -491,11 +473,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15211418",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1578430",
@@ -504,10 +487,13 @@
     "lat": 31.706667,
     "lng": -7.980556,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 45240,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -525,11 +511,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1578430",
     "image_url": "Stade de marrakech.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1579227",
@@ -538,10 +525,13 @@
     "lat": 30.427213888,
     "lng": -9.540425,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 42000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -559,34 +549,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1579227",
     "image_url": "Stade-Adrar2019.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16508106",
-    "name": "Q16508106",
-    "name_ja": null,
-    "lat": 33.8938,
-    "lng": -5.567,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1971,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16508106",
-    "image_url": "Golf-meknès.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16525154",
@@ -599,6 +567,7 @@
     "capacity": null,
     "opened_year": 1918,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -606,11 +575,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16525154",
     "image_url": "Garden of the Meknes Royal Military Academy - Mapillary (-nH4c H2CzJW0ig8S 7XgQ).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q173217",
@@ -623,6 +593,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -635,11 +606,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q173217",
     "image_url": "Circuit Ain Diab.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1783824",
@@ -648,10 +620,13 @@
     "lat": 33.582867,
     "lng": -7.646817,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 67000,
     "opened_year": 1955,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -668,11 +643,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1783824",
     "image_url": "Mohammed V stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1858169",
@@ -681,10 +657,14 @@
     "lat": 33.959861,
     "lng": -6.889111,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 68095,
     "opened_year": 1983,
-    "closed_year": null,
+    "closed_year": 2023,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -697,11 +677,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1858169",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2113184",
@@ -710,10 +691,13 @@
     "lat": 33.595556,
     "lng": -7.608333,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1920,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -726,11 +710,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2113184",
     "image_url": "ملعب العربي ابن مبارك في الدار البيضاء 09.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2162256",
@@ -739,10 +724,13 @@
     "lat": 30.41497,
     "lng": -9.5956,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -755,11 +743,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2162256",
     "image_url": "Ecole HUS Agadir entrance 2019.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2325838",
@@ -768,10 +757,13 @@
     "lat": 34.03307,
     "lng": -6.797184,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -784,11 +776,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2325838",
     "image_url": "Stade Boubker Ammar (Salé).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2338640",
@@ -797,10 +790,13 @@
     "lat": 30.365581,
     "lng": -9.578061,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -808,61 +804,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2338640",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q2410882",
-    "name": "Q2410882",
-    "name_ja": null,
-    "lat": 34.0478,
-    "lng": -4.99934,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 10000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "ウィダード・ファス",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2410882",
-    "image_url": "Stade hassan II.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q25381141",
-    "name": "Q25381141",
-    "name_ja": null,
-    "lat": 33.589221,
-    "lng": -7.645552,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q25381141",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2652549",
@@ -871,10 +817,13 @@
     "lat": 33.919128379,
     "lng": -6.834063042,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -882,11 +831,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2652549",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2742243",
@@ -895,10 +845,13 @@
     "lat": 27.1462,
     "lng": -13.1918,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -911,34 +864,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2742243",
     "image_url": "Stade Cheikh Laghdaf.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q28269730",
-    "name": "Q28269730",
-    "name_ja": null,
-    "lat": 35.6454746,
-    "lng": -5.3343773,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 40410,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q28269730",
-    "image_url": "Estadio Paloma Blanca - Tetuán.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2922296",
@@ -951,6 +882,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -958,10 +890,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2922296",
     "image_url": "Marina de Sale P1060395.JPG",
     "website": "http://www.bouregregmarina.com",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2946065",
@@ -970,10 +903,13 @@
     "lat": 34.03896633,
     "lng": -6.72566968,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -981,11 +917,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2946065",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2990526",
@@ -994,10 +931,13 @@
     "lat": 33.560851,
     "lng": -7.649832,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1932,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1005,11 +945,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990526",
     "image_url": "Raja Club Athletic gate with logo.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2990534",
@@ -1018,10 +959,13 @@
     "lat": 32.878191,
     "lng": -6.90738,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1034,11 +978,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990534",
     "image_url": "Complexe OCP.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3090623",
@@ -1051,6 +996,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1058,11 +1004,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3090623",
     "image_url": "Jbel.Oukaimeden.jpg",
     "website": "https://oukaimeden.org/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3107495",
@@ -1071,10 +1018,13 @@
     "lat": 35.741211,
     "lng": -5.858105,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 75000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1096,11 +1046,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3107495",
     "image_url": "Tangier Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3114828",
@@ -1109,10 +1060,13 @@
     "lat": 33.678222222,
     "lng": -7.274333333,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 115000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -1125,23 +1079,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3114828",
     "image_url": "Hassan II Stadium construction 19-08-2024.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3311533",
     "name": "Mischliffen",
     "name_ja": null,
-    "lat": 33.53468056,
-    "lng": -5.1076,
+    "lat": 33.37638855,
+    "lng": -5.125,
     "country": "MA",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1149,10 +1105,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3311533",
     "image_url": "Michelifen.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3347879",
@@ -1165,6 +1122,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1172,10 +1130,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3347879",
     "image_url": "Oasiriapiscine.jpg",
     "website": "http://www.oasiria.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3389232",
@@ -1184,10 +1143,13 @@
     "lat": 33.6085,
     "lng": -7.6327,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "競泳"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1195,11 +1157,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3389232",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3469856",
@@ -1212,6 +1175,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1224,10 +1188,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3469856",
     "image_url": "Salle El Bouâzzaoui.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3469866",
@@ -1240,6 +1205,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1252,11 +1218,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3469866",
     "image_url": "Salle Ibn Yassine Rabat.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3469880",
@@ -1265,10 +1232,13 @@
     "lat": 33.580715,
     "lng": -7.645363,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1281,11 +1251,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3469880",
     "image_url": "Mohammed V Athletic Complex - Basket.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3469882",
@@ -1298,6 +1269,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1305,118 +1277,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3469882",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3469903",
-    "name": "Q3469903",
-    "name_ja": null,
-    "lat": 35.1042,
-    "lng": -2.5551,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3469903",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3469922",
-    "name": "Q3469922",
-    "name_ja": null,
-    "lat": 35.149722222,
-    "lng": -3.56,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 1500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "CRアル・ホセイマ",
-        "url": "http://www.footcra.com"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3469922",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495480",
-    "name": "Q3495480",
-    "name_ja": null,
-    "lat": 34.2167,
-    "lng": -5.7,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 12000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Union Sidi Kacem",
-        "url": "http://union-sidi-kacem.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495480",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495488",
-    "name": "Q3495488",
-    "name_ja": null,
-    "lat": 34.007264,
-    "lng": -6.8406147,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Stade Marocain",
-        "url": "https://stade-marocain.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495488",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495534",
@@ -1425,15 +1291,18 @@
     "lat": 33.6954,
     "lng": -7.39919,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
         "name": "SCCモハメディア",
-        "url": null
+        "url": "https://sccmfc.com/"
       }
     ],
     "events": [],
@@ -1441,11 +1310,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495534",
     "image_url": "Stade El Bachir, Mohammedia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495540",
@@ -1454,10 +1324,13 @@
     "lat": 33.2416,
     "lng": -8.49327,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1470,11 +1343,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495540",
     "image_url": "Stade-El-Abdi-El-Jadida.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495576",
@@ -1483,10 +1357,13 @@
     "lat": 32.3002,
     "lng": -9.22957,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1499,39 +1376,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495576",
     "image_url": "ملعب المسيرة الخضراء بمدينة آسفي.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495577",
-    "name": "Q3495577",
-    "name_ja": null,
-    "lat": 34.0057743,
-    "lng": -6.8648592,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Union Sportive Yacoub El Mansour",
-        "url": "https://usym.ma"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495577",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495581",
@@ -1540,10 +1390,13 @@
     "lat": 31.6277,
     "lng": -8.00956,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1556,11 +1409,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495581",
     "image_url": "Marrakech El Harti Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495693",
@@ -1569,10 +1423,13 @@
     "lat": 33.5971,
     "lng": -7.54667,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1585,11 +1442,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495693",
     "image_url": "Larbi Zaouli Stadium 2024.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495776",
@@ -1598,10 +1456,13 @@
     "lat": 35.246944,
     "lng": -3.933333,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1614,23 +1475,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495776",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495777",
     "name": "Moulay Rachid Stadium",
     "name_ja": null,
-    "lat": 27.1462,
-    "lng": -13.1917,
+    "lat": 27.1463,
+    "lng": -13.1924,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1643,11 +1508,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495777",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495826",
@@ -1656,15 +1522,18 @@
     "lat": 33.5574,
     "lng": -7.65149,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
         "name": "Racing de Casablanca",
-        "url": null
+        "url": "https://racing-casablanca.com/"
       }
     ],
     "events": [],
@@ -1672,11 +1541,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495826",
     "image_url": "Stade Pere Jego (cropped).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495885",
@@ -1685,10 +1555,13 @@
     "lat": 33.5829,
     "lng": -7.64682,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1696,94 +1569,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495885",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495903",
-    "name": "Q3495903",
-    "name_ja": null,
-    "lat": 33.9357,
-    "lng": -6.93129,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "US Témara",
-        "url": "https://us-temara.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495903",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495949",
-    "name": "Q3495949",
-    "name_ja": null,
-    "lat": 33.0115,
-    "lng": -7.62094,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 10000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "RS Settat",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495949",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495955",
-    "name": "Q3495955",
-    "name_ja": null,
-    "lat": 32.3394,
-    "lng": -6.36083,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 12000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Raja Beni Mellal",
-        "url": "https://raja-beni-mellal.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495955",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495960",
@@ -1792,10 +1582,13 @@
     "lat": 33.8915,
     "lng": -5.53957,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1808,11 +1601,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495960",
     "image_url": "Stade d honneur meknes.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495963",
@@ -1821,10 +1615,13 @@
     "lat": 34.659444,
     "lng": -1.934444,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1837,39 +1634,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495963",
     "image_url": "Stade d'honneur.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496063",
-    "name": "Q3496063",
-    "name_ja": null,
-    "lat": 30.4055,
-    "lng": -9.19372,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 8000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Chabab Houara",
-        "url": "https://chabab-houara.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496063",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496066",
@@ -1878,10 +1648,13 @@
     "lat": 33.8177,
     "lng": -6.07642,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1894,39 +1667,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496066",
     "image_url": "Stade du 18 novembre.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496072",
-    "name": "Q3496072",
-    "name_ja": null,
-    "lat": 31.63,
-    "lng": -8,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Mouloudia de Marrakech",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496072",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496080",
@@ -1935,10 +1681,13 @@
     "lat": 34.0099,
     "lng": -6.84028,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1951,11 +1700,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496080",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496145",
@@ -1964,10 +1714,13 @@
     "lat": 30.3342,
     "lng": -9.49722,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1980,34 +1733,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496145",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496149",
-    "name": "Q3496149",
-    "name_ja": null,
-    "lat": 34.6859,
-    "lng": -1.9054,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496149",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496154",
@@ -2016,10 +1747,13 @@
     "lat": 34.9274,
     "lng": -2.32611,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2032,11 +1766,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496154",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496156",
@@ -2045,10 +1780,13 @@
     "lat": 33.4667,
     "lng": -7.98333,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2061,67 +1799,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496156",
     "image_url": "Stade Municipal Berrechid.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496172",
-    "name": "Q3496172",
-    "name_ja": null,
-    "lat": 32.9394,
-    "lng": -5.6675,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 10000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Chabab Atlas Khénifra",
-        "url": "https://fc-cak.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496172",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496179",
-    "name": "Q3496179",
-    "name_ja": null,
-    "lat": 35.17696,
-    "lng": -2.92143,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Hilal de Nador",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496179",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3496180",
@@ -2130,10 +1813,13 @@
     "lat": 34.2527,
     "lng": -6.57155,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2150,11 +1836,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496180",
     "image_url": "Stade Muncipal (Kenitra).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q40213986",
@@ -2163,10 +1850,13 @@
     "lat": 34.025206,
     "lng": -6.725221,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2174,10 +1864,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q40213986",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q56311087",
@@ -2186,10 +1877,13 @@
     "lat": 33.975719,
     "lng": -6.824167,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2207,11 +1901,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q56311087",
     "image_url": "Moulay El Hassan stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q595025",
@@ -2220,10 +1915,13 @@
     "lat": 31.63,
     "lng": -8,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2236,10 +1934,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q595025",
     "image_url": "Sidi Youssef Ben Ali Stadium 2007-08-01.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6080364",
@@ -2252,6 +1951,7 @@
     "capacity": 13013,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2259,11 +1959,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6080364",
     "image_url": "PlazaTorosTanger.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q64584843",
@@ -2276,6 +1977,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2283,33 +1985,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q64584843",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q65144878",
-    "name": "Q65144878",
-    "name_ja": null,
-    "lat": 31.638616,
-    "lng": -8.097602,
-    "country": "MA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q65144878",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6971992",
@@ -2322,6 +2002,7 @@
     "capacity": 5000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -2329,11 +2010,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6971992",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596203",
@@ -2342,10 +2024,13 @@
     "lat": 33.6041,
     "lng": -7.5049,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2358,11 +2043,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596203",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q961623",
@@ -2371,10 +2057,13 @@
     "lat": 35.78944444,
     "lng": -5.82222222,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2387,11 +2076,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q961623",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96640039",
@@ -2400,10 +2090,13 @@
     "lat": 32.64564,
     "lng": -8.427183,
     "country": "MA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30286,
     "opened_year": 1956,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2420,9 +2113,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q96640039",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
