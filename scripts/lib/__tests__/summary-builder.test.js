@@ -1,9 +1,9 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, rm, writeFile } from 'node:fs/promises';
+import { mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { buildSummary } from '../summary-builder.js';
+import { buildSummary, buildWebFacilities, PER_COUNTRY_CAP } from '../summary-builder.js';
 
 async function withTempDir(fn) {
   const dir = await mkdtemp(path.join(tmpdir(), 'summary-builder-'));
@@ -11,6 +11,17 @@ async function withTempDir(fn) {
     await fn(dir);
   } finally {
     await rm(dir, { recursive: true, force: true });
+  }
+}
+
+async function withTempDirs(fn) {
+  const inDir = await mkdtemp(path.join(tmpdir(), 'summary-builder-in-'));
+  const outDir = await mkdtemp(path.join(tmpdir(), 'summary-builder-out-'));
+  try {
+    await fn(inDir, outDir);
+  } finally {
+    await rm(inDir, { recursive: true, force: true });
+    await rm(outDir, { recursive: true, force: true });
   }
 }
 
@@ -93,4 +104,88 @@ test('buildSummary only includes the fields needed for map markers', () => withT
   const { summary } = await buildSummary(dir);
 
   assert.deepEqual(summary[0], { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000 });
+}));
+
+test('buildWebFacilities passes a file under the cap through byte-identical', () => withTempDirs(async (inDir, outDir) => {
+  const records = Array.from({ length: 5 }, (_, i) => ({
+    id: 'Q' + i, name: 'S' + i, name_ja: null, lat: 0, lng: 0, country: 'XX', capacity: i * 100,
+  }));
+  const content = JSON.stringify(records, null, 2) + '\n';
+  await writeFile(path.join(inDir, 'XX.json'), content);
+
+  const result = await buildWebFacilities(inDir, outDir);
+
+  const written = await readFile(path.join(outDir, 'XX.json'), 'utf-8');
+  assert.equal(written, content);
+  assert.equal(result.filesWritten, 1);
+  assert.deepEqual(result.cappedFiles, []);
+}));
+
+test('buildWebFacilities truncates a file over the cap, sorted by capacity descending with nulls last', () => withTempDirs(async (inDir, outDir) => {
+  const total = PER_COUNTRY_CAP + 50;
+  const records = [];
+  for (let i = 0; i < total; i++) {
+    records.push({
+      id: 'Q' + i,
+      name: 'S' + i,
+      name_ja: null,
+      lat: 0,
+      lng: 0,
+      country: 'YY',
+      // First 30 records have no capacity; the rest get distinct descending values.
+      capacity: i < 30 ? null : total - i,
+    });
+  }
+  await writeFile(path.join(inDir, 'YY.json'), JSON.stringify(records));
+
+  const result = await buildWebFacilities(inDir, outDir);
+
+  const written = JSON.parse(await readFile(path.join(outDir, 'YY.json'), 'utf-8'));
+  assert.equal(written.length, PER_COUNTRY_CAP);
+  assert.deepEqual(result.cappedFiles, ['YY']);
+
+  // With 3020 non-null-capacity records and a cap of 3000, every null-capacity
+  // record should have been sorted after all of them and dropped by truncation.
+  assert.ok(written.every((r) => r.capacity != null));
+  for (let i = 1; i < written.length; i++) {
+    assert.ok(written[i - 1].capacity >= written[i].capacity);
+  }
+  const maxCapacity = Math.max(...records.filter((r) => r.capacity != null).map((r) => r.capacity));
+  assert.equal(written[0].capacity, maxCapacity);
+}));
+
+test('buildWebFacilities handles multiple country files independently', () => withTempDirs(async (inDir, outDir) => {
+  const smallRecords = Array.from({ length: 10 }, (_, i) => ({
+    id: 'A' + i, name: 'A' + i, name_ja: null, lat: 0, lng: 0, country: 'AA', capacity: i,
+  }));
+  const bigRecords = Array.from({ length: PER_COUNTRY_CAP + 10 }, (_, i) => ({
+    id: 'B' + i, name: 'B' + i, name_ja: null, lat: 0, lng: 0, country: 'BB', capacity: PER_COUNTRY_CAP + 10 - i,
+  }));
+  const smallContent = JSON.stringify(smallRecords, null, 2) + '\n';
+  await writeFile(path.join(inDir, 'AA.json'), smallContent);
+  await writeFile(path.join(inDir, 'BB.json'), JSON.stringify(bigRecords));
+
+  const result = await buildWebFacilities(inDir, outDir);
+
+  assert.equal(result.filesWritten, 2);
+  assert.deepEqual(result.cappedFiles, ['BB']);
+
+  const writtenSmall = await readFile(path.join(outDir, 'AA.json'), 'utf-8');
+  assert.equal(writtenSmall, smallContent);
+
+  const writtenBig = JSON.parse(await readFile(path.join(outDir, 'BB.json'), 'utf-8'));
+  assert.equal(writtenBig.length, PER_COUNTRY_CAP);
+  assert.equal(writtenBig[0].id, 'B0');
+}));
+
+test('buildWebFacilities creates outDir recursively if it does not exist', () => withTempDirs(async (inDir, outDir) => {
+  const nestedOutDir = path.join(outDir, 'nested', 'deep');
+  await writeFile(path.join(inDir, 'XX.json'), JSON.stringify([
+    { id: 'Q1', name: 'A', name_ja: null, lat: 0, lng: 0, country: 'XX', capacity: 100 },
+  ]));
+
+  await buildWebFacilities(inDir, nestedOutDir);
+
+  const written = JSON.parse(await readFile(path.join(nestedOutDir, 'XX.json'), 'utf-8'));
+  assert.equal(written.length, 1);
 }));

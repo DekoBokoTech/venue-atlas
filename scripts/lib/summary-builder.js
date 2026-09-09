@@ -1,7 +1,8 @@
-import { readdir, readFile } from 'node:fs/promises';
+import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const SUMMARY_SIZE = 700;
+export const PER_COUNTRY_CAP = 3000;
 
 export async function buildSummary(facilitiesDir) {
   const files = (await readdir(facilitiesDir)).filter((f) => f.endsWith('.json'));
@@ -43,4 +44,38 @@ export async function buildSummary(facilitiesDir) {
     }));
 
   return { summary, centroids };
+}
+
+function byCapacityDescNullsLast(a, b) {
+  const aNull = a.capacity == null;
+  const bNull = b.capacity == null;
+  if (aNull && bNull) return 0;
+  if (aNull) return 1;
+  if (bNull) return -1;
+  return b.capacity - a.capacity;
+}
+
+export async function buildWebFacilities(facilitiesDir, outDir) {
+  const files = (await readdir(facilitiesDir)).filter((f) => f.endsWith('.json'));
+  await mkdir(outDir, { recursive: true });
+
+  let filesWritten = 0;
+  const cappedFiles = [];
+
+  for (const file of files) {
+    const countryCode = path.basename(file, '.json');
+    const content = await readFile(path.join(facilitiesDir, file), 'utf-8');
+    const records = JSON.parse(content);
+
+    if (records.length <= PER_COUNTRY_CAP) {
+      await writeFile(path.join(outDir, file), content, 'utf-8');
+    } else {
+      const truncated = records.slice().sort(byCapacityDescNullsLast).slice(0, PER_COUNTRY_CAP);
+      await writeFile(path.join(outDir, file), JSON.stringify(truncated, null, 2) + '\n', 'utf-8');
+      cappedFiles.push(countryCode);
+    }
+    filesWritten++;
+  }
+
+  return { filesWritten, cappedFiles };
 }

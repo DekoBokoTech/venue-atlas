@@ -119,6 +119,13 @@
   var centroids = {};
   var loadedCountries = {};
   var ZOOM_ALTITUDE_THRESHOLD = 0.5;
+  var NEARBY_RADIUS_KM = 500;
+  // 6, not 4: verified against the real data/country-centroids.json that Paris
+  // has 4 small-territory centroids (BE, LU, JE, GG) strictly closer than FR's
+  // own (407km) centroid, so a cap of 4 would still exclude FR for the exact
+  // case this fix targets. 6 is the smallest cap that includes FR for Paris
+  // while leaving the Munich/Barcelona/Marseille cases (already covered at 4) unchanged.
+  var MAX_NEARBY_COUNTRIES = 6;
 
   fetch('data/country-centroids.json')
     .then(function (res) { return res.json(); })
@@ -136,15 +143,22 @@
     return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
   }
 
-  function nearestCountry(lat, lng) {
-    var nearest = null;
-    var minDist = Infinity;
-    Object.keys(centroids).forEach(function (code) {
-      var c = centroids[code];
-      var d = haversineDistance(lat, lng, c.lat, c.lng);
-      if (d < minDist) { minDist = d; nearest = code; }
-    });
-    return nearest;
+  function nearestCountries(lat, lng) {
+    var distances = Object.keys(centroids)
+      .filter(function (code) { return code !== 'UNKNOWN'; })
+      .map(function (code) {
+        var c = centroids[code];
+        return { code: code, dist: haversineDistance(lat, lng, c.lat, c.lng) };
+      })
+      .sort(function (a, b) { return a.dist - b.dist; });
+
+    var nearby = distances.filter(function (entry) { return entry.dist <= NEARBY_RADIUS_KM; });
+
+    if (nearby.length === 0) {
+      return distances.length ? [distances[0].code] : [];
+    }
+
+    return nearby.slice(0, MAX_NEARBY_COUNTRIES).map(function (entry) { return entry.code; });
   }
 
   function mergeById(existing, incoming) {
@@ -157,7 +171,7 @@
   function loadCountryData(countryCode) {
     if (!countryCode || loadedCountries[countryCode]) return;
     loadedCountries[countryCode] = true;
-    fetch('data/facilities/' + countryCode + '.json')
+    fetch('data/facilities-web/' + countryCode + '.json')
       .then(function (res) {
         if (!res.ok) throw new Error('HTTP ' + res.status);
         return res.json();
@@ -201,7 +215,7 @@
 
   world.onZoom(function (pov) {
     if (pov.altitude < ZOOM_ALTITUDE_THRESHOLD) {
-      loadCountryData(nearestCountry(pov.lat, pov.lng));
+      nearestCountries(pov.lat, pov.lng).forEach(loadCountryData);
     }
   });
 
@@ -270,7 +284,7 @@
     }
 
     if (d.image_url) {
-      html += '<a class="image-link" href="' + esc(commonsUrl(d.image_url)) + '" target="_blank" rel="noopener">';
+      html += '<a class="image-link" href="' + escAttr(commonsUrl(d.image_url)) + '" target="_blank" rel="noopener">';
       html += '<span class="icon">📷</span>';
       html += '<span class="meta"><span class="t">画像を見る / View image</span><span class="s">' + esc(d.image_url) + '</span></span>';
       html += '<span class="arrow">↗</span></a>';
@@ -308,9 +322,13 @@
     html += '</div>';
 
     html += '<div class="sources"><div class="heading">出典 — SOURCES</div>';
-    if (d.wikidata_url) html += '<a class="source-link" href="' + escAttr(d.wikidata_url) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
-    else html += '<a class="source-link" href="' + escAttr('https://www.wikidata.org/wiki/' + d.id) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
-    if (d.wikipedia_url) html += '<a class="source-link" href="' + escAttr(d.wikipedia_url) + '" target="_blank" rel="noopener">Wikipedia <span class="arrow">↗</span></a>';
+    if (d.wikidata_url) {
+      if (isSafeUrl(d.wikidata_url)) html += '<a class="source-link" href="' + escAttr(d.wikidata_url) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
+    } else {
+      var wikidataFallbackUrl = 'https://www.wikidata.org/wiki/' + d.id;
+      if (isSafeUrl(wikidataFallbackUrl)) html += '<a class="source-link" href="' + escAttr(wikidataFallbackUrl) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
+    }
+    if (d.wikipedia_url && isSafeUrl(d.wikipedia_url)) html += '<a class="source-link" href="' + escAttr(d.wikipedia_url) + '" target="_blank" rel="noopener">Wikipedia <span class="arrow">↗</span></a>';
     html += '</div>';
 
     panelScroll.innerHTML = html;
@@ -330,6 +348,6 @@
     world: world,
     getAllPoints: function () { return allPoints; },
     loadCountryData: loadCountryData,
-    nearestCountry: nearestCountry
+    nearestCountries: nearestCountries
   };
 })();
