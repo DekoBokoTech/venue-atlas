@@ -10,15 +10,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107376687",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q107376700",
@@ -31,15 +35,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107376700",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110820390",
@@ -52,15 +60,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110820390",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1115980",
@@ -69,20 +81,32 @@
     "lat": 52.066389,
     "lng": -9.508056,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 43180,
     "opened_year": 1936,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ケリーGAA",
+        "url": "https://www.kerrygaa.ie"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fitzgerald_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1115980",
     "image_url": "FitzGeraldStadium.jpg",
+    "website": "http://fitzgeraldstadium.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113641881",
@@ -95,16 +119,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baysports",
     "wikidata_url": "https://www.wikidata.org/wiki/Q113641881",
     "image_url": "Baysports slipway - geograph.org.uk - 4703371.jpg",
+    "website": "https://www.baysports.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q115245804",
@@ -117,15 +145,28 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Kerry FC",
+        "url": "https://kerryfc.com/"
+      },
+      {
+        "name": "Kerry District League",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115245804",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q115278141",
@@ -138,15 +179,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115278141",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1158113",
@@ -155,20 +200,31 @@
     "lat": 53.361667,
     "lng": -6.275,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4300,
     "opened_year": 1901,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ボヘミアンFC",
+        "url": "https://bohemianfc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dalymount_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1158113",
     "image_url": "Bohemians-Football-Club-Dalymount-Park-Entrance-2012.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122026841",
@@ -177,19 +233,25 @@
     "lat": 53.308346926,
     "lng": -6.314268938,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122026841",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q123402618",
@@ -202,15 +264,24 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "St. Michaels FC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123402618",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130373936",
@@ -223,15 +294,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130373936",
     "image_url": "Ullard Church handball alley.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130373948",
@@ -244,15 +319,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130373948",
     "image_url": "Fertagh handball alley.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130373980",
@@ -265,15 +344,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130373980",
     "image_url": "Freshford Ball Alley.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130374014",
@@ -286,15 +369,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130374014",
     "image_url": "Newtown Baker Church interior west wall handball alley (1).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130374511",
@@ -307,15 +394,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130374511",
     "image_url": "Song of the Sea graffiti.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130374516",
@@ -328,15 +419,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130374516",
     "image_url": "The Butts Handball Alley.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130374529",
@@ -349,15 +444,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130374529",
     "image_url": "Graveyard - geograph.org.uk - 897310.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375351",
@@ -370,15 +469,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375351",
     "image_url": "Handball alley (1) - geograph.org.uk - 4558804.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375393",
@@ -391,15 +494,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375393",
     "image_url": "HANDBALL ALLEY - GREEN STREET - panoramio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375634",
@@ -412,15 +519,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375634",
     "image_url": "Handball Alley - geograph.org.uk - 5458735.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375637",
@@ -433,15 +544,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375637",
     "image_url": "Handball alley, Cullenstown - geograph.org.uk - 3152610.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375644",
@@ -454,15 +569,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375644",
     "image_url": "Foxford, handball alley - geograph.org.uk - 3263119.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375773",
@@ -475,15 +594,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375773",
     "image_url": "Handball Alley, The Neale. - geograph.org.uk - 331893.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375781",
@@ -496,15 +619,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375781",
     "image_url": "The Killatee Handball Court - geograph.org.uk - 2642800.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q130375793",
@@ -517,15 +644,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130375793",
     "image_url": "Handball Court at Tullyvin - geograph.org.uk - 2518218.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131105711",
@@ -538,15 +669,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131105711",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q13157708",
@@ -555,20 +690,31 @@
     "lat": 53.273333,
     "lng": -7.501111,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2300,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Tullamore Town F.C.",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Leah_Victoria_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13157708",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q136593676",
@@ -581,15 +727,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136593676",
     "image_url": "Grangefertagh 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1427047",
@@ -598,20 +748,31 @@
     "lat": 53.72416667,
     "lng": -7.85361111,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6850,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ロングフォード・タウンFC",
+        "url": "https://ltfc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Strokestown_Road",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1427047",
     "image_url": "Lngfrdg2.jpg",
+    "website": "http://ltfc.ie/index.php/stadium-info-4/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1464900",
@@ -620,20 +781,26 @@
     "lat": 53.30318,
     "lng": -6.62271,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1464900",
     "image_url": "K Club clubhouse.jpg",
+    "website": "http://www.kclub.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15212201",
@@ -642,20 +809,26 @@
     "lat": 53.16527778,
     "lng": -6.84527778,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15212201",
     "image_url": "Finish! (15064603497) (2).jpg",
+    "website": "http://www.curragh.ie",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15262097",
@@ -664,20 +837,26 @@
     "lat": 52.403529,
     "lng": -6.973009,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/New_Ross_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15262097",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1542757",
@@ -686,20 +865,31 @@
     "lat": 52.674167,
     "lng": -8.6425,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 26500,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "マンスター・ラグビー",
+        "url": "https://www.munsterrugby.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thomond_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1542757",
     "image_url": "Thomond Park by night (cropped).jpg",
+    "website": "http://thomondpark.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1544594",
@@ -712,16 +902,20 @@
     "capacity": null,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Green_Glens_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1544594",
     "image_url": "EJC 2006 Main Hall, forbidden view.jpg",
+    "website": "http://www.millstreet.horse",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15874445",
@@ -730,40 +924,25 @@
     "lat": 53.133291,
     "lng": -6.10290527,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15874445",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q15875334",
-    "name": "Q15875334",
-    "name_ja": null,
-    "lat": 51.897003,
-    "lng": -8.28738213,
-    "country": "IE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q15875334",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1619101",
@@ -772,20 +951,31 @@
     "lat": 53.279,
     "lng": -9.0397,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 6129,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コナート・ラグビー",
+        "url": "https://www.connachtrugby.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Sportsground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1619101",
     "image_url": "Galway Sportsgrounds - 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1640595",
@@ -794,20 +984,31 @@
     "lat": 51.8808,
     "lng": -8.4718,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 9251,
     "opened_year": 1940,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Dolphin RFC",
+        "url": "http://www.dolphinrfc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Musgrave_Park%2C_Cork",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1640595",
     "image_url": "Musgrave Park (geograph 3680269).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16631470",
@@ -820,16 +1021,20 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Geraldine_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16631470",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632530",
@@ -842,16 +1047,25 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Wicklow GAA",
+        "url": "https://officialwicklowgaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pearse_Park_(Arklow)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632530",
     "image_url": "Pearse Park gates, Arklow.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632760",
@@ -864,16 +1078,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Philly_McGuinness_Memorial_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632760",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16894525",
@@ -882,20 +1100,26 @@
     "lat": 53.4493,
     "lng": -6.16123,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Malahide_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16894525",
     "image_url": "Malahide Cricket Ground 2013.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16901485",
@@ -904,20 +1128,26 @@
     "lat": 53.5882,
     "lng": -6.19519,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Inch%2C_Dublin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16901485",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17591144",
@@ -930,15 +1160,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q17591144",
     "image_url": "Poll na bPéist.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1766116",
@@ -947,20 +1181,32 @@
     "lat": 51.89975,
     "lng": -8.435042,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 43550,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コークGAA",
+        "url": "http://www.gaacork.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%A1irc_U%C3%AD_Chaoimh",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1766116",
     "image_url": "Cork stadium.JPG",
+    "website": "http://paircuichaoimh.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1766120",
@@ -969,20 +1215,36 @@
     "lat": 52.656388888,
     "lng": -7.239444444,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 24000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "キルケニーGAA",
+        "url": "https://kilkennygaa.ie/"
+      },
+      {
+        "name": "Kilkenny county hurling team",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nowlan_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1766120",
     "image_url": "Nowlan Park - geograph.org.uk - 555264 (cropped).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1766153",
@@ -991,20 +1253,32 @@
     "lat": 52.670139,
     "lng": -8.654194,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 49866,
     "opened_year": 1928,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Limerick GAA",
+        "url": "https://limerickgaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gaelic_Grounds",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1766153",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1766163",
@@ -1013,20 +1287,32 @@
     "lat": 53.026111,
     "lng": -7.302222,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 27000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Laois GAA",
+        "url": "https://laoisgaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/O'Moore_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1766163",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1766418",
@@ -1035,20 +1321,33 @@
     "lat": 53.325611111,
     "lng": -6.229388888,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン",
+      "乗馬"
+    ],
     "capacity": 18500,
     "opened_year": 1868,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "レンスター・ラグビー",
+        "url": "https://www.leinsterrugby.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/RDS_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1766418",
     "image_url": "RDS LEINSTER.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1770044",
@@ -1057,20 +1356,31 @@
     "lat": 53.723336,
     "lng": -6.357222,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": 1979,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ドロヘダ・ユナイテッドFC",
+        "url": "https://droghedaunited.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/United_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1770044",
     "image_url": "Hanaphy DUFC Huskie.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1771479",
@@ -1079,20 +1389,31 @@
     "lat": 54.270042,
     "lng": -8.487233,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": 1928,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スライゴ・ローヴァーズFC",
+        "url": "https://www.sligorovers.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Showgrounds%2C_Sligo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1771479",
     "image_url": "Sligo Rovers FC stadium and Knappagh Road - geograph.org.uk - 3669800.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17984366",
@@ -1105,16 +1426,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ballybrit_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17984366",
     "image_url": "Ballybrit Race Course, Galway - geograph.org.uk - 102510.jpg",
+    "website": "https://galwayraces.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17984368",
@@ -1127,16 +1452,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Greenpark_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17984368",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17984466",
@@ -1149,16 +1478,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Curraheen_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17984466",
     "image_url": null,
+    "website": "http://www.grireland.ie/go-greyhound-racing/our-stadiums/curraheen-park-greyhound-stadium",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18030086",
@@ -1171,15 +1504,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18030086",
     "image_url": "Athletic and Cycle Track in Éamonn Ceannt Park - geograph.org.uk - 448387.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1821963",
@@ -1188,20 +1525,32 @@
     "lat": 53.179411,
     "lng": -6.794381,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 6200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Kildare GAA",
+        "url": "https://kildaregaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St_Conleth's_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1821963",
     "image_url": "St Conleth's Park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1822033",
@@ -1214,16 +1563,20 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aughrim_County_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1822033",
     "image_url": "Wicklowcocoarms.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1860189",
@@ -1232,20 +1585,31 @@
     "lat": 53.340922,
     "lng": -6.316619,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5340,
     "opened_year": 1925,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "セント・パトリックス・アスレティックFC",
+        "url": "https://www.stpatsfc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Richmond_Park_(football_ground)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1860189",
     "image_url": "RichmondParkDublin.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1888287",
@@ -1258,16 +1622,20 @@
     "capacity": null,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mondello_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1888287",
     "image_url": "Mondello Park track map--International circuit.svg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19707655",
@@ -1280,16 +1648,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Naval_College_(Ireland)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19707655",
     "image_url": null,
+    "website": "http://www.military.ie/education-hq/naval-college/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1976232",
@@ -1298,20 +1670,26 @@
     "lat": 53.3569,
     "lng": -6.17058,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1885,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Royal_Dublin_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1976232",
     "image_url": "Royal Dublin Golf Club clubhouse Geograph-2424110-by-Andrew-F-Shinie.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20642340",
@@ -1320,20 +1698,26 @@
     "lat": 53.2409,
     "lng": -6.1867,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Park%2C_Kilternan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20642340",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20714088",
@@ -1342,20 +1726,26 @@
     "lat": 53.494,
     "lng": -8.836,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tuam_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20714088",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q22083857",
@@ -1368,16 +1758,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ballinrobe_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22083857",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q22083883",
@@ -1386,20 +1780,26 @@
     "lat": 51.8745,
     "lng": -8.54822222,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bishopstown_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22083883",
     "image_url": "Bishopstown Stadium (cropped).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q22084212",
@@ -1412,16 +1812,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Racing_Academy_and_Centre_of_Education",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22084212",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24196621",
@@ -1430,20 +1834,26 @@
     "lat": 53.4816,
     "lng": -7.35747,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1894,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mullingar_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24196621",
     "image_url": "Mullingar Golf Club car park - geograph.org.uk - 892457.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2421018",
@@ -1452,20 +1862,36 @@
     "lat": 52.682222222,
     "lng": -7.825,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 53000,
     "opened_year": 1981,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Tipperary GAA",
+        "url": "https://tipperary.gaa.ie/"
+      },
+      {
+        "name": "Tipperary county hurling team",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Semple_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2421018",
     "image_url": "Semple Stadium interior 2.jpg",
+    "website": "http://Tipperary.gaa.ie",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2421553",
@@ -1474,20 +1900,36 @@
     "lat": 53.367514,
     "lng": -6.251983,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 9680,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ホーム・ファームFC",
+        "url": null
+      },
+      {
+        "name": "シェルボーンFC",
+        "url": "https://shelbournefc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tolka_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2421553",
     "image_url": "Tolka Park Dublin.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2430753",
@@ -1496,20 +1938,31 @@
     "lat": 53.284658,
     "lng": -9.056258,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ゴールウェイ・ユナイテッドFC",
+        "url": "https://galwayunitedfc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Eamonn_Deacy_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2430753",
     "image_url": "Terryland park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2430809",
@@ -1518,20 +1971,31 @@
     "lat": 51.885528,
     "lng": -8.46775,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7485,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コーク・シティFC",
+        "url": "https://www.corkcityfc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AF%E3%83%AD%E3%82%B9_(%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2430809",
     "image_url": "Turners.cross.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q244402",
@@ -1540,20 +2004,36 @@
     "lat": 53.334956,
     "lng": -6.228253,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 51700,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アイルランドラグビー協会",
+        "url": "https://www.irishrugby.ie/"
+      },
+      {
+        "name": "フットボール・アソシエーション・オブ・アイルランド",
+        "url": "http://www.fai.ie"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%83%90%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q244402",
     "image_url": "Dublin aviva stadium.jpg",
+    "website": "http://www.avivastadium.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2459367",
@@ -1562,20 +2042,32 @@
     "lat": 53.2835,
     "lng": -6.37374,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 6000,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "シャムロック・ローヴァーズFC",
+        "url": "https://shamrockrovers.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2459367",
     "image_url": "Tallaght Stadium 1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25340066",
@@ -1584,20 +2076,26 @@
     "lat": 53.52135833,
     "lng": -7.33951111,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ドッグレース"
+    ],
     "capacity": null,
     "opened_year": 1932,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mullingar_Greyhound_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25340066",
     "image_url": "Levrieres Mullingar.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28174177",
@@ -1610,16 +2108,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Longford_Greyhound_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28174177",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28195891",
@@ -1628,20 +2130,26 @@
     "lat": 53.1903,
     "lng": -6.8229,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ドッグレース"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Newbridge_Greyhound_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28195891",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28195893",
@@ -1654,16 +2162,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Clonmel_Greyhound_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28195893",
     "image_url": null,
+    "website": "http://www.igb.ie/go-greyhound-racing/our-stadiums/Clonmel",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2924300",
@@ -1672,20 +2184,32 @@
     "lat": 53.981944,
     "lng": -7.359167,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 32000,
     "opened_year": 1923,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Cavan GAA",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Breffni_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2924300",
     "image_url": null,
+    "website": "http://cavangaa.ie",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2939135",
@@ -1694,20 +2218,31 @@
     "lat": 53.205714,
     "lng": -6.102889,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3185,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ブレイ・ワンダラーズFC",
+        "url": "https://braywanderersfc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carlisle_Grounds",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2939135",
     "image_url": "Carlisle Stand.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30113876",
@@ -1716,19 +2251,25 @@
     "lat": 53.396951,
     "lng": -6.370139,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30113876",
     "image_url": null,
+    "website": "https://www.nationalindoorarena.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3036823",
@@ -1737,20 +2278,35 @@
     "lat": 53.320833,
     "lng": -6.233333,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 6000,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Old Wesley RFC",
+        "url": "https://www.oldwesley.ie/"
+      },
+      {
+        "name": "Wolfhounds (rugby union)",
+        "url": "https://www.irishrugby.ie/provincial/celtic-challenge/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Donnybrook_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3036823",
     "image_url": "Newly Completed Stand, Leinster Rugby Ground Donnybrook.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3038417",
@@ -1759,20 +2315,32 @@
     "lat": 52.846944,
     "lng": -6.916389,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 21000,
     "opened_year": 1936,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Carlow GAA",
+        "url": "https://carlowgaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr_Cullen_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3038417",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3347396",
@@ -1781,20 +2349,32 @@
     "lat": 53.280556,
     "lng": -7.489444,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 20000,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Offaly GAA",
+        "url": "http://offaly.gaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Glenisk_O'Connor_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3347396",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3481778",
@@ -1803,20 +2383,31 @@
     "lat": 53.340378,
     "lng": -6.230236,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "シェルボーンFC",
+        "url": "https://shelbournefc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shelbourne_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3481778",
     "image_url": "Ringsend view from Montevetro building.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3629964",
@@ -1829,16 +2420,20 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Austin_Stack_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3629964",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3699726",
@@ -1851,16 +2446,25 @@
     "capacity": 11000,
     "opened_year": 1933,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Westmeath GAA",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/TEG_Cusack_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3699726",
     "image_url": "Cusack Park Mullingar Main Stand.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3714840",
@@ -1873,16 +2477,20 @@
     "capacity": 18500,
     "opened_year": 1971,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr_Hyde_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3714840",
     "image_url": null,
+    "website": "https://www.roscommongaels.ie/dr-hyde-park.html",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3715403",
@@ -1895,16 +2503,20 @@
     "capacity": 3500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gaelic_Grounds_(Drogheda)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3715403",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3715737",
@@ -1913,20 +2525,26 @@
     "lat": 53.435277777,
     "lng": -7.923055555,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dubarry_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3715737",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3749236",
@@ -1939,16 +2557,20 @@
     "capacity": 15000,
     "opened_year": 1885,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fraher_Field",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3749236",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3776419",
@@ -1961,16 +2583,25 @@
     "capacity": 26197,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ゴールウェイ",
+        "url": "https://www.galwaygaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pearse_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3776419",
     "image_url": null,
+    "website": "http://www.pearsestadium.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3776425",
@@ -1983,16 +2614,20 @@
     "capacity": 17000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Walsh_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3776425",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3776442",
@@ -2005,16 +2640,20 @@
     "capacity": 10000,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%A1irc_Tailteann",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3776442",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3776482",
@@ -2027,16 +2666,25 @@
     "capacity": 42000,
     "opened_year": 1931,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "メイヨーGAA",
+        "url": "https://mayogaa.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MacHale_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3776482",
     "image_url": "MacHale Park, Castlebar, Ireland, November 2016.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3776507",
@@ -2045,20 +2693,32 @@
     "lat": 54.801025,
     "lng": -7.778439,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Donegal GAA",
+        "url": "https://donegalgaa.ie"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MacCumhaill_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3776507",
     "image_url": "The Ballybofey GAA sports ground (geograph 4950322).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3776549",
@@ -2071,16 +2731,20 @@
     "capacity": 2500,
     "opened_year": 1937,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/O'Donnell_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3776549",
     "image_url": "Odonnellpark.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3778340",
@@ -2093,16 +2757,25 @@
     "capacity": 16440,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コークGAA",
+        "url": "http://www.gaacork.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%A1irc_U%C3%AD_Rinn",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3778340",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3849621",
@@ -2115,16 +2788,25 @@
     "capacity": 18558,
     "opened_year": 1955,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Sligo GAA",
+        "url": "http://www.sligogaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Markievicz_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3849621",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3865975",
@@ -2133,20 +2815,31 @@
     "lat": 53.401179,
     "lng": -6.245063,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 4000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Clonliffe Harriers",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Morton_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3865975",
     "image_url": "Morton stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3898486",
@@ -2159,16 +2852,25 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Longford GAA",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pearse_Park_(Longford)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3898486",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3901610",
@@ -2177,20 +2879,26 @@
     "lat": 53.372499,
     "lng": -6.337566,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phoenix_Park_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3901610",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q39061045",
@@ -2199,20 +2907,26 @@
     "lat": 51.901445,
     "lng": -8.354246,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cork_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39061045",
     "image_url": null,
+    "website": "http://corkgolfclub.ie",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q39087449",
@@ -2225,16 +2939,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tralee_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39087449",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3926094",
@@ -2247,16 +2965,20 @@
     "capacity": 9331,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%A1irc_Se%C3%A1n_Mac_Diarmada",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3926094",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3967516",
@@ -2269,16 +2991,20 @@
     "capacity": 6700,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St_Jarlath's_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3967516",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3967624",
@@ -2291,16 +3017,25 @@
     "capacity": 36000,
     "opened_year": 1944,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Monaghan GAA",
+        "url": "https://www.monaghangaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St_Tiernach's_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3967624",
     "image_url": "St. Tiernach's Park.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4001819",
@@ -2309,20 +3044,32 @@
     "lat": 53.310277777,
     "lng": -6.228055555,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "アメリカンフットボール",
+      "ラグビーユニオン"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "University College Dublin R.F.C.",
+        "url": "http://www.ucdrugby.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/UCD_Bowl",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4001819",
     "image_url": "Belfield Bowl.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4018529",
@@ -2331,20 +3078,31 @@
     "lat": 52.244722,
     "lng": -7.132778,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "アメリカンフットボール"
+    ],
     "capacity": 3100,
     "opened_year": 1993,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウォーターフォード・ユナイテッドFC",
+        "url": "https://www.waterfordfc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Waterford_Regional_Sports_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4018529",
     "image_url": "01-waterford-united-v-limerick-25-july-2009-00.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4019214",
@@ -2357,16 +3115,20 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chadwicks_Wexford_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4019214",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4019561",
@@ -2375,20 +3137,31 @@
     "lat": 53.377358,
     "lng": -6.251681,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6664,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ホーム・ファームFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Whitehall_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4019561",
     "image_url": "Whitehall Stadium, Dublin 2014.jpg",
+    "website": "http://www.whitehallstadium.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q478225",
@@ -2397,20 +3170,34 @@
     "lat": 53.360833333,
     "lng": -6.251111111,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン",
+      "ゲーリックフットボール",
+      "ハーリング",
+      "ゲーリック・ゲームズ"
+    ],
     "capacity": 82300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラグビーアイルランド代表",
+        "url": "https://www.irishrugby.ie/ireland/men/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q478225",
     "image_url": "Croke Park from the Hill - 2004 All-Ireland Football Championship Final.jpg",
+    "website": "https://crokepark.ie/stadium",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4782846",
@@ -2423,16 +3210,20 @@
     "capacity": null,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aquazone_(theme_park)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4782846",
     "image_url": null,
+    "website": "https://www.aquazone.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4811693",
@@ -2445,16 +3236,20 @@
     "capacity": 1000,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Astropark_Ballingarry",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4811693",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4852014",
@@ -2463,20 +3258,26 @@
     "lat": 52.50202,
     "lng": -9.676951,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ballybunion_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4852014",
     "image_url": "Ballybunion Golf Club - 10th hole.jpg",
+    "website": "http://www.ballybuniongolfclub.ie/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4852091",
@@ -2489,16 +3290,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AA%E3%83%BC%E3%83%89%E3%82%A4%E3%83%AB%E8%AA%BF%E6%95%99%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4852091",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4924006",
@@ -2507,20 +3312,26 @@
     "lat": 52.9447,
     "lng": -6.0205,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Blainroe_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4924006",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4983362",
@@ -2529,20 +3340,31 @@
     "lat": 52.62299,
     "lng": -7.282743,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "キルケニー・シティAFC",
+        "url": "http://www.kilkennycityfc.net"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Buckley_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4983362",
     "image_url": "Buckley Park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5041323",
@@ -2555,16 +3377,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carlingford_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5041323",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5041368",
@@ -2573,20 +3399,26 @@
     "lat": 53.31398,
     "lng": -6.30473,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carlisle_Cricket_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5041368",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5058518",
@@ -2599,16 +3431,25 @@
     "capacity": 45000,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Castlebar Celtic F.C.",
+        "url": "http://www.castlebarceltic.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Celtic_Park_(Castlebar)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5058518",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5126329",
@@ -2617,20 +3458,26 @@
     "lat": 53.33016,
     "lng": -6.22,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Claremont_Road_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5126329",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5135045",
@@ -2643,16 +3490,20 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Clonmel_GAA_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5135045",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5135048",
@@ -2661,20 +3512,26 @@
     "lat": 52.364352,
     "lng": -7.68072,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Clonmel_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5135048",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5135074",
@@ -2687,16 +3544,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_Avenue_cricket_ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5135074",
     "image_url": "Ireland compete against Essex at Castle Avenue, Dublin, 13 May 2007, Friends Provident Trophy - 100 1795 (2).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5146488",
@@ -2705,20 +3566,26 @@
     "lat": 53.34295,
     "lng": -6.25428333,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/College_Park%2C_Dublin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5146488",
     "image_url": "Cricket ground Trinity College Dublin.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5161717",
@@ -2731,16 +3598,20 @@
     "capacity": 5000,
     "opened_year": 1884,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Conneff_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5161717",
     "image_url": "Conneff Park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5170814",
@@ -2749,20 +3620,26 @@
     "lat": 52.13083267,
     "lng": -8.64138889,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cork_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5170814",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5177715",
@@ -2771,20 +3648,26 @@
     "lat": 53.74206111,
     "lng": -6.2542,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/County_Louth_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5177715",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5242178",
@@ -2797,16 +3680,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Davy_Brennan_Memorial_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5242178",
     "image_url": "DavyBrennanpk2012.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5278218",
@@ -2819,15 +3706,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5278218",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5297161",
@@ -2836,20 +3727,26 @@
     "lat": 52.74731111,
     "lng": -9.49899444,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trump_International_Golf_Links_%26_Hotel_Ireland",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5297161",
     "image_url": "Trump International Golf Links and Hotel 2018.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5308252",
@@ -2862,16 +3759,25 @@
     "capacity": 2000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ソルトヒル・デヴォンFC",
+        "url": "https://salthilldevon.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Drom_Soccer_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5308252",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5309472",
@@ -2884,16 +3790,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Bonagee United F.C.",
+        "url": "http://www.bonageeunitedfc.webs.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dry_Arch_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5309472",
     "image_url": "Bonagee-pitch.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q531222",
@@ -2902,20 +3817,32 @@
     "lat": 53.372972,
     "lng": -6.216667,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 13499,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ダブリンGAA",
+        "url": "http://www.dublingaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Parnell_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q531222",
     "image_url": "Parnell Park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5314735",
@@ -2924,20 +3851,27 @@
     "lat": 54.02056389,
     "lng": -6.38177222,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬",
+      "ドッグレース"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dundalk_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5314735",
     "image_url": null,
+    "website": "http://dundalkstadium.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5366303",
@@ -2946,20 +3880,26 @@
     "lat": 53.314444,
     "lng": -6.219115,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Elm_Park_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5366303",
     "image_url": "Elm Park Golf Club.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5431012",
@@ -2968,20 +3908,26 @@
     "lat": 53.48016389,
     "lng": -6.46134167,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fairyhouse_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5431012",
     "image_url": "Horse Racing at Fairyhouse.jpg",
+    "website": "https://www.fairyhouse.ie",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5445530",
@@ -2994,16 +3940,25 @@
     "capacity": 2500,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウェックスフォード・ユーツFC",
+        "url": "https://wexfordfc.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ferrycarrig_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5445530",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5455526",
@@ -3016,16 +3971,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/FitzGerald_Park%2C_Kilmallock",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5455526",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5509411",
@@ -3038,15 +3997,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5509411",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q55603982",
@@ -3055,20 +4018,26 @@
     "lat": 53.324075,
     "lng": -6.23230833,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Anglesea_Road_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55603982",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5590119",
@@ -3077,20 +4046,26 @@
     "lat": 52.61548333,
     "lng": -7.07103611,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gowran_Park_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5590119",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5659838",
@@ -3103,16 +4078,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Harold's_Cross_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5659838",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q601162",
@@ -3121,20 +4100,31 @@
     "lat": 53.335005555,
     "lng": -6.229202777,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 48000,
     "opened_year": 1872,
-    "closed_year": null,
+    "closed_year": 2007,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アイルランドラグビー協会",
+        "url": "https://www.irishrugby.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%BA%E3%83%80%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89",
     "wikidata_url": "https://www.wikidata.org/wiki/Q601162",
     "image_url": "Leinster2006.jpg",
+    "website": "http://www.lrsdc.ie/home/default.asp",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6071825",
@@ -3147,16 +4137,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Irishtown_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6071825",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q612532",
@@ -3169,16 +4163,25 @@
     "capacity": null,
     "opened_year": 1993,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "バスケットボールアイルランド代表",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Basketball_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q612532",
     "image_url": "Ire v Lux 02.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6392479",
@@ -3187,20 +4190,26 @@
     "lat": 53.52938889,
     "lng": -6.09275556,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kenure",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6392479",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6407311",
@@ -3209,20 +4218,26 @@
     "lat": 52.06727,
     "lng": -9.55201,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Killarney_Golf_%26_Fishing_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6407311",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6408190",
@@ -3235,16 +4250,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kilrush_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6408190",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6413385",
@@ -3257,16 +4276,25 @@
     "capacity": 2000,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "モナハン・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gortakeegan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6413385",
     "image_url": "Gortakeegan stand and clubhouse.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q641956",
@@ -3275,20 +4303,32 @@
     "lat": 52.846314,
     "lng": -8.978661,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ],
     "capacity": 14864,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "クレア",
+        "url": "https://clare.gaa.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cusack_Park_(Ennis)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q641956",
     "image_url": "Hurling game, Cusack Park, Ennis.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6473234",
@@ -3297,20 +4337,26 @@
     "lat": 52.93579722,
     "lng": -9.34581667,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lahinch_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6473234",
     "image_url": "Lehinch - Links Golf Course green - geograph.org.uk - 1613644.jpg",
+    "website": "http://www.lahinchgolf.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65087040",
@@ -3323,16 +4369,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tipperary_Raceway",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65087040",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6511790",
@@ -3345,16 +4395,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Letterkenny Rovers F.C.",
+        "url": "http://www.letterkennyroversfc.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Leckview_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6511790",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6526888",
@@ -3363,20 +4422,26 @@
     "lat": 53.26583333,
     "lng": -6.18916667,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%91%E3%83%BC%E3%82%BA%E3%82%BF%E3%82%A6%E3%83%B3%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6526888",
     "image_url": "LepRacecourse.JPG",
+    "website": "http://www.leopardstown.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6533655",
@@ -3385,20 +4450,26 @@
     "lat": 54.964,
     "lng": -7.684,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Letterkenny_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6533655",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6533667",
@@ -3411,16 +4482,20 @@
     "capacity": null,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Letterkenny_Regional_Sports_and_Leisure_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6533667",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6549270",
@@ -3429,20 +4504,26 @@
     "lat": 52.59,
     "lng": -8.69,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Limerick_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6549270",
     "image_url": "Limerick Races horse racing action.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6689787",
@@ -3455,15 +4536,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6689787",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6721806",
@@ -3476,16 +4561,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MacDonagh_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6721806",
     "image_url": null,
+    "website": "http://www.nenagheireog.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6758716",
@@ -3498,16 +4587,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Beamish_Cricket_Grounds",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6758716",
     "image_url": "Cork County Cricket Club (est. 1874) - geograph.org.uk - 489912.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6770953",
@@ -3520,16 +4613,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Treaty United F.C.",
+        "url": "https://treatyunitedfc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Markets_Field",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6770953",
     "image_url": "Markets Field.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6900985",
@@ -3538,19 +4640,25 @@
     "lat": 51.850861,
     "lng": -8.346558,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6900985",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6921552",
@@ -3559,20 +4667,26 @@
     "lat": 52.525903,
     "lng": -7.188697,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Juliet_Golf_%26_Spa_Hotel",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6921552",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6956668",
@@ -3581,20 +4695,26 @@
     "lat": 53.2193,
     "lng": -6.6476,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": 1924,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Naas_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6956668",
     "image_url": "Pre-race happiness (15569146689).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6982080",
@@ -3603,20 +4723,26 @@
     "lat": 53.6833,
     "lng": -6.6737,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B4%E3%82%A1%E3%83%B3%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6982080",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7007589",
@@ -3625,20 +4751,26 @@
     "lat": 54.800722222,
     "lng": -7.768722222,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Donegal_Community_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7007589",
     "image_url": "Mcmenamin.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7071795",
@@ -3651,16 +4783,20 @@
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/O'Garney_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7071795",
     "image_url": "St. Tiernach's Park.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7071970",
@@ -3673,16 +4809,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/O'Toole_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7071970",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7232122",
@@ -3691,20 +4831,26 @@
     "lat": 53.41099,
     "lng": -6.12101,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1894,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Portmarnock_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7232122",
     "image_url": "Portmarnock Golf Club, Dublin, Ireland.jpg",
+    "website": "http://www.portmarnockgolfclub.ie",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7232521",
@@ -3713,20 +4859,26 @@
     "lat": 55.167,
     "lng": -6.726,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1894,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Portstewart_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7232521",
     "image_url": null,
+    "website": "http://www.portstewartgc.co.uk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7236840",
@@ -3735,20 +4887,26 @@
     "lat": 53.187185,
     "lng": -6.186108,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Powerscourt_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7236840",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7259999",
@@ -3757,20 +4915,26 @@
     "lat": 53.184,
     "lng": -6.63,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Punchestown_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7259999",
     "image_url": "Punchestown races 2009.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q732609",
@@ -3779,20 +4943,31 @@
     "lat": 54.798087698,
     "lng": -7.779730672,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "フィン・ハープスFC",
+        "url": "https://www.finnharps.ie/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Finn_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q732609",
     "image_url": "Finn Park soccer pitch - geograph.org.uk - 3011378.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7367585",
@@ -3801,20 +4976,26 @@
     "lat": 53.6457,
     "lng": -8.22212,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Roscommon_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7367585",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7592697",
@@ -3827,16 +5008,20 @@
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St_Brendan's_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7592697",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7594022",
@@ -3849,16 +5034,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St_Loman's_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7594022",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7604289",
@@ -3871,16 +5060,25 @@
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Newbridge Town F.C.",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Station_Road%2C_Newbridge",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7604289",
     "image_url": "Station Rd Newbridge.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7660082",
@@ -3889,20 +5087,26 @@
     "lat": 53.325,
     "lng": -6.21508,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sydney_Parade",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7660082",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q776393",
@@ -3915,16 +5119,25 @@
     "capacity": 1200,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アイスホッケーアイルランド代表",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dundalk_Ice_Dome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q776393",
     "image_url": "Dundalk Icedome - geograph.org.uk - 1512427.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7772715",
@@ -3933,20 +5146,26 @@
     "lat": 53.5649,
     "lng": -6.14482,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Vineyard%2C_Dublin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7772715",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7799321",
@@ -3955,20 +5174,26 @@
     "lat": 52.6626,
     "lng": -7.8021,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thurles_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7799321",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7808909",
@@ -3977,20 +5202,26 @@
     "lat": 52.502287,
     "lng": -8.206336,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tipperary_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7808909",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q782088",
@@ -3999,20 +5230,31 @@
     "lat": 53.998944,
     "lng": -6.416917,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": 1919,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ダンドークFC",
+        "url": "https://www.dundalkfc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oriel_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q782088",
     "image_url": "Oriel Park, Dundalk (cropped).JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7833093",
@@ -4021,20 +5263,26 @@
     "lat": 52.3005,
     "lng": -9.8585,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tralee_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7833093",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7833166",
@@ -4043,20 +5291,26 @@
     "lat": 52.1723,
     "lng": -7.14895,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tramore_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7833166",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7974038",
@@ -4069,16 +5323,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Waterford_Raceway",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7974038",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8032433",
@@ -4087,20 +5345,26 @@
     "lat": 53.1896,
     "lng": -6.11088,
     "country": "IE",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Woodbrook_Cricket_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8032433",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8032434",
@@ -4113,16 +5377,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Woodbrook_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8032434",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q85791923",
@@ -4135,36 +5403,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pallas_Karting",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85791923",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q9293209",
-    "name": "Q9293209",
-    "name_ja": null,
-    "lat": 52.65,
-    "lng": -8.61667,
-    "country": "IE",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9293209",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
