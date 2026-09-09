@@ -23,33 +23,59 @@
   }
 
   // Simplified, but genuinely coastline-derived, continent/island outlines.
-  // Each entry is a closed ring of [lng, lat] vertex pairs (first point not
-  // repeated). Anchored on real reference coordinates (capitals, capes,
-  // straits) rather than arbitrary shapes - see project README/commit message
-  // for the point-in-polygon self-check that validates this data.
+  // Each entry has an `outer` ring of [lng, lat] vertex pairs (first point
+  // not repeated) and an optional `holes` array of further rings (same
+  // format) representing enclosed seas/lakes that should read as ocean even
+  // though they sit entirely inside the outer ring. Anchored on real
+  // reference coordinates (capitals, capes, straits) rather than arbitrary
+  // shapes - see project README/commit message for the point-in-polygon
+  // self-check that validates this data.
   var CONTINENTS = [
-    { name: 'Eurasia', points: [
+    { name: 'Eurasia', outer: [
       [-9.5, 38.7], [-4.5, 48.4], [3.0, 51.5], [8.5, 56.5], [5.3, 60.4],
       [25.8, 71.2], [40.0, 68.0], [70.0, 72.0], [105.0, 77.5], [170.0, 66.0],
-      [160.0, 56.0], [135.0, 55.0], [125.0, 40.0], [122.0, 31.0], [108.0, 20.0],
+      [160.0, 56.0], [135.0, 55.0], [125.0, 40.0],
+      // Korean peninsula: route the ring out around the real coastline
+      // instead of jumping straight from the Shandong area to Shanghai.
+      [128.5, 39.0], [129.9, 37.5], [129.5, 35.1], [127.5, 34.3], [126.0, 33.0], [124.5, 31.5],
+      [122.0, 31.0], [108.0, 20.0],
       [105.5, 10.5], [104.0, 1.3], [98.0, 12.0], [92.0, 22.0], [80.3, 13.0],
       [77.5, 8.1], [72.0, 19.0], [67.0, 24.8], [60.0, 25.5], [58.5, 23.6],
       [45.0, 12.8], [43.0, 15.0], [39.2, 21.5], [35.0, 28.0], [34.8, 31.5],
       [36.0, 36.5], [29.0, 41.0], [23.0, 39.5], [19.0, 42.0], [18.0, 40.0],
       [15.6, 38.1], [14.2, 40.8], [12.5, 41.9], [9.0, 44.4], [7.0, 43.5],
       [2.2, 41.4], [-5.4, 36.1]
+    ], holes: [
+      // Caspian Sea
+      [[50.5, 47.0], [53.5, 44.0], [54.0, 41.0], [52.0, 37.5], [49.5, 36.5], [47.0, 39.0], [46.5, 43.0], [48.0, 46.0]],
+      // Black Sea
+      [[34.0, 46.5], [39.5, 45.5], [41.5, 43.0], [40.0, 41.5], [35.0, 41.0], [29.5, 41.5], [27.5, 43.5], [30.0, 46.0]],
+      // Baltic Sea
+      [[19.0, 65.5], [27.0, 60.5], [30.0, 59.5], [24.0, 54.0], [14.0, 53.5], [9.5, 56.0], [12.0, 60.0], [16.0, 63.5]],
+      // Persian Gulf
+      [[51.0, 30.5], [56.5, 27.0], [55.0, 25.0], [52.0, 24.0], [48.5, 24.5], [47.5, 27.0], [48.5, 29.5], [50.0, 30.3]]
     ] },
-    { name: 'Africa', points: [
-      [10.0, 37.0], [30.0, 31.2], [34.0, 29.0], [37.0, 19.0], [43.0, 12.0],
+    { name: 'Africa', outer: [
+      [10.0, 37.0],
+      // Tunisia/Libya coast (Cap Bon / Gulf of Gabes / Tripoli / Gulf of Sirte /
+      // Benghazi / Tobruk): pulled south to follow the real coastline instead
+      // of a straight line that bulged north into the Mediterranean.
+      [11.5, 36.5], [11.0, 34.5],
+      [13.2, 32.9], [15.1, 32.4], [16.6, 31.2], [20.1, 32.1], [23.9, 32.1], [25.2, 31.5],
+      [30.0, 31.2], [34.0, 29.0], [37.0, 19.0], [43.0, 12.0],
       [51.3, 11.8], [45.3, 2.0], [39.6, -4.0], [35.0, -18.0], [31.0, -29.9],
       [18.4, -34.4], [12.0, -23.0], [13.0, -9.0], [9.0, 0.0], [3.4, 6.5],
       [-4.0, 5.0], [-10.8, 6.3], [-17.4, 14.7], [-16.5, 20.8], [-9.5, 32.0],
       [-7.6, 33.6]
     ] },
-    { name: 'Madagascar', points: [
+    { name: 'Madagascar', outer: [
       [49.3, -12.3], [50.3, -16.0], [47.5, -24.9], [45.0, -23.0], [43.3, -16.0], [45.5, -13.5]
     ] },
-    { name: 'North America', points: [
+    { name: 'Iceland', outer: [
+      [-21.9, 66.4], [-16.5, 66.3], [-13.5, 65.3], [-14.5, 63.4], [-19.0, 63.4],
+      [-22.5, 63.8], [-24.0, 65.0], [-22.0, 66.0]
+    ] },
+    { name: 'North America', outer: [
       [-168.0, 65.7], [-156.0, 71.3], [-110.0, 70.0], [-85.0, 66.0], [-85.0, 60.0],
       [-82.0, 55.0], [-78.0, 58.0], [-65.0, 60.0], [-60.0, 55.0], [-53.0, 48.0],
       [-63.0, 45.0], [-68.0, 44.0], [-73.0, 40.6], [-76.0, 35.0], [-80.1, 25.1],
@@ -57,69 +83,86 @@
       [-84.0, 9.5], [-83.0, 8.0], [-87.0, 11.5], [-97.0, 16.0], [-106.0, 23.2],
       [-110.0, 22.9], [-115.0, 28.0], [-117.2, 32.6], [-122.4, 37.8], [-124.0, 44.0],
       [-127.0, 49.0], [-135.0, 57.0], [-150.0, 61.0], [-160.0, 55.0]
+    ], holes: [
+      // Great Lakes (Superior/Michigan/Huron/Erie/Ontario combined, simplified)
+      [[-84.5, 49.0], [-76.5, 44.0], [-79.0, 42.0], [-83.0, 41.3], [-87.5, 41.5], [-92.5, 46.5], [-89.5, 48.5], [-86.0, 48.8]]
     ] },
-    { name: 'South America', points: [
+    { name: 'South America', outer: [
       [-77.0, 8.5], [-71.0, 11.5], [-60.0, 8.0], [-50.0, 0.5], [-35.0, -7.5],
       [-38.5, -12.5], [-43.2, -22.9], [-48.5, -26.5], [-53.0, -33.0], [-57.5, -36.5],
       [-62.0, -41.0], [-65.3, -45.0], [-68.5, -52.5], [-67.0, -55.9], [-72.5, -52.0],
       [-74.5, -45.0], [-73.5, -37.0], [-71.6, -33.0], [-70.3, -20.0], [-70.3, -18.3],
       [-81.1, -4.5], [-80.0, 0.2], [-77.5, 3.8]
     ] },
-    { name: 'Australia', points: [
+    { name: 'Australia', outer: [
       [142.5, -10.7], [145.8, -16.9], [150.0, -22.0], [153.0, -27.5], [152.0, -33.8],
       [147.0, -38.0], [144.9, -38.3], [140.0, -38.0], [138.6, -34.9], [131.0, -31.5],
       [124.0, -33.0], [115.9, -32.0], [114.0, -22.0], [122.0, -18.0], [130.8, -12.4],
       [135.0, -16.0], [139.0, -17.5], [141.5, -13.0]
     ] },
-    { name: 'Greenland', points: [
+    { name: 'Greenland', outer: [
       [-43.9, 59.8], [-51.7, 64.2], [-56.0, 70.0], [-65.0, 76.0], [-60.0, 82.0],
       [-40.0, 83.0], [-22.0, 76.0], [-25.0, 70.0], [-35.0, 65.0]
     ] },
-    { name: 'Great Britain', points: [
+    { name: 'Great Britain', outer: [
       [-5.7, 50.1], [-3.0, 50.7], [1.4, 51.4], [1.7, 53.0], [-1.5, 55.5],
       [-3.0, 58.6], [-6.0, 56.8], [-5.0, 53.4]
     ] },
-    { name: 'Ireland', points: [
+    { name: 'Ireland', outer: [
       [-8.0, 51.5], [-10.0, 52.5], [-8.5, 55.2], [-6.0, 54.5], [-6.0, 52.3]
     ] },
-    { name: 'Japan', points: [
+    { name: 'Japan', outer: [
       [130.5, 31.2], [131.5, 33.5], [133.9, 34.2], [135.9, 33.5], [137.0, 34.7],
       [138.9, 34.7], [139.9, 35.3], [140.9, 35.9], [140.9, 37.3], [141.5, 38.3],
       [141.9, 39.6], [141.4, 40.9], [140.1, 39.7], [139.0, 37.9], [136.6, 36.6],
       [135.5, 35.5], [131.5, 34.2]
     ] },
-    { name: 'Hokkaido', points: [
+    { name: 'Hokkaido', outer: [
       [140.7, 41.8], [140.0, 43.8], [141.5, 45.4], [145.3, 43.8], [142.5, 42.3]
     ] },
-    { name: 'New Zealand North Island', points: [
+    { name: 'New Zealand North Island', outer: [
       [172.7, -34.4], [178.3, -37.7], [176.9, -39.9], [174.8, -38.0], [174.3, -36.0]
     ] },
-    { name: 'New Zealand South Island', points: [
+    { name: 'New Zealand South Island', outer: [
       [173.3, -40.5], [174.3, -41.3], [173.9, -43.6], [170.5, -46.0], [166.5, -45.5], [171.0, -42.0]
     ] },
-    { name: 'Indonesia', points: [
+    { name: 'Indonesia', outer: [
       [95.3, 5.5], [104.0, -1.0], [106.8, -6.2], [114.5, -8.0], [117.0, -3.5], [110.0, 7.0], [100.0, 5.9]
     ] },
-    { name: 'Philippines', points: [
+    { name: 'Philippines', outer: [
       [121.5, 18.5], [122.2, 12.5], [125.5, 9.0], [123.5, 6.5], [120.0, 7.5], [119.8, 13.0], [120.3, 16.5]
     ] }
   ];
 
+  // Traces one ring (outer boundary or hole) of [lng, lat] pairs onto the
+  // current path via its own moveTo/lineTo/closePath run.
+  function traceRing(ctx, ring) {
+    var p0 = project(ring[0][0], ring[0][1]);
+    ctx.moveTo(p0[0], p0[1]);
+    for (var j = 1; j < ring.length; j++) {
+      var p = project(ring[j][0], ring[j][1]);
+      ctx.lineTo(p[0], p[1]);
+    }
+    ctx.closePath();
+  }
+
   // Fills the real continent/island outlines above onto a 2D canvas context
   // already sized/positioned for the equirectangular texture (512x256).
+  // Each landmass's outer ring and any hole rings (enclosed seas/lakes) are
+  // traced into a single path and filled with the even-odd rule, so the
+  // holes punch through to the ocean color already painted underneath.
   function drawContinents(ctx, landColor) {
     ctx.fillStyle = landColor;
     for (var i = 0; i < CONTINENTS.length; i++) {
-      var pts = CONTINENTS[i].points;
+      var land = CONTINENTS[i];
       ctx.beginPath();
-      var p0 = project(pts[0][0], pts[0][1]);
-      ctx.moveTo(p0[0], p0[1]);
-      for (var j = 1; j < pts.length; j++) {
-        var p = project(pts[j][0], pts[j][1]);
-        ctx.lineTo(p[0], p[1]);
+      traceRing(ctx, land.outer);
+      if (land.holes) {
+        for (var h = 0; h < land.holes.length; h++) {
+          traceRing(ctx, land.holes[h]);
+        }
       }
-      ctx.closePath();
-      ctx.fill();
+      ctx.fill('evenodd');
     }
   }
 
