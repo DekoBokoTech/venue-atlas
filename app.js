@@ -234,6 +234,90 @@
     world.width(globeEl.clientWidth).height(globeEl.clientHeight);
   });
 
+  function commonsUrl(filename) {
+    return 'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(filename);
+  }
+
+  function formatCoord(lat, lng) {
+    var ns = lat >= 0 ? 'N' : 'S';
+    var ew = lng >= 0 ? 'E' : 'W';
+    return Math.abs(lat).toFixed(4) + '°' + ns + ', ' + Math.abs(lng).toFixed(4) + '°' + ew;
+  }
+
+  var panel = document.getElementById('detailPanel');
+  var panelScroll = document.getElementById('panelScroll');
+  var panelClose = document.getElementById('panelClose');
+
+  function openPanel(d) {
+    var html = '';
+    html += '<p class="panel-eyebrow">' + esc(d.country || '—') + ' · ' + esc(d.id) + '</p>';
+    html += '<h2 class="panel-title">' + esc(d.name) + '</h2>';
+    if (d.name_ja) html += '<p class="panel-title-ja">' + esc(d.name_ja) + '</p>';
+
+    if (d.website) {
+      html += '<a class="image-link" href="' + esc(d.website) + '" target="_blank" rel="noopener">';
+      html += '<span class="icon">🌐</span>';
+      html += '<span class="meta"><span class="t">公式サイト / Official site</span><span class="s">' + esc(d.website.replace(/^https?:\/\//, '')) + '</span></span>';
+      html += '<span class="arrow">↗</span></a>';
+    }
+
+    if (d.image_url) {
+      html += '<a class="image-link" href="' + esc(commonsUrl(d.image_url)) + '" target="_blank" rel="noopener">';
+      html += '<span class="icon">📷</span>';
+      html += '<span class="meta"><span class="t">画像を見る / View image</span><span class="s">' + esc(d.image_url) + '</span></span>';
+      html += '<span class="arrow">↗</span></a>';
+    }
+
+    var na = '不明 / Unknown';
+    html += '<div class="stat-grid">';
+    html += '<div class="stat-cell"><div class="k">収容人数 CAPACITY</div><div class="v">' + (d.capacity ? Number(d.capacity).toLocaleString('en-US') : na) + '</div></div>';
+    html += '<div class="stat-cell"><div class="k">開場年 OPENED</div><div class="v">' + (d.opened_year || na) + '</div></div>';
+    html += '<div class="stat-cell wide"><div class="k">座標 COORDINATES</div><div class="v">' + esc(formatCoord(d.lat, d.lng)) + '</div></div>';
+    html += '</div>';
+
+    html += '<div class="teams"><div class="heading">使用チーム — HOME OF</div>';
+    if (d.teams && d.teams.length) {
+      html += '<div class="team-list">';
+      d.teams.forEach(function (t) {
+        var tag = t.url ? 'a' : 'span';
+        var hrefAttr = t.url ? ' href="' + esc(t.url) + '" target="_blank" rel="noopener"' : '';
+        html += '<' + tag + ' class="team-chip"' + hrefAttr + '><span class="swatch"></span>' + esc(t.name) + '</' + tag + '>';
+      });
+      html += '</div>';
+    } else {
+      html += '<p class="no-teams">情報なし / No data</p>';
+    }
+    html += '</div>';
+
+    html += '<div class="events"><div class="heading">開催イベント — HELD HERE</div>';
+    if (d.events && d.events.length) {
+      d.events.forEach(function (ev) {
+        html += '<div class="event-row"><span class="year">' + (ev.year || '—') + '</span><span class="name">' + esc(ev.name) + '</span></div>';
+      });
+    } else {
+      html += '<p class="no-events">情報なし / No data</p>';
+    }
+    html += '</div>';
+
+    html += '<div class="sources"><div class="heading">出典 — SOURCES</div>';
+    if (d.wikidata_url) html += '<a class="source-link" href="' + esc(d.wikidata_url) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
+    else html += '<a class="source-link" href="' + esc('https://www.wikidata.org/wiki/' + d.id) + '" target="_blank" rel="noopener">Wikidata <span class="arrow">↗</span></a>';
+    if (d.wikipedia_url) html += '<a class="source-link" href="' + esc(d.wikipedia_url) + '" target="_blank" rel="noopener">Wikipedia <span class="arrow">↗</span></a>';
+    html += '</div>';
+
+    panelScroll.innerHTML = html;
+    panel.classList.add('open');
+
+    world.pointOfView({ lat: d.lat, lng: d.lng, altitude: 1.15 }, 900);
+    if (controls) controls.autoRotate = false;
+  }
+
+  panelClose.addEventListener('click', function () {
+    panel.classList.remove('open');
+  });
+
+  world.onPointClick(openPanel);
+
   window.__venueAtlas = {
     world: world,
     getAllPoints: function () { return allPoints; },
