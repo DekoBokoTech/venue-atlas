@@ -21,13 +21,19 @@ const EVENT_CAP = 5;
 const NON_SPORTING_EVENT_PATTERN = /テロ|事件|着工|竣工|施工|attack|bombing|groundbreaking|demolition/i;
 const NEVER_BUILT_CLASS = 'Q1570262'; // "unfinished building" (P31 instance-of)
 
+// Opendatasoft "table" explore view for France's RES (Recensement des
+// équipements sportifs) data-es-installation dataset, filtered to a single
+// record's numero. Confirmed working (200, no redirect) against the live
+// site; see scripts/lib/res-names.js for the dataset/table-mapping research.
+const RES_TABLE_URL = 'https://equipements.sports.gouv.fr/explore/dataset/data-es-installation/table/?q=';
+
 export function resolveClaimIds(entity, property) {
   return (entity?.claims?.[property] ?? [])
     .map((claim) => claim.mainsnak?.datavalue?.value?.id)
     .filter(Boolean);
 }
 
-export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, relatedEntities = new Map()) {
+export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, relatedEntities = new Map(), resNameIndex = new Map()) {
   if (!coordBinding.coord) return null;
   const coord = parsePoint(coordBinding.coord.value);
   if (!coord) return null;
@@ -36,7 +42,15 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
 
   const nameEn = entity?.labels?.en?.value;
   const nameJa = entity?.labels?.ja?.value;
-  if (!nameEn && !nameJa) return null;
+
+  // P11840: RES identifier (matches data-es-installation.numero). Only
+  // consulted as a last resort, when Wikidata itself has neither an English
+  // nor a Japanese label -- a record that already has a Wikidata name never
+  // gets its name overridden by RES.
+  const resNumero = entity?.claims?.P11840?.[0]?.mainsnak?.datavalue?.value;
+  const resName = (!nameEn && !nameJa && resNumero) ? (resNameIndex.get(resNumero) ?? null) : null;
+
+  if (!nameEn && !nameJa && !resName) return null;
 
   const capacityAmount = entity?.claims?.P1083?.[0]?.mainsnak?.datavalue?.value?.amount;
   const inceptionTime = entity?.claims?.P571?.[0]?.mainsnak?.datavalue?.value?.time;
@@ -64,9 +78,13 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
     .slice(0, EVENT_CAP)
     .map((info) => ({ name: info.label, year: info.year }));
 
+  const sources = ['Wikidata'];
+  if (wikipediaUrl) sources.push('Wikipedia');
+  if (resName) sources.push('RES');
+
   return {
     id: qid,
-    name: nameEn ?? qid,
+    name: nameEn ?? resName ?? qid,
     name_ja: nameJa ?? null,
     lat: coord.lat,
     lng: coord.lng,
@@ -83,7 +101,8 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
     wikidata_url: `https://www.wikidata.org/wiki/${qid}`,
     image_url: imageValue ?? null,
     website: websiteValue ?? null,
-    sources: wikipediaUrl ? ['Wikidata', 'Wikipedia'] : ['Wikidata'],
+    res_url: resName ? `${RES_TABLE_URL}${encodeURIComponent(resNumero)}` : null,
+    sources,
     last_synced_at: syncedAt,
   };
 }

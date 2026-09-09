@@ -44,6 +44,7 @@ test('normalizeEntity extracts all fields from a full coord binding + entity', (
     wikidata_url: 'https://www.wikidata.org/wiki/Q123456',
     image_url: 'Test.jpg',
     website: 'https://example.com',
+    res_url: null,
     sources: ['Wikidata', 'Wikipedia'],
     last_synced_at: '2026-09-08T00:00:00.000Z',
   });
@@ -329,4 +330,68 @@ test('normalizeEntity does not return null when only a Japanese label exists, an
   assert.notEqual(record, null);
   assert.equal(record.name, 'Q1');
   assert.equal(record.name_ja, '日本語スタジアム');
+});
+
+// --- RES (P11840) name enrichment ------------------------------------------
+
+test('normalizeEntity resolves a name from RES via P11840 when Wikidata has no en/ja label, and is not excluded', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q13205' }, coord: { value: 'Point(2.36 48.924444)' } };
+  const entity = {
+    labels: {},
+    claims: {
+      P11840: [{ mainsnak: { datavalue: { value: 'I930660048' } } }],
+    },
+  };
+  const resNameIndex = new Map([['I930660048', 'STADE DE FRANCE']]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map(), resNameIndex);
+
+  assert.notEqual(record, null);
+  assert.equal(record.name, 'STADE DE FRANCE');
+  assert.equal(record.name_ja, null);
+  assert.deepEqual(record.sources, ['Wikidata', 'RES']);
+  assert.equal(record.res_url, 'https://equipements.sports.gouv.fr/explore/dataset/data-es-installation/table/?q=I930660048');
+});
+
+test('normalizeEntity still returns null when P11840 is set but resNameIndex has no matching entry', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q13205' }, coord: { value: 'Point(2.36 48.924444)' } };
+  const entity = {
+    labels: {},
+    claims: {
+      P11840: [{ mainsnak: { datavalue: { value: 'I930660048' } } }],
+    },
+  };
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map(), new Map());
+
+  assert.equal(record, null);
+});
+
+test('normalizeEntity is unaffected by RES lookups when there is no P11840 claim at all', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = { labels: { en: { language: 'en', value: 'Some Facility' } } };
+  const resNameIndex = new Map([['I999999999', 'Some Other Facility']]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map(), resNameIndex);
+
+  assert.equal(record.name, 'Some Facility');
+  assert.deepEqual(record.sources, ['Wikidata']);
+  assert.equal(record.res_url, null);
+});
+
+test('normalizeEntity does not let RES override an existing Wikidata name even when P11840 also resolves', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q13205' }, coord: { value: 'Point(2.36 48.924444)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Stade de France' } },
+    claims: {
+      P11840: [{ mainsnak: { datavalue: { value: 'I930660048' } } }],
+    },
+  };
+  const resNameIndex = new Map([['I930660048', 'STADE DE FRANCE (RES NAME)']]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map(), resNameIndex);
+
+  assert.equal(record.name, 'Stade de France');
+  assert.deepEqual(record.sources, ['Wikidata']);
+  assert.equal(record.res_url, null);
 });

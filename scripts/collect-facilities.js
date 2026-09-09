@@ -1,5 +1,6 @@
 // scripts/collect-facilities.js
 import path from 'node:path';
+import { readFile } from 'node:fs/promises';
 import { querySparql } from './lib/sparql-client.js';
 import { buildScanQuery } from './lib/build-query.js';
 import { fetchEntities } from './lib/wikidata-entities.js';
@@ -14,11 +15,28 @@ import { loadProgress, saveProgress } from './lib/progress.js';
 const DATA_DIR = path.join(process.cwd(), 'data', 'facilities');
 const SYNC_LOG_PATH = path.join(process.cwd(), 'data', 'sync_log.json');
 const PROGRESS_PATH = path.join(process.cwd(), 'data', 'progress.json');
+const RES_NAMES_PATH = path.join(process.cwd(), 'data', 'res-names.json');
 const PAGE_SIZE = 500;
 const MAX_PAGES_PER_COUNTRY = Number(process.env.COLLECT_MAX_PAGES_PER_COUNTRY) || 400;
 const MAX_COUNTRIES = Number(process.env.COLLECT_MAX_COUNTRIES) || Infinity;
 const PAGE_DELAY_MS = 200;
 const COMMIT_EVERY_PAGES = Number(process.env.COLLECT_COMMIT_EVERY_PAGES) || 10;
+
+// Loads the RES (French sports-facility registry) numero -> nom lookup
+// generated manually by scripts/fetch-res-names.js, as a Map. This script
+// runs nightly for all 218 countries -- including France before that file
+// has ever been generated -- so a missing file falls back to an empty
+// lookup rather than failing the whole run.
+async function loadResNameIndex() {
+  try {
+    const content = await readFile(RES_NAMES_PATH, 'utf-8');
+    const json = JSON.parse(content);
+    return new Map(Object.entries(json));
+  } catch (error) {
+    if (error.code === 'ENOENT') return new Map();
+    throw error;
+  }
+}
 
 async function flushCountry(countryCode, records, pendingDeletions, syncedAt, errors, page, progress) {
   const existing = await loadFacilities(DATA_DIR, countryCode);
@@ -48,7 +66,7 @@ async function flushCountry(countryCode, records, pendingDeletions, syncedAt, er
   return { newCount: result.newCount, updatedCount: result.updatedCount, deletedCount: result.deletedCount };
 }
 
-async function collectCountry(countryQid, countryCode, countryIndex, totalCountries, startOffset, syncedAt, allErrors, relatedEntityCache) {
+async function collectCountry(countryQid, countryCode, countryIndex, totalCountries, startOffset, syncedAt, allErrors, relatedEntityCache, resNameIndex) {
   let offset = startOffset;
   let page = 0;
   let pending = [];
@@ -97,7 +115,7 @@ async function collectCountry(countryQid, countryCode, countryIndex, totalCountr
 
       const normalized = coordBindings.map((binding) => {
         const qid = binding.item.value.split('/').pop();
-        return { qid, record: normalizeEntity(binding, entities[qid], countryCode, syncedAt, relatedEntities) };
+        return { qid, record: normalizeEntity(binding, entities[qid], countryCode, syncedAt, relatedEntities, resNameIndex) };
       });
 
       pending.push(...normalized.filter(({ record }) => record !== null).map(({ record }) => record));
@@ -161,6 +179,8 @@ async function main() {
   console.log(`Resuming from country index ${startIndex} (${countries[startIndex].countryCode}), offset ${progress.offset}.`);
 
   const relatedEntityCache = createRelatedEntityCache();
+  const resNameIndex = await loadResNameIndex();
+  console.log(`Loaded ${resNameIndex.size} RES names from data/res-names.json.`);
 
   let grandNew = 0;
   let grandUpdated = 0;
@@ -179,7 +199,8 @@ async function main() {
       startOffset,
       syncedAt,
       errors,
-      relatedEntityCache
+      relatedEntityCache,
+      resNameIndex
     );
     grandNew += newCount;
     grandUpdated += updatedCount;
