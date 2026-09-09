@@ -10,15 +10,19 @@
     "capacity": 1100,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q105425813",
     "image_url": "CROW arena - panoramio.jpg",
+    "website": "http://www.crowarena.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q105435158",
@@ -31,15 +35,19 @@
     "capacity": 2000,
     "opened_year": 1903,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q105435158",
     "image_url": "Starajazdiaren2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q105515105",
@@ -48,188 +56,39 @@
     "lat": 48.696666666,
     "lng": 21.245277777,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12555,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCコシツェ",
+        "url": "https://www.fckosice.sk"
+      },
+      {
+        "name": "SCドニプロ-1",
+        "url": "https://www.scdnipro1.com.ua/"
+      },
+      {
+        "name": "FCクリウバス・クルィヴィーイ・リーフ",
+        "url": "https://fckryvbas.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ko%C5%A1ick%C3%A1_futbalov%C3%A1_ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q105515105",
     "image_url": "Košická futbalová aréna 2022.jpg",
+    "website": "https://kosickafutbalovaarena.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112087781",
-    "name": "Q112087781",
-    "name_ja": null,
-    "lat": 48.14256,
-    "lng": 17.10054,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112087781",
-    "image_url": "Bratislava Castle (3).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112087782",
-    "name": "Q112087782",
-    "name_ja": null,
-    "lat": 48.14283,
-    "lng": 17.10009,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112087782",
-    "image_url": "Bratislava Castle, 20210727 1107 0334.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112090119",
-    "name": "Q112090119",
-    "name_ja": null,
-    "lat": 48.74452,
-    "lng": 19.13967,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1900,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112090119",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q112093680",
-    "name": "Q112093680",
-    "name_ja": null,
-    "lat": 48.72064,
-    "lng": 21.2663,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1935,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112093680",
-    "image_url": "Košice - Staničné nám. 5 - Bazén s mostíkom.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112093681",
-    "name": "Q112093681",
-    "name_ja": null,
-    "lat": 48.72075,
-    "lng": 21.26616,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1935,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112093681",
-    "image_url": "Košice - Staničné nám. 5 - Bazény-1.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112093682",
-    "name": "Q112093682",
-    "name_ja": null,
-    "lat": 48.72054,
-    "lng": 21.26687,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1935,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112093682",
-    "image_url": "Košice - Staničné nám. 5 - Bazény-2.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112093929",
-    "name": "Q112093929",
-    "name_ja": null,
-    "lat": 48.72287,
-    "lng": 21.26337,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1909,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112093929",
-    "image_url": "Košice – Mestský park 13 (2).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112094531",
-    "name": "Q112094531",
-    "name_ja": null,
-    "lat": 48.61353,
-    "lng": 22.06845,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1900,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112094531",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q112095036",
@@ -242,36 +101,19 @@
     "capacity": null,
     "opened_year": 1900,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q112095036",
     "image_url": "Trebisov Andrassyovsky kastiel (riding hall)-02.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112100129",
-    "name": "Q112100129",
-    "name_ja": null,
-    "lat": 48.996867,
-    "lng": 21.23671,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2000,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112100129",
-    "image_url": "Slovakia Town Presov 202a.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q112103474",
@@ -284,78 +126,19 @@
     "capacity": null,
     "opened_year": 1900,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q112103474",
     "image_url": "Hlohovec zámok 23 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112103884",
-    "name": "Q112103884",
-    "name_ja": null,
-    "lat": 48.589789,
-    "lng": 17.843626,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2000,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112103884",
-    "image_url": "Piešťany Kúpalisko Eva - bazén.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112103885",
-    "name": "Q112103885",
-    "name_ja": null,
-    "lat": 48.589937,
-    "lng": 17.844114,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2000,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112103885",
-    "image_url": "Piešťany Kúpalisko Eva - detský (relaxačný) bazén.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q112106038",
-    "name": "Q112106038",
-    "name_ja": null,
-    "lat": 49.0839,
-    "lng": 19.30161,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1922,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q112106038",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113541594",
@@ -364,19 +147,25 @@
     "lat": 48.735083333,
     "lng": 19.125694444,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113541594",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114700702",
@@ -389,36 +178,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114700702",
     "image_url": "\"Sokolovňa\" - panoramio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q1148065",
-    "name": "Q1148065",
-    "name_ja": null,
-    "lat": 49.16072222,
-    "lng": 20.27075,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q1148065",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q11811658",
@@ -431,15 +203,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q11811658",
     "image_url": "Besenova 004.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q11816075",
@@ -452,15 +228,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q11816075",
     "image_url": "Pezinská Baba 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q11835953",
@@ -473,15 +253,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q11835953",
     "image_url": "Malinô-Brdo- hlavný svah.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12028884",
@@ -494,36 +278,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12028884",
     "image_url": "Kasárne (Makov) 03.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q121259736",
-    "name": "Q121259736",
-    "name_ja": null,
-    "lat": 49.006748,
-    "lng": 21.235259,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q121259736",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122585446",
@@ -532,19 +299,25 @@
     "lat": 48.316202346,
     "lng": 18.105756614,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122585446",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q123000959",
@@ -557,15 +330,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123000959",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124341651",
@@ -574,19 +351,25 @@
     "lat": 48.963387539,
     "lng": 18.161931169,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124341651",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124341661",
@@ -595,19 +378,25 @@
     "lat": 49.118251998,
     "lng": 18.321049,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124341661",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q125543388",
@@ -616,19 +405,25 @@
     "lat": 48.166875677,
     "lng": 17.140428813,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125543388",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q125939538",
@@ -637,19 +432,35 @@
     "lat": 48.70915,
     "lng": 21.2274,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "テニス",
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "建設",
+        "year": null
+      },
+      {
+        "name": "開会式",
+        "year": null
+      }
+    ],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125939538",
     "image_url": null,
+    "website": "https://www.ntckosice.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12779405",
@@ -662,36 +473,36 @@
     "capacity": 3500,
     "opened_year": 1979,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HK Orange 20",
+        "url": "http://hkorange20.tipsportextraliga.sk"
+      },
+      {
+        "name": "Bratislava Capitals",
+        "url": null
+      },
+      {
+        "name": "HK Ružinov",
+        "url": null
+      },
+      {
+        "name": "HK PSRŽ Bratislava",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12779405",
     "image_url": "Zimný štadión Vladimíra Dzurillu (2011).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q12781681",
-    "name": "Q12781681",
-    "name_ja": null,
-    "lat": 48.164073,
-    "lng": 17.140142,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12781681",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q13419585",
@@ -700,20 +511,38 @@
     "lat": 48.1624,
     "lng": 17.1414,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール",
+      "柔道",
+      "フロアボール",
+      "バレーボール"
+    ],
     "capacity": null,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "VK Slovan Bratislava",
+        "url": null
+      },
+      {
+        "name": "VK Slovan Bratislava",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gopass_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13419585",
     "image_url": "Hala Pasienky.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q134442214",
@@ -722,19 +551,25 @@
     "lat": 48.166596422,
     "lng": 17.139870507,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134442214",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q135181486",
@@ -747,36 +582,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135181486",
     "image_url": "Plaza Beach Resort, Solivar, Prešov, okres Prešov 02.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q136437443",
-    "name": "Q136437443",
-    "name_ja": null,
-    "lat": 48.8983308,
-    "lng": 18.0427528,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q136437443",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q136714054",
@@ -789,36 +607,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136714054",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q137782012",
-    "name": "Q137782012",
-    "name_ja": null,
-    "lat": 49.4053358,
-    "lng": 19.4851811,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q137782012",
-    "image_url": "Skatepark, Námestovo, okres Námestovo.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q138002927",
@@ -827,19 +628,34 @@
     "lat": 48.128403,
     "lng": 17.134075,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バレーボール"
+    ],
     "capacity": 250,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "VK Slávia UK Bratislava",
+        "url": "https://slaviaeuba.sk/"
+      },
+      {
+        "name": "Kooperativa Slávia EU Bratislava",
+        "url": "https://slaviaeuba.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138002927",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139489688",
@@ -848,19 +664,34 @@
     "lat": 48.283807,
     "lng": 17.255458,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バレーボール"
+    ],
     "capacity": 800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "VTC Pezinok",
+        "url": null
+      },
+      {
+        "name": "ŠVK Pezinok",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139489688",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139587355",
@@ -869,19 +700,30 @@
     "lat": 48.761807,
     "lng": 17.566616,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バレーボール"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "TJ Spartak Myjava",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139587355",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139587969",
@@ -890,40 +732,38 @@
     "lat": 47.757998,
     "lng": 18.134895,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バレーボール"
+    ],
     "capacity": 800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "VK Spartak UJS Komárno",
+        "url": "https://www.vkspartak.sk/"
+      },
+      {
+        "name": "Rieker UJS Komárno",
+        "url": null
+      },
+      {
+        "name": "Rieker UJS Komárno",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139587969",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q140419333",
-    "name": "Q140419333",
-    "name_ja": null,
-    "lat": 49.2128472,
-    "lng": 18.7488061,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140419333",
-    "image_url": "Žilinská plaváreň - panoramio.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q141118763",
@@ -936,15 +776,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141118763",
     "image_url": "Letné kúpalisko Trenčín, 2025.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q141119121",
@@ -957,15 +801,19 @@
     "capacity": null,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141119121",
     "image_url": "Aréna Mariána Gáboríka.jpg",
+    "website": "https://www.mariangaborik.sk/arena/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q144454",
@@ -978,16 +826,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tatransk%C3%A1_Lomnica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q144454",
     "image_url": "Slovakia High Tatras Tm56.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15264093",
@@ -996,20 +848,37 @@
     "lat": 49.0735,
     "lng": 19.619,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "カヌーイングおよびカヤッキング",
+      "スラローム",
+      "ラフティング"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "カヌースラローム",
+        "year": null
+      },
+      {
+        "name": "カヌースラローム世界選手権",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ondrej_Cibak_Whitewater_Slalom_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15264093",
     "image_url": "Andrew Cibák Whitewater Slalom Course Finish Line Liptovský Mikuláš.jpg",
+    "website": "http://www.ktklm.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1584020",
@@ -1018,41 +887,35 @@
     "lat": 48.163611,
     "lng": 17.136944,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1941,
-    "closed_year": null,
+    "closed_year": 2013,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ŠKスロヴァン・ブラチスラヴァ",
+        "url": "https://www.skslovan.com/"
+      },
+      {
+        "name": "サッカースロバキア代表",
+        "url": "https://www.futbalsfz.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Teheln%C3%A9_pole_(1939)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1584020",
     "image_url": "Slovan Bratislava vs. Olympiakos FC, 2009.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q15987312",
-    "name": "Q15987312",
-    "name_ja": null,
-    "lat": 48.95946,
-    "lng": 21.265154,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q15987312",
-    "image_url": "Arealdelna1.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16632696",
@@ -1061,40 +924,30 @@
     "lat": 48.387,
     "lng": 17.5876,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ATP Challenger Trophy",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632696",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q17416466",
-    "name": "Q17416466",
-    "name_ja": null,
-    "lat": 48.123084,
-    "lng": 17.094126,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q17416466",
-    "image_url": "Matadorka znovu otvorená! (35257344352).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17504937",
@@ -1103,20 +956,31 @@
     "lat": 49.061851333,
     "lng": 20.308030833,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5700,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK Poprad",
+        "url": "http://fkpoprad.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/NTC_Poprad",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17504937",
     "image_url": "NTC Poprad.png",
+    "website": "http://ntcpoprad.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17511107",
@@ -1129,16 +993,25 @@
     "capacity": null,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCロコモティーヴァ・コシツェ",
+        "url": "http://www.fclokomotiva.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_Dru%C5%BEstevn%C3%A1_pri_Horn%C3%A1de",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17511107",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17511110",
@@ -1151,16 +1024,25 @@
     "capacity": null,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK ŠKP Inter Dúbravka Bratislava",
+        "url": "http://skpdubravka.lumak.net/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_%C5%A0KP_Inter_D%C3%BAbravka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17511110",
     "image_url": "ŠKP Inter Dúbravka Bratislava - Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1924593",
@@ -1169,20 +1051,31 @@
     "lat": 47.99888889,
     "lng": 17.61833333,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 16410,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK DAC 1904ドゥナイスカー・ストレダ",
+        "url": "http://www.fcdac1904.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/MOL%E3%82%A2%E3%83%AC%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1924593",
     "image_url": "DAC Arena.png",
+    "website": "http://fcdac.sk/sk/historia-klubu",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q203921",
@@ -1191,20 +1084,31 @@
     "lat": 49.060556,
     "lng": 20.311111,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 4500,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HK Poprad",
+        "url": "http://www.hkpoprad.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Poprad_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q203921",
     "image_url": "Hockey Arena Poprad 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q203932",
@@ -1213,20 +1117,58 @@
     "lat": 48.16,
     "lng": 17.136111,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー",
+      "フィギュアスケート",
+      "バレーボール"
+    ],
     "capacity": 10055,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HC Slovan Bratislava",
+        "url": "http://www.hcslovan.sk"
+      },
+      {
+        "name": "Bratislava Capitals",
+        "url": null
+      }
+    ],
+    "events": [
+      {
+        "name": "起工式",
+        "year": null
+      },
+      {
+        "name": "開会式",
+        "year": null
+      },
+      {
+        "name": "リフォーム",
+        "year": null
+      },
+      {
+        "name": "リフォーム",
+        "year": null
+      },
+      {
+        "name": "リフォーム",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tipos_ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q203932",
     "image_url": "OndrejNepela4.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20741109",
@@ -1239,16 +1181,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_Brezno",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20741109",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20741110",
@@ -1261,37 +1207,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "MFKスカリツァ",
+        "url": "https://www.mfkskalica.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_Skalica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20741110",
     "image_url": "Skalica stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q20977313",
-    "name": "Q20977313",
-    "name_ja": null,
-    "lat": 48.606,
-    "lng": 19.098,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20977313",
-    "image_url": "Holidaypark Kováčová hlavný bazén.JPG",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24707971",
@@ -1300,20 +1234,27 @@
     "lat": 48.163166666,
     "lng": 17.134166666,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "テニス",
+      "バドミントン"
+    ],
     "capacity": 4500,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Peugeot_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24707971",
     "image_url": "Sibamac arena.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24969483",
@@ -1326,16 +1267,25 @@
     "capacity": 20000,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK Raven Považská Bystrica",
+        "url": "http://fkzlateklasy.webrum.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_M%C5%A0K_Pova%C5%BEsk%C3%A1_Bystrica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24969483",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q24969493",
@@ -1344,20 +1294,26 @@
     "lat": 48.77871944,
     "lng": 18.62402222,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Futbalov%C3%BD_%C5%A1tadi%C3%B3n_Prievidza",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24969493",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2536545",
@@ -1366,41 +1322,31 @@
     "lat": 48.702031,
     "lng": 21.243342,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30312,
     "opened_year": 1976,
-    "closed_year": null,
+    "closed_year": 2011,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC VSSコシツェ",
+        "url": "https://www.fckosice.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/V%C5%A1e%C5%A1portov%C3%BD_are%C3%A1l",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2536545",
     "image_url": "1996-08-06 Kosize-Celtic 0-00003.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q2964467",
-    "name": "Q2964467",
-    "name_ja": null,
-    "lat": 48.9239,
-    "lng": 19.6027,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2964467",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30317334",
@@ -1409,19 +1355,25 @@
     "lat": 49.134755161,
     "lng": 20.432481396,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30317334",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30593982",
@@ -1430,20 +1382,26 @@
     "lat": 48.023888888,
     "lng": 17.968333333,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_FC_Neded",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30593982",
     "image_url": "Neded stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30626313",
@@ -1452,20 +1410,31 @@
     "lat": 48.58733333,
     "lng": 18.86333333,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2309,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK Pohronie",
+        "url": "https://www.fkpohronie.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_%C5%BDiar_nad_Hronom",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30626313",
     "image_url": "Stadium Ziar nad Hronom.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30626357",
@@ -1474,42 +1443,69 @@
     "lat": 49.046599,
     "lng": 20.290874,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール",
+      "バレーボール"
+    ],
     "capacity": 2600,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "2010 FIBA Europe Under-18 Championship for Women",
+        "year": 2010
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ar%C3%A9na_Poprad",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30626357",
     "image_url": null,
+    "website": "https://arena.poprad.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3078794",
     "name": "Trenčín Zimny Arena",
     "name_ja": null,
-    "lat": 48.9005699,
-    "lng": 18.0571032,
+    "lat": 48.9003,
+    "lng": 18.0569,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 6150,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HCドゥクラ・トレンチーン",
+        "url": "http://www.hkdukla.sk"
+      },
+      {
+        "name": "ASトレンチーン",
+        "url": "https://www.astn.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavol_Demitra_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3078794",
     "image_url": "Pavel Demitra Winter Stadium with a mural of Trenčín castle (40129).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3302011",
@@ -1518,20 +1514,31 @@
     "lat": 48.84111111,
     "lng": 17.22555556,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 3214,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HK 36 Skalica",
+        "url": "http://www.hkskalica.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Skalica_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3302011",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3342200",
@@ -1540,20 +1547,31 @@
     "lat": 48.32027778,
     "lng": 18.0875,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 5350,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HK Nitra",
+        "url": "http://www.hockeynitra.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nitra_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3342200",
     "image_url": "NITRA Aréna.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3370126",
@@ -1562,20 +1580,35 @@
     "lat": 48.57888889,
     "lng": 17.81805556,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 2638,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ŠHK 37 Piešťany",
+        "url": null
+      },
+      {
+        "name": "HK PSRŽ Bratislava",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Patr%C3%ADcia_Ice_Arena_37",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3370126",
     "image_url": "European Trophy Slovan - HV71 2013.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3392268",
@@ -1588,15 +1621,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3392268",
     "image_url": "Plejsy E.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3575548",
@@ -1605,20 +1642,35 @@
     "lat": 49.07444444,
     "lng": 18.9125,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 4200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "MHC Martin",
+        "url": "https://mhamartin.hockeyslovakia.sk/"
+      },
+      {
+        "name": "MHK Martin",
+        "url": "http://www.mhkmartin.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3575548",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3575549",
@@ -1627,20 +1679,31 @@
     "lat": 48.73388889,
     "lng": 19.15472222,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HC ’05 Banská Bystrica",
+        "url": "http://www.hc05.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3575549",
     "image_url": "Zimný štadión Banská Bystrica 2022a.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3575550",
@@ -1649,20 +1712,31 @@
     "lat": 49.2288856,
     "lng": 18.7431264,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 6200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "VLCI Žilina",
+        "url": "http://www.mshkzilina.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nik%C3%A9_Ar%C3%A9na_(%C5%BDilina)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3575550",
     "image_url": "Zimný štadión Vojtecha Závodského.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3594215",
@@ -1675,15 +1749,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3594215",
     "image_url": "Šachtičky (01b).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q389699",
@@ -1692,20 +1770,31 @@
     "lat": 48.566111,
     "lng": 19.120556,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 6390,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HKM Zvolen",
+        "url": "https://www.hkmzvolen.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zvolen_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q389699",
     "image_url": "Zvolen, Slovakia - panoramio - Buda Pavel (2).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392288",
@@ -1718,16 +1807,25 @@
     "capacity": 10787,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCロコモティーヴァ・コシツェ",
+        "url": "http://www.fclokomotiva.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Lokomot%C3%ADvy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392288",
     "image_url": "Vyhliadkova veza Kosice 3.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392291",
@@ -1736,20 +1834,31 @@
     "lat": 48.373333,
     "lng": 17.591667,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 19200,
     "opened_year": 1921,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCスパルタク・トルナヴァ",
+        "url": "https://fcspartaktrnava.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8A%E3%83%BB%E3%83%9E%E3%83%A9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%9B",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392291",
     "image_url": "The City Arena in Trnava (2018).jpg",
+    "website": "http://stadium.cityarena.tt",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392295",
@@ -1762,16 +1871,25 @@
     "capacity": 4817,
     "opened_year": 1955,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "MFKルジョムベロク",
+        "url": "https://www.mfkruzomberok.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_pod_%C4%8Cebra%C5%A5om",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392295",
     "image_url": "Štadión MFK Ružomberok.jpg",
+    "website": "http://www.mfkruzomberok.sk/zobraz.asp?t=stadion-a-vstupenky",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392301",
@@ -1784,16 +1902,25 @@
     "capacity": 5070,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FKセニツァ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_FK_Senica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392301",
     "image_url": "FK Senica - MŠK Žilina (10.5.2013).jpg",
+    "website": "http://www.fksenica.eu/zobraz.asp?t=stadion",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392305",
@@ -1802,20 +1929,32 @@
     "lat": 48.166111,
     "lng": 17.141111,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技",
+      "サッカー"
+    ],
     "capacity": 13000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FKインテル・ブラチスラヴァ",
+        "url": "http://www.fkinter.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Pasienky",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392305",
     "image_url": "Slovakia bratislava Štadión Pasienky.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392306",
@@ -1828,16 +1967,29 @@
     "capacity": 10000,
     "opened_year": 1959,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FKデュクラ・バンスカー・ビストリツァ",
+        "url": "https://mfkdukla.sk/"
+      },
+      {
+        "name": "2024 European Athletics U18 Championships",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/N%C3%A1rodn%C3%BD_Atletick%C3%BD_%C5%A0tadi%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392306",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392308",
@@ -1850,16 +2002,25 @@
     "capacity": 5410,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "1.FCタトラン・プレショフ",
+        "url": "http://www.1fctatran.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Futbal_Tatran_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392308",
     "image_url": "Futbal Tatran Arena opening.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392309",
@@ -1872,16 +2033,25 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC ViOnズラテー・モラフツェ",
+        "url": "http://fcvion.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ViOn_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392309",
     "image_url": "Fc vion stadium.JPG",
+    "website": "http://fcvion.sk/stadion/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392313",
@@ -1894,16 +2064,25 @@
     "capacity": 4300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ASトレンチーン",
+        "url": "https://www.astn.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Siho%C5%A5",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392313",
     "image_url": "Football stadium in Trenčín, Slovakia.jpg",
+    "website": "http://www.astrencin.sk/zobraz.asp?t=stadion/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392317",
@@ -1916,16 +2095,25 @@
     "capacity": 11384,
     "opened_year": 1909,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCニトラ",
+        "url": "https://fcnitra.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_pod_Zoborom",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392317",
     "image_url": "Štadión pod Zoborom - Nitra.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392323",
@@ -1934,20 +2122,31 @@
     "lat": 49.229167,
     "lng": 18.744722,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11258,
     "opened_year": 1941,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "MŠKジリナ",
+        "url": "https://www.mskzilina.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%89%E3%83%BB%E3%83%89%E3%82%A5%E3%83%99%E3%83%8B%E3%83%A7%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392323",
     "image_url": "Zilina vs Slovan.JPG",
+    "website": "http://www.mskzilina.sk/club/stadium",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392479",
@@ -1960,16 +2159,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "Ski jumping at the FIS Nordic World Ski Championships 1970",
+        "year": 1970
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MS_1970",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392479",
     "image_url": "Štrbské Pleso - skokanské mostíky 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q392483",
@@ -1982,16 +2190,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0trbsk%C3%A9_Pleso",
     "wikidata_url": "https://www.wikidata.org/wiki/Q392483",
     "image_url": "Štrbské Pleso aerial 2018 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q427654",
@@ -2004,16 +2216,20 @@
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Slovakia_Ring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q427654",
     "image_url": "Grandstand view at the 2022 Grand Prix of Slovakia.jpg",
+    "website": "http://slovakiaring.sk/home-en/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4653521",
@@ -2026,16 +2242,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/AQUA_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4653521",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q49203796",
@@ -2048,15 +2268,24 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Piešťanské Čajky",
+        "url": "https://www.piestanskecajky.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q49203796",
     "image_url": "Diplomat aréna Piešťany.jpg",
+    "website": "https://www.piestanskecajky.sk/klub-diplomat-arena/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5090582",
@@ -2069,16 +2298,25 @@
     "capacity": 1806,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ŠKフトゥラ・フメンネー",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Humenn%C3%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5090582",
     "image_url": "Humenne stadium.jpg",
+    "website": "http://www.stadionhumenne.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5123210",
@@ -2087,19 +2325,31 @@
     "lat": 48.98577,
     "lng": 21.235628055,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バドミントン"
+    ],
     "capacity": 3870,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HTタトラン・プレソフ",
+        "url": "https://tatranpresov.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5123210",
     "image_url": "Mestská hala Prešov 18 Slovakia3.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5837445",
@@ -2112,16 +2362,25 @@
     "capacity": null,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スパルタク・ミヤヴァ",
+        "url": "https://www.spartakmyjava.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_Myjava",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5837445",
     "image_url": null,
+    "website": "http://www.spartakmyjava.sk/stadion",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q623069",
@@ -2134,16 +2393,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aquapark_Tatralandia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q623069",
     "image_url": "Aquapark Tatralandia (13).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q625402",
@@ -2155,17 +2418,26 @@
     "sport_types": [],
     "capacity": 7500,
     "opened_year": 1990,
-    "closed_year": null,
+    "closed_year": 2012,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCペトルジャルカ・アカデーミア",
+        "url": "http://www.fcpetrzalka1898.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Petr%C5%BEalka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q625402",
     "image_url": "Artmedia Bratislava Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6379103",
@@ -2178,16 +2450,20 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Rapid",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6379103",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6379112",
@@ -2200,38 +2476,62 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK LAFC Lučenec",
+        "url": null
+      },
+      {
+        "name": "MŠK Novohrad Lučenec",
+        "url": "https://msknovohrad.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_(Lu%C4%8Denec)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6379112",
     "image_url": "Lučenec - Mestský futbalový štadión.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6379120",
     "name": "Zemplin Stadium",
     "name_ja": null,
-    "lat": 48.750061111,
-    "lng": 21.936230555,
+    "lat": 48.7428,
+    "lng": 21.9083,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "MFKゼムプリーン・ミハロフツェ",
+        "url": "https://mfkzemplin.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_futbalov%C3%BD_%C5%A1tadi%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6379120",
     "image_url": "Zemplin Stadium.png",
+    "website": "http://new.mfkzemplin.sk/3949-2/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65924764",
@@ -2244,15 +2544,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q65924764",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6822156",
@@ -2265,16 +2569,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "MTKダブニカ",
+        "url": "https://www.fkdubnica.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_(Dubnica)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6822156",
     "image_url": null,
+    "website": "http://www.fkdubnica.sk/stadion",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6822157",
@@ -2287,16 +2600,25 @@
     "capacity": 6080,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FKプーホフ",
+        "url": "http://www.fkmatadorpuchov.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_P%C3%BAchov",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6822157",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6822158",
@@ -2309,16 +2631,25 @@
     "capacity": 3040,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Partizán Bardejov",
+        "url": "http://www.partizanbj.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mestsk%C3%BD_%C5%A1tadi%C3%B3n_Bardejov",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6822158",
     "image_url": "Štadión v bardejove.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6956460",
@@ -2331,15 +2662,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6956460",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7011535",
@@ -2348,20 +2683,31 @@
     "lat": 48.163558,
     "lng": 17.136856,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22500,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカースロバキア代表",
+        "url": "https://www.futbalsfz.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%BC%E3%83%AB%E3%83%89%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%95%E3%83%88%E3%83%90%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7011535",
     "image_url": "Slovakia bratislava Národný futbalový štadión.jpg",
+    "website": "http://narodnyfutbalovystadion.sk/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7227337",
@@ -2374,16 +2720,25 @@
     "capacity": 1950,
     "opened_year": 1931,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC ŠTK1914シャモリーン",
+        "url": "http://www.stksamorin.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%A0%E3%83%AC%E3%83%BC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7227337",
     "image_url": "Pomle stadium.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7264855",
@@ -2392,20 +2747,26 @@
     "lat": 49.117222222,
     "lng": 18.318888888,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%BAchov_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7264855",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7578342",
@@ -2418,38 +2779,56 @@
     "capacity": null,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HK Spišská Nová Ves",
+        "url": "https://www.hksnv.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Spi%C5%A1_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7578342",
     "image_url": null,
+    "website": "https://www.stez.sk/zimny-stadion/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596480",
     "name": "Stadium FC Petržalka 1898",
     "name_ja": "シュタディオーンFCペトルジャルカ・アカデーミア",
-    "lat": 48.119765,
-    "lng": 17.133374,
+    "lat": 48.119722222,
+    "lng": 17.133333333,
     "country": "SK",
     "sport_types": [],
     "capacity": 1500,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCペトルジャルカ・アカデーミア",
+        "url": "http://www.fcpetrzalka1898.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_FC_Petr%C5%BEalka_1898",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596480",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596486",
@@ -2462,16 +2841,25 @@
     "capacity": 4500,
     "opened_year": 1959,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FO ŽPシュポルト・ポドブレゾヴァー",
+        "url": "http://www.zpfutbal.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ZELPO_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596486",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596489",
@@ -2484,16 +2872,25 @@
     "capacity": 1950,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "MFK Dolný Kubín",
+        "url": "http://www.mfk.dolnykubin.net/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_MUDr._Ivana_Chod%C3%A1ka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596489",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596505",
@@ -2506,16 +2903,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_in_Nov%C3%A9_Z%C3%A1mky",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596505",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7605712",
@@ -2528,16 +2929,25 @@
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FK Bodva Moldava nad Bodvou",
+        "url": "http://fkbodva.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Steel_Slovakia_ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7605712",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7670493",
@@ -2550,16 +2960,25 @@
     "capacity": 1200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "TJ Baník Ružiná",
+        "url": "http://www.banik.ruzina.eu/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Futbal_Ar%C3%A9na_Zvolen",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7670493",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8026329",
@@ -2572,16 +2991,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ke%C5%BEmarok_Ice_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8026329",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8072194",
@@ -2594,15 +3017,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q8072194",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8079829",
@@ -2611,20 +3038,37 @@
     "lat": 48.03,
     "lng": 17.23,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "カヌーイングおよびカヤッキング",
+      "スラローム",
+      "ラフティング"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "2011 ICF Canoe Slalom World Championships",
+        "year": 2011
+      },
+      {
+        "name": "カヌースラローム",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Cunovo_Water_Sports_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8079829",
     "image_url": "DIVOKÁ VODA SMEROM DOLE - panoramio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8082737",
@@ -2637,15 +3081,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q8082737",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8262179",
@@ -2658,79 +3106,81 @@
     "capacity": 3264,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ŠK SFM Senec",
+        "url": "http://www.sfmsenec.eu"
+      },
+      {
+        "name": "FCセネツ",
+        "url": "http://www.fcsenec.sk"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/NTC_Senec",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8262179",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q82992188",
+    "name": "x-bionic sphere",
+    "name_ja": null,
+    "lat": 48.01862,
+    "lng": 17.29731,
+    "country": "SK",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": 2010,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q82992188",
+    "image_url": null,
+    "website": "https://www.x-bionicsphere.com/",
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q85418977",
     "name": "Osrblie Biathlon Centre",
     "name_ja": null,
-    "lat": 48.755751,
-    "lng": 19.518128,
+    "lat": 48.7555,
+    "lng": 19.5174,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "バイアスロン"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q85418977",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
-  },
-  {
-    "id": "Q87987454",
-    "name": "Q87987454",
-    "name_ja": null,
-    "lat": 48.596948,
-    "lng": 19.660914,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q87987454",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q9159481",
-    "name": "Q9159481",
-    "name_ja": null,
-    "lat": 48.6765,
-    "lng": 19.167,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9159481",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q9337963",
@@ -2743,15 +3193,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9337963",
     "image_url": "Králiky FUJI20170828T150354.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q937895",
@@ -2760,41 +3214,31 @@
     "lat": 48.714722,
     "lng": 21.248056,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 8378,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "HC Košice",
+        "url": "https://www.hckosice.sk/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Steel_Arena_(arena)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q937895",
     "image_url": "Steel Arena Košice.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q97203885",
-    "name": "Q97203885",
-    "name_ja": null,
-    "lat": 48.96208333,
-    "lng": 19.58638889,
-    "country": "SK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97203885",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q97383251",
@@ -2803,19 +3247,25 @@
     "lat": 48.291528,
     "lng": 17.744028,
     "country": "SK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%A0tadi%C3%B3n_Sere%C4%8F",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97383251",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
