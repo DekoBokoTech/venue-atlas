@@ -2681,5 +2681,17 @@
     "updatedCount": 8,
     "errorCount": 0,
     "errors": []
+  },
+  {
+    "timestamp": "2026-09-09T01:56:35.614Z",
+    "countryCode": "FR",
+    "pagesFetched": 94,
+    "totalFetched": 2000,
+    "newCount": 0,
+    "updatedCount": 0,
+    "errorCount": 1,
+    "errors": [
+      "wbgetentities batch failed after 4 attempts: fetch failed"
+    ]
   }
 ]
