@@ -6,10 +6,13 @@
     "lat": 4.170372,
     "lng": 73.506405,
     "country": "MV",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,23 +20,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q11766766",
     "image_url": "Q11766766 Male' Sports Complex.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1557921",
     "name": "Galolhu National Stadium",
     "name_ja": "ガロル国立競技場",
-    "lat": 4.1684,
-    "lng": 73.5368,
+    "lat": 4.174083333,
+    "lng": 73.513083333,
     "country": "MV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -46,11 +53,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1557921",
     "image_url": "Galolhu Dhandu.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16347210",
@@ -63,6 +71,7 @@
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -75,34 +84,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16347210",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16546553",
-    "name": "Q16546553",
-    "name_ja": null,
-    "lat": 0.300771,
-    "lng": 73.4252,
-    "country": "MV",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16546553",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16557582",
@@ -111,10 +98,13 @@
     "lat": 4.175,
     "lng": 73.5169,
     "country": "MV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -122,9 +112,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16557582",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
