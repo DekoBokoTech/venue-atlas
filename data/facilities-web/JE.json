@@ -12,14 +12,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Helier_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q130262864",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q24748156",
@@ -34,14 +36,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Farmers_Cricket_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748156",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2769854",
@@ -56,14 +60,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/La_Moye_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2769854",
     "image_url": "La Moye Golf Club Jersey a.jpg",
+    "website": "https://www.lamoyegolfclub.co.uk/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5424688",
@@ -77,15 +83,22 @@
     "opened_year": 1964,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Jersey Spartan Athletics Club",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/FB_Playing_Fields",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5424688",
     "image_url": "FB Fields 01.jpg",
+    "website": "http://www.gov.je/Leisure/Sport/Facilities/Outdoor/Pages/FbPlayingFields.aspx",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5575736",
@@ -99,15 +112,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカージャージー島代表",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Springfield_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5575736",
     "image_url": "Springfield côtchiéthe Saint Hélyi.jpg",
+    "website": "http://www.gov.je/Leisure/Sport/Facilities/Indoor/Pages/Springfield.aspx",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7401356",
@@ -122,14 +142,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Helier_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7401356",
     "image_url": "Jersey Boat Show.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7591439",
@@ -143,14 +165,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ジャージー・レッズ",
+        "url": "https://www.jerseyreds.je/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter_(rugby_ground)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7591439",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

@@ -12,14 +12,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Complexo_Desportivo_Adega",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12015711",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q17714776",
@@ -33,15 +35,22 @@
     "opened_year": 2014,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーカーボベルデ代表",
+        "url": "http://www.fcf.cv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%8A%E3%82%B7%E3%82%AA%E3%83%8A%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17714776",
     "image_url": "Estádio Nacional de Cabo Verde panorama.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18416939",
@@ -55,15 +64,22 @@
     "opened_year": 2008,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Académica Operária",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Ars%C3%A9nio_Ramos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18416939",
     "image_url": "Estadio Arsenio Ramos.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18416944",
@@ -77,15 +93,26 @@
     "opened_year": 2009,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Associação Académica do Porto Novo",
+        "url": "http://www.micapn.com"
+      },
+      {
+        "name": "Sporting Clube de Porto Novo",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_do_Porto_Novo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18416944",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18620978",
@@ -99,15 +126,34 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Associação Académica do Fogo",
+        "url": null
+      },
+      {
+        "name": "Spartak d'Aguadinha",
+        "url": null
+      },
+      {
+        "name": "Botafogo",
+        "url": null
+      },
+      {
+        "name": "Vulcânicos",
+        "url": "http://www.vulcanico.cv"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_5_de_Julho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18620978",
     "image_url": "Estadio Sao Filipe 2017.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18620980",
@@ -121,15 +167,30 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Paulense Desportivo Clube",
+        "url": null
+      },
+      {
+        "name": "Clube Desportivo Sinagoga",
+        "url": null
+      },
+      {
+        "name": "Rosariense Clube",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jo%C3%A3o_Serra",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18620980",
     "image_url": "Ponta do Sol-Estádio João Serra.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q28039073",
@@ -143,15 +204,30 @@
     "opened_year": 2008,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Sport Clube Beira Mar do Tarrafal",
+        "url": null
+      },
+      {
+        "name": "Varandinha",
+        "url": null
+      },
+      {
+        "name": "Estrela dos Amadores",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_Mangue",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28039073",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q28343458",
@@ -165,15 +241,22 @@
     "opened_year": 2008,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Onze Unidos",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_20_de_Janeiro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28343458",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q28343596",
@@ -188,14 +271,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_25_de_Julho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28343596",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q30623701",
@@ -210,14 +295,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Orlando_Rodrigues",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30623701",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q30623938",
@@ -232,14 +319,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Aquiles_de_Oliveira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30623938",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q30624018",
@@ -254,14 +343,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Calheta",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30624018",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q30624021",
@@ -276,14 +367,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_Cumb%C3%A9m",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30624021",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q30624467",
@@ -298,14 +391,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Francisco_Jos%C3%A9_Rodrigues",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30624467",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q42341204",
@@ -320,13 +415,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q42341204",
     "image_url": "Estadio Sao Lourenco 2017.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4998079",
@@ -341,14 +438,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Buracona",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4998079",
     "image_url": "Piscina natural da buracona na ilha do sal.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5402064",
@@ -363,14 +462,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jo%C3%A3o_de_Deus_Lopes_da_Silva",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402064",
     "image_url": "Estadio di deus.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5402077",
@@ -384,15 +485,34 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Académico do Aeroporto",
+        "url": "http://www.academicosal.com/"
+      },
+      {
+        "name": "Académica",
+        "url": null
+      },
+      {
+        "name": "Sport Clube Verdun",
+        "url": null
+      },
+      {
+        "name": "FCジュベントゥージ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Marcelo_Leit%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402077",
     "image_url": "Marcelo leitao.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5402086",
@@ -406,15 +526,22 @@
     "opened_year": 2000,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Desportivo de Cova Figueira",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Monte_Pelado",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402086",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5402097",
@@ -428,15 +555,34 @@
     "opened_year": 1938,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSミンデレンセ",
+        "url": "http://www.csmindelense.com"
+      },
+      {
+        "name": "FC Derby",
+        "url": null
+      },
+      {
+        "name": "バトゥクFC",
+        "url": null
+      },
+      {
+        "name": "アカデミカ・ド・ミンデロ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Ad%C3%A9rito_Sena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402097",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q569437",
@@ -450,14 +596,33 @@
     "opened_year": 2006,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルティング・クルーベ・ダ・プライア",
+        "url": "http://www.scp.cv"
+      },
+      {
+        "name": "CD Travadores",
+        "url": "https://cdtravadores.wixsite.com/travadores"
+      },
+      {
+        "name": "ボアヴィスタFC",
+        "url": null
+      },
+      {
+        "name": "Académica da Praia",
+        "url": "http://www.academicadapraia.cv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%80%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%BC%E3%82%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q569437",
     "image_url": "Estádio da Várzea.jpg",
+    "website": "http://www.allianz-arena.de/en/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

@@ -12,13 +12,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115193676",
     "image_url": null,
+    "website": "https://chisinauarena.md/",
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q123663199",
@@ -33,14 +35,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nisporeni_Central_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123663199",
     "image_url": "Nisporeni stadium 3.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q123806004",
@@ -55,14 +59,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Mumjiev_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123806004",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q12724484",
@@ -76,15 +82,22 @@
     "opened_year": 1980,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCミルサミ・オルヘイ",
+        "url": "http://www.milsami.md"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CSR_Orhei",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12724484",
     "image_url": "CSR Orhei.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q14629939",
@@ -98,15 +111,22 @@
     "opened_year": 2002,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCアカデミア・キシナウ",
+        "url": "http://www.academia.md"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_CPSM",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14629939",
     "image_url": "Stadion CPSN.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1509390",
@@ -120,15 +140,22 @@
     "opened_year": 2002,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCシェリフ・ティラスポリ",
+        "url": "http://www.fc-sheriff.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B4%E3%83%8C%E3%82%A3%E3%82%A4%E3%83%BB%E3%82%B3%E3%83%A0%E3%83%97%E3%83%AC%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%95",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1509390",
     "image_url": "Tiraspol Sheriff Stadion.JPG",
+    "website": "http://sheriff-sport.com/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15156081",
@@ -142,14 +169,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCシェリフ・ティラスポリ",
+        "url": "http://www.fc-sheriff.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15156081",
     "image_url": "Sheriff Stadium 01.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15910037",
@@ -163,14 +197,21 @@
     "opened_year": 2006,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCラピド・ギディギチ",
+        "url": "http://www.fcrapid.md/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15910037",
     "image_url": "Rapid Ghidighici Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1635077",
@@ -184,15 +225,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCザリア・バルティ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Municipal_(B%C4%83l%C8%9Bi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1635077",
     "image_url": "St. Olimpia din Bălți CN.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16605745",
@@ -206,14 +254,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCMウンゲニ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16605745",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16632636",
@@ -227,15 +282,22 @@
     "opened_year": 2011,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCディナモ＝アウト・ティラスポリ",
+        "url": "http://dinamo-auto.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo-Auto_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632636",
     "image_url": "Dinamo-Auto Stadium.png",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q17488119",
@@ -249,15 +311,22 @@
     "opened_year": 2010,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCサクサン",
+        "url": "https://fc-saxan.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cead%C3%AEr-Lunga_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17488119",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q20430863",
@@ -272,14 +341,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ArtSport_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20430863",
     "image_url": "Joma arena.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q20430978",
@@ -294,14 +365,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Manej_Sport_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20430978",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q22073464",
@@ -316,13 +389,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q22073464",
     "image_url": "Stadion CF Sparta.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2375221",
@@ -336,15 +411,30 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCダチア・キシナウ",
+        "url": "http://www.fcdacia.md"
+      },
+      {
+        "name": "FCジンブル・キシナウ",
+        "url": "https://zimbru.md/"
+      },
+      {
+        "name": "サッカーモルドバ代表",
+        "url": "https://www.fmf.md/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Republican_Stadium_(Chi%C8%99in%C4%83u)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2375221",
     "image_url": "...до основания, а затем... - panoramio.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q239295",
@@ -358,15 +448,22 @@
     "opened_year": 2006,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCジンブル・キシナウ",
+        "url": "https://zimbru.md/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%B3%E3%83%96%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q239295",
     "image_url": "Zimbru Stadium in 26 April 2025.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2455782",
@@ -380,14 +477,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Speranța Crihana Veche",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2455782",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q25059691",
@@ -401,15 +505,22 @@
     "opened_year": 1975,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCペトロクブ・フンチェシュティ",
+        "url": "https://petrocub.md/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%AEnce%C8%99ti_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25059691",
     "image_url": "Hîncești stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q25059696",
@@ -423,15 +534,22 @@
     "opened_year": 2015,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSFスペランツァ",
+        "url": "http://fcsperanta.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Mircea_Eliade",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25059696",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495802",
@@ -445,15 +563,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCイスクラ・スタリ",
+        "url": "http://iskra-stal.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Or%C4%83%C8%99enesc_(R%C3%AEbni%C8%9Ba)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495802",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495883",
@@ -467,15 +592,22 @@
     "opened_year": 2009,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCスファンツル・ゲオルヘ",
+        "url": "http://fcsg.md"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suruceni_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495883",
     "image_url": "Suruceni Stadium 1.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3543956",
@@ -489,15 +621,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポリテフニカ・キシナウ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium_(Chi%C8%99in%C4%83u)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3543956",
     "image_url": "Dinamo Stadium in Chisinau.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4257190",
@@ -512,13 +651,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4257190",
     "image_url": "Ледовый каток в Тирасполе (2024).jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5202877",
@@ -532,15 +673,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCニストル・オタチ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/C%C4%83l%C4%83r%C4%83%C8%99euca_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5202877",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5277930",
@@ -555,14 +703,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium_(Bender)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5277930",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q65217626",
@@ -577,14 +727,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_the_Republic%2C_Chi%C8%99in%C4%83u",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65217626",
     "image_url": "Дворец Республики, Кишинев, Молдова Palatul Republicii, Chisinau, Moldova Palace of Republic, Chisinau, Moldova (49422207273).jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q6741565",
@@ -598,15 +750,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCシェリフ・ティラスポリ",
+        "url": "http://www.fc-sheriff.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Malaya_Sportivnaya_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6741565",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7596418",
@@ -620,15 +779,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCダチア・キシナウ",
+        "url": "http://www.fcdacia.md"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Moldova_Stadium_(Speia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596418",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7596431",
@@ -643,13 +809,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tiraspol_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596431",
     "image_url": "Gor stad Tiraspol.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

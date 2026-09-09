@@ -12,13 +12,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123151222",
     "image_url": "Stade regional de Muhanga.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q137636047",
@@ -32,14 +34,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Espoir F.C.",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q137636047",
     "image_url": "KamembeGenocideMemorial04.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q17521096",
@@ -54,13 +63,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q17521096",
     "image_url": "Africa Rising Cycling Center 01.jpeg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18391584",
@@ -75,14 +86,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rwanda_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18391584",
     "image_url": "GCS Drone Shot-YT.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2749637",
@@ -96,15 +109,22 @@
     "opened_year": 1986,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカールワンダ代表",
+        "url": "http://www.ferwafa.rw/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amahoro_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2749637",
     "image_url": "Amahoro Stadium Kigali.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q64597370",
@@ -119,13 +139,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64597370",
     "image_url": null,
+    "website": "https://www.skate-aid.org/en/projects/africa/rwanda-kigali/",
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q65050783",
@@ -140,14 +162,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/BK_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65050783",
     "image_url": "Le président du Rwanda Paul Kagame lors de la cérémonie de dévoilement du logo BAL à la Kigali Arena, à Kigali, Rwanda, le 19 décembre 2019.jpg",
+    "website": "https://bkarena.rw/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7596121",
@@ -161,15 +185,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Mukura Victory Sports F.C.",
+        "url": "http://www.mukuravictorysport.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Huye_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596121",
     "image_url": "Inside Huye Stadium, People doing written exams for vacancies after COVID-19 Lock-down.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7596202",
@@ -183,15 +214,43 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "AS Kigali",
+        "url": "http://askigali.rw"
+      },
+      {
+        "name": "Gorilla F.C.",
+        "url": null
+      },
+      {
+        "name": "S.C. Kiyovu Sports",
+        "url": "http://www.kiyovusport.co.rw"
+      }
+    ],
+    "events": [
+      {
+        "name": "アフリカネイションズチャンピオンシップ2016",
+        "year": 2016
+      },
+      {
+        "name": "リフォーム",
+        "year": null
+      },
+      {
+        "name": "再開設",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kigali_Pel%C3%A9_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596202",
     "image_url": "Kigali Pele Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7881843",
@@ -205,14 +264,34 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "エティンセル",
+        "url": null
+      },
+      {
+        "name": "Rutsiro FC",
+        "url": null
+      }
+    ],
+    "events": [
+      {
+        "name": "アフリカネイションズチャンピオンシップ2016",
+        "year": 2016
+      },
+      {
+        "name": "リフォーム",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Umuganda_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7881843",
     "image_url": "Stadium of Rubavu.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

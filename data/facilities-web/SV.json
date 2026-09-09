@@ -12,13 +12,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120466452",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q128088543",
@@ -33,13 +35,20 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "2022年中央アメリカ・カリブ海競技大会",
+        "year": 2023
+      }
+    ],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q128088543",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1369159",
@@ -53,15 +62,22 @@
     "opened_year": 1976,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーエルサルバドル代表",
+        "url": "https://fesfut.org.sv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cuscatl%C3%A1n_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369159",
     "image_url": "El-salvador san-salvador Estadio-Cuscatlán 2.JPG",
+    "website": "http://www.estadiocuscatlan.com",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15792225",
@@ -76,14 +92,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_El_Jabal%C3%AD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15792225",
     "image_url": "El Jabali P.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2382357",
@@ -97,15 +115,22 @@
     "opened_year": 1963,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CD FAS",
+        "url": "https://cdfas.com.sv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_%C3%93scar_Quite%C3%B1o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2382357",
     "image_url": "Estadio Oscar A. Quiteño.jpg",
+    "website": "http://www.clubdeportivofas.com",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2412387",
@@ -119,15 +144,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アリアンサFC",
+        "url": "https://alianzafc.com.sv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jorge_%22El_M%C3%A1gico%22_Gonz%C3%A1lez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2412387",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q25042366",
@@ -142,14 +174,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_San_Sebasti%C3%A1n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042366",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q26252584",
@@ -164,14 +198,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Captain_General_Gerardo_Barrios_Military_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q26252584",
     "image_url": null,
+    "website": "http://www.escuelamilitar.mil.sv",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495513",
@@ -185,15 +221,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "C.D. Sonsonate",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Anna_Mercedes_Campos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495513",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495516",
@@ -207,15 +250,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Club Deportivo Platense - Zacatecoluca",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Toledo_Valle_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495516",
     "image_url": "Estadio Antonio Toledo Valle.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495526",
@@ -229,15 +279,22 @@
     "opened_year": 1974,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Once Municipal",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sime%C3%B3n_Maga%C3%B1a_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495526",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495559",
@@ -251,15 +308,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "C.D. Vista Hermosa",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Correcaminos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495559",
     "image_url": "Goteracorrecamino.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495658",
@@ -273,15 +337,22 @@
     "opened_year": 1940,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "A.D.イシドロ・メタパン",
+        "url": "http://somosmetapan.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jorge_%22Calero%22_Su%C3%A1rez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495658",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495662",
@@ -295,15 +366,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDムニシパル・リメーニョ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Ram%C3%B3n_Flores",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495662",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495668",
@@ -317,15 +395,22 @@
     "opened_year": 1975,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "A.D. Chalatenango",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gregorio_Mart%C3%ADnez_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495668",
     "image_url": "Estadio Chalatenango.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495676",
@@ -339,15 +424,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDアギラ",
+        "url": "http://www.cdaguilaoficial.net/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Francisco_Barraza_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495676",
     "image_url": "Estadio Barraza.jpg",
+    "website": "https://www.facebook.com/pages/Estadio-Juan-Francisco-Barraza",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495734",
@@ -361,15 +453,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "C.D. Atlético Balboa",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Marcelino_Imbers_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495734",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495880",
@@ -383,15 +482,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "C.D. Luis Ángel Firpo",
+        "url": "https://www.lafirpo.com.sv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sergio_Torres_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495880",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495897",
@@ -405,15 +511,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDウニベルシダ・デ・エルサルバドル",
+        "url": "http://www.eluniversitario.ues.edu.sv/index.php?option=com_content&view=category&layout=blog&id=58"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Universitario_(UES)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495897",
     "image_url": "Estadio Universitario (UES) Centro.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5156394",
@@ -427,14 +540,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Juventud Independiente",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5156394",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5400329",
@@ -448,15 +568,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サンタテクラFC",
+        "url": "http://santateclafc.com.sv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Las_Delicias",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400329",
     "image_url": "Estadio Las Delicias Sta Tecla 2012.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5400334",
@@ -470,15 +597,22 @@
     "opened_year": 2016,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーエルサルバドル代表",
+        "url": "https://fesfut.org.sv/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Luis_Am%C3%ADlcar_Moreno",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400334",
     "image_url": "Furia Verde el Estadio.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5400359",
@@ -493,14 +627,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Mauricio_Vides",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400359",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q5562761",
@@ -515,14 +651,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5562761",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7209723",
@@ -536,15 +674,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Alacranes Del Norte",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polideportivo_Vitoria-Gasteiz",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7209723",
     "image_url": "Vitoria Gasteiz.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q9054655",
@@ -559,13 +704,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9054655",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q9255029",
@@ -580,12 +727,14 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9255029",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

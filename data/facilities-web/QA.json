@@ -12,14 +12,21 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%87%E3%83%A5%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1048774",
     "image_url": "2022 FIFA World Cup Korea Uruguay 01.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1050220",
@@ -33,15 +40,27 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーカタール代表",
+        "url": "https://www.qfa.qa/"
+      }
+    ],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%90%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1050220",
     "image_url": "Al Bayt Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1073161",
@@ -55,15 +74,35 @@
     "opened_year": 1975,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・サッド",
+        "url": "https://al-saddclub.com/"
+      }
+    ],
+    "events": [
+      {
+        "name": "開会式",
+        "year": null
+      },
+      {
+        "name": "リフォーム",
+        "year": null
+      },
+      {
+        "name": "リフォーム",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B7%E3%83%A0%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%9E%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1073161",
     "image_url": "World Cup Qualifiers.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1134439",
@@ -78,14 +117,21 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0974",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1134439",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1135010",
@@ -99,15 +145,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shamal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1135010",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1151332",
@@ -121,15 +174,22 @@
     "opened_year": 1985,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "カタールSC",
+        "url": "https://qatarsc.qa/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%ABSC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1151332",
     "image_url": "Interior view of Suheim Bin Hamad Stadium in 2020.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1186328",
@@ -143,15 +203,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sports_City_Stadium_(Doha)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1186328",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1186333",
@@ -165,15 +232,27 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーカタール代表",
+        "url": "https://www.qfa.qa/"
+      }
+    ],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1186333",
     "image_url": "Brésil vs Serbie.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q12244946",
@@ -188,13 +267,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12244946",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q124613598",
@@ -209,13 +290,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124613598",
     "image_url": null,
+    "website": "https://meryalwaterpark.com/",
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q125420104",
@@ -230,13 +313,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125420104",
     "image_url": "The tracks at Al Shahaniya Camel Racetrack.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15270047",
@@ -251,14 +336,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Qatar_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15270047",
     "image_url": "Qatar univ stadium Doha.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18326505",
@@ -272,15 +359,22 @@
     "opened_year": 2014,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Al Sadd Handball Team",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18326505",
     "image_url": "Doha Qatar skyline at night Sept 2012.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18326544",
@@ -295,14 +389,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18326544",
     "image_url": "Duhail Sports Arena (interior), Qatar.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18378601",
@@ -317,14 +413,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/West_End_Park_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18378601",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q18411229",
@@ -338,15 +436,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ハンドボールカタール代表",
+        "url": "https://www.qatarhandball.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18411229",
     "image_url": "Lusail sports Arena, interior1.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q22948827",
@@ -361,14 +466,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Doha_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22948827",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2413365",
@@ -383,14 +490,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Doha_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2413365",
     "image_url": "Qatar 2009.jpg",
+    "website": "http://dohagolfclub.com/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2454084",
@@ -405,14 +514,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%BE%E3%83%BC%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2454084",
     "image_url": "Asian Games Doha 2006 fireworks.jpg",
+    "website": "https://www.aspirezone.qa/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2778760",
@@ -426,15 +537,26 @@
     "opened_year": 1992,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "カタール・エクソンモービル・オープン",
+        "url": "https://www.qatartennis.org/tournaments/qatar-totalenergies-open-2023/"
+      },
+      {
+        "name": "Qatar Classic",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khalifa_International_Tennis_and_Squash_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2778760",
     "image_url": "Qatar open 2017 SF, Murray vs Berdych1181.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q285531",
@@ -448,15 +570,27 @@
     "opened_year": 2019,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・ワクラSC",
+        "url": "https://alwakrahsc.qa/"
+      }
+    ],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%8C%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q285531",
     "image_url": "28 10 2019 Visita ao estádio de futebol Al Janoub (48977932316).jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q288320",
@@ -470,15 +604,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・ホールSC",
+        "url": "https://alkhor-club.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Khor_SC_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q288320",
     "image_url": "Al-Khor SC Stadium2 Qatar.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3271676",
@@ -492,15 +633,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・アラビ・ドーハ",
+        "url": "http://alarabi.qa"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%8F%E3%83%9E%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3271676",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3448636",
@@ -515,14 +663,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hamad_Aquatic_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3448636",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q38250455",
@@ -536,15 +686,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・ワクラSC",
+        "url": "https://alwakrahsc.qa/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saoud_bin_Abdulrahman_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q38250455",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q39049425",
@@ -559,14 +716,21 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%88%E3%82%A5%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39049425",
     "image_url": "2022 FIFA World Cup at Al Thumama Stadium.jpg",
+    "website": "https://www.sc.qa/en/stadiums/al-thumama-stadium",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q401643",
@@ -580,15 +744,27 @@
     "opened_year": 2003,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・ラーヤンSC",
+        "url": "https://alrayyansc.qa/"
+      }
+    ],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%A1%E3%83%89%E3%83%BB%E3%83%93%E3%83%B3%EF%BC%9D%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q401643",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q424961",
@@ -602,15 +778,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・アハリ・ドーハ",
+        "url": "https://alahli.qa/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AA%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q424961",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q428177",
@@ -624,15 +807,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・ガラファ",
+        "url": "https://algharafa.qa/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q428177",
     "image_url": "Entrance to Thani bin Jassim Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4702848",
@@ -646,15 +836,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・マルヒーヤSC",
+        "url": "https://almarkhiyasc.qa/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Markhiya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702848",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4703223",
@@ -668,15 +865,22 @@
     "opened_year": 2011,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・シャマールSC",
+        "url": "https://alshamal.qa/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shamal_SC_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4703223",
     "image_url": "Shamal sports club-Qatar.JPG",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q547535",
@@ -691,14 +895,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q547535",
     "image_url": "Qatar GP 2021. Pol Espargaro y Stefan Bradl en carrera - 51079776027.jpg",
+    "website": "https://www.circuitlosail.com/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q6181753",
@@ -712,15 +918,26 @@
     "opened_year": 2013,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アル・ドゥハイルSC",
+        "url": "https://www.duhailsc.qa/"
+      },
+      {
+        "name": "アル・ジャイシュ・ドーハ",
+        "url": "http://www.eljaish.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%83%83%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6181753",
     "image_url": "Iran v Syria (39).jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q737587",
@@ -734,15 +951,22 @@
     "opened_year": 2005,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アジア競技大会",
+        "url": "http://www.ocasia.org/Game/GamesL1.aspx?GPCode=1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aspire_Dome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q737587",
     "image_url": "2009 Emir of Qatar Cup Final - Al Khalifa Stadium Doha (3580966927).jpg",
+    "website": "http://www.aspire.qa/Facilities.aspx",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q74647",
@@ -756,15 +980,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Umm_Salal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q74647",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q772988",
@@ -778,15 +1009,27 @@
     "opened_year": 1976,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーカタール代表",
+        "url": "https://www.qfa.qa/"
+      }
+    ],
+    "events": [
+      {
+        "name": "2022 FIFAワールドカップ",
+        "year": 2022
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A1%E5%9B%BD%E9%9A%9B%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q772988",
     "image_url": "Khalifa International Stadium.jpg",
+    "website": "https://www.sc.qa/en/stadiums/khalifa-international-stadium",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q97232334",
@@ -801,13 +1044,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_bin_Ali_Stadium_(original)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97232334",
     "image_url": "Al-rayyan-stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

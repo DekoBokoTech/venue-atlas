@@ -11,14 +11,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "パラオサッカー協会",
+        "url": "http://www.foxsportspulse.com/assoc_page.cgi?c=2-1609-0-0-0"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Stadium_(Palau)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1638468",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

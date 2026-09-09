@@ -12,13 +12,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109653529",
     "image_url": "Skate Park Yerevan 03.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1124949",
@@ -33,14 +35,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1124949",
     "image_url": "Karen Demirchyan Sports and Concerts Complex shot from air, May 2019.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q11824424",
@@ -55,13 +59,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q11824424",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q120246588",
@@ -76,13 +82,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120246588",
     "image_url": "Olympavan (1).jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1459459",
@@ -96,15 +104,26 @@
     "opened_year": 1935,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーアルメニア代表",
+        "url": "http://www.ffa.am/en/1383993963"
+      },
+      {
+        "name": "FCアララト・エレバン",
+        "url": "http://www.fcararat.am"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B9%E3%82%B2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%AB%E3%82%AD%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%A9%E3%83%9A%E3%82%BF%E3%82%AB%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B6%E3%83%80%E3%82%B7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1459459",
     "image_url": "Hanrapetakan stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15195487",
@@ -118,15 +137,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCアラクス・アララト",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ayg_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15195487",
     "image_url": "Ayg stadium, Ararat.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15217986",
@@ -140,15 +166,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCピュニク・エレバン",
+        "url": "https://fcpyunik.am/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yerevan_Football_Academy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15217986",
     "image_url": "FFA Technical Centre-Academy,Yerevan (cropped).jpg",
+    "website": "http://www.footballacademy.am/en/",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15226095",
@@ -163,14 +196,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hovik_Hayrapetyan_Equestrian_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15226095",
     "image_url": "Hovik hayrapetyan equestrian centre, Yerevan.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15229585",
@@ -185,14 +220,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yerevan_Water_World",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15229585",
     "image_url": "WaterWorld Yerevan.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q15269462",
@@ -206,15 +243,22 @@
     "opened_year": 2004,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCピュニク・エレバン",
+        "url": "https://fcpyunik.am/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pyunik_Training_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15269462",
     "image_url": "Pyuniuk Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16300304",
@@ -228,15 +272,22 @@
     "opened_year": 1973,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Vagharshapat",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Etchmiadzin_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16300304",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16311622",
@@ -250,15 +301,27 @@
     "opened_year": 1980,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Armavir",
+        "url": null
+      }
+    ],
+    "events": [
+      {
+        "name": "1985 FIFAワールドユース選手権",
+        "year": 1985
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hakob_Tonoyan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16311622",
     "image_url": "Armavir stad 18.07.2014.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16605724",
@@ -272,14 +335,21 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Vagharshapat",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16605724",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16833755",
@@ -294,14 +364,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Armenia_Sports_Union",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16833755",
     "image_url": "Armenia Sports Union Spartak Complex (2).jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16846580",
@@ -315,15 +387,22 @@
     "opened_year": 2013,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Aznavour Noyemberyan",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Noyemberyan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16846580",
     "image_url": "Noyemberyan stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16868989",
@@ -337,15 +416,22 @@
     "opened_year": 1960,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCドヴィン・アルタシャト",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Artashat_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16868989",
     "image_url": "Artashat Stadium, Armenia.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q20987674",
@@ -359,15 +445,22 @@
     "opened_year": 1970,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FC Van",
+        "url": "https://fcvan.am"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Charentsavan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20987674",
     "image_url": "Charentsavan city stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q21697940",
@@ -382,14 +475,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vazgen_Sargsyan_Military_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21697940",
     "image_url": "Armenian soldiers at the Vazgen Sargsyan Military Institute.jpg",
+    "website": "https://www.mil.am/hy/structures/65",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q21778015",
@@ -404,13 +499,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21778015",
     "image_url": "Mika Arena, Yerevan.jpg",
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2499412",
@@ -424,15 +521,22 @@
     "opened_year": 2008,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アルツァフFC",
+        "url": "https://noah.am"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mika_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2499412",
     "image_url": "Mika Stadium.png",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q2503458",
@@ -446,15 +550,22 @@
     "opened_year": 1963,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ガンザサール・カパンFC",
+        "url": "http://fcgandzasarkapan.am/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kapan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2503458",
     "image_url": "Gandzasar stadium, Kapan.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3495794",
@@ -468,15 +579,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アラシュケルトFC",
+        "url": "https://fcalashkert.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nairi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495794",
     "image_url": "Nairi stad.1.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3499859",
@@ -490,15 +608,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCシラク",
+        "url": "https://fcshirak.am"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gyumri_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3499859",
     "image_url": "Gyumri City Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3655326",
@@ -512,15 +637,22 @@
     "opened_year": 1966,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCコタイク",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vahagn_Tumasyan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3655326",
     "image_url": "Abovyan stadium general view.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q3655988",
@@ -534,15 +666,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "インプルスFC",
+        "url": "http://fcimpulse.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dilijan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3655988",
     "image_url": "Dilijan stadium, Armenia.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4069762",
@@ -556,15 +695,22 @@
     "opened_year": 2007,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "インプルスFC",
+        "url": "http://fcimpulse.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arnar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4069762",
     "image_url": "Arnar Stadium, Ijevan.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q4145704",
@@ -578,15 +724,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Debed Alaverdi",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Metallurg_Stadium%2C_Alaverdi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4145704",
     "image_url": "Alaverdi stadium, Armenia.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q6681149",
@@ -600,15 +753,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ロリFC",
+        "url": "https://lori-vanadzor-fc.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vanadzor_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6681149",
     "image_url": "Vanadzor, Lori stadium 14.06.2007.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q683493",
@@ -622,15 +782,22 @@
     "opened_year": 1970,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーアルメニア代表",
+        "url": "http://www.ffa.am/en/1383993963"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BA%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q683493",
     "image_url": "Hrazdan Stadium 2013, Yerevan.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q7849301",
@@ -645,14 +812,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tsaghkadzor_ski_resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7849301",
     "image_url": "On the ropeway.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q8052584",
@@ -667,14 +836,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yerevan_Velodrome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8052584",
     "image_url": "Yerevan velodrome.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q806110",
@@ -688,15 +859,22 @@
     "opened_year": 2008,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCバナンツ",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Urartu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q806110",
     "image_url": "Banants Stadium, Yerevan.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q80779",
@@ -710,15 +888,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCミカ",
+        "url": "http://www.fcmika.am/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kasakhi_Marzik_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q80779",
     "image_url": "Kaskahi Marzik Stadium, Ashtarak, 12.08.2013.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q96372369",
@@ -733,13 +918,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Armenak_Khanperyants_Military_Aviation_University",
     "wikidata_url": "https://www.wikidata.org/wiki/Q96372369",
     "image_url": null,
+    "website": "https://mil.am/hy/pages/28",
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]

@@ -12,14 +12,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Soufriere_Mini_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q130367410",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1356963",
@@ -33,15 +35,22 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーセントルシア代表",
+        "url": "https://www.stluciafa.org/en/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/George_Odlum_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1356963",
     "image_url": "George Odlum Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q1651626",
@@ -56,14 +65,16 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mindoo_Phillip_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1651626",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q813440",
@@ -77,14 +88,25 @@
     "opened_year": 2002,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "クリケット西インド諸島代表",
+        "url": "https://www.windiescricket.com/"
+      },
+      {
+        "name": "サッカーセントルシア代表",
+        "url": "https://www.stluciafa.org/en/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Daren_Sammy_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q813440",
     "image_url": "Beausejour Stadium Cricket St Lucia.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]
