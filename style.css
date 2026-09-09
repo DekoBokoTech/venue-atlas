@@ -10,6 +10,10 @@
     --accent: #52e0c4;
     --accent-dim: #2c9c86;
     --accent-warm: #ffb454;
+    /* Matches app.js's ROSS_VIDEO_HIGHLIGHT_COLOR - kept as a distinct hue
+       from both --accent (teal) and --accent-warm (orange) so the panel
+       badge reads as the same "special" marker the globe highlight does. */
+    --ross-video: #ff1744;
     --shadow: 0 20px 60px -20px rgba(0, 0, 0, 0.6);
   }
 
@@ -493,6 +497,11 @@
   .image-link .meta .t { font-weight: 500; }
   .image-link .meta .s { font-size: 11px; color: var(--text-faint); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .image-link .arrow { color: var(--accent); font-family: monospace; }
+
+  .ross-video-badge { border-color: color-mix(in srgb, var(--ross-video) 45%, var(--border)); }
+  .ross-video-badge:hover { border-color: var(--ross-video); }
+  .ross-video-badge .icon { background: linear-gradient(135deg, var(--ross-video), #ff6b8f); }
+  .ross-video-badge .arrow { color: var(--ross-video); }
 
   .teams {
     margin-bottom: 22px;

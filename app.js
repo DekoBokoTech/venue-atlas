@@ -237,6 +237,45 @@
   var allPoints = [];
   var existingOnly = true;
 
+  // --- Ross Video installation highlight -----------------------------------
+  //
+  // Small, hand-curated (~17 entries) list of real-world venues confirmed to
+  // have Ross Video broadcast equipment installed, per Ross Video's own
+  // public case-studies page. Deliberately NOT part of the Wikidata-derived
+  // pipeline (scripts/lib/normalize.js / scripts/collect-facilities.js never
+  // touch this) - it's manually curated, no API, no automated backfill.
+  // Keyed by QID (matches the `id` field every facility record already uses,
+  // whether it came from data/summary.json, data/facilities-web/*.json, or
+  // data/search-index.json), value is { name, source_url }.
+  var rossVideoVenues = {};
+
+  function isRossVideoVenue(id) {
+    return Object.prototype.hasOwnProperty.call(rossVideoVenues, id);
+  }
+
+  // Bright, saturated red-magenta chosen specifically so it can never be
+  // mistaken for any of the 3 themes' own pointColor: it sits in a totally
+  // different hue family than every existing marker color (real: teal
+  // #52e0c4, flat: dark teal #0d7a6e, dark: warm orange #ffb454), and unlike
+  // a gold/amber (the first color considered) it keeps real WCAG contrast
+  // against the flat theme's light background/ocean texture too - measured
+  // contrast ratios: real bg 5.15, dark bg 5.36 (both near the near-black
+  // theme backgrounds), flat bg 3.40 / flat ocean texture 2.76 (a candidate
+  // gold like #ffd60a only manages ~1.25/1.01 there, i.e. nearly invisible
+  // against the flat theme's light background). See commit message / report
+  // for the full contrast-ratio table across all 3 themes.
+  var ROSS_VIDEO_HIGHLIGHT_COLOR = '#ff1744';
+
+  // Current globe theme key, kept in sync by applyTheme() below - pointColorFn
+  // needs to know which theme's baseline color to fall back to for
+  // non-highlighted points.
+  var currentThemeKey = 'real';
+
+  function pointColorFn(d) {
+    if (isRossVideoVenue(d.id)) return ROSS_VIDEO_HIGHLIGHT_COLOR;
+    return THEMES[currentThemeKey].pointColor;
+  }
+
   // Treat is_existing !== false as "counts as existing": undefined (not yet
   // backfilled by the nightly collection cycle) and true both count.
   function getVisiblePoints() {
@@ -402,7 +441,7 @@
     .pointsData(getVisiblePoints())
     .pointLat('lat')
     .pointLng('lng')
-    .pointColor(function () { return THEMES.real.pointColor; })
+    .pointColor(pointColorFn)
     .pointAltitude(0.012)
     .pointRadius(pointRadiusFn)
     .pointLabel(function (d) { return d.name_ja ? esc(d.name_ja) + ' / ' + esc(d.name) : esc(d.name); })
@@ -446,13 +485,14 @@
   });
 
   function applyTheme(key) {
+    currentThemeKey = key;
     var t = THEMES[key];
     world
       .globeImageUrl(t.texture())
       .atmosphereColor(t.atmosphere)
       .atmosphereAltitude(t.atmosphereAlt)
       .showGraticules(t.graticules)
-      .pointColor(function () { return t.pointColor; });
+      .pointColor(pointColorFn);
   }
 
   var switcher = document.getElementById('themeSwitcher');
@@ -479,6 +519,24 @@
     })
     .catch(function (err) { console.error('Failed to load data/summary.json', err); });
 
+  // Tiny (~17-entry) hand-curated file - fetched eagerly alongside the other
+  // small startup fetches above (no lazy-loading needed at this size, unlike
+  // the big search index below). Re-invokes world.pointColor(...) once loaded
+  // so any points already rendered before this resolves get recolored -
+  // globe.gl's points-layer accessor only re-runs when the setter itself is
+  // called again (same pattern documented for pointRadius above), not merely
+  // because the data a closure reads changed out from under it.
+  fetch('data/ross-video-venues.json')
+    .then(function (res) {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function (data) {
+      rossVideoVenues = data;
+      world.pointColor(pointColorFn);
+    })
+    .catch(function (err) { console.error('Failed to load data/ross-video-venues.json', err); });
+
   window.addEventListener('resize', function () {
     world.width(globeEl.clientWidth).height(globeEl.clientHeight);
   });
@@ -502,6 +560,20 @@
     html += '<p class="panel-eyebrow">' + esc(d.country || '—') + ' · ' + esc(d.id) + '</p>';
     html += '<h2 class="panel-title">' + esc(d.name) + '</h2>';
     if (d.name_ja) html += '<p class="panel-title-ja">' + esc(d.name_ja) + '</p>';
+
+    // Ross Video installation badge: rossVideoVenues is our own small
+    // hand-curated file (data/ross-video-venues.json), but it's rendered with
+    // exactly the same esc()/escAttr()/isSafeUrl() discipline as every other
+    // field here rather than treated as "trusted" - the file could be
+    // hand-edited incorrectly later, and consistent defense-in-depth costs
+    // nothing.
+    var rossVideoEntry = rossVideoVenues[d.id];
+    if (rossVideoEntry && isSafeUrl(rossVideoEntry.source_url)) {
+      html += '<a class="image-link ross-video-badge" href="' + escAttr(rossVideoEntry.source_url) + '" target="_blank" rel="noopener">';
+      html += '<span class="icon">📹</span>';
+      html += '<span class="meta"><span class="t">Ross Video導入施設 / Ross Video Installation</span><span class="s">' + esc(rossVideoEntry.name) + '</span></span>';
+      html += '<span class="arrow">↗</span></a>';
+    }
 
     if (d.website && isSafeUrl(d.website)) {
       html += '<a class="image-link" href="' + escAttr(d.website) + '" target="_blank" rel="noopener">';
@@ -848,6 +920,8 @@
     getAllPoints: function () { return allPoints; },
     getVisiblePoints: getVisiblePoints,
     loadCountryData: loadCountryData,
-    nearestCountries: nearestCountries
+    nearestCountries: nearestCountries,
+    getRossVideoVenues: function () { return rossVideoVenues; },
+    pointColorFn: pointColorFn
   };
 })();
