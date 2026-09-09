@@ -6,10 +6,13 @@
     "lat": 68.709092772,
     "lng": -52.8623151,
     "country": "GL",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,10 +20,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113962229",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q12318539",
@@ -29,10 +33,13 @@
     "lat": 64.1811,
     "lng": -51.73,
     "country": "GL",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,34 +47,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q12318539",
     "image_url": "Inussivik 2018-03-03 MartinChemnitz.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12329371",
-    "name": "Q12329371",
-    "name_ja": null,
-    "lat": 64.1887,
-    "lng": -51.6906,
-    "country": "GL",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12329371",
-    "image_url": "Golfbane Nuuk.JPG",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1533937",
@@ -76,10 +61,14 @@
     "lat": 64.1781,
     "lng": -51.7277,
     "country": "GL",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バドミントン"
+    ],
     "capacity": 1000,
     "opened_year": 1961,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -92,11 +81,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1533937",
     "image_url": "Godthabhallen.jpg",
     "website": "http://www.ghb-hallen.gl",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1635061",
@@ -105,10 +95,13 @@
     "lat": 64.180833,
     "lng": -51.7325,
     "country": "GL",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -121,11 +114,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1635061",
     "image_url": "Nuuk Stadium 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16526061",
@@ -134,10 +128,13 @@
     "lat": 68.7099,
     "lng": -52.8488,
     "country": "GL",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -145,10 +142,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16526061",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16594246",
@@ -157,10 +155,13 @@
     "lat": 60.72555556,
     "lng": -46.04333333,
     "country": "GL",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -168,126 +169,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16594246",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16594249",
-    "name": "Q16594249",
-    "name_ja": null,
-    "lat": 68.8237,
-    "lng": -51.1677,
-    "country": "GL",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16594249",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16594256",
-    "name": "Q16594256",
-    "name_ja": null,
-    "lat": 69.2515,
-    "lng": -53.5114,
-    "country": "GL",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16594256",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16601220",
-    "name": "Q16601220",
-    "name_ja": null,
-    "lat": 66.9331,
-    "lng": -53.6658,
-    "country": "GL",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16601220",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16613098",
-    "name": "Q16613098",
-    "name_ja": null,
-    "lat": 70.6853,
-    "lng": -52.1169,
-    "country": "GL",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16613098",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16726188",
-    "name": "Q16726188",
-    "name_ja": null,
-    "lat": 65.4131,
-    "lng": -52.9149,
-    "country": "GL",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16726188",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q28225779",
@@ -296,10 +183,13 @@
     "lat": 64.18236111,
     "lng": -51.69680556,
     "country": "GL",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -307,10 +197,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28225779",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
