@@ -6,10 +6,13 @@
     "lat": 26.156111,
     "lng": 50.544306,
     "country": "BH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,10 +20,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110386704",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q113681806",
@@ -29,10 +33,13 @@
     "lat": 26.228025819,
     "lng": 50.58297086,
     "country": "BH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,10 +47,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q113681806",
     "image_url": null,
     "website": "https://www.indianclubbahrain.com",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q124350179",
@@ -52,10 +60,13 @@
     "lat": 26.138738888,
     "lng": 50.506046616,
     "country": "BH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -63,10 +74,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124350179",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q124395210",
@@ -75,10 +87,13 @@
     "lat": 26.141057609,
     "lng": 50.5747174,
     "country": "BH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -86,10 +101,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124395210",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q126600500",
@@ -102,6 +118,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -109,10 +126,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q126600500",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q138787051",
@@ -125,6 +143,7 @@
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -141,11 +160,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q138787051",
     "image_url": "GymNation gym interior 2024.jpg",
     "website": "https://gymnation.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1548284",
@@ -154,10 +174,14 @@
     "lat": 26.153594,
     "lng": 50.543664,
     "country": "BH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 24000,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -170,11 +194,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1548284",
     "image_url": "Bahrain National Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q171332",
@@ -187,6 +212,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -199,11 +225,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q171332",
     "image_url": "2012 Bahrain Grand Prix 2.jpg",
     "website": "https://www.bahraingp.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q2492375",
@@ -216,6 +243,7 @@
     "capacity": null,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -223,11 +251,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2492375",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3544698",
@@ -240,6 +269,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -252,11 +282,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3544698",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4120509",
@@ -269,6 +300,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -281,11 +313,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4120509",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q70835327",
@@ -294,10 +327,13 @@
     "lat": 26.217304796,
     "lng": 50.577671694,
     "country": "BH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -305,9 +341,10 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q70835327",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
