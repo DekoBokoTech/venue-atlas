@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q102141307",
     "image_url": "Jeddah Street Circuit 2021.svg",
     "website": "https://jeddahcircuit.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109095081",
@@ -34,6 +36,7 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -46,11 +49,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109095081",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109298369",
@@ -63,6 +67,7 @@
     "capacity": 46096,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -70,11 +75,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109298369",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109298370",
@@ -87,6 +93,7 @@
     "capacity": 46979,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -103,11 +110,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109298370",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109327852",
@@ -116,10 +124,13 @@
     "lat": 22.449279,
     "lng": 39.1123743,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -127,10 +138,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q109327852",
     "image_url": null,
     "website": "https://royalgreens.net/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q110647460",
@@ -143,6 +155,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -155,10 +168,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q110647460",
     "image_url": "Zulfi Club Stadium 22 January 2022.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q112692519",
@@ -171,6 +185,7 @@
     "capacity": 5189,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -178,10 +193,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q112692519",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1129161",
@@ -194,6 +210,7 @@
     "capacity": 38000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -206,51 +223,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1129161",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q113659810",
-    "name": "Q113659810",
-    "name_ja": null,
-    "lat": 25.234214534,
-    "lng": 45.242717759,
-    "country": "SA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "アル・ワシュム",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q113659810",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122226943",
     "name": "Prince Hathloul bin Abdul Aziz Sports City",
     "name_ja": null,
-    "lat": 17.657177,
-    "lng": 44.477534,
+    "lat": 17.657444444,
+    "lng": 44.476613888,
     "country": "SA",
     "sport_types": [],
     "capacity": 12000,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -258,11 +249,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122226943",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12236087",
@@ -275,6 +267,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -282,34 +275,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q12236087",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12244949",
-    "name": "Q12244949",
-    "name_ja": null,
-    "lat": 24.65516,
-    "lng": 46.731638,
-    "country": "SA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12244949",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q123412407",
@@ -322,6 +293,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -329,11 +301,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q123412407",
     "image_url": null,
     "website": "https://riyadhseason.com/ar-SA/zone/kingdom-arena",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q123631778",
@@ -346,6 +319,7 @@
     "capacity": null,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -353,11 +327,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q123631778",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124387936",
@@ -366,10 +341,13 @@
     "lat": 24.644227824,
     "lng": 46.650104142,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -377,22 +355,24 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q124387936",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q125495594",
     "name": "Jeddah Central Stadium",
     "name_ja": null,
-    "lat": 21.540222682,
-    "lng": 39.126873327,
+    "lat": 21.535972222,
+    "lng": 39.129888888,
     "country": "SA",
     "sport_types": [],
     "capacity": 45794,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -400,11 +380,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q125495594",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q126391645",
@@ -417,6 +398,7 @@
     "capacity": 15000,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -424,34 +406,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q126391645",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12691456",
-    "name": "Q12691456",
-    "name_ja": null,
-    "lat": 24.9421005,
-    "lng": 46.391201,
-    "country": "SA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12691456",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q127690284",
@@ -464,6 +424,7 @@
     "capacity": 46010,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -471,11 +432,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q127690284",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q128032070",
@@ -488,6 +450,7 @@
     "capacity": 92760,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -495,11 +458,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128032070",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q128130081",
@@ -512,6 +476,7 @@
     "capacity": 46000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -519,23 +484,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128130081",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q128211538",
     "name": "King Khalid University Stadium",
     "name_ja": null,
-    "lat": 18.097662353,
-    "lng": 42.720583654,
+    "lat": 18.0976,
+    "lng": 42.7206,
     "country": "SA",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -543,11 +510,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128211538",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q128211541",
@@ -560,6 +528,7 @@
     "capacity": 45700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -567,11 +536,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128211541",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q128211562",
@@ -584,6 +554,7 @@
     "capacity": 47060,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -591,10 +562,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128211562",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q128211574",
@@ -607,6 +579,7 @@
     "capacity": 46010,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -614,11 +587,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128211574",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q128211580",
@@ -631,6 +605,7 @@
     "capacity": 46096,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -638,10 +613,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q128211580",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q138299146",
@@ -650,10 +626,13 @@
     "lat": 21.34543,
     "lng": 40.461677,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -661,10 +640,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q138299146",
     "image_url": "Okadh Sport Club Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q138787051",
@@ -677,6 +657,7 @@
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -693,11 +674,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q138787051",
     "image_url": "GymNation gym interior 2024.jpg",
     "website": "https://gymnation.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16123664",
@@ -710,6 +692,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -717,11 +700,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16123664",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16826738",
@@ -734,6 +718,7 @@
     "capacity": 7000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -746,11 +731,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16826738",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20421103",
@@ -759,10 +745,13 @@
     "lat": 24.72930556,
     "lng": 46.62369444,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -775,11 +764,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20421103",
     "image_url": "Entire King Saud University Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q22933886",
@@ -792,6 +782,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -799,11 +790,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q22933886",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2650633",
@@ -816,6 +808,7 @@
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -828,11 +821,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2650633",
     "image_url": "Mohammed Bin Fahd Stadium, Dammam, Saudi Arabia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q26884122",
@@ -845,6 +839,7 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -857,11 +852,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q26884122",
     "image_url": "Al-Batin Club Stadium - 3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3245092",
@@ -870,10 +866,13 @@
     "lat": 21.446608,
     "lng": 39.251693,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 27000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -890,11 +889,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3245092",
     "image_url": "Prince Abdullah Al-Faisal Sports City.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3273652",
@@ -903,10 +903,13 @@
     "lat": 24.662599,
     "lng": 46.739745,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22250,
     "opened_year": 1971,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -919,11 +922,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3273652",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3292058",
@@ -936,6 +940,7 @@
     "capacity": 21000,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -948,11 +953,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3292058",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q390103",
@@ -965,6 +971,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -972,11 +979,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q390103",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4116127",
@@ -989,6 +997,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -996,11 +1005,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4116127",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4116850",
@@ -1013,6 +1023,7 @@
     "capacity": 8000,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1025,11 +1036,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4116850",
     "image_url": "Al-Shoalah Stadium club 1.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4116876",
@@ -1042,6 +1054,7 @@
     "capacity": 20000,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1049,23 +1062,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4116876",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4116944",
     "name": "Prince Abdullah bin Jalawi Sports City",
     "name_ja": "アブドゥッラーフ・ビン・ジャラウィー王子記念スタジアム",
-    "lat": 25.305833,
-    "lng": 49.612778,
+    "lat": 25.305833333,
+    "lng": 49.612777777,
     "country": "SA",
     "sport_types": [],
     "capacity": 27550,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1078,11 +1093,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4116944",
     "image_url": "Prince Abdullah bin Jalawi Stadium 15 April 2011.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4119060",
@@ -1095,6 +1111,7 @@
     "capacity": 25000,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1111,11 +1128,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119060",
     "image_url": "King Abdullah Sport City Stadium A.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4120100",
@@ -1128,6 +1146,7 @@
     "capacity": 12250,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1135,11 +1154,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4120100",
     "image_url": "Prince Abdul Aziz bin Musa'ed Stadium 13 October 2010.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4120210",
@@ -1152,6 +1172,7 @@
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1159,10 +1180,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4120210",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4702180",
@@ -1175,6 +1197,7 @@
     "capacity": null,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1187,11 +1210,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702180",
     "image_url": "Al-Bukiryah Club Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4703016",
@@ -1204,6 +1228,7 @@
     "capacity": 3000,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1216,11 +1241,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4703016",
     "image_url": "Al-Najma Club Stadium 22 April 2011.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4703465",
@@ -1233,6 +1259,7 @@
     "capacity": 12000,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1245,11 +1272,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4703465",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4704017",
@@ -1262,6 +1290,7 @@
     "capacity": 3000,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1274,11 +1303,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4704017",
     "image_url": "Al-Hazm Club Stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5260270",
@@ -1287,10 +1317,13 @@
     "lat": 26.088333,
     "lng": 44.051667,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1303,11 +1336,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5260270",
     "image_url": "Department of Education Stadium (Unaizah) A.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5514361",
@@ -1320,6 +1354,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1332,11 +1367,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5514361",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q59772440",
@@ -1345,10 +1381,13 @@
     "lat": 24.739167,
     "lng": 46.583611,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "自動車競技"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1356,11 +1395,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q59772440",
     "image_url": "Ad Diriyah Layout 2018.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6411211",
@@ -1369,10 +1409,16 @@
     "lat": 21.762627,
     "lng": 39.165096,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "水球",
+      "テニス",
+      "陸上競技"
+    ],
     "capacity": 62345,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1385,11 +1431,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6411211",
     "image_url": "Jawhara Stadium.jpg",
     "website": "http://www.kasc.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6411564",
@@ -1402,6 +1449,7 @@
     "capacity": 17000,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1414,11 +1462,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6411564",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7244241",
@@ -1427,10 +1476,13 @@
     "lat": 25.886929,
     "lng": 45.368021,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": 1990,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1443,11 +1495,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7244241",
     "image_url": "Prince Salman Bin Abdulaziz Sport City Stadium 2010.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q763077",
@@ -1456,10 +1509,13 @@
     "lat": 24.788206,
     "lng": 46.839236,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 70200,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1484,11 +1540,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q763077",
     "image_url": "KingFahdInternationalStadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q80168938",
@@ -1501,6 +1558,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1513,34 +1571,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q80168938",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q81278342",
-    "name": "Q81278342",
-    "name_ja": null,
-    "lat": 24.6455,
-    "lng": 46.65025,
-    "country": "SA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q81278342",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q83949052",
@@ -1553,6 +1589,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1560,22 +1597,26 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q83949052",
     "image_url": "Department of Education Stadium in Hafar Al Batin.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q85683772",
     "name": "King Khalid Sport City Stadium",
     "name_ja": null,
-    "lat": 28.479603,
-    "lng": 36.488741,
+    "lat": 28.479715,
+    "lng": 36.488668,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -1583,11 +1624,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q85683772",
     "image_url": "1 King Khalid stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q85794527",
@@ -1596,10 +1638,13 @@
     "lat": 24.647414,
     "lng": 46.550372,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1616,11 +1661,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q85794527",
     "image_url": "Prince Turki bin Abdulaziz Stadium - 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q85795215",
@@ -1633,6 +1679,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [
@@ -1645,11 +1692,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q85795215",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q87106592",
@@ -1658,10 +1706,13 @@
     "lat": 28.309642,
     "lng": 46.142842,
     "country": "SA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1674,10 +1725,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q87106592",
     "image_url": "Al-Qaisumah Club - 4.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q99228374",
@@ -1690,6 +1742,7 @@
     "capacity": 10000,
     "opened_year": 1989,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1706,10 +1759,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q99228374",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
