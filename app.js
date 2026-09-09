@@ -236,6 +236,7 @@
 
   var allPoints = [];
   var existingOnly = true;
+  var selectedSport = null;
 
   // --- Ross Video installation highlight -----------------------------------
   //
@@ -279,8 +280,34 @@
   // Treat is_existing !== false as "counts as existing": undefined (not yet
   // backfilled by the nightly collection cycle) and true both count.
   function getVisiblePoints() {
-    if (!existingOnly) return allPoints;
-    return allPoints.filter(function (r) { return r.is_existing !== false; });
+    var pts = existingOnly
+      ? allPoints.filter(function (r) { return r.is_existing !== false; })
+      : allPoints;
+    if (selectedSport === null) return pts;
+    return pts.filter(function (r) { return (r.sport_types || []).indexOf(selectedSport) !== -1; });
+  }
+
+  // Rebuilds the sport-filter <select>'s options from whatever sport names are
+  // actually present in the currently-loaded allPoints (no fixed master list -
+  // this backfills gradually via the nightly collector, same pattern as
+  // is_existing/teams/etc). Called every time allPoints changes (initial
+  // summary.json load, and every per-country merge in loadCountryData) - same
+  // call sites already established for the getVisiblePoints()/renderList()
+  // refresh triggers elsewhere in this file. Preserves the currently-selected
+  // filter value across a repopulation if it's still present in the new
+  // option list; falls back to "All" (selectedSport = null) if not, rather
+  // than leaving a stale/invalid selection.
+  function populateSportFilter() {
+    var sports = Array.from(new Set(allPoints.flatMap(function (r) { return r.sport_types || []; }))).sort();
+    var html = '<option value="">すべて / All sports</option>';
+    sports.forEach(function (s) {
+      html += '<option value="' + escAttr(s) + '">' + esc(s) + '</option>';
+    });
+    sportFilterSelect.innerHTML = html;
+    if (selectedSport !== null && sports.indexOf(selectedSport) === -1) {
+      selectedSport = null;
+    }
+    sportFilterSelect.value = selectedSport || '';
   }
 
   var centroids = {};
@@ -420,6 +447,7 @@
       })
       .then(function (records) {
         allPoints = mergeById(allPoints, records);
+        populateSportFilter();
         world.pointsData(getVisiblePoints());
         updatePointCount();
         if (listPanel.classList.contains('open')) renderList();
@@ -513,6 +541,7 @@
     .then(function (res) { return res.json(); })
     .then(function (data) {
       allPoints = data;
+      populateSportFilter();
       world.pointsData(getVisiblePoints());
       updatePointCount();
       if (listPanel.classList.contains('open')) renderList();
@@ -657,6 +686,17 @@
     existingOnly = !existingOnly;
     existingToggle.classList.toggle('active', existingOnly);
     existingToggle.setAttribute('aria-pressed', String(existingOnly));
+    world.pointsData(getVisiblePoints());
+    updatePointCount();
+    if (listPanel.classList.contains('open')) renderList();
+  });
+
+  // --- Sport filter ---------------------------------------------------------
+
+  var sportFilterSelect = document.getElementById('sportFilter');
+
+  sportFilterSelect.addEventListener('change', function () {
+    selectedSport = sportFilterSelect.value || null;
     world.pointsData(getVisiblePoints());
     updatePointCount();
     if (listPanel.classList.contains('open')) renderList();
