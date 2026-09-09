@@ -10,15 +10,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q100466996",
     "image_url": "Aerofly Johor Light Aircraft and RC Plane Runway.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q101932689",
@@ -31,15 +35,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q101932689",
     "image_url": "Starhill Golf and Country Club.jpg",
+    "website": "https://starhill-golf.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q104205470",
@@ -52,15 +60,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104205470",
     "image_url": "Dato' Suleiman Mohd Noor Indoor Training Centre.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q104217368",
@@ -73,15 +85,69 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104217368",
     "image_url": "KSL Johor - panoramio.jpg",
+    "website": "https://www.kslresorts.com.my/entertainment/view/Dinosaur+Alive+Water++Theme+Park+",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q105351854",
+    "name": "Pagoh Sports Complex",
+    "name_ja": null,
+    "lat": 2.146083333,
+    "lng": 102.764722222,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105351854",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q105352084",
+    "name": "Kluang Sports Complex",
+    "name_ja": null,
+    "lat": 2.005444444,
+    "lng": 103.286777777,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105352084",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q105384020",
@@ -94,15 +160,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q105384020",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q105398401",
@@ -111,19 +181,50 @@
     "lat": 2.346611111,
     "lng": 102.637694444,
     "country": "MY",
+    "sport_types": [
+      "ゴルフ"
+    ],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105398401",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q105974656",
+    "name": "Chin Woo Stadium",
+    "name_ja": null,
+    "lat": 3.14122,
+    "lng": 101.69937,
+    "country": "MY",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q105398401",
-    "image_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105974656",
+    "image_url": "Kuala Lumpur Malaysia Chin-Woo-Stadium-01.jpg",
+    "website": "http://www.chinwoo.org.my",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q106827269",
@@ -136,15 +237,44 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q106827269",
     "image_url": null,
+    "website": "http://www.ponderosagolf.com/web/index.php",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q106827462",
+    "name": "Tiara Sports World",
+    "name_ja": null,
+    "lat": 1.490055555,
+    "lng": 103.785,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106827462",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108740530",
@@ -157,15 +287,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108740530",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q108740547",
@@ -178,15 +312,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108740547",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q109850248",
@@ -199,15 +337,44 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109850248",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q111939407",
+    "name": "Gohtong Sports Centre",
+    "name_ja": null,
+    "lat": 3.397888888,
+    "lng": 101.766638888,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q111939407",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113656027",
@@ -216,19 +383,25 @@
     "lat": 5.982082522,
     "lng": 116.095272798,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113656027",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q113793585",
@@ -241,15 +414,19 @@
     "capacity": null,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113793585",
     "image_url": null,
+    "website": "https://sites.google.com/view/msekinwonderland/wonderland",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114137289",
@@ -258,19 +435,25 @@
     "lat": 4.235856022,
     "lng": 103.416942702,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114137289",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114138405",
@@ -279,19 +462,25 @@
     "lat": 6.452375989,
     "lng": 100.201838601,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114138405",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114138545",
@@ -300,19 +489,25 @@
     "lat": 3.838556964,
     "lng": 103.298301222,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114138545",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q114138662",
@@ -321,19 +516,25 @@
     "lat": 2.267415202,
     "lng": 102.283614489,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114138662",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1146435",
@@ -346,16 +547,20 @@
     "capacity": null,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defence_University_of_Malaysia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1146435",
     "image_url": null,
+    "website": "https://www.upnm.edu.my/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q116620537",
@@ -368,15 +573,44 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116620537",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q120068914",
+    "name": "Bangsar Sports Complex",
+    "name_ja": null,
+    "lat": 3.133630225,
+    "lng": 101.667428748,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q120068914",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12053079",
@@ -385,20 +619,26 @@
     "lat": 4.6075,
     "lng": 101.1,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "フィールドホッケー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Azlan_Shah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12053079",
     "image_url": "Sultan Azlan Shah Hockey, Ipoh.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q120668250",
@@ -407,19 +647,25 @@
     "lat": 1.474707005,
     "lng": 103.763383844,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120668250",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q120686027",
@@ -428,19 +674,25 @@
     "lat": 3.137824852,
     "lng": 101.695812064,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120686027",
     "image_url": "SBA Badminton Hall.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q121069868",
@@ -449,19 +701,25 @@
     "lat": 5.982804271,
     "lng": 116.093499669,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121069868",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q121298105",
@@ -470,19 +728,25 @@
     "lat": 3.119260838,
     "lng": 101.725768181,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121298105",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q121404914",
@@ -491,19 +755,25 @@
     "lat": 6.1756543,
     "lng": 116.2322979,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121404914",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122987994",
@@ -512,19 +782,25 @@
     "lat": 3.10987264,
     "lng": 101.462941566,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122987994",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q124357491",
@@ -533,19 +809,25 @@
     "lat": 1.59714994,
     "lng": 110.335547728,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124357491",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q12709636",
@@ -554,20 +836,26 @@
     "lat": 3.08011699,
     "lng": 101.54708099,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Malawati_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12709636",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q127932139",
@@ -580,15 +868,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q127932139",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1280608",
@@ -597,20 +889,31 @@
     "lat": 3.058969444,
     "lng": 101.693597222,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "フィールドホッケー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Malaysia men's national field hockey team",
+        "url": "http://mhc.org.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Malaysia_National_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1280608",
     "image_url": "National Hockey Stadium, Malaysia.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131759959",
@@ -623,15 +926,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131759959",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q133187772",
@@ -644,15 +951,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133187772",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q133991796",
@@ -661,20 +972,26 @@
     "lat": 5.328349,
     "lng": 100.280827,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SPICE_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q133991796",
     "image_url": "SPICE Arena 2023.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q134017130",
@@ -683,20 +1000,27 @@
     "lat": 5.3285,
     "lng": 100.279,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "競泳",
+      "飛込競技"
+    ],
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SPICE_Aquatic_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q134017130",
     "image_url": "SPICE Aqua.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q134028522",
@@ -709,15 +1033,44 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134028522",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q134892817",
+    "name": "Sandakan Sports Complex",
+    "name_ja": null,
+    "lat": 5.84895,
+    "lng": 118.049678,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q134892817",
+    "image_url": "Sandakan Sabah Kompleks-Sukan-Sandakan-23.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q136131676",
@@ -726,19 +1079,25 @@
     "lat": 1.439583333,
     "lng": 103.613277777,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136131676",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q136469302",
@@ -751,16 +1110,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Karisma_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q136469302",
     "image_url": "Karisma Arena.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139410550",
@@ -773,15 +1136,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139410550",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139411207",
@@ -794,15 +1161,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139411207",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139568768",
@@ -815,15 +1186,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139568768",
     "image_url": null,
+    "website": "https://oops-kl.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139571926",
@@ -836,15 +1211,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139571926",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139571927",
@@ -857,15 +1236,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139571927",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q139996079",
@@ -878,15 +1261,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139996079",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q14955329",
@@ -899,16 +1286,20 @@
     "capacity": null,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Selayang_Municipal_Council_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14955329",
     "image_url": "Stadium MPS (230616) 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1554267",
@@ -917,20 +1308,31 @@
     "lat": 3.119444444,
     "lng": 101.7275,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2002 Asian Junior Badminton Championships",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_Badminton_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1554267",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1651698",
@@ -939,20 +1341,31 @@
     "lat": 3.08225,
     "lng": 101.544944,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 80372,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "セランゴールFC",
+        "url": "https://www.selangorfc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1651698",
     "image_url": "Shah Alam Stadium (inside).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1690744",
@@ -965,16 +1378,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1690744",
     "image_url": "Àlex Crivillé 1996 Shah Alam.jpeg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1702512",
@@ -987,16 +1404,20 @@
     "capacity": null,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1702512",
     "image_url": "Johor Circuit - Flickr.jpg",
+    "website": "https://www.facebook.com/profile.php?id=100069502317196",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q172738",
@@ -1009,16 +1430,25 @@
     "capacity": null,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [
+      {
+        "name": "マレーシアグランプリ",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%91%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q172738",
     "image_url": "Sepang tribune.jpg",
+    "website": "https://www.sepangcircuit.com/home",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17928695",
@@ -1031,16 +1461,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Putrajaya_Street_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17928695",
     "image_url": "Litar jalan daripada Putrajaya.svg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1822228",
@@ -1049,20 +1483,26 @@
     "lat": 3.14539,
     "lng": 101.726,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Selangor_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1822228",
     "image_url": "Royal Selangor Golf Club Kuala Lumpur Dec. 2006 001.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q18866836",
@@ -1071,19 +1511,25 @@
     "lat": 2.017388888,
     "lng": 103.317055555,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18866836",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19572833",
@@ -1096,16 +1542,20 @@
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Melaka_International_Motorsport_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19572833",
     "image_url": "Melaka International Motorsport Circuit.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q19578151",
@@ -1114,20 +1564,52 @@
     "lat": 2.932,
     "lng": 101.785,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/UKM_Bangi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19578151",
     "image_url": null,
+    "website": "http://www.ukm.my/pusatsukan/?profile=default",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q20455862",
+    "name": "Setia SPICE",
+    "name_ja": null,
+    "lat": 5.3287,
+    "lng": 100.28,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": 1997,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Setia_SPICE",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q20455862",
+    "image_url": "Cmglee Penang SPICE Arena aerial.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20465376",
@@ -1140,16 +1622,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/UiTM_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20465376",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21006004",
@@ -1162,16 +1648,20 @@
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_Street_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21006004",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21006111",
@@ -1184,16 +1674,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tun_Fatimah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21006111",
     "image_url": "Tun Fatimah Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2129099",
@@ -1206,16 +1700,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Velodrome_Rakyat",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2129099",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21634292",
@@ -1228,37 +1726,20 @@
     "capacity": null,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lost_World_of_Tambun",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21634292",
     "image_url": "Lost Word of Tambun Main Entrance.JPG",
+    "website": "http://sunwaylostworldoftambun.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q2309790",
-    "name": "Q2309790",
-    "name_ja": null,
-    "lat": 1.481976,
-    "lng": 103.73308182,
-    "country": "MY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2309790",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2326215",
@@ -1267,20 +1748,31 @@
     "lat": 3.053736111,
     "lng": 101.693555555,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 16000,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2009 ASEAN ParaGames",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%88%E3%83%A9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2326215",
     "image_url": "Putra Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q23894194",
@@ -1289,20 +1781,26 @@
     "lat": 3.7719279,
     "lng": 102.5459609,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tun_Abdul_Razak_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23894194",
     "image_url": "CYpJtNmUMAEdN3x.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2414557",
@@ -1311,20 +1809,31 @@
     "lat": 3.139086,
     "lng": 101.700581,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーマレーシア代表",
+        "url": "https://www.fam.org.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%AB%E3%83%87%E3%82%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2414557",
     "image_url": "StadiumMerdeka GrandstandFromNorth Sep2024 2.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25482761",
@@ -1337,16 +1846,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Proton_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25482761",
     "image_url": null,
+    "website": "http://corporate.proton.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q26212262",
@@ -1355,20 +1868,26 @@
     "lat": 2.336513,
     "lng": 111.845368,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sibu_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q26212262",
     "image_url": "Sibu Indoor Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q29561660",
@@ -1381,16 +1900,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cheras_Velodrome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q29561660",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q29561696",
@@ -1403,15 +1926,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29561696",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3103950",
@@ -1424,16 +1951,25 @@
     "capacity": 20000,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "プルリスFA",
+        "url": "http://www.singautara.net/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tuanku_Syed_Putra_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3103950",
     "image_url": "Stadium Tuanku Syed Putra (edt by cikgu HeHe).jpg",
+    "website": "http://www.stadiumjohor.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3229105",
@@ -1446,16 +1982,20 @@
     "capacity": null,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3229105",
     "image_url": "Entrance Legoland Malaysia.jpg",
+    "website": "https://www.legoland.com.my/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3272388",
@@ -1468,16 +2008,25 @@
     "capacity": 40000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スリ・パハンFC",
+        "url": "http://www.pahangfa.com.my"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AB%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%A0%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3272388",
     "image_url": "Darul Makmur Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3277702",
@@ -1490,16 +2039,25 @@
     "capacity": 40000,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サラワクFA",
+        "url": "http://www.sarawakcrocs.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%AF%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277702",
     "image_url": "Stadium Sarawak.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3277807",
@@ -1512,16 +2070,25 @@
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サバFC",
+        "url": "https://sabah-fc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AB%E3%82%B9%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277807",
     "image_url": "KotaKinabalu Sabah LikasStadium-11.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3277818",
@@ -1534,16 +2101,25 @@
     "capacity": 30000,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ケランタンFA",
+        "url": "http://www.kelantanfa.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%8F%E3%83%9E%E3%83%894%E4%B8%96%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277818",
     "image_url": "Stadium Sultan Muhammed IV.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q33473395",
@@ -1556,15 +2132,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q33473395",
     "image_url": "Jasin Municipal Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4118561",
@@ -1577,16 +2157,25 @@
     "capacity": 20000,
     "opened_year": 1956,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ペナンFC",
+        "url": "http://www.fapenang.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Stadium%2C_Penang",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4118561",
     "image_url": "Penang City Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q48727156",
@@ -1595,20 +2184,31 @@
     "lat": 1.481722222,
     "lng": 103.61925,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40000,
     "opened_year": 2020,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ジョホール・ダルル・タクジムFC",
+        "url": "https://johorsoutherntigers.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%96%E3%83%A9%E3%83%92%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q48727156",
     "image_url": "Aerial view of Sultan Ibrahim Stadium (2).jpg",
+    "website": "http://www.stadiumjohor.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4986914",
@@ -1617,20 +2217,27 @@
     "lat": 3.140558333,
     "lng": 101.645497222,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン",
+      "剣道"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bukit_Kiara_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4986914",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5204402",
@@ -1639,20 +2246,31 @@
     "lat": 4.609413888,
     "lng": 101.103455555,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 30000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ペラFC",
+        "url": "http://peraktbg.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MBI_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5204402",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q52080184",
@@ -1661,19 +2279,25 @@
     "lat": 2.962563905,
     "lng": 101.666020685,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q52080184",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q52082323",
@@ -1682,19 +2306,25 @@
     "lat": 3.138939,
     "lng": 101.6472,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q52082323",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5225771",
@@ -1707,16 +2337,25 @@
     "capacity": 32387,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ケダ・ダルル・アマンFC",
+        "url": "http://kedahfa.my"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Darul_Aman_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5225771",
     "image_url": "Stadium Darul Aman.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5647818",
@@ -1729,16 +2368,25 @@
     "capacity": 40000,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ムラカ・ユナイテッドFC",
+        "url": "http://melakaunited.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hang_Jebat_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5647818",
     "image_url": "Hang Jebat Stadium during a football match.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q567218",
@@ -1751,16 +2399,25 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "クアラルンプールFA",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/KLFA%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q567218",
     "image_url": "Aerial View of Kuala Lumpur Stadium.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5927601",
@@ -1773,16 +2430,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ペラFC",
+        "url": "http://peraktbg.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%A9%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5927601",
     "image_url": "PerakStd.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5927628",
@@ -1795,16 +2461,25 @@
     "capacity": 15000,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "トレンガヌFC",
+        "url": "https://www.terengganufc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%8A%E3%82%B7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5927628",
     "image_url": "Inside Sultan Ismail Nasiruddin Shah Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5929782",
@@ -1817,16 +2492,25 @@
     "capacity": 30000,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ジョホール・ダルル・タクジムFC",
+        "url": "https://johorsoutherntigers.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%BB%E3%83%80%E3%83%88%E3%83%BB%E3%83%8F%E3%82%B8%E3%83%BB%E3%83%8F%E3%83%83%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%A6%E3%83%BC%E3%83%8C%E3%82%B9%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5929782",
     "image_url": "Tan Sri Dato' Haji Hassan Yunos Stadium.jpg",
+    "website": "http://www.stadiumjohor.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6120366",
@@ -1839,16 +2523,29 @@
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FELDAユナイテッドFC",
+        "url": "http://www.feldaunitedfc.com"
+      },
+      {
+        "name": "AirAsia F.C.",
+        "url": "http://www.pjrangersfc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%BF%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%A4%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6120366",
     "image_url": "Petaling Jaya Stadium. 2019-12-12 18-36-16.jpg",
+    "website": "http://www.stadiumjohor.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q635363",
@@ -1857,20 +2554,31 @@
     "lat": 3.054666666,
     "lng": 101.691166666,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 85000,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーマレーシア代表",
+        "url": "https://www.fam.org.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%AD%E3%83%83%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%AA%E3%83%AB%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q635363",
     "image_url": "Bukit Jalil National Stadium 2021.png",
+    "website": "https://www.stadium.gov.my/venues/national-stadium",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6385439",
@@ -1879,20 +2587,26 @@
     "lat": 3.08796,
     "lng": 101.596,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Subang_National_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6385439",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6385441",
@@ -1901,20 +2615,26 @@
     "lat": 3.09035,
     "lng": 101.534,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sultan_Abdul_Aziz_Shah_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6385441",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6441017",
@@ -1923,20 +2643,26 @@
     "lat": 3.139,
     "lng": 101.64,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_Golf_%26_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6441017",
     "image_url": "007 TPC KL V1 16BITS.jpg",
+    "website": "http://www.klgcc.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q64519085",
@@ -1945,19 +2671,25 @@
     "lat": 5.324547979,
     "lng": 103.14903812,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64519085",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q64697861",
@@ -1966,19 +2698,25 @@
     "lat": 5.384847113,
     "lng": 100.310732612,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64697861",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q64821391",
@@ -1987,19 +2725,25 @@
     "lat": 6.441077994,
     "lng": 100.196110549,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64821391",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6486160",
@@ -2012,16 +2756,46 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Langkawi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6486160",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q65050161",
+    "name": "EduCity Sports Complex",
+    "name_ja": null,
+    "lat": 1.439583333,
+    "lng": 103.613277777,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/EduCity_Sports_Complex",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q65050161",
+    "image_url": "EduCity Stadium.JPG",
+    "website": "http://educitysport.com/",
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q66326234",
@@ -2030,19 +2804,25 @@
     "lat": 1.587661991,
     "lng": 110.355533999,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66326234",
     "image_url": "Stadium Perpaduan di Kuching.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6981763",
@@ -2055,16 +2835,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Naval_Base_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6981763",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6987317",
@@ -2077,16 +2861,25 @@
     "capacity": 40000,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ペナンFC",
+        "url": "http://www.fapenang.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Penang_State_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6987317",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7142148",
@@ -2099,16 +2892,25 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ジョホール・ダルル・タクジムII FC",
+        "url": "http://www.johorsoutherntigers.com.my"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pasir_Gudang_Corporation_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7142148",
     "image_url": "Pasir Gudang Corporation Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7162246",
@@ -2117,20 +2919,26 @@
     "lat": 5.4178,
     "lng": 100.2994,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": 1864,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Penang_Turf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7162246",
     "image_url": null,
+    "website": "http://www.penangturfclub.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7166878",
@@ -2139,20 +2947,26 @@
     "lat": 4.590469444,
     "lng": 101.103447222,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": 1895,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Perak_Turf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7166878",
     "image_url": null,
+    "website": "https://www.perakturfclub.my/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7290740",
@@ -2165,16 +2979,20 @@
     "capacity": null,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ranau_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7290740",
     "image_url": "Ranau Sabah New-Sports-Stadium-02.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7361760",
@@ -2183,20 +3001,26 @@
     "lat": 3.04555833,
     "lng": 101.71439722,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": 1896,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Selangor_Turf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7361760",
     "image_url": null,
+    "website": "https://www.selangorturfclub.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7374484",
@@ -2209,16 +3033,20 @@
     "capacity": null,
     "opened_year": 1952,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Military_College_(Malaysia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7374484",
     "image_url": null,
+    "website": "http://www.rmc.edu.my",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7423430",
@@ -2231,16 +3059,25 @@
     "capacity": null,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サラワクFA",
+        "url": "http://www.sarawakcrocs.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Taha_Ariffin_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7423430",
     "image_url": "Tampak Dalam Stadium Negeri Sarawak 2024 (2).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7427237",
@@ -2249,20 +3086,26 @@
     "lat": 3.1058706,
     "lng": 101.5686464,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saujana_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7427237",
     "image_url": "Saujanaentrance.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7440260",
@@ -2275,16 +3118,25 @@
     "capacity": null,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ムラカ・ユナイテッドFC",
+        "url": "http://melakaunited.my/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hang_Tuah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7440260",
     "image_url": "Hang Tuah Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7440286",
@@ -2293,20 +3145,27 @@
     "lat": 3.140555555,
     "lng": 101.702777777,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "バドミントン"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_Negara",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7440286",
     "image_url": "YosriBgnStadiumNegara.jpg",
+    "website": "http://library.perdana.org.my/Speech_ab/TR6462.pdf",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7440308",
@@ -2315,19 +3174,25 @@
     "lat": 6.15060119,
     "lng": 100.365671319,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7440308",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7636706",
@@ -2340,16 +3205,25 @@
     "capacity": 50000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "トレンガヌFC",
+        "url": "https://www.terengganufc.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B6%E3%83%B3%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%93%E3%83%87%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7636706",
     "image_url": "Stadium Sultan Mizan Zainal Abidin.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q76801521",
@@ -2358,19 +3232,25 @@
     "lat": 6.414746511,
     "lng": 100.194936518,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q76801521",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7680619",
@@ -2379,20 +3259,26 @@
     "lat": 1.54288889,
     "lng": 103.76027778,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "フィールドホッケー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Taman_Daya_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7680619",
     "image_url": "Taman Daya Hockey Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7698088",
@@ -2405,16 +3291,25 @@
     "capacity": 10000,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FELDAユナイテッドFC",
+        "url": "http://www.feldaunitedfc.com"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Temerloh_Mini_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7698088",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7850635",
@@ -2427,16 +3322,25 @@
     "capacity": 40000,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ヌグリ・スンビランFA",
+        "url": "http://www.pbn9.com/"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tuanku_Abdul_Rahman_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7850635",
     "image_url": "Stadium Tuanku Abdul Rahman, Paroi.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q94494052",
@@ -2449,15 +3353,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q94494052",
     "image_url": "Batu Pahat Stadium, Batu Pahat 20250210 162546.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q94691270",
@@ -2470,15 +3378,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q94691270",
     "image_url": "Renggam Town Mini Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q94691286",
@@ -2491,15 +3403,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q94691286",
     "image_url": "Penawar Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q94691294",
@@ -2512,15 +3428,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q94691294",
     "image_url": "Mersing Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q94691323",
@@ -2533,15 +3453,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q94691323",
     "image_url": "Pontian Mini Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q94691500",
@@ -2554,15 +3478,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q94691500",
     "image_url": "TS Wonderland Waterpark.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q95706649",
@@ -2575,15 +3503,19 @@
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q95706649",
     "image_url": "Austin Heights Water and Adventure Park.JPG",
+    "website": "http://www.funtime.my/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q95712047",
@@ -2596,15 +3528,19 @@
     "capacity": null,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q95712047",
     "image_url": null,
+    "website": "https://wetworld.my/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96022669",
@@ -2617,15 +3553,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96022669",
     "image_url": "Tiram Indoor Water Park.JPG",
+    "website": "http://www.tiramwaterpark.com.my/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96093520",
@@ -2638,15 +3578,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96093520",
     "image_url": "Ulu Choh Dirt Park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96195708",
@@ -2659,15 +3603,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96195708",
     "image_url": "Kulai Mini Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96210446",
@@ -2680,15 +3628,19 @@
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96210446",
     "image_url": "Desaru Coast Adventure Waterpark.jpg",
+    "website": "https://desarucoast.com/en/Pages/Play/Adventure-Waterpark",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96210583",
@@ -2701,15 +3653,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96210583",
     "image_url": "KSL Johor - panoramio.jpg",
+    "website": "https://www.kslresorts.com.my/entertainment/view/Dinosaur+Alive+Water++Theme+Park+",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96211108",
@@ -2722,15 +3678,69 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96211108",
     "image_url": "Daiman Bowl.jpg",
+    "website": "http://www.daiman.com.my/daiman-bowl-johor-jaya-43.aspx",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q96211215",
+    "name": "Daiman Johor Jaya Sports Complex",
+    "name_ja": null,
+    "lat": 1.543916666,
+    "lng": 103.802527777,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q96211215",
+    "image_url": null,
+    "website": "http://www.daiman.com.my/daiman-johor-jaya-sports-complex-41.aspx",
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q96211284",
+    "name": "Hot Sports Arena",
+    "name_ja": null,
+    "lat": 1.524166666,
+    "lng": 103.672972222,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q96211284",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96619072",
@@ -2743,15 +3753,19 @@
     "capacity": null,
     "opened_year": 2019,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96619072",
     "image_url": "Forest City Water Park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96742741",
@@ -2764,15 +3778,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96742741",
     "image_url": null,
+    "website": "http://www.petitoutdoor.com.my/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96742774",
@@ -2785,15 +3803,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96742774",
     "image_url": "Rockworld.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96743058",
@@ -2806,15 +3828,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96743058",
     "image_url": null,
+    "website": "http://starhill-golf.com/water-park/la-stella-water-theme-park/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96743085",
@@ -2827,15 +3853,44 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96743085",
     "image_url": "Mount Lambak Water Park.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q96755161",
+    "name": "Eco Sports World",
+    "name_ja": null,
+    "lat": 1.507138888,
+    "lng": 103.57275,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q96755161",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q98066995",
@@ -2848,15 +3903,44 @@
     "capacity": null,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q98066995",
     "image_url": "Istio Academy.jpg",
+    "website": "https://www.istioacademy.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
+  },
+  {
+    "id": "Q99516962",
+    "name": "Tebrau Sports & Recreation Centre",
+    "name_ja": null,
+    "lat": 1.581111111,
+    "lng": 103.802277777,
+    "country": "MY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q99516962",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q99538944",
@@ -2865,19 +3949,25 @@
     "lat": 1.5615,
     "lng": 103.766277777,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q99538944",
     "image_url": "Austin Heights Golf and Hotel Resort.jpg",
+    "website": "http://www.austingolfresort.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q99542719",
@@ -2890,15 +3980,19 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q99542719",
     "image_url": "Larkin Arena.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q99542825",
@@ -2911,15 +4005,19 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q99542825",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q99554562",
@@ -2928,18 +4026,24 @@
     "lat": 1.526694444,
     "lng": 103.808138888,
     "country": "MY",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q99554562",
     "image_url": null,
+    "website": "http://www.daiman.com.my/daiman-18-golf-club-40.aspx",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
