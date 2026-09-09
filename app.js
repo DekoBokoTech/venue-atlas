@@ -100,6 +100,12 @@
     }
   };
 
+  function esc(s) {
+    var d = document.createElement('div');
+    d.textContent = s == null ? '' : String(s);
+    return d.innerHTML;
+  }
+
   var allPoints = [];
 
   var globeEl = document.getElementById('globeViz');
@@ -116,7 +122,7 @@
     .pointColor(function () { return THEMES.real.pointColor; })
     .pointAltitude(0.012)
     .pointRadius(function (d) { return 0.32 + Math.min(d.capacity || 0, 200000) / 200000 * 0.55; })
-    .pointLabel(function (d) { return d.name_ja ? d.name_ja + ' / ' + d.name : d.name; })
+    .pointLabel(function (d) { return d.name_ja ? esc(d.name_ja) + ' / ' + esc(d.name) : esc(d.name); })
     .pointsMerge(false);
 
   world.pointOfView({ lat: 20, lng: 40, altitude: 2.3 }, 0);
