@@ -10,6 +10,7 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -34,11 +35,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1354676",
     "image_url": "Windsor Park Roseau Dominica.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16532117",
@@ -47,10 +49,13 @@
     "lat": 15.57472222,
     "lng": -61.45444444,
     "country": "DM",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -58,56 +63,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16532117",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16549169",
-    "name": "Q16549169",
-    "name_ja": null,
-    "lat": 15.2466,
-    "lng": -61.3105,
-    "country": "DM",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16549169",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16599450",
-    "name": "Q16599450",
-    "name_ja": null,
-    "lat": 15.4037,
-    "lng": -61.4259,
-    "country": "DM",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16599450",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
