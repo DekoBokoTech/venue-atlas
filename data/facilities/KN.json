@@ -11,15 +11,26 @@
     "opened_year": null,
     "closed_year": null,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "クリケット西インド諸島代表",
+        "url": "https://www.windiescricket.com/"
+      },
+      {
+        "name": "St. Paul's United FC",
+        "url": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Warner_Park_Sporting_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1640640",
     "image_url": "Warner Park Cricket Stadium.jpg",
+    "website": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16531668",
@@ -34,13 +45,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16531668",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q16555802",
@@ -55,13 +68,15 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16555802",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   },
   {
     "id": "Q9196708",
@@ -76,12 +91,14 @@
     "closed_year": null,
     "roof_type": null,
     "teams": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9196708",
     "image_url": null,
+    "website": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-09T07:42:48.488Z"
   }
 ]
