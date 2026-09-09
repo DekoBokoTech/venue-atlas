@@ -6,10 +6,13 @@
     "lat": 13.158333,
     "lng": -61.229444,
     "country": "VC",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -22,11 +25,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2522793",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q697149",
@@ -39,6 +43,7 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -51,33 +56,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q697149",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q9193275",
-    "name": "Q9193275",
-    "name_ja": null,
-    "lat": 13.0114,
-    "lng": -61.2329,
-    "country": "VC",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9193275",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
