@@ -71,6 +71,11 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
     .slice(0, TEAM_CAP)
     .map((info) => ({ name: info.label, url: info.website }));
 
+  const sportTypes = resolveClaimIds(entity, 'P641')
+    .map((sportQid) => relatedEntities.get(sportQid))
+    .filter((info) => info && info.label)
+    .map((info) => info.label);
+
   const events = resolveClaimIds(entity, 'P793')
     .map((eventQid) => relatedEntities.get(eventQid))
     .filter((info) => info && info.label && !NON_SPORTING_EVENT_PATTERN.test(info.label))
@@ -89,7 +94,7 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
     lat: coord.lat,
     lng: coord.lng,
     country: countryCode && countryCode !== 'UNKNOWN' ? countryCode : null,
-    sport_types: [],
+    sport_types: sportTypes,
     capacity: capacityAmount ? parseInt(capacityAmount, 10) : null,
     opened_year: inceptionTime ? extractYear(inceptionTime) : null,
     closed_year: closedYear,

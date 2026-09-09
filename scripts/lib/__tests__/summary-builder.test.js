@@ -111,12 +111,12 @@ test('buildSummary aggregates across multiple country files', () => withTempDir(
 
 test('buildSummary only includes the fields needed for map markers, and is_existing is still present', () => withTempDir(async (dir) => {
   await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
-    { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, is_existing: true, wikidata_url: 'https://www.wikidata.org/wiki/Q1', teams: ['Q42'], events: [] },
+    { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, is_existing: true, wikidata_url: 'https://www.wikidata.org/wiki/Q1', teams: ['Q42'], events: [], sport_types: ['association football'] },
   ]));
 
   const { summary } = await buildSummary(dir);
 
-  assert.deepEqual(summary[0], { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, is_existing: true });
+  assert.deepEqual(summary[0], { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, is_existing: true, sport_types: ['association football'] });
 }));
 
 test('buildWebFacilities passes a file under the cap through byte-identical', () => withTempDirs(async (inDir, outDir) => {

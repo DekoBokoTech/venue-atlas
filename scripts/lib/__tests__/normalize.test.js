@@ -226,6 +226,72 @@ test('normalizeEntity returns empty teams/events arrays when there are no P466/P
   assert.deepEqual(record.events, []);
 });
 
+test('normalizeEntity resolves sport_types from a single P641 value via the relatedEntities map', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q13205' }, coord: { value: 'Point(2.36 48.924444)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Stade de France' } },
+    claims: {
+      P641: [{ mainsnak: { datavalue: { value: { id: 'Q2736' } } } }],
+    },
+  };
+  const relatedEntities = new Map([['Q2736', { label: 'association football', website: null, year: null }]]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.sport_types, ['association football']);
+});
+
+test('normalizeEntity resolves sport_types from multiple P641 values (a multi-purpose venue)', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Some Arena' } },
+    claims: {
+      P641: [
+        { mainsnak: { datavalue: { value: { id: 'Q5372' } } } },
+        { mainsnak: { datavalue: { value: { id: 'Q41466' } } } },
+      ],
+    },
+  };
+  const relatedEntities = new Map([
+    ['Q5372', { label: 'basketball', website: null, year: null }],
+    ['Q41466', { label: 'ice hockey', website: null, year: null }],
+  ]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.sport_types, ['basketball', 'ice hockey']);
+});
+
+test('normalizeEntity filters out a P641 value with no resolvable label from sport_types', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Some Arena' } },
+    claims: {
+      P641: [
+        { mainsnak: { datavalue: { value: { id: 'Q5372' } } } },
+        { mainsnak: { datavalue: { value: { id: 'Q999999' } } } },
+      ],
+    },
+  };
+  const relatedEntities = new Map([
+    ['Q5372', { label: 'basketball', website: null, year: null }],
+    ['Q999999', { label: null, website: null, year: null }],
+  ]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.sport_types, ['basketball']);
+});
+
+test('normalizeEntity returns an empty sport_types array when there are no P641 claims', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = { labels: { en: { language: 'en', value: 'Some Facility' } } };
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map());
+
+  assert.deepEqual(record.sport_types, []);
+});
+
 test('normalizeEntity filters out an event labeled 施工 (construction work)', () => {
   const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q125886420' }, coord: { value: 'Point(0.0 0.0)' } };
   const entity = {

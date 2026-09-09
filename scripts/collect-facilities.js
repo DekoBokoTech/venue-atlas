@@ -102,7 +102,7 @@ async function collectCountry(countryQid, countryCode, countryIndex, totalCountr
       const relatedQids = [];
       for (const qid of qids) {
         const entity = entities[qid];
-        relatedQids.push(...resolveClaimIds(entity, 'P466'), ...resolveClaimIds(entity, 'P793'));
+        relatedQids.push(...resolveClaimIds(entity, 'P466'), ...resolveClaimIds(entity, 'P793'), ...resolveClaimIds(entity, 'P641'));
       }
       let relatedEntities;
       try {

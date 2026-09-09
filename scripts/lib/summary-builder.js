@@ -48,6 +48,7 @@ export async function buildSummary(facilitiesDir) {
       country: r.country,
       capacity: r.capacity,
       is_existing: r.is_existing,
+      sport_types: r.sport_types,
     }));
 
   return { summary, centroids };
