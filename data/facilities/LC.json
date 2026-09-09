@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q130367410",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1356963",
@@ -34,6 +36,7 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -46,11 +49,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1356963",
     "image_url": "George Odlum Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1651626",
@@ -63,6 +67,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -70,11 +75,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1651626",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q813440",
@@ -87,6 +93,7 @@
     "capacity": 20000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -103,10 +110,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q813440",
     "image_url": "Beausejour Stadium Cricket St Lucia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
