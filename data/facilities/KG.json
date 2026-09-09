@@ -1,97 +1,5 @@
 [
   {
-    "id": "Q109652435",
-    "name": "Q109652435",
-    "name_ja": null,
-    "lat": 42.799167,
-    "lng": 73.857917,
-    "country": "KG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652435",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q109652436",
-    "name": "Q109652436",
-    "name_ja": null,
-    "lat": 41.040201,
-    "lng": 72.484896,
-    "country": "KG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652436",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q117743359",
-    "name": "Q117743359",
-    "name_ja": null,
-    "lat": 40.943046,
-    "lng": 72.995363,
-    "country": "KG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q117743359",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q120667321",
-    "name": "Q120667321",
-    "name_ja": null,
-    "lat": 41.430852,
-    "lng": 75.993524,
-    "country": "KG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q120667321",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q120886674",
     "name": "Zentralniy Stadion",
     "name_ja": null,
@@ -102,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -109,10 +18,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q120886674",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q131919751",
@@ -125,18 +35,20 @@
     "capacity": null,
     "opened_year": 2024,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Azattyk_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q131919751",
-    "image_url": "Bishkek Arena.jpg",
+    "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3042016",
@@ -145,10 +57,13 @@
     "lat": 42.83722222,
     "lng": 74.60083333,
     "country": "KG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -161,80 +76,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3042016",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30913266",
-    "name": "Q30913266",
-    "name_ja": null,
-    "lat": 42.888928,
-    "lng": 74.610032,
-    "country": "KG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30913266",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30913268",
-    "name": "Q30913268",
-    "name_ja": null,
-    "lat": 42.853851,
-    "lng": 74.630492,
-    "country": "KG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30913268",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30913274",
-    "name": "Q30913274",
-    "name_ja": null,
-    "lat": 42.844247,
-    "lng": 74.614018,
-    "country": "KG",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30913274",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3108699",
@@ -243,10 +90,13 @@
     "lat": 42.880175,
     "lng": 74.59793889,
     "country": "KG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 23000,
     "opened_year": 1941,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -259,11 +109,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3108699",
     "image_url": "Dölön-Ömürsakow-Stadion, Bishkek.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3496278",
@@ -272,10 +123,13 @@
     "lat": 42.8852,
     "lng": 74.8681,
     "country": "KG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -288,11 +142,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496278",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q3505856",
@@ -301,10 +156,13 @@
     "lat": 40.5207,
     "lng": 72.8048,
     "country": "KG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -317,11 +175,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3505856",
     "image_url": "Lenin and the stadium - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q4129823",
@@ -334,6 +193,7 @@
     "capacity": null,
     "opened_year": 1941,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -341,10 +201,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4129823",
     "image_url": "Banner of the Kyrgyzstan Armed Forces 2001 (obverse).png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
