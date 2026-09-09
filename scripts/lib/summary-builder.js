@@ -1,7 +1,11 @@
 import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
-const SUMMARY_SIZE = 700;
+// Cap on the initial-load summary set (venues with a professional/notable team
+// occupant, per Wikidata P466). Generously above today's real count (~1,859) so
+// there's no behavior change now — it exists purely to protect against
+// unbounded payload growth as the nightly collector resolves more teams data.
+const SUMMARY_CAP = 5000;
 export const PER_COUNTRY_CAP = 3000;
 
 export async function buildSummary(facilitiesDir) {
@@ -30,9 +34,9 @@ export async function buildSummary(facilitiesDir) {
   }
 
   const summary = allRecords
-    .filter((r) => r.capacity != null)
-    .sort((a, b) => b.capacity - a.capacity)
-    .slice(0, SUMMARY_SIZE)
+    .filter((r) => Array.isArray(r.teams) && r.teams.length > 0)
+    .sort(byCapacityDescNullsLast)
+    .slice(0, SUMMARY_CAP)
     .map((r) => ({
       id: r.id,
       name: r.name,

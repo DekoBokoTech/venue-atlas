@@ -25,11 +25,11 @@ async function withTempDirs(fn) {
   }
 }
 
-test('buildSummary sorts by capacity descending', () => withTempDir(async (dir) => {
+test('buildSummary sorts by capacity descending, within the teams-having subset', () => withTempDir(async (dir) => {
   const records = [
-    { id: 'Q1', name: 'Small', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: 1000 },
-    { id: 'Q2', name: 'Big', name_ja: null, lat: 2, lng: 2, country: 'XX', capacity: 90000 },
-    { id: 'Q3', name: 'Medium', name_ja: null, lat: 3, lng: 3, country: 'XX', capacity: 50000 },
+    { id: 'Q1', name: 'Small', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: 1000, teams: ['Q100'] },
+    { id: 'Q2', name: 'Big', name_ja: null, lat: 2, lng: 2, country: 'XX', capacity: 90000, teams: ['Q200'] },
+    { id: 'Q3', name: 'Medium', name_ja: null, lat: 3, lng: 3, country: 'XX', capacity: 50000, teams: ['Q300'] },
   ];
   await writeFile(path.join(dir, 'XX.json'), JSON.stringify(records));
 
@@ -38,10 +38,10 @@ test('buildSummary sorts by capacity descending', () => withTempDir(async (dir) 
   assert.deepEqual(summary.map((r) => r.id), ['Q2', 'Q3', 'Q1']);
 }));
 
-test('buildSummary excludes records with null capacity', () => withTempDir(async (dir) => {
+test('buildSummary excludes records with no teams, even at very high capacity, and includes a lower-capacity record with a team', () => withTempDir(async (dir) => {
   const records = [
-    { id: 'Q1', name: 'NoCapacity', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: null },
-    { id: 'Q2', name: 'HasCapacity', name_ja: null, lat: 2, lng: 2, country: 'XX', capacity: 5000 },
+    { id: 'Q1', name: 'HugeButNoTeam', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: 200000, teams: [] },
+    { id: 'Q2', name: 'SmallWithTeam', name_ja: null, lat: 2, lng: 2, country: 'XX', capacity: 500, teams: ['Q999'] },
   ];
   await writeFile(path.join(dir, 'XX.json'), JSON.stringify(records));
 
@@ -50,15 +50,28 @@ test('buildSummary excludes records with null capacity', () => withTempDir(async
   assert.deepEqual(summary.map((r) => r.id), ['Q2']);
 }));
 
-test('buildSummary caps the result at 700 records', () => withTempDir(async (dir) => {
-  const records = Array.from({ length: 720 }, (_, i) => ({
-    id: 'Q' + i, name: 'S' + i, name_ja: null, lat: 0, lng: 0, country: 'XX', capacity: 720 - i,
+test('buildSummary includes a teams-having record with null capacity, ranked after capacity-known ones', () => withTempDir(async (dir) => {
+  const records = [
+    { id: 'Q1', name: 'NoCapacityWithTeam', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: null, teams: ['Q1'] },
+    { id: 'Q2', name: 'HasCapacityWithTeam', name_ja: null, lat: 2, lng: 2, country: 'XX', capacity: 5000, teams: ['Q2'] },
+    { id: 'Q3', name: 'NoCapacityNoTeam', name_ja: null, lat: 3, lng: 3, country: 'XX', capacity: null, teams: [] },
+  ];
+  await writeFile(path.join(dir, 'XX.json'), JSON.stringify(records));
+
+  const { summary } = await buildSummary(dir);
+
+  assert.deepEqual(summary.map((r) => r.id), ['Q2', 'Q1']);
+}));
+
+test('buildSummary caps the result at 5000 records', () => withTempDir(async (dir) => {
+  const records = Array.from({ length: 5020 }, (_, i) => ({
+    id: 'Q' + i, name: 'S' + i, name_ja: null, lat: 0, lng: 0, country: 'XX', capacity: 5020 - i, teams: ['Q' + i + 'team'],
   }));
   await writeFile(path.join(dir, 'XX.json'), JSON.stringify(records));
 
   const { summary } = await buildSummary(dir);
 
-  assert.equal(summary.length, 700);
+  assert.equal(summary.length, 5000);
   assert.equal(summary[0].id, 'Q0');
 }));
 
@@ -84,10 +97,10 @@ test('buildSummary skips a centroid for an empty country file', () => withTempDi
 
 test('buildSummary aggregates across multiple country files', () => withTempDir(async (dir) => {
   await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
-    { id: 'Q1', name: 'A', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: 1000 },
+    { id: 'Q1', name: 'A', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: 1000, teams: ['Q10'] },
   ]));
   await writeFile(path.join(dir, 'YY.json'), JSON.stringify([
-    { id: 'Q2', name: 'B', name_ja: null, lat: 2, lng: 2, country: 'YY', capacity: 2000 },
+    { id: 'Q2', name: 'B', name_ja: null, lat: 2, lng: 2, country: 'YY', capacity: 2000, teams: ['Q20'] },
   ]));
 
   const { summary, centroids } = await buildSummary(dir);
@@ -96,9 +109,9 @@ test('buildSummary aggregates across multiple country files', () => withTempDir(
   assert.deepEqual(Object.keys(centroids).sort(), ['XX', 'YY']);
 }));
 
-test('buildSummary only includes the fields needed for map markers', () => withTempDir(async (dir) => {
+test('buildSummary only includes the fields needed for map markers, and is_existing is still present', () => withTempDir(async (dir) => {
   await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
-    { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, is_existing: true, wikidata_url: 'https://www.wikidata.org/wiki/Q1', teams: [], events: [] },
+    { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, is_existing: true, wikidata_url: 'https://www.wikidata.org/wiki/Q1', teams: ['Q42'], events: [] },
   ]));
 
   const { summary } = await buildSummary(dir);
