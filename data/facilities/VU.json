@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,39 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q123038290",
     "image_url": "Freshwater Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16585248",
-    "name": "Q16585248",
-    "name_ja": null,
-    "lat": -17.7309,
-    "lng": 168.316,
-    "country": "VU",
-    "sport_types": [],
-    "capacity": 8000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "アミカレFC",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16585248",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q16847879",
@@ -62,6 +36,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -69,11 +44,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16847879",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q1784475",
@@ -82,10 +58,13 @@
     "lat": -17.7339,
     "lng": 168.337,
     "country": "VU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -98,11 +77,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1784475",
     "image_url": "Korman Stadium (Mar. 14, 2015).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q28194851",
@@ -111,10 +91,13 @@
     "lat": -17.7309,
     "lng": 168.316,
     "country": "VU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6750,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -122,10 +105,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28194851",
     "image_url": "Luganville Soccer City Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
