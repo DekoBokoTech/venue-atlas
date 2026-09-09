@@ -7,9 +7,10 @@ export function buildScanQuery({ limit, offset, countryQid = null }) {
   }
 
   return `
-SELECT ?item ?coord WHERE {
+SELECT DISTINCT ?item ?coord WHERE {
   ?item wdt:P625 ?coord .
-  ?item wdt:P31/wdt:P279* wd:Q1076486 .
+  VALUES ?class { wd:Q1076486 wd:Q7579839 }
+  ?item wdt:P31/wdt:P279* ?class .
   ${scopeFilter}
 }
 ORDER BY ?item
@@ -20,9 +21,10 @@ OFFSET ${offset}
 
 export function buildCountryListQuery() {
   return `
-SELECT ?country ?countryCode (COUNT(?item) AS ?count) WHERE {
+SELECT ?country ?countryCode (COUNT(DISTINCT ?item) AS ?count) WHERE {
   ?item wdt:P625 [] .
-  ?item wdt:P31/wdt:P279* wd:Q1076486 .
+  VALUES ?class { wd:Q1076486 wd:Q7579839 }
+  ?item wdt:P31/wdt:P279* ?class .
   ?item wdt:P17 ?country .
   ?country wdt:P297 ?countryCode .
 }

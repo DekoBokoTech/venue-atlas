@@ -12,7 +12,19 @@ test('buildScanQuery targets sports venue subclasses with coordinates, id + coor
   const query = buildScanQuery({ limit: 10, offset: 0 });
   assert.match(query, /wd:Q1076486/);
   assert.match(query, /wdt:P625/);
-  assert.match(query, /SELECT \?item \?coord WHERE/);
+  assert.match(query, /SELECT DISTINCT \?item \?coord WHERE/);
+});
+
+test('buildScanQuery also matches items classified as sports complexes (Q7579839), e.g. Nagasaki Stadium City', () => {
+  const query = buildScanQuery({ limit: 10, offset: 0 });
+  assert.match(query, /wd:Q7579839/);
+});
+
+test('buildScanQuery combines the class alternatives via a single VALUES-driven pattern to avoid duplicate rows', () => {
+  const query = buildScanQuery({ limit: 10, offset: 0 });
+  assert.match(query, /VALUES \?class \{ wd:Q1076486 wd:Q7579839 \}/);
+  assert.match(query, /\?item wdt:P31\/wdt:P279\* \?class \./);
+  assert.match(query, /SELECT DISTINCT/);
 });
 
 test('buildScanQuery scopes to a specific country when countryQid is given', () => {
@@ -39,6 +51,13 @@ test('buildScanQuery does not request labels, capacity, or the label service', (
 test('buildCountryListQuery groups facility counts by country', () => {
   const query = buildCountryListQuery();
   assert.match(query, /GROUP BY \?country \?countryCode/);
-  assert.match(query, /COUNT\(\?item\)/);
+  assert.match(query, /COUNT\(DISTINCT \?item\)/);
   assert.match(query, /wdt:P297/);
+});
+
+test('buildCountryListQuery also matches sports complexes (Q7579839) so countries with only that class still appear', () => {
+  const query = buildCountryListQuery();
+  assert.match(query, /wd:Q1076486/);
+  assert.match(query, /wd:Q7579839/);
+  assert.match(query, /VALUES \?class \{ wd:Q1076486 wd:Q7579839 \}/);
 });
