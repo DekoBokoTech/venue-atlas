@@ -49,15 +49,18 @@ test('buildScanQuery does not request labels, capacity, or the label service', (
 });
 
 test('buildCountryListQuery groups facility counts by country', () => {
-  const query = buildCountryListQuery();
+  const query = buildCountryListQuery('Q1076486');
   assert.match(query, /GROUP BY \?country \?countryCode/);
   assert.match(query, /COUNT\(DISTINCT \?item\)/);
   assert.match(query, /wdt:P297/);
 });
 
-test('buildCountryListQuery also matches sports complexes (Q7579839) so countries with only that class still appear', () => {
-  const query = buildCountryListQuery();
-  assert.match(query, /wd:Q1076486/);
-  assert.match(query, /wd:Q7579839/);
-  assert.match(query, /VALUES \?class \{ wd:Q1076486 wd:Q7579839 \}/);
+test('buildCountryListQuery defaults to Q1076486 and takes one class per call, not a combined VALUES list', () => {
+  const defaultQuery = buildCountryListQuery();
+  assert.match(defaultQuery, /wd:Q1076486/);
+  assert.doesNotMatch(defaultQuery, /VALUES \?class/);
+
+  const complexQuery = buildCountryListQuery('Q7579839');
+  assert.match(complexQuery, /wd:Q7579839/);
+  assert.doesNotMatch(complexQuery, /wd:Q1076486/);
 });
