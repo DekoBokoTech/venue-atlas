@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q125315011",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131859837",
@@ -34,6 +36,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,10 +44,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q131859837",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131863748",
@@ -57,6 +61,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -64,10 +69,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q131863748",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q131917195",
@@ -80,6 +86,7 @@
     "capacity": null,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -87,10 +94,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q131917195",
     "image_url": null,
     "website": "https://www.ecole-guerre-kinshasa.org",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q133869946",
@@ -103,6 +111,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -110,10 +119,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q133869946",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q133871051",
@@ -126,6 +136,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -138,33 +149,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q133871051",
     "image_url": "Stade de mugunga Goma.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605654",
-    "name": "Q16605654",
-    "name_ja": null,
-    "lat": -6.14638,
-    "lng": 23.5826,
-    "country": "CD",
-    "sport_types": [],
-    "capacity": 8000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605654",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2165655",
@@ -173,10 +162,13 @@
     "lat": -4.330417,
     "lng": 15.31,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 80000,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -189,11 +181,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2165655",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2448031",
@@ -202,10 +195,13 @@
     "lat": -11.7046,
     "lng": 27.484,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -218,11 +214,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2448031",
     "image_url": "Le stade de la Kenya.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q25055638",
@@ -231,10 +228,13 @@
     "lat": -11.678373,
     "lng": 27.489241,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -247,11 +247,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q25055638",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495529",
@@ -260,10 +261,13 @@
     "lat": 0.049592,
     "lng": 18.2698,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -271,10 +275,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495529",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495887",
@@ -283,10 +288,13 @@
     "lat": -4.33806,
     "lng": 15.3222,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -299,11 +307,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495887",
     "image_url": "Stade Tata Raphaël lors d'un de l'AS V.CLUB.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495937",
@@ -312,10 +321,13 @@
     "lat": -4.322865,
     "lng": 15.312485,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 24000,
     "opened_year": 1937,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -328,11 +340,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495937",
     "image_url": "Stade Reine Astrid.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495998",
@@ -341,10 +354,13 @@
     "lat": -1.67797,
     "lng": 29.227,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -357,11 +373,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495998",
     "image_url": "Goma, Province du Nord Kivu, RD Congo - Le stade de l'Unité depuis les hauteurs du Mont Goma. (24243783210) (cropped).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65069074",
@@ -374,6 +391,7 @@
     "capacity": null,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -381,34 +399,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65069074",
     "image_url": "Académie militaire de Kananga.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q65123500",
-    "name": "Q65123500",
-    "name_ja": null,
-    "lat": -3.010133,
-    "lng": 25.761299,
-    "country": "CD",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q65123500",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596135",
@@ -421,6 +417,7 @@
     "capacity": 30000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -433,11 +430,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596135",
     "image_url": "Stade Lumumba.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596184",
@@ -446,10 +444,13 @@
     "lat": -1.4056,
     "lng": 29.14171,
     "country": "CD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -457,11 +458,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596184",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596207",
@@ -474,6 +476,7 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -486,11 +489,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596207",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596239",
@@ -503,6 +507,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -515,11 +520,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596239",
     "image_url": "Centre ville de Bukavu (4308252305).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7596247",
@@ -532,6 +538,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -544,10 +551,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596247",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
