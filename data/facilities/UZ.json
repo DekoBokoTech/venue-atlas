@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,11 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q104866877",
     "image_url": "Chalets at Amirsoy Resort.jpg",
     "website": "https://www.amirsoy.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1073123",
@@ -34,6 +36,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -41,11 +44,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1073123",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q11300461",
@@ -54,10 +58,13 @@
     "lat": 40.4997,
     "lng": 68.7822,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -65,11 +72,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q11300461",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q117215746",
@@ -82,6 +90,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -94,11 +103,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117215746",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q117819927",
@@ -111,6 +121,7 @@
     "capacity": 10600,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -118,34 +129,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q117819927",
     "image_url": "Surxon Sport saroyi.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q11836162",
-    "name": "Q11836162",
-    "name_ja": null,
-    "lat": 40.3705,
-    "lng": 71.8209,
-    "country": "UZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q11836162",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1190837",
@@ -158,6 +147,7 @@
     "capacity": 9000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -170,11 +160,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1190837",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122887089",
@@ -187,6 +178,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -194,10 +186,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122887089",
     "image_url": "20230611 Boukhara093.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122887090",
@@ -210,6 +203,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -217,10 +211,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122887090",
     "image_url": "Ichki hovuz (Chor Bakr majmuasi).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q135995861",
@@ -233,6 +228,7 @@
     "capacity": 12,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -240,11 +236,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q135995861",
     "image_url": "Olympic Stadium Tashkent.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1421131",
@@ -253,10 +250,13 @@
     "lat": 41.315522,
     "lng": 69.260244,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -269,11 +269,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1421131",
     "image_url": "Pakhtakor Markaziy Stadium.jpg",
     "website": "http://www.pakhtakor.uz/club/stadium",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1445066",
@@ -282,10 +283,13 @@
     "lat": 40.707,
     "lng": 72.8722,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -298,11 +302,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1445066",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16714440",
@@ -315,6 +320,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -322,11 +328,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16714440",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1765518",
@@ -339,6 +346,7 @@
     "capacity": 14750,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -351,34 +359,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1765518",
     "image_url": "Nasaf stadium.jpg",
     "website": "http://fcnasaf.uz/page/stadium//",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q21643616",
-    "name": "Q21643616",
-    "name_ja": null,
-    "lat": 39.672466,
-    "lng": 66.966026,
-    "country": "UZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q21643616",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21660612",
@@ -387,10 +373,13 @@
     "lat": 40.546681,
     "lng": 70.939747,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -403,11 +392,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q21660612",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2817374",
@@ -416,10 +406,13 @@
     "lat": 41.279722,
     "lng": 69.2125,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 34000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -432,11 +425,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2817374",
     "image_url": "National Stadium (Uzbekistan), Uzbekistan-Qatar, 10 June 2025.jpg",
     "website": "http://bunyodkor-stadium.uz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28666102",
@@ -449,6 +443,7 @@
     "capacity": null,
     "opened_year": 1918,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -456,11 +451,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28666102",
     "image_url": "Uzbekistan Armed Forces (Latin script).svg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q28736912",
@@ -473,6 +469,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -489,11 +486,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28736912",
     "image_url": "Humo Arena 2019.jpg",
     "website": "https://humoarena.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2944604",
@@ -506,6 +504,7 @@
     "capacity": 14600,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -518,11 +517,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2944604",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2944632",
@@ -535,6 +535,7 @@
     "capacity": 25520,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -547,11 +548,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2944632",
     "image_url": "2011 stadium Bukhara 6341042953.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3271671",
@@ -564,6 +566,7 @@
     "capacity": 8460,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -576,11 +579,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3271671",
     "image_url": "Стадион \"Джар\".jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3292399",
@@ -589,10 +593,13 @@
     "lat": 40.213563,
     "lng": 69.27883,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -605,11 +612,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3292399",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4666343",
@@ -622,6 +630,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -634,11 +643,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4666343",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q52223",
@@ -651,6 +661,7 @@
     "capacity": null,
     "opened_year": 1918,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -658,23 +669,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q52223",
     "image_url": "Uzbekistan Armed Forces (Latin script).svg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q55663860",
     "name": "Metallurg Stadium (Olmaliq)",
     "name_ja": "メタルルグ・スタジアム (アルマリク)",
-    "lat": 40.846168,
-    "lng": 69.612712,
+    "lat": 40.845429,
+    "lng": 69.600019,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -682,34 +697,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q55663860",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q55664362",
-    "name": "Q55664362",
-    "name_ja": null,
-    "lat": 42.461798679,
-    "lng": 59.59718097,
-    "country": "UZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q55664362",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5927465",
@@ -722,6 +715,7 @@
     "capacity": 11000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -734,10 +728,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5927465",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5927490",
@@ -750,6 +745,7 @@
     "capacity": 33000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -762,11 +758,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5927490",
     "image_url": "Navbahor Stadium.webp",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6770579",
@@ -779,6 +776,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -786,10 +784,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6770579",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7505437",
@@ -802,6 +801,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -814,11 +814,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7505437",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q769133",
@@ -831,6 +832,7 @@
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -843,11 +845,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q769133",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q769306",
@@ -860,6 +863,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -872,11 +876,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q769306",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q770707",
@@ -889,6 +894,7 @@
     "capacity": 17500,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -901,11 +907,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q770707",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7833082",
@@ -917,7 +924,8 @@
     "sport_types": [],
     "capacity": 6400,
     "opened_year": 2012,
-    "closed_year": null,
+    "closed_year": 2009,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -930,11 +938,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7833082",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q797808",
@@ -947,6 +956,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -959,11 +969,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q797808",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8044942",
@@ -976,6 +987,7 @@
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -988,10 +1000,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8044942",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q930235",
@@ -1004,6 +1017,7 @@
     "capacity": 16000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1016,34 +1030,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q930235",
     "image_url": "Dinamo Samarqand stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q9341237",
-    "name": "Q9341237",
-    "name_ja": null,
-    "lat": 41.3245,
-    "lng": 69.3072,
-    "country": "UZ",
-    "sport_types": [],
-    "capacity": 9100,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9341237",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q971948",
@@ -1052,10 +1044,13 @@
     "lat": 40.813663,
     "lng": 72.329307,
     "country": "UZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18360,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1068,10 +1063,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q971948",
     "image_url": "Andijon Bobur Arena - Sog'lom Avlod.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
