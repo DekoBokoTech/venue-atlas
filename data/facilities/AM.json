@@ -1,28 +1,5 @@
 [
   {
-    "id": "Q109653529",
-    "name": "Q109653529",
-    "name_ja": null,
-    "lat": 40.172397222,
-    "lng": 44.517980555,
-    "country": "AM",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109653529",
-    "image_url": "Skate Park Yerevan 03.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q1124949",
     "name": "Karen Demirchyan Complex",
     "name_ja": "カレン・デミルチャン・コンプレックス",
@@ -33,6 +10,7 @@
     "capacity": 8008,
     "opened_year": 1983,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -40,34 +18,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1124949",
     "image_url": "Karen Demirchyan Sports and Concerts Complex shot from air, May 2019.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q11824424",
-    "name": "Q11824424",
-    "name_ja": null,
-    "lat": 40.080833333,
-    "lng": 43.882222222,
-    "country": "AM",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q11824424",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q120246588",
@@ -80,6 +36,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -87,10 +44,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q120246588",
     "image_url": "Olympavan (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1459459",
@@ -99,10 +57,13 @@
     "lat": 40.171944,
     "lng": 44.525833,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 14403,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -119,23 +80,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1459459",
     "image_url": "Hanrapetakan stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15195487",
     "name": "Ayg Stadium",
     "name_ja": null,
     "lat": 39.855,
-    "lng": 44.68916667,
+    "lng": 44.689166666,
     "country": "AM",
     "sport_types": [],
     "capacity": 1280,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -148,11 +111,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15195487",
     "image_url": "Ayg stadium, Ararat.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15217986",
@@ -161,10 +125,13 @@
     "lat": 40.22111111,
     "lng": 44.55527778,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -177,11 +144,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15217986",
     "image_url": "FFA Technical Centre-Academy,Yerevan (cropped).jpg",
     "website": "http://www.footballacademy.am/en/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15226095",
@@ -194,6 +162,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -201,11 +170,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15226095",
     "image_url": "Hovik hayrapetyan equestrian centre, Yerevan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15229585",
@@ -218,6 +188,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -225,23 +196,25 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15229585",
     "image_url": "WaterWorld Yerevan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15269462",
     "name": "Pyunik Stadium",
     "name_ja": null,
-    "lat": 40.18222222,
-    "lng": 44.48916667,
+    "lat": 40.18194444,
+    "lng": 44.49,
     "country": "AM",
     "sport_types": [],
     "capacity": 800,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -254,11 +227,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15269462",
     "image_url": "Pyuniuk Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16300304",
@@ -271,6 +245,7 @@
     "capacity": 3000,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -283,11 +258,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16300304",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16311622",
@@ -300,6 +276,7 @@
     "capacity": 10000,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -317,39 +294,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16311622",
     "image_url": "Armavir stad 18.07.2014.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605724",
-    "name": "Q16605724",
-    "name_ja": null,
-    "lat": 40.1589,
-    "lng": 43.8333,
-    "country": "AM",
-    "sport_types": [],
-    "capacity": 1500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC Vagharshapat",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605724",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16833755",
@@ -362,6 +312,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -369,11 +320,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16833755",
     "image_url": "Armenia Sports Union Spartak Complex (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16846580",
@@ -386,6 +338,7 @@
     "capacity": null,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -398,11 +351,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16846580",
     "image_url": "Noyemberyan stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q16868989",
@@ -411,10 +365,14 @@
     "lat": 39.9556,
     "lng": 44.5442,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 4500,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -427,11 +385,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q16868989",
     "image_url": "Artashat Stadium, Armenia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q20987674",
@@ -444,6 +403,7 @@
     "capacity": null,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -456,11 +416,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q20987674",
     "image_url": "Charentsavan city stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21697940",
@@ -473,6 +434,7 @@
     "capacity": null,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -480,11 +442,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q21697940",
     "image_url": "Armenian soldiers at the Vazgen Sargsyan Military Institute.jpg",
     "website": "https://www.mil.am/hy/structures/65",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q21778015",
@@ -497,6 +460,7 @@
     "capacity": 1200,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -504,10 +468,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q21778015",
     "image_url": "Mika Arena, Yerevan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2499412",
@@ -516,10 +481,13 @@
     "lat": 40.149373,
     "lng": 44.476449,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -532,11 +500,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2499412",
     "image_url": "Mika Stadium.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2503458",
@@ -545,10 +514,13 @@
     "lat": 39.207787,
     "lng": 46.400674,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3500,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -561,11 +533,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2503458",
     "image_url": "Gandzasar stadium, Kapan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495794",
@@ -574,10 +547,13 @@
     "lat": 40.154605,
     "lng": 44.475231,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -590,11 +566,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495794",
     "image_url": "Nairi stad.1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3499859",
@@ -603,10 +580,13 @@
     "lat": 40.785833,
     "lng": 43.833333,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2761,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -619,11 +599,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3499859",
     "image_url": "Gyumri City Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3655326",
@@ -632,10 +613,13 @@
     "lat": 40.268409,
     "lng": 44.635241,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3946,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -648,11 +632,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3655326",
     "image_url": "Abovyan stadium general view.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3655988",
@@ -665,6 +650,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -677,11 +663,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3655988",
     "image_url": "Dilijan stadium, Armenia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4069762",
@@ -690,10 +677,13 @@
     "lat": 40.893333,
     "lng": 45.151111,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2100,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -706,11 +696,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4069762",
     "image_url": "Arnar Stadium, Ijevan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q4145704",
@@ -723,6 +714,7 @@
     "capacity": 1400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -735,11 +727,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4145704",
     "image_url": "Alaverdi stadium, Armenia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q6681149",
@@ -752,6 +745,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -764,11 +758,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6681149",
     "image_url": "Vanadzor, Lori stadium 14.06.2007.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q683493",
@@ -777,10 +772,13 @@
     "lat": 40.180278,
     "lng": 44.494444,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 54208,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -793,11 +791,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q683493",
     "image_url": "Hrazdan Stadium 2013, Yerevan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7849301",
@@ -810,6 +809,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -817,11 +817,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7849301",
     "image_url": "On the ropeway.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q8052584",
@@ -834,6 +835,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -841,11 +843,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q8052584",
     "image_url": "Yerevan velodrome.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q806110",
@@ -854,10 +857,13 @@
     "lat": 40.171426,
     "lng": 44.449938,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -870,11 +876,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q806110",
     "image_url": "Banants Stadium, Yerevan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q80779",
@@ -883,10 +890,13 @@
     "lat": 40.291111,
     "lng": 44.352222,
     "country": "AM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3600,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -899,11 +909,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q80779",
     "image_url": "Kaskahi Marzik Stadium, Ashtarak, 12.08.2013.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q96372369",
@@ -916,6 +927,7 @@
     "capacity": null,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -923,10 +935,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q96372369",
     "image_url": null,
     "website": "https://mil.am/hy/pages/28",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
