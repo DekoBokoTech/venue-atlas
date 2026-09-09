@@ -6,10 +6,13 @@
     "lat": 27.471417,
     "lng": 89.641056,
     "country": "BT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -34,11 +37,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1062074",
     "image_url": "Bhutan archery.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q11801736",
@@ -47,10 +51,13 @@
     "lat": 26.860806,
     "lng": 89.385833,
     "country": "BT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -58,57 +65,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q11801736",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q11811739",
-    "name": "Q11811739",
-    "name_ja": null,
-    "lat": 27.416028,
-    "lng": 89.422194,
-    "country": "BT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q11811739",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12872496",
-    "name": "Q12872496",
-    "name_ja": null,
-    "lat": 27.55,
-    "lng": 90.7333,
-    "country": "BT",
-    "sport_types": [],
-    "capacity": 7000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12872496",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   },
   {
     "id": "Q55635691",
@@ -121,6 +83,7 @@
     "capacity": null,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -128,10 +91,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q55635691",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T22:41:39.410Z"
   }
 ]
