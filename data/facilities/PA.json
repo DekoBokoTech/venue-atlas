@@ -6,10 +6,14 @@
     "lat": 8.106970027,
     "lng": -80.975817488,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "野球",
+      "サッカー"
+    ],
     "capacity": 7500,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -17,61 +21,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q106095218",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q115799251",
-    "name": "Q115799251",
-    "name_ja": null,
-    "lat": 8.281267225,
-    "lng": -82.856226993,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": 4000,
-    "opened_year": 1994,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q115799251",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q119238528",
-    "name": "Q119238528",
-    "name_ja": null,
-    "lat": 9.417138531,
-    "lng": -82.523861474,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": 1200,
-    "opened_year": 2023,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Club Deportivo Bocas Futbol Club",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q119238528",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q122628971",
@@ -84,6 +38,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -91,79 +46,41 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q122628971",
     "image_url": null,
     "website": "https://www.instagram.com/panamatierradecampeones/?hl=es-la",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
-    "id": "Q124957151",
-    "name": "Q124957151",
+    "id": "Q125369067",
+    "name": "COS Sports Plaza",
     "name_ja": null,
-    "lat": 9.082635177,
-    "lng": -79.516500873,
+    "lat": 9.034567114,
+    "lng": -79.443088357,
     "country": "PA",
     "sport_types": [],
-    "capacity": 2000,
-    "opened_year": 2020,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q124957151",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q126911865",
-    "name": "Q126911865",
-    "name_ja": null,
-    "lat": 8.886351504,
-    "lng": -79.776266015,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": 2000,
+    "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q126911865",
-    "image_url": "Inauguración Béisbol Juvenil 2024 en el Estadio Justino Gato Brujo Salinas.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
+    "teams": [
+      {
+        "name": "CDプラサ・アマドル",
+        "url": "https://plazaamador.net/"
+      }
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q126963880",
-    "name": "Q126963880",
-    "name_ja": null,
-    "lat": 8.864165401,
-    "lng": -79.770582188,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": 10000,
-    "opened_year": 2023,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
     "events": [],
     "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q126963880",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q125369067",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q1369622",
@@ -172,10 +89,13 @@
     "lat": 9.035833,
     "lng": -79.469444,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 32000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -188,23 +108,27 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369622",
     "image_url": "Estadio Rommel FernándezA2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q15216939",
     "name": "Estadio Camping Resort",
     "name_ja": null,
-    "lat": 9.13777778,
-    "lng": -79.62027778,
+    "lat": 9.1378,
+    "lng": -79.6204,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": 2001,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -217,11 +141,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q15216939",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q17563321",
@@ -234,6 +159,7 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -246,34 +172,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q17563321",
     "image_url": "Estadio Maracaná Panamá.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q17633801",
-    "name": "Q17633801",
-    "name_ja": null,
-    "lat": 9.033589793,
-    "lng": -79.467709189,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q17633801",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2423987",
@@ -282,10 +186,13 @@
     "lat": 8.98777778,
     "lng": -79.53416667,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -298,11 +205,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2423987",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q2918496",
@@ -311,10 +219,13 @@
     "lat": 8.44388889,
     "lng": -82.42361111,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -327,11 +238,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q2918496",
     "image_url": "Kenny Serracin.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3058818",
@@ -340,10 +252,13 @@
     "lat": 9.041311,
     "lng": -79.5453,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": 27000,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -356,11 +271,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3058818",
     "image_url": "Rodcarew.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3070511",
@@ -369,10 +285,13 @@
     "lat": 8.108889,
     "lng": -80.972778,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -385,11 +304,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3070511",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3070522",
@@ -398,10 +318,13 @@
     "lat": 8.8875,
     "lng": -79.775556,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -414,11 +337,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3070522",
     "image_url": "Estadio Muquita Sanchez.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q30915280",
@@ -431,6 +355,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -438,11 +363,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q30915280",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495522",
@@ -451,10 +377,13 @@
     "lat": 9.344049,
     "lng": -79.89584,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -467,11 +396,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495522",
     "image_url": "Estadio Armando Dely Valdés (Colón).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495538",
@@ -480,10 +410,13 @@
     "lat": 9.030556,
     "lng": -79.498333,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 300,
     "opened_year": 1977,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -496,11 +429,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495538",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495786",
@@ -509,10 +443,13 @@
     "lat": 8.95777778,
     "lng": -79.55916667,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -525,10 +462,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495786",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q3495869",
@@ -537,10 +475,13 @@
     "lat": 8.420278,
     "lng": -82.4425,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2500,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -553,11 +494,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495869",
     "image_url": "Estadio San Cristobal.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q42883906",
@@ -570,6 +512,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -577,10 +520,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q42883906",
     "image_url": "Estadio Roberto Mariano Bula - Flickr - jacf18.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5024344",
@@ -593,6 +537,7 @@
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -600,34 +545,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5024344",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q54810119",
-    "name": "Q54810119",
-    "name_ja": null,
-    "lat": 7.97719603,
-    "lng": -80.429239589,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q54810119",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5747042",
@@ -640,6 +563,7 @@
     "capacity": 900,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -652,57 +576,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5747042",
     "image_url": "Mini Rommel.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5770603",
-    "name": "Q5770603",
-    "name_ja": null,
-    "lat": 9.034493014,
-    "lng": -79.469674676,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5770603",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5847796",
-    "name": "Q5847796",
-    "name_ja": null,
-    "lat": 9.030676566,
-    "lng": -79.498604857,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5847796",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q5848043",
@@ -711,10 +590,13 @@
     "lat": 8.96972222,
     "lng": -79.54222222,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": 25000,
     "opened_year": 1938,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -722,11 +604,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848043",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65116997",
@@ -735,10 +618,13 @@
     "lat": 8.980498721,
     "lng": -79.537709257,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
     "events": [],
@@ -746,10 +632,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65116997",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q65159110",
@@ -758,10 +645,13 @@
     "lat": 8.493056,
     "lng": -80.339444,
     "country": "PA",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -774,11 +664,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65159110",
     "image_url": "Estadio virgilio tejeira.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   },
   {
     "id": "Q7351677",
@@ -791,6 +682,7 @@
     "capacity": 18000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -803,102 +695,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7351677",
     "image_url": "Arena Roberto Durán Panamá.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q81020749",
-    "name": "Q81020749",
-    "name_ja": null,
-    "lat": 7.768629235,
-    "lng": -80.265360457,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": 7000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q81020749",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q95214532",
-    "name": "Q95214532",
-    "name_ja": null,
-    "lat": 8.485543408,
-    "lng": -80.331138757,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2021,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q95214532",
-    "image_url": "Estadio Universidad Latina de Penonomé.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q97180457",
-    "name": "Q97180457",
-    "name_ja": null,
-    "lat": 7.961457498,
-    "lng": -80.431234771,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97180457",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q98966258",
-    "name": "Q98966258",
-    "name_ja": null,
-    "lat": 8.2427257,
-    "lng": -80.551037257,
-    "country": "PA",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q98966258",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-09T15:31:02.176Z"
   }
 ]
