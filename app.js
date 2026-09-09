@@ -261,6 +261,78 @@
   var loadedCountries = {};
   var ZOOM_ALTITUDE_THRESHOLD = 0.5;
   var NEARBY_RADIUS_KM = 500;
+
+  // --- Zoom-responsive marker sizing ---------------------------------------
+  //
+  // globe.gl's pointRadius accessor is NOT re-evaluated every animation
+  // frame: verified by reading the pinned globe.gl@2.32.5 bundle (the
+  // points-layer Kapsule's `update()`, which is where the accessor actually
+  // gets invoked per point, only runs when a triggerUpdate prop setter -
+  // e.g. calling world.pointRadius(fn) or world.pointsData(...) again - is
+  // called; the render loop itself just re-renders the existing three.js
+  // scene). So a fixed-radius accessor stays fixed forever once set, and
+  // making it merely *read* a live "current altitude" variable would do
+  // nothing on its own - the setter has to be re-invoked (with the same
+  // function reference is fine; the Kapsule prop setter has no equality
+  // check and always re-triggers) for the new radius to actually apply.
+  // world.onZoom() below does exactly that, throttled.
+  //
+  // Reachable altitude range: this globe never overrides OrbitControls'
+  // minDistance/maxDistance, so globe.gl's own defaults apply - confirmed
+  // in the bundle as minDistance = 1.01 * GLOBE_RADIUS and
+  // maxDistance = 100 * GLOBE_RADIUS, and altitude is defined there as
+  // (distance / GLOBE_RADIUS) - 1. That means a user can zoom from
+  // altitude ~99 (far) down to altitude ~0.01 (almost touching the
+  // surface) - i.e. well past ZOOM_ALTITUDE_THRESHOLD (0.5) and even past
+  // the 1.15 altitude used for the facility detail-panel fly-to.
+  var RADIUS_FAR_ALTITUDE = 1.0;   // at/above this: unchanged, full baseline size (whole-globe view)
+  var RADIUS_NEAR_ALTITUDE = 0.12; // at/below this: fully tapered down to the floor scale
+  var RADIUS_MIN_SCALE = 0.22;     // floor multiplier at close zoom - shrunk, but still visible/clickable
+  var currentAltitude = 2.3;       // kept in sync by onZoom; starts at the initial pointOfView altitude below
+
+  // Linear taper from 1x (>= RADIUS_FAR_ALTITUDE) down to RADIUS_MIN_SCALE
+  // (<= RADIUS_NEAR_ALTITUDE), clamped outside that range.
+  function pointRadiusScaleForAltitude(altitude) {
+    if (altitude >= RADIUS_FAR_ALTITUDE) return 1;
+    if (altitude <= RADIUS_NEAR_ALTITUDE) return RADIUS_MIN_SCALE;
+    var t = (altitude - RADIUS_NEAR_ALTITUDE) / (RADIUS_FAR_ALTITUDE - RADIUS_NEAR_ALTITUDE);
+    return RADIUS_MIN_SCALE + (1 - RADIUS_MIN_SCALE) * t;
+  }
+
+  // Same capacity-based baseline as before (0.32..0.87 "globe units"),
+  // multiplied by the live zoom-based scale factor so big stadiums still
+  // read as bigger than small ones at any zoom level.
+  function pointRadiusFn(d) {
+    var base = 0.32 + Math.min(d.capacity || 0, 200000) / 200000 * 0.55;
+    return base * pointRadiusScaleForAltitude(currentAltitude);
+  }
+
+  // Re-invoking world.pointRadius(...) forces a full points-layer update
+  // (a data-join over every loaded point, tweening each mesh's scale) -
+  // cheap per call, but onZoom fires on every OrbitControls "change" event,
+  // which the bundle shows firing on essentially every animation frame
+  // while the camera is moving/damping. Throttle to a bounded rate so a
+  // zoom/drag gesture doesn't force thousands-of-points layer updates 60
+  // times a second; the trailing call still catches the final altitude.
+  var RADIUS_REFRESH_MIN_INTERVAL_MS = 60;
+  var lastRadiusRefreshTime = 0;
+  var radiusRefreshTimer = null;
+
+  function refreshPointRadiusNow() {
+    lastRadiusRefreshTime = Date.now();
+    radiusRefreshTimer = null;
+    world.pointRadius(pointRadiusFn);
+  }
+
+  function requestRadiusRefresh() {
+    var elapsed = Date.now() - lastRadiusRefreshTime;
+    if (elapsed >= RADIUS_REFRESH_MIN_INTERVAL_MS) {
+      refreshPointRadiusNow();
+    } else if (!radiusRefreshTimer) {
+      radiusRefreshTimer = setTimeout(refreshPointRadiusNow, RADIUS_REFRESH_MIN_INTERVAL_MS - elapsed);
+    }
+  }
+
   // 6, not 4: verified against the real data/country-centroids.json that Paris
   // has 4 small-territory centroids (BE, LU, JE, GG) strictly closer than FR's
   // own (407km) centroid, so a cap of 4 would still exclude FR for the exact
@@ -342,9 +414,12 @@
     .pointLng('lng')
     .pointColor(function () { return THEMES.real.pointColor; })
     .pointAltitude(0.012)
-    .pointRadius(function (d) { return 0.32 + Math.min(d.capacity || 0, 200000) / 200000 * 0.55; })
+    .pointRadius(pointRadiusFn)
     .pointLabel(function (d) { return d.name_ja ? esc(d.name_ja) + ' / ' + esc(d.name) : esc(d.name); })
-    .pointsMerge(false);
+    .pointsMerge(false)
+    // Shorter than the 1000ms default so radius changes track the live
+    // zoom gesture instead of visibly lagging a second behind it.
+    .pointsTransitionDuration(150);
 
   world.pointOfView({ lat: 20, lng: 40, altitude: 2.3 }, 0);
 
@@ -356,6 +431,8 @@
   }
 
   world.onZoom(function (pov) {
+    currentAltitude = pov.altitude;
+    requestRadiusRefresh();
     if (pov.altitude < ZOOM_ALTITUDE_THRESHOLD) {
       nearestCountries(pov.lat, pov.lng).forEach(loadCountryData);
     }
