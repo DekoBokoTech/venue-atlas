@@ -476,6 +476,7 @@
 
     panelScroll.innerHTML = html;
     panel.classList.add('open');
+    if (listPanel) listPanel.classList.remove('open');
 
     world.pointOfView({ lat: d.lat, lng: d.lng, altitude: 1.15 }, 900);
     if (controls) controls.autoRotate = false;
@@ -595,6 +596,7 @@
   listOpenBtn.addEventListener('click', function () {
     renderList();
     listPanel.classList.add('open');
+    if (panel) panel.classList.remove('open');
   });
 
   listPanelClose.addEventListener('click', function () {
