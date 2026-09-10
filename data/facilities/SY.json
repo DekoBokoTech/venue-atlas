@@ -18,6 +18,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q11318928",
@@ -28,7 +34,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12244940",
@@ -44,6 +50,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Homs_Baba_Amr_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12244940",
@@ -54,7 +61,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q128801753",
@@ -70,6 +77,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q128801753",
@@ -79,7 +87,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15178808",
@@ -95,6 +103,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shaba_Sports_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15178808",
@@ -105,7 +114,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15178825",
@@ -121,6 +130,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Sports_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15178825",
@@ -131,7 +141,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15196987",
@@ -147,6 +157,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Anatolia_Swimming_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15196987",
@@ -157,7 +168,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15241809",
@@ -173,6 +184,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Latakia_Sports_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15241809",
@@ -183,7 +195,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17510901",
@@ -199,6 +211,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Tennis_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17510901",
@@ -209,7 +222,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17511307",
@@ -225,6 +238,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Muhafaza_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17511307",
@@ -235,7 +249,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18204942",
@@ -251,6 +265,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Olympic_Swimming_and_Diving_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18204942",
@@ -261,7 +276,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18208833",
@@ -277,6 +292,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Ittihad_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18208833",
@@ -287,7 +303,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18209874",
@@ -303,6 +319,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ri'ayet_al-Shabab_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18209874",
@@ -313,7 +330,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18346240",
@@ -336,6 +353,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/7_April_Stadium_(Qamishli)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18346240",
@@ -346,7 +364,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18394534",
@@ -362,6 +380,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tishreen_Stadium_(al-Hasakah)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18394534",
@@ -372,7 +391,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q306006",
@@ -407,6 +426,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%90%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q306006",
@@ -417,7 +442,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3110888",
@@ -440,6 +465,12 @@
         "url": "http://www.alkarameh.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%89%E3%83%BB%E3%82%A4%E3%83%96%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%AF%E3%83%AA%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3110888",
@@ -450,7 +481,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3271434",
@@ -471,6 +502,7 @@
         "url": "http://footballsyria.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%9E%E3%83%80%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3271434",
@@ -481,7 +513,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4117069",
@@ -497,6 +529,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Latakia_Sports_City",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4117069",
@@ -507,7 +540,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4117973",
@@ -530,6 +563,12 @@
         "url": "http://www.hutteensc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Latakia_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4117973",
@@ -540,7 +579,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119334",
@@ -556,6 +595,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Jalaa_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119334",
@@ -566,7 +606,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702254",
@@ -587,6 +627,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jableh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702254",
@@ -597,7 +643,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702278",
@@ -618,6 +664,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hasakah_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702278",
@@ -628,7 +680,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702394",
@@ -649,6 +701,7 @@
         "url": "http://www.baradaclub.net/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Fayhaa_Stadium_(Damascus)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702394",
@@ -659,7 +712,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4716186",
@@ -682,6 +735,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/7_April_Stadium_(Aleppo)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4716186",
@@ -692,7 +746,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5252537",
@@ -713,6 +767,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Deir_ez-Zor_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5252537",
@@ -723,7 +783,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5643915",
@@ -744,6 +804,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hama_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5643915",
@@ -754,7 +820,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5891872",
@@ -770,6 +836,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2023 Homs drone strike",
@@ -785,7 +852,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61043443",
@@ -803,6 +870,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Idlib_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61043443",
@@ -813,7 +881,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q734097",
@@ -836,6 +904,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%83%9D%E5%9B%BD%E9%9A%9B%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q734097",
@@ -846,6 +920,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
