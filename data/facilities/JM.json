@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alcoa_Sports_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q111936840",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111946898",
@@ -39,6 +40,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kaiser_Sports_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q111946898",
@@ -49,7 +51,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111962725",
@@ -65,6 +67,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_Frank_Worrell_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q111962725",
@@ -75,7 +78,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q114012023",
@@ -94,6 +97,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114012023",
@@ -103,7 +107,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q114089774",
@@ -122,6 +126,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114089774",
@@ -131,7 +136,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q114099750",
@@ -149,6 +154,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114099750",
@@ -158,7 +164,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370745",
@@ -176,6 +182,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sabina_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370745",
@@ -186,7 +193,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1661072",
@@ -209,6 +216,7 @@
         "url": "https://jff.football/reggae-boyz/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%9A%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF_(%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%A4%E3%82%AB)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1661072",
@@ -219,7 +227,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3557089",
@@ -240,6 +248,12 @@
         "url": "https://hvfc.net/"
       }
     ],
+    "leagues": [
+      {
+        "name": "National Premier League",
+        "name_ja": "ジャマイカン・ナショナルプレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Harbour_View_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3557089",
@@ -250,7 +264,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4120542",
@@ -268,6 +282,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trelawny_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4120542",
@@ -278,7 +293,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5052710",
@@ -301,6 +316,12 @@
         "url": "http://www.mbufc.club/"
       }
     ],
+    "leagues": [
+      {
+        "name": "National Premier League",
+        "name_ja": "ジャマイカン・ナショナルプレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Montego_Bay_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5052710",
@@ -311,7 +332,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5055390",
@@ -327,6 +348,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Caymanas_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5055390",
@@ -337,7 +359,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5365270",
@@ -353,6 +375,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Elleston_Wakeland_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5365270",
@@ -363,7 +386,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5373557",
@@ -379,6 +402,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Emmett_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5373557",
@@ -389,7 +413,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5443780",
@@ -410,6 +434,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "National Premier League",
+        "name_ja": "ジャマイカン・ナショナルプレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdi_Neita_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5443780",
@@ -420,7 +450,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5505738",
@@ -436,6 +466,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Frome_Sports_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5505738",
@@ -446,7 +477,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6161025",
@@ -469,6 +500,12 @@
         "url": "http://www.mbufc.club/"
       }
     ],
+    "leagues": [
+      {
+        "name": "National Premier League",
+        "name_ja": "ジャマイカン・ナショナルプレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jarrett_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6161025",
@@ -479,7 +516,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6811846",
@@ -502,6 +539,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Melbourne_Park%2C_Kingston",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6811846",
@@ -512,7 +550,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7245753",
@@ -528,6 +566,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Prison_Oval",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7245753",
@@ -538,7 +577,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7284184",
@@ -554,6 +593,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Railway_Oval",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7284184",
@@ -564,7 +604,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7848439",
@@ -582,6 +622,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tryall_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7848439",
@@ -592,6 +633,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
