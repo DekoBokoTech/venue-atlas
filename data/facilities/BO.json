@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104836063",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q104836794",
@@ -38,6 +39,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104836794",
@@ -47,7 +49,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124518347",
@@ -65,6 +67,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124518347",
@@ -74,7 +77,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q132011639",
@@ -90,6 +93,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q132011639",
@@ -99,7 +103,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369261",
@@ -130,6 +134,12 @@
         "url": "https://alwaysready.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%AC%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369261",
@@ -140,7 +150,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17364246",
@@ -158,6 +168,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q17364246",
@@ -167,7 +178,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18397955",
@@ -183,6 +194,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18397955",
@@ -192,7 +204,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2017250",
@@ -215,6 +227,12 @@
         "url": "http://www.sanjosefc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jes%C3%BAs_Berm%C3%BAdez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2017250",
@@ -225,7 +243,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2408913",
@@ -248,6 +266,12 @@
         "url": "https://www.clubrealpotosi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2408913",
@@ -258,7 +282,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2628469",
@@ -281,6 +305,12 @@
         "url": "https://www.orientepetrolero.com.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ram%C3%B3n_Tahuichi_Aguilera",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2628469",
@@ -291,7 +321,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2705722",
@@ -318,6 +348,16 @@
         "url": "http://www.clubaurora.com.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      },
+      {
+        "name": "Nacional B 2016-17 (Bolivia)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_F%C3%A9lix_Capriles",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2705722",
@@ -328,7 +368,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28220464",
@@ -344,6 +384,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Edgar_Pe%C3%B1a_Gutierrez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28220464",
@@ -354,7 +395,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3058801",
@@ -377,6 +418,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_IV_Centenario",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3058801",
@@ -387,7 +429,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400235",
@@ -408,6 +450,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Gran_Mamor%C3%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400235",
@@ -418,7 +466,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400237",
@@ -439,6 +487,12 @@
         "url": "http://www.clubguabira.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Gilberto_Parada",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400237",
@@ -449,7 +503,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400301",
@@ -470,6 +524,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Juan_Carlos_Dur%C3%A1n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400301",
@@ -480,7 +535,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400337",
@@ -501,6 +556,12 @@
         "url": "https://clubbolivar.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Libertador_Sim%C3%B3n_Bol%C3%ADvar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400337",
@@ -511,7 +572,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400464",
@@ -532,6 +593,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Rafael_Mendoza",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400464",
@@ -542,7 +609,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60588818",
@@ -563,6 +630,12 @@
         "url": "https://alwaysready.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Alto_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60588818",
@@ -573,7 +646,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61877434",
@@ -591,6 +664,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Bicentenario_de_Villa_Tunari",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61877434",
@@ -601,7 +675,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q747644",
@@ -624,6 +698,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Patria",
     "wikidata_url": "https://www.wikidata.org/wiki/Q747644",
@@ -634,6 +714,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
