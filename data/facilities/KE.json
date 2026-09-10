@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/William_Ole_Ntimama_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108414955",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111241834",
@@ -41,6 +42,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q111241834",
@@ -50,7 +52,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q121766817",
@@ -68,6 +70,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121766817",
@@ -77,7 +80,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1385710",
@@ -101,6 +104,7 @@
         "url": "https://footballkenya.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Moi_International_Sports_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1385710",
@@ -111,7 +115,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15036590",
@@ -127,6 +131,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%B3%E3%82%B4%E3%83%B3%E3%82%B0%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15036590",
@@ -137,7 +142,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15036603",
@@ -158,6 +163,12 @@
         "url": "http://www.ligindogo.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "FKF Division One",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15036603",
@@ -167,7 +178,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1582845",
@@ -190,6 +201,12 @@
         "url": "http://www.afcleopards.net/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kenyan Premier League",
+        "name_ja": "ケニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A3%E3%83%A8%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1582845",
@@ -200,7 +217,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21015845",
@@ -216,6 +233,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defence_College%2C_Kenya",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21015845",
@@ -226,7 +244,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2975412",
@@ -244,6 +262,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Muthaiga_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2975412",
@@ -254,7 +273,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4689416",
@@ -270,6 +289,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Afraha_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4689416",
@@ -280,7 +300,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4986856",
@@ -296,6 +316,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bukhungu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4986856",
@@ -306,7 +327,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5090360",
@@ -327,6 +348,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Kenyan Premier League",
+        "name_ja": "ケニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chemelil_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5090360",
@@ -337,7 +364,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5620901",
@@ -358,6 +385,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "FKF Division One",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gusii_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5620901",
@@ -368,7 +401,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6414612",
@@ -384,6 +417,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kipchoge_Keino_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6414612",
@@ -394,7 +428,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65065842",
@@ -412,6 +446,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Park_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65065842",
@@ -422,7 +457,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6897056",
@@ -443,6 +478,12 @@
         "url": "http://bandarifc.co.ke"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kenyan Premier League",
+        "name_ja": "ケニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mombasa_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6897056",
@@ -453,7 +494,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6959780",
@@ -478,6 +519,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Kenyan Premier League",
+        "name_ja": "ケニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nairobi_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6959780",
@@ -488,7 +535,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6959784",
@@ -506,6 +553,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gymkhana_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6959784",
@@ -516,7 +564,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7276595",
@@ -541,6 +589,7 @@
         "url": "https://www.kru.co.ke"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/RFUEA_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7276595",
@@ -551,7 +600,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7375724",
@@ -572,6 +621,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ruaraka_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7375724",
@@ -582,7 +632,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7555904",
@@ -598,6 +648,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Solar_Ice_Rink",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7555904",
@@ -608,6 +659,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
