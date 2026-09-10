@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q105553922",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110135553",
@@ -43,6 +44,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Third Macedonian Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110135553",
@@ -52,7 +59,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115162062",
@@ -70,6 +77,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115162062",
@@ -79,7 +87,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115162086",
@@ -102,6 +110,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115162086",
@@ -111,7 +120,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115526851",
@@ -129,6 +138,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115526851",
@@ -138,7 +148,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115607807",
@@ -154,6 +164,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115607807",
@@ -163,7 +174,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1164804",
@@ -195,6 +206,16 @@
         "url": "https://ffm.mk/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      },
+      {
+        "name": "Macedonian Second Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B7%E3%82%A7%E3%83%BB%E3%83%97%E3%83%AD%E3%82%A8%E3%82%B9%E3%82%AD%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1164804",
@@ -205,7 +226,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q122585254",
@@ -221,6 +242,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122585254",
@@ -230,7 +252,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12905638",
@@ -246,6 +268,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Academy_of_North_Macedonia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12905638",
@@ -256,7 +279,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12910638",
@@ -274,6 +297,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q12910638",
@@ -283,7 +307,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12910664",
@@ -310,6 +334,12 @@
         "url": "http://www.fkmetalurg.com.mk/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%BDelezarnica_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12910664",
@@ -320,7 +350,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135447205",
@@ -338,6 +368,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135447205",
@@ -347,7 +378,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15221997",
@@ -368,6 +399,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Stadium_Gostivar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15221997",
@@ -378,7 +410,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16246857",
@@ -399,6 +431,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Macedonian Regional Leagues",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_Stadium_Kumanovo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16246857",
@@ -409,7 +447,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16256063",
@@ -432,6 +470,12 @@
         "url": "https://fcshkupi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Cair_Stadium_(North_Macedonia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16256063",
@@ -442,7 +486,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1983063",
@@ -465,6 +509,12 @@
         "url": "https://fkbelasica.mk/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Macedonian Second Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Blagoj_Istatov",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1983063",
@@ -475,7 +525,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2047802",
@@ -491,6 +541,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gjor%C4%8De_Petrov_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2047802",
@@ -501,7 +552,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20560111",
@@ -520,6 +571,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20560111",
@@ -529,7 +581,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20568683",
@@ -552,6 +604,12 @@
         "url": "http://www.kkrabotnicki.mk"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Basketball League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20568683",
@@ -561,7 +619,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20569300",
@@ -580,6 +638,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20569300",
@@ -589,7 +648,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20873160",
@@ -605,6 +664,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20873160",
@@ -614,7 +674,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2946074",
@@ -635,6 +695,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Boris_Trajkovski_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2946074",
@@ -645,7 +706,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3112563",
@@ -661,6 +722,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Popova_%C5%A0apka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3112563",
@@ -671,7 +733,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3396233",
@@ -698,6 +760,16 @@
         "url": "http://www.napred-teteks.mk/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      },
+      {
+        "name": "Macedonian Second Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ecolog_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3396233",
@@ -708,7 +780,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3398718",
@@ -729,6 +801,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Third Macedonian Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_stadion_Ki%C4%8Devo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3398718",
@@ -739,7 +817,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3405290",
@@ -760,6 +838,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_Stadion_Kratovo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3405290",
@@ -770,7 +854,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3405411",
@@ -791,6 +875,12 @@
         "url": "http://fkhorizont-turnovo.com/index.php"
       }
     ],
+    "leagues": [
+      {
+        "name": "Third Macedonian Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Kuku%C5%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3405411",
@@ -801,7 +891,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3405491",
@@ -822,6 +912,12 @@
         "url": "https://fkpelister.mk/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Macedonian Second Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Petar_Milo%C5%A1evski_Football_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3405491",
@@ -832,7 +928,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3407051",
@@ -848,6 +944,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Biljanini_Izvori_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3407051",
@@ -858,7 +955,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3574847",
@@ -874,6 +971,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3574847",
@@ -883,7 +981,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3624232",
@@ -910,6 +1008,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Macedonian Regional Leagues",
+        "name_ja": null
+      },
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/KF_Bashkimi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3624232",
@@ -920,7 +1028,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4782594",
@@ -936,6 +1044,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aqua_Park_Macedonia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4782594",
@@ -946,7 +1055,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4945411",
@@ -962,6 +1071,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Boris_Trajkovski_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4945411",
@@ -972,7 +1082,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5591979",
@@ -993,6 +1103,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Third Macedonian Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradska_Pla%C5%BEa_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5591979",
@@ -1003,7 +1119,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5591980",
@@ -1024,6 +1140,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_Stadion_Kavadarci",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5591980",
@@ -1034,7 +1156,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5591991",
@@ -1055,6 +1177,12 @@
         "url": "http://www.fkbregalnica.mk/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Football League",
+        "name_ja": "プルヴァ・マケドンスカ・フドバルスカ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_stadion_%C5%A0tip",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5591991",
@@ -1065,7 +1193,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6016784",
@@ -1083,6 +1211,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Independent_Macedonia_(sport_hall)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6016784",
@@ -1093,7 +1222,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6152715",
@@ -1118,6 +1247,12 @@
         "url": "http://www.rkvardar.com.mk"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Basketball League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jane_Sandanski_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6152715",
@@ -1128,7 +1263,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6161718",
@@ -1149,6 +1284,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Basketball League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jasmin_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6161718",
@@ -1159,7 +1300,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7392799",
@@ -1180,6 +1321,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Macedonian Second Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SRC_Biljanini_Izvori",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7392799",
@@ -1190,7 +1337,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7392801",
@@ -1215,6 +1362,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Basketball League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SRC_Kale",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7392801",
@@ -1225,7 +1378,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q741274",
@@ -1241,6 +1394,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cementarnica_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q741274",
@@ -1251,7 +1405,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7579728",
@@ -1272,6 +1426,12 @@
         "url": "http://kkkumanovo.orgfree.com/Home.html"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Macedonian Basketball League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sports_Hall_Kumanovo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579728",
@@ -1282,7 +1442,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7579729",
@@ -1303,6 +1463,7 @@
         "url": "http://rkpelister.mk/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Boro_%C4%8Curlevski_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579729",
@@ -1313,7 +1474,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7579731",
@@ -1329,6 +1490,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sports_Hall_Sokolana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579731",
@@ -1339,7 +1501,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596322",
@@ -1360,6 +1522,12 @@
         "url": "http://www.fkosogovo.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Third Macedonian Football League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Nikola_Mantov",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596322",
@@ -1370,7 +1538,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596472",
@@ -1388,6 +1556,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Bogovinje",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596472",
@@ -1398,7 +1567,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q767593",
@@ -1419,6 +1588,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Goce_Del%C4%8Dev",
     "wikidata_url": "https://www.wikidata.org/wiki/Q767593",
@@ -1429,6 +1599,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
