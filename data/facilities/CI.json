@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109318354",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1132986",
@@ -45,6 +46,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -64,7 +66,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q126371939",
@@ -85,6 +87,7 @@
         "url": "http://www.blaisepascal.ci"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126371939",
@@ -94,7 +97,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q141175181",
@@ -110,6 +113,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141175181",
@@ -119,7 +123,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1999706",
@@ -146,6 +150,12 @@
       {
         "name": "Académie de Sol Beni",
         "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
       }
     ],
     "events": [
@@ -179,7 +189,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20734735",
@@ -202,6 +212,12 @@
         "url": "http://www.asec.ci"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20734735",
@@ -211,7 +227,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28404333",
@@ -234,6 +250,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -249,7 +266,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3361150",
@@ -267,6 +284,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3361150",
@@ -277,7 +295,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3364323",
@@ -300,6 +318,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3364323",
@@ -309,7 +333,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495528",
@@ -332,6 +356,12 @@
         "url": "http://stella.footeo.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(San-P%C3%A9dro)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495528",
@@ -342,7 +372,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495953",
@@ -365,6 +395,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_d'Issia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495953",
@@ -375,7 +411,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496144",
@@ -398,6 +434,12 @@
         "url": "http://asdenguele.co.cc/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_El-Hadj-Mamadou-Coulibaly",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496144",
@@ -408,7 +450,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496147",
@@ -435,6 +477,12 @@
         "url": "http://www.asec.ci"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_d'Abidjan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496147",
@@ -445,7 +493,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496166",
@@ -468,6 +516,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Bouna)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496166",
@@ -478,7 +527,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496167",
@@ -501,6 +550,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Daloa)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496167",
@@ -511,7 +566,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48783549",
@@ -535,6 +590,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -550,7 +606,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48965470",
@@ -573,6 +629,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -588,7 +645,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48965473",
@@ -611,6 +668,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -626,7 +684,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596151",
@@ -644,6 +702,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Bingerville)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596151",
@@ -654,7 +713,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q781453",
@@ -678,6 +737,12 @@
         "url": "http://www.africasports.ci/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Champroux_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q781453",
@@ -688,6 +753,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
