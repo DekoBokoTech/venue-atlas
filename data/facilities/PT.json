@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10267760",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10268719",
@@ -55,6 +56,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Andebol",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Drag%C3%A3o_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10268719",
@@ -65,7 +72,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10276759",
@@ -88,6 +95,12 @@
         "url": "https://www.alcochetense.pt/pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10276759",
@@ -97,7 +110,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10276876",
@@ -115,6 +128,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Dr._Manuel_de_Mello",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10276876",
@@ -125,7 +139,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10276896",
@@ -143,6 +157,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10276896",
@@ -152,7 +167,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277195",
@@ -171,6 +186,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277195",
@@ -180,7 +196,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277320",
@@ -199,6 +215,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277320",
@@ -208,7 +225,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277485",
@@ -231,6 +248,16 @@
         "url": "http://www.gdsesimbra.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      },
+      {
+        "name": "Portuguese Roller Hockey 3rd Division",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277485",
@@ -240,7 +267,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277537",
@@ -261,6 +288,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Centro_Desportivo_da_Madeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277537",
@@ -271,7 +304,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10302837",
@@ -287,6 +320,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_Joint_Command_and_Staff_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10302837",
@@ -297,7 +331,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313919",
@@ -313,6 +347,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313919",
@@ -322,7 +357,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313929",
@@ -338,6 +373,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313929",
@@ -347,7 +383,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313933",
@@ -363,6 +399,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313933",
@@ -372,7 +409,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313937",
@@ -388,6 +425,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313937",
@@ -397,7 +435,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1031484",
@@ -420,6 +458,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_Adelino_Rodrigues",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1031484",
@@ -430,7 +474,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10317955",
@@ -448,6 +492,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10317955",
@@ -457,7 +502,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1032105",
@@ -480,6 +525,7 @@
         "url": "http://www.beiramar.pt"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A0%E3%83%8B%E3%82%B7%E3%83%91%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%AD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1032105",
@@ -490,7 +536,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10332119",
@@ -506,6 +552,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10332119",
@@ -515,7 +562,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10345489",
@@ -531,6 +578,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10345489",
@@ -540,7 +588,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10346944",
@@ -556,6 +604,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Desportivo_Municipal_da_P%C3%B3voa_de_Varzim",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10346944",
@@ -566,7 +615,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10346950",
@@ -582,6 +631,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Super_Bock_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10346950",
@@ -592,7 +642,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10346951",
@@ -608,6 +658,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10346951",
@@ -617,7 +668,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10350073",
@@ -633,6 +684,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10350073",
@@ -642,7 +694,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353462",
@@ -658,6 +710,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353462",
@@ -667,7 +720,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353464",
@@ -683,6 +736,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353464",
@@ -692,7 +746,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353465",
@@ -708,6 +762,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353465",
@@ -717,7 +772,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353467",
@@ -733,6 +788,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353467",
@@ -742,7 +798,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353469",
@@ -758,6 +814,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353469",
@@ -767,7 +824,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10356314",
@@ -785,6 +842,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Quinta_da_Beloura",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10356314",
@@ -795,7 +853,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1056864",
@@ -819,6 +877,12 @@
         "url": "https://www.uniaodeleiria.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BBDr.%E3%83%9E%E3%82%AC%E3%83%AA%E3%83%A3%E3%83%B3%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9A%E3%83%83%E3%82%BD%E3%82%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1056864",
@@ -829,7 +893,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1057274",
@@ -856,6 +920,20 @@
         "url": "https://vitoriasc.pt/equipa-b/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      },
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      },
+      {
+        "name": "Liga 3",
+        "name_ja": "リーガ3"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BBD._%E3%82%A2%E3%83%95%E3%82%A9%E3%83%B3%E3%82%BD%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%AA%E3%82%B1%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1057274",
@@ -866,7 +944,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1058494",
@@ -889,6 +967,12 @@
         "url": "https://boavistafc.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Porto Football Association",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%89%E3%83%BB%E3%83%99%E3%83%83%E3%82%B5",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1058494",
@@ -899,7 +983,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q106345886",
@@ -915,6 +999,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_dos_Barreiros",
     "wikidata_url": "https://www.wikidata.org/wiki/Q106345886",
@@ -925,7 +1010,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1067308",
@@ -949,6 +1034,12 @@
         "url": "http://www.academica-oaf.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B7%E3%83%80%E3%83%BC%E3%83%87%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%96%E3%83%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1067308",
@@ -959,7 +1050,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107104537",
@@ -975,6 +1066,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107104537",
@@ -984,7 +1076,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107429898",
@@ -1002,6 +1094,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107429898",
@@ -1011,7 +1104,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107717915",
@@ -1027,6 +1120,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107717915",
@@ -1036,7 +1130,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107718340",
@@ -1052,6 +1146,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "解体",
@@ -1066,7 +1161,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109287328",
@@ -1082,6 +1177,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109287328",
@@ -1091,7 +1187,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109408147",
@@ -1122,6 +1218,16 @@
         "url": "http://www.gdsesimbra.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      },
+      {
+        "name": "Portuguese Roller Hockey 3rd Division",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109408147",
@@ -1131,7 +1237,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109408396",
@@ -1159,6 +1265,16 @@
         "url": "https://www.sesimbra.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      },
+      {
+        "name": "Portuguese Roller Hockey 3rd Division",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109408396",
@@ -1168,7 +1284,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110594449",
@@ -1184,6 +1300,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pista_Autom%C3%B3vel_de_Montalegre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110594449",
@@ -1194,7 +1311,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1108805",
@@ -1210,6 +1327,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1108805",
@@ -1220,7 +1338,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110909514",
@@ -1236,6 +1354,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110909514",
@@ -1245,7 +1364,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111889736",
@@ -1263,6 +1382,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q111889736",
@@ -1272,7 +1392,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1121591",
@@ -1288,6 +1408,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1121591",
@@ -1297,7 +1418,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113800022",
@@ -1313,6 +1434,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113800022",
@@ -1322,7 +1444,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115196367",
@@ -1338,6 +1460,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115196367",
@@ -1347,7 +1470,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115288648",
@@ -1363,6 +1486,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115288648",
@@ -1372,7 +1496,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116113161",
@@ -1388,6 +1512,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%94%E3%83%8A%E3%83%BB%E3%83%9E%E3%83%8B%E3%82%B1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q116113161",
@@ -1398,7 +1523,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116694933",
@@ -1414,6 +1539,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116694933",
@@ -1423,7 +1549,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116695571",
@@ -1439,6 +1565,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116695571",
@@ -1448,7 +1575,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1167583",
@@ -1471,6 +1598,12 @@
         "url": "http://www.gilvicentefc.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B7%E3%83%80%E3%83%BC%E3%83%87%E3%83%BB%E3%83%87%E3%83%BB%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1167583",
@@ -1481,7 +1614,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q11813268",
@@ -1497,6 +1630,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q11813268",
@@ -1506,7 +1640,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123536703",
@@ -1522,6 +1656,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123536703",
@@ -1531,7 +1666,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1272724",
@@ -1554,6 +1689,12 @@
         "url": "https://www.csmaritimo.org.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1272724",
@@ -1564,7 +1705,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1293399",
@@ -1587,6 +1728,12 @@
         "url": "https://www.fcfamalicao.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_22_de_Junho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1293399",
@@ -1597,7 +1744,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130742797",
@@ -1613,6 +1760,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130742797",
@@ -1622,7 +1770,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1308776",
@@ -1645,6 +1793,12 @@
         "url": "https://www.portimonense.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Portim%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1308776",
@@ -1655,7 +1809,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131019705",
@@ -1671,6 +1825,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131019705",
@@ -1680,7 +1835,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131762236",
@@ -1705,6 +1860,7 @@
         "url": "https://www.fpf.pt/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cidade_do_Futebol",
     "wikidata_url": "https://www.wikidata.org/wiki/Q131762236",
@@ -1715,7 +1871,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1327324",
@@ -1739,6 +1895,7 @@
         "url": "https://www.fpf.pt/pt/selecoes/futebol-masculino/selecao-a"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%8A%E3%82%B7%E3%82%AA%E3%83%8A%E3%83%AB_(%E3%83%AA%E3%82%B9%E3%83%9C%E3%83%B3)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1327324",
@@ -1749,7 +1906,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133805483",
@@ -1765,6 +1922,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133805483",
@@ -1774,7 +1932,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133805515",
@@ -1790,6 +1948,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133805515",
@@ -1799,7 +1958,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1343518",
@@ -1823,6 +1982,12 @@
         "url": "http://www.acmarinhense.pt"
       }
     ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_da_Marinha_Grande",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1343518",
@@ -1833,7 +1998,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136001729",
@@ -1851,6 +2016,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136001729",
@@ -1860,7 +2026,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136111570",
@@ -1876,6 +2042,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136111570",
@@ -1885,7 +2052,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369675",
@@ -1909,6 +2076,12 @@
         "url": "http://academicodeviseufc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Fontelo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369675",
@@ -1919,7 +2092,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370636",
@@ -1937,6 +2110,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370636",
@@ -1946,7 +2120,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370647",
@@ -1969,6 +2143,12 @@
         "url": "https://estorilpraia.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BB%E3%83%80%E3%83%BB%E3%83%A2%E3%82%BF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370647",
@@ -1979,7 +2159,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370681",
@@ -2002,6 +2182,12 @@
         "url": "https://scolhanense.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Algarve Football Association",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Arcanjo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370681",
@@ -2012,7 +2198,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370693",
@@ -2035,6 +2221,12 @@
         "url": "http://www.cdfeirense.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Marcolino_de_Castro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370693",
@@ -2045,7 +2237,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370699",
@@ -2061,6 +2253,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370699",
@@ -2070,7 +2263,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370706",
@@ -2093,6 +2286,12 @@
         "url": "https://fcarouca.eu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A0%E3%83%8B%E3%82%B7%E3%83%91%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%AD%E3%82%A6%E3%82%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370706",
@@ -2103,7 +2302,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370708",
@@ -2127,6 +2326,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Jos%C3%A9_Bento_Pessoa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370708",
@@ -2137,7 +2342,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370763",
@@ -2160,6 +2365,12 @@
         "url": "http://www.fcpf.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%80%E3%83%BB%E3%83%9E%E3%82%BF%E3%83%BB%E3%83%AC%E3%82%A2%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370763",
@@ -2170,7 +2381,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370765",
@@ -2193,6 +2404,12 @@
         "url": "http://www.cdnacional.pt"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Madeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370765",
@@ -2203,7 +2420,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370770",
@@ -2224,6 +2441,12 @@
         "url": "https://www.atleticocp.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga 3",
+        "name_ja": "リーガ3"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Tapadinha",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370770",
@@ -2234,7 +2457,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370781",
@@ -2257,6 +2480,12 @@
         "url": "https://vfc.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Bonfim",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370781",
@@ -2267,7 +2496,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370792",
@@ -2290,6 +2519,12 @@
         "url": "http://www.leixoessc.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Mar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370792",
@@ -2300,7 +2535,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370811",
@@ -2328,6 +2563,12 @@
         "url": "http://www.belenensesrugby.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Restelo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370811",
@@ -2338,7 +2579,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138516664",
@@ -2367,6 +2608,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Futsal",
+        "name_ja": "リーガ・ポルトゥゲーザ・ヂ・フットサル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Ac%C3%A1cio_Rosa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q138516664",
@@ -2377,7 +2624,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138634224",
@@ -2393,6 +2640,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138634224",
@@ -2402,7 +2650,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q139852807",
@@ -2418,6 +2666,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139852807",
@@ -2427,7 +2676,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q140129410",
@@ -2445,6 +2694,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q140129410",
@@ -2454,7 +2704,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1463929",
@@ -2472,6 +2722,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BB%E3%83%91%E3%83%93%E3%83%AA%E3%82%AA%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1463929",
@@ -2482,7 +2733,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15110461",
@@ -2506,6 +2757,12 @@
         "url": "http://www.fcporto.pt"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Jorge_Sampaio",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15110461",
@@ -2516,7 +2773,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15216991",
@@ -2534,6 +2791,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15216991",
@@ -2543,7 +2801,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16154563",
@@ -2564,6 +2822,12 @@
         "url": "http://www.su1dezembro.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_Conde_de_Sucena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16154563",
@@ -2574,7 +2838,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16154569",
@@ -2590,6 +2854,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Complexo_Desportivo_Conde_de_Sucena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16154569",
@@ -2600,7 +2865,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16487411",
@@ -2616,6 +2881,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16487411",
@@ -2625,7 +2891,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16611566",
@@ -2646,6 +2912,12 @@
         "url": "https://www.osbelenenses.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_das_Sal%C3%A9sias",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16611566",
@@ -2656,7 +2928,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632396",
@@ -2679,6 +2951,12 @@
         "url": "https://cdtondela.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jo%C3%A3o_Cardoso",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632396",
@@ -2689,7 +2967,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q172874",
@@ -2705,6 +2983,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q172874",
@@ -2715,7 +2994,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q172890",
@@ -2731,6 +3010,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "ポルトガルグランプリ",
@@ -2746,7 +3026,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q174062",
@@ -2762,6 +3042,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "ポルトガルグランプリ",
@@ -2777,7 +3058,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1750602",
@@ -2793,6 +3074,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tidal_pools_of_Le%C3%A7a_de_Palmeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1750602",
@@ -2803,7 +3085,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18476179",
@@ -2819,6 +3101,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18476179",
@@ -2828,7 +3111,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18479164",
@@ -2849,6 +3132,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18479164",
@@ -2858,7 +3142,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20060665",
@@ -2874,6 +3158,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vila_Franca_de_Xira_Bullring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20060665",
@@ -2884,7 +3169,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20161262",
@@ -2900,6 +3185,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Circuito_Internacional_de_Vila_Real",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20161262",
@@ -2910,7 +3196,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2064711",
@@ -2926,6 +3212,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2064711",
@@ -2935,7 +3222,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20716401",
@@ -2956,6 +3243,12 @@
         "url": "http://www.csmaritimo.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_da_Imaculada_Concei%C3%A7%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20716401",
@@ -2966,7 +3259,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2096915",
@@ -2982,6 +3275,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2096915",
@@ -2991,7 +3285,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2096924",
@@ -3007,6 +3301,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2096924",
@@ -3016,7 +3311,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21051297",
@@ -3034,6 +3329,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21051297",
@@ -3043,7 +3339,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21403383",
@@ -3059,6 +3355,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21403383",
@@ -3068,7 +3365,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2273637",
@@ -3086,6 +3383,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2273637",
@@ -3095,7 +3393,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2303252",
@@ -3113,6 +3411,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Porto_Santo_Golfe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2303252",
@@ -3123,7 +3422,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419523",
@@ -3139,6 +3438,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419523",
@@ -3148,7 +3448,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419525",
@@ -3164,6 +3464,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419525",
@@ -3173,7 +3474,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419596",
@@ -3189,6 +3490,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419596",
@@ -3198,7 +3500,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419597",
@@ -3219,6 +3521,12 @@
         "url": "http://www.sportingdacovilha.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Jos%C3%A9_dos_Santos_Pinto",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419597",
@@ -3229,7 +3537,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419598",
@@ -3245,6 +3553,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419598",
@@ -3254,7 +3563,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419599",
@@ -3275,6 +3584,12 @@
         "url": "https://oelvassad.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419599",
@@ -3284,7 +3599,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419629",
@@ -3300,6 +3615,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419629",
@@ -3309,7 +3625,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419741",
@@ -3325,6 +3641,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419741",
@@ -3334,7 +3651,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419756",
@@ -3350,6 +3667,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419756",
@@ -3359,7 +3677,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25421259",
@@ -3375,6 +3693,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25421259",
@@ -3384,7 +3703,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25427549",
@@ -3400,6 +3719,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25427549",
@@ -3409,7 +3729,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25427573",
@@ -3425,6 +3745,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25427573",
@@ -3434,7 +3755,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439319",
@@ -3450,6 +3771,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439319",
@@ -3459,7 +3781,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439322",
@@ -3475,6 +3797,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nazar%C3%A9_Bullring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439322",
@@ -3485,7 +3808,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439329",
@@ -3501,6 +3824,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439329",
@@ -3510,7 +3834,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439332",
@@ -3526,6 +3850,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439332",
@@ -3535,7 +3860,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440394",
@@ -3551,6 +3876,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440394",
@@ -3560,7 +3886,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440414",
@@ -3576,6 +3902,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440414",
@@ -3585,7 +3912,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440418",
@@ -3601,6 +3928,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440418",
@@ -3610,7 +3938,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440997",
@@ -3626,6 +3954,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440997",
@@ -3635,7 +3964,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25441120",
@@ -3651,6 +3980,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25441120",
@@ -3660,7 +3990,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q256588",
@@ -3683,6 +4013,12 @@
         "url": "https://www.moreirensefc.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Parque_de_Jogos_Comendador_Joaquim_de_Almeida_Freitas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q256588",
@@ -3693,7 +4029,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2583167",
@@ -3712,6 +4048,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_1%C2%BA_de_Maio",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2583167",
@@ -3722,7 +4059,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2586520",
@@ -3740,6 +4077,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_S%C3%A3o_Lu%C3%ADs",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2586520",
@@ -3750,7 +4088,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2645332",
@@ -3774,6 +4112,7 @@
         "url": "http://www.fpr.pt/xv-senior/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lisbon_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2645332",
@@ -3784,7 +4123,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q271454",
@@ -3807,6 +4146,12 @@
         "url": "https://www.fcporto.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [
       {
         "name": "2030 FIFAワールドカップ",
@@ -3822,7 +4167,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2736585",
@@ -3845,6 +4190,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Luz_(1954)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2736585",
@@ -3855,7 +4206,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28680614",
@@ -3888,6 +4239,20 @@
         "url": "http://www.sporting.pt/pt/modalidades/hoquei-em-patins/seniores/plantel"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Futsal",
+        "name_ja": "リーガ・ポルトゥゲーザ・ヂ・フットサル"
+      },
+      {
+        "name": "Liga Portuguesa de Andebol",
+        "name_ja": null
+      },
+      {
+        "name": "Liga Portuguesa de Basquetebol",
+        "name_ja": "ポルトガルリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Jo%C3%A3o_Rocha",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28680614",
@@ -3898,7 +4263,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q287359",
@@ -3921,6 +4286,12 @@
         "url": "https://www.sporting.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [
       {
         "name": "2030 FIFAワールドカップ",
@@ -3936,7 +4307,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2935537",
@@ -3959,6 +4330,12 @@
         "url": "http://www.caldasportclube.pt"
       }
     ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2935537",
@@ -3968,7 +4345,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q29450114",
@@ -3986,6 +4363,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29450114",
@@ -3995,7 +4373,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2945331",
@@ -4013,6 +4391,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Academia_Cristiano_Ronaldo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2945331",
@@ -4023,7 +4402,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2990539",
@@ -4042,6 +4421,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Rio_Maior",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990539",
@@ -4052,7 +4432,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2990540",
@@ -4076,6 +4456,12 @@
         "url": "http://www.lusitano1916.blogspot.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990540",
@@ -4085,7 +4471,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059093",
@@ -4108,6 +4494,12 @@
         "url": "http://www.ginasioalcobaca.blogspot.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059093",
@@ -4117,7 +4509,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059094",
@@ -4140,6 +4532,12 @@
         "url": "https://www.sporting.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Alvalade_(1956)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059094",
@@ -4150,7 +4548,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059095",
@@ -4173,6 +4571,12 @@
         "url": "https://www.cdestrela.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Gomes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059095",
@@ -4183,7 +4587,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059096",
@@ -4206,6 +4610,12 @@
         "url": "http://www.admachico.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda Divisão",
+        "name_ja": "セグンダ・ディヴィゾン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059096",
@@ -4215,7 +4625,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059098",
@@ -4238,6 +4648,12 @@
         "url": "http://www.gondomarsc.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_S%C3%A3o_Miguel_(Gondomar)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059098",
@@ -4248,7 +4664,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30935008",
@@ -4269,6 +4685,12 @@
         "url": "https://wecreatebetter.win/fcferreiras/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Nora",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30935008",
@@ -4279,7 +4701,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3330886",
@@ -4300,6 +4722,12 @@
         "url": "http://www.sportingdacovilha.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Complexo_Desportivo_da_Covilh%C3%A3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3330886",
@@ -4310,7 +4738,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3446875",
@@ -4333,6 +4761,12 @@
         "url": "https://cdtrofense.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_CD_Trofense",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3446875",
@@ -4343,7 +4777,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514314",
@@ -4366,6 +4800,12 @@
         "url": "https://fcvizela.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Futebol_Clube_de_Vizela",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514314",
@@ -4376,7 +4816,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514858",
@@ -4399,6 +4839,12 @@
         "url": "http://www.cdsantaclara.pt"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB_(%E3%83%9D%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%87%E3%83%AB%E3%82%AC%E3%83%80)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514858",
@@ -4409,7 +4855,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514962",
@@ -4427,6 +4873,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514962",
@@ -4436,7 +4883,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514967",
@@ -4459,6 +4906,7 @@
         "url": "http://www.fcpenafiel.pt/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_25_de_Abril",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514967",
@@ -4469,7 +4917,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q387691",
@@ -4492,6 +4940,12 @@
         "url": "https://www.fcporto.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_das_Antas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q387691",
@@ -4502,7 +4956,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39676063",
@@ -4518,6 +4972,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cascais_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39676063",
@@ -4528,7 +4983,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q47003681",
@@ -4544,6 +4999,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2010 European Rowing Championships",
@@ -4558,7 +5014,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4736787",
@@ -4576,6 +5032,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alto_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4736787",
@@ -4586,7 +5043,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4810482",
@@ -4610,6 +5067,12 @@
         "url": "https://www.recreiodeagueda.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_%C3%81gueda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4810482",
@@ -4620,7 +5083,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48855239",
@@ -4636,6 +5099,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q48855239",
@@ -4645,7 +5109,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48867502",
@@ -4663,6 +5127,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q48867502",
@@ -4672,7 +5137,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5014565",
@@ -4693,6 +5158,12 @@
         "url": "https://www.fcporto.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CTFD_PortoGaia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5014565",
@@ -4703,7 +5174,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028447",
@@ -4719,6 +5190,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Manuel_Marques",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028447",
@@ -4729,7 +5201,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028461",
@@ -4750,6 +5222,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_da_Feiteira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028461",
@@ -4760,7 +5238,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028463",
@@ -4781,6 +5259,12 @@
         "url": "https://www.fcporto.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_da_Constitui%C3%A7%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028463",
@@ -4791,7 +5275,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028467",
@@ -4812,6 +5296,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_de_Benfica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028467",
@@ -4822,7 +5312,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028473",
@@ -4845,6 +5335,7 @@
         "url": "http://www.almadaatleticoclube.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_de_Jogos_do_Pragal",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028473",
@@ -4855,7 +5346,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028478",
@@ -4876,6 +5367,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_de_Sete_Rios",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028478",
@@ -4886,7 +5383,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028482",
@@ -4904,6 +5401,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_Almirante_Reis",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028482",
@@ -4914,7 +5412,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5062915",
@@ -4930,6 +5428,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Centro_de_Est%C3%A1gios_da_Acad%C3%A9mica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5062915",
@@ -4940,7 +5439,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q51341624",
@@ -4963,6 +5462,12 @@
         "url": "http://www.esperancadelagos.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q51341624",
@@ -4972,7 +5477,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5141518",
@@ -4991,6 +5496,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coimbra_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5141518",
@@ -5001,7 +5507,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q533782",
@@ -5017,6 +5523,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Serra_da_Estrela_Ski_Resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q533782",
@@ -5027,7 +5534,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401945",
@@ -5045,6 +5552,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Adelino_Ribeiro_Novo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401945",
@@ -5055,7 +5563,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401963",
@@ -5074,6 +5582,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_do_Marco_de_Canaveses",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401963",
@@ -5084,7 +5593,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401985",
@@ -5107,6 +5616,12 @@
         "url": "https://udoliveirense.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%AA%E3%82%BD%E3%83%BC%E3%83%AA%E3%82%AA",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401985",
@@ -5117,7 +5632,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401997",
@@ -5138,6 +5653,12 @@
         "url": "http://www.ads.pt"
       }
     ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401997",
@@ -5148,7 +5669,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402024",
@@ -5169,6 +5690,12 @@
         "url": "http://www.scsalgueiros.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Engenheiro_Vidal_Pinheiro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402024",
@@ -5179,7 +5706,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402114",
@@ -5198,6 +5725,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_S%C3%A9rgio_Concei%C3%A7%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402114",
@@ -5208,7 +5736,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402118",
@@ -5224,6 +5752,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Abrantes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402118",
@@ -5234,7 +5763,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402126",
@@ -5255,6 +5784,7 @@
         "url": "http://www.beiramar.pt"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_M%C3%A1rio_Duarte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402126",
@@ -5265,7 +5795,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402128",
@@ -5288,6 +5818,12 @@
         "url": "http://www.gdchaves.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Eng._Manuel_Branco_Teixeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402128",
@@ -5298,7 +5834,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402203",
@@ -5319,6 +5855,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_das_Amoreiras",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402203",
@@ -5329,7 +5871,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402218",
@@ -5354,6 +5896,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Campo_Grande",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402218",
@@ -5364,7 +5912,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402223",
@@ -5382,6 +5930,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Lumiar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402223",
@@ -5392,7 +5941,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402247",
@@ -5410,6 +5959,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Varzim_SC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402247",
@@ -5420,7 +5970,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5410379",
@@ -5436,6 +5986,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%B3voa_de_Varzim_Bullfighting_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5410379",
@@ -5446,7 +5997,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q550041",
@@ -5469,6 +6020,12 @@
         "url": "https://rioavefc.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Rio_Ave_FC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q550041",
@@ -5479,7 +6036,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5510501",
@@ -5500,6 +6057,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Benfica_Campus",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5510501",
@@ -5510,7 +6073,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55990902",
@@ -5526,6 +6089,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pra%C3%A7a_de_Toiros_de_Albufeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55990902",
@@ -5536,7 +6100,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q570236",
@@ -5552,6 +6116,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Circuito_Vasco_Sameiro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q570236",
@@ -5562,7 +6127,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q646151",
@@ -5598,6 +6163,16 @@
         "url": "https://www.gibraltarfa.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      },
+      {
+        "name": "Segunda Divisão",
+        "name_ja": "セグンダ・ディヴィゾン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%AC%E3%83%AB%E3%83%B4%E3%82%A7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q646151",
@@ -5608,7 +6183,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65166860",
@@ -5629,6 +6204,7 @@
         "url": "https://adovarense.pt"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Marques_da_Silva",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65166860",
@@ -5639,7 +6215,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65926334",
@@ -5655,6 +6231,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q65926334",
@@ -5664,7 +6241,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q66077616",
@@ -5680,6 +6257,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66077616",
@@ -5689,7 +6267,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q66814305",
@@ -5705,6 +6283,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66814305",
@@ -5714,7 +6293,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q66943073",
@@ -5730,6 +6309,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66943073",
@@ -5739,7 +6319,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q67080240",
@@ -5762,6 +6342,16 @@
         "url": "https://juventudesportclube.blogspot.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      },
+      {
+        "name": "Divisão de Elite",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q67080240",
@@ -5771,7 +6361,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q69500797",
@@ -5787,6 +6377,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q69500797",
@@ -5796,7 +6387,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7139650",
@@ -5817,6 +6408,12 @@
         "url": "https://www.adfafe.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda Divisão",
+        "name_ja": "セグンダ・ディヴィゾン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Fafe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7139650",
@@ -5827,7 +6424,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155855",
@@ -5843,6 +6440,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Multiusos_de_Guimar%C3%A3es",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155855",
@@ -5853,7 +6451,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155857",
@@ -5874,6 +6472,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Multidesportos_Dr._M%C3%A1rio_Mexia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155857",
@@ -5884,7 +6483,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155861",
@@ -5913,6 +6512,12 @@
         "url": "https://www.slbenfica.pt/pt-pt/modalidades/hoquei"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Futsal",
+        "name_ja": "リーガ・ポルトゥゲーザ・ヂ・フットサル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Fidelidade",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155861",
@@ -5923,7 +6528,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155862",
@@ -5948,6 +6553,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_da_Luz_N%E1%B5%92_2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155862",
@@ -5958,7 +6564,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7232664",
@@ -5974,6 +6580,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Academy_(Portugal)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7232664",
@@ -5984,7 +6591,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7232670",
@@ -6000,6 +6607,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Naval_School_(Portugal)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7232670",
@@ -6010,7 +6618,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7264811",
@@ -6026,6 +6634,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%B3voa_de_Varzim_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7264811",
@@ -6036,7 +6645,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7272372",
@@ -6054,6 +6663,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Quinta_do_Lago",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7272372",
@@ -6064,7 +6674,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q733194",
@@ -6087,6 +6697,12 @@
         "url": "https://scfreamunde.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Complexo_Desportivo_do_SC_Freamunde",
     "wikidata_url": "https://www.wikidata.org/wiki/Q733194",
@@ -6097,7 +6713,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q73768776",
@@ -6113,6 +6729,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q73768776",
@@ -6122,7 +6739,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7703316",
@@ -6143,6 +6760,12 @@
         "url": "https://www.slbenfica.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Terras_do_Desembargador",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7703316",
@@ -6153,7 +6776,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q771301",
@@ -6177,6 +6800,12 @@
         "url": "http://www.fcmaia.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Porto Football Association",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Dr._Jos%C3%A9_Vieira_de_Carvalho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q771301",
@@ -6187,7 +6816,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q784174",
@@ -6203,6 +6832,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%9D%E3%83%BB%E3%83%9A%E3%82%B1%E3%83%BC%E3%83%8E%E9%97%98%E7%89%9B%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q784174",
@@ -6213,7 +6843,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7875112",
@@ -6240,6 +6870,16 @@
         "url": "https://www.slbenfica.pt/pt-pt/futebol/equipa_b"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      },
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
     "events": [
       {
         "name": "2030 FIFAワールドカップ",
@@ -6255,7 +6895,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q789427",
@@ -6271,6 +6911,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "ポルトガルグランプリ",
@@ -6286,7 +6927,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7909516",
@@ -6305,6 +6946,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vale_do_Lobo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7909516",
@@ -6315,7 +6957,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7930066",
@@ -6333,6 +6975,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vilamoura_Old_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7930066",
@@ -6343,7 +6986,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q849239",
@@ -6366,6 +7009,12 @@
         "url": "https://scbraga.pt/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A0%E3%83%8B%E3%82%B7%E3%83%91%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%96%E3%83%A9%E3%82%AC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q849239",
@@ -6376,7 +7025,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q90151057",
@@ -6392,6 +7041,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q90151057",
@@ -6401,7 +7051,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9097845",
@@ -6417,6 +7067,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9097845",
@@ -6426,7 +7077,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96209781",
@@ -6442,6 +7093,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96209781",
@@ -6451,7 +7103,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96280367",
@@ -6467,6 +7119,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96280367",
@@ -6476,7 +7129,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q968244",
@@ -6499,6 +7152,7 @@
         "url": "http://cdaves.pt/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%89%E3%83%BBCD%E3%82%A2%E3%83%B4%E3%82%A7%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q968244",
@@ -6509,7 +7163,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97085787",
@@ -6530,6 +7184,7 @@
         "url": "http://www.lusitanoginasioclube.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97085787",
@@ -6539,7 +7194,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97179007",
@@ -6562,6 +7217,12 @@
         "url": "https://www.slbenfica.pt/pt-pt/futebol/feminino"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campeonato Nacional de Futebol Feminino",
+        "name_ja": "ポルトガル女子国内選手権"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97179007",
@@ -6571,7 +7232,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q980615",
@@ -6587,6 +7248,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q980615",
@@ -6596,7 +7258,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9815286",
@@ -6612,6 +7274,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9815286",
@@ -6621,6 +7284,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
