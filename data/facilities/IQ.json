@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Sunbula_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q100259907",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q101312951",
@@ -39,6 +40,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Fayhaa_Stadium_(Basra)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q101312951",
@@ -49,7 +51,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q105334190",
@@ -70,6 +72,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Shatrah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q105334190",
@@ -80,7 +88,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q105477488",
@@ -96,6 +104,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Halabja_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q105477488",
@@ -106,7 +115,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q106237973",
@@ -127,6 +136,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Delal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q106237973",
@@ -137,7 +152,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108392114",
@@ -153,6 +168,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Diwaniya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108392114",
@@ -163,7 +179,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111288553",
@@ -186,6 +202,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Bahri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q111288553",
@@ -196,7 +218,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111294909",
@@ -219,6 +241,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraqi First Division League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Fallujah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q111294909",
@@ -229,7 +257,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111939792",
@@ -245,6 +273,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mosul_International_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q111939792",
@@ -255,7 +284,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113560803",
@@ -271,6 +300,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ain_Al-Tamur_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q113560803",
@@ -281,7 +311,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116006743",
@@ -297,6 +327,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tajiat_Olympic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q116006743",
@@ -307,7 +338,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q121754385",
@@ -323,6 +354,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121754385",
@@ -332,7 +364,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q132731550",
@@ -348,6 +380,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q132731550",
@@ -357,7 +390,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136756514",
@@ -373,6 +406,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shorta_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q136756514",
@@ -383,7 +417,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1445540",
@@ -404,6 +438,12 @@
         "url": "http://www.erbilsc.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1445540",
@@ -414,7 +454,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16250457",
@@ -430,6 +470,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Masafi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16250457",
@@ -440,7 +481,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18387073",
@@ -463,6 +504,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%90%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18387073",
@@ -473,7 +520,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1973618",
@@ -494,6 +541,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9B%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1973618",
@@ -504,7 +557,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2330705",
@@ -520,6 +573,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/An-Najaf_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2330705",
@@ -530,7 +584,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2649596",
@@ -551,6 +605,12 @@
         "url": "http://altalaba.sportboard.net"
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2649596",
@@ -560,7 +620,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2657581",
@@ -578,6 +638,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Sinaa_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2657581",
@@ -588,7 +649,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q285983",
@@ -611,6 +672,7 @@
         "url": "https://socceriraq.net"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shaab_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q285983",
@@ -621,7 +683,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30314789",
@@ -645,6 +707,7 @@
         "url": "https://socceriraq.net"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30314789",
@@ -654,7 +717,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3180979",
@@ -675,6 +738,12 @@
         "url": "https://www.alshortasc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shorta_Stadium_(1990)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3180979",
@@ -685,7 +754,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3389462",
@@ -701,6 +770,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sulaymaniyah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3389462",
@@ -711,7 +781,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3500331",
@@ -734,6 +804,7 @@
         "url": "https://socceriraq.net"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%83%A9%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B7%E3%83%86%E3%82%A3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3500331",
@@ -744,7 +815,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3544682",
@@ -760,6 +831,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Mosul_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3544682",
@@ -770,7 +842,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119637",
@@ -786,6 +858,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Diyala_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119637",
@@ -796,7 +869,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119650",
@@ -817,6 +890,12 @@
         "url": "https://naftmissan.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maysan_Olympic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119650",
@@ -827,7 +906,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119771",
@@ -848,6 +927,12 @@
         "url": "http://www.alzawraaclub.com/en"
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B6%E3%82%A6%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119771",
@@ -858,7 +943,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119807",
@@ -876,6 +961,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kirkuk_Olympic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119807",
@@ -886,7 +972,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119854",
@@ -902,6 +988,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Naft_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119854",
@@ -912,7 +999,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4120054",
@@ -928,6 +1015,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Ramadi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4120054",
@@ -938,7 +1026,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4120065",
@@ -956,6 +1044,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4120065",
@@ -965,7 +1054,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q42341470",
@@ -983,6 +1072,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Kut_Olympic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q42341470",
@@ -993,7 +1083,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4704041",
@@ -1009,6 +1099,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Hilla_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4704041",
@@ -1019,7 +1110,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4704183",
@@ -1040,6 +1131,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sharar_Haidar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4704183",
@@ -1050,7 +1147,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4750163",
@@ -1066,6 +1163,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Nasiriya_International_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4750163",
@@ -1076,7 +1174,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4841814",
@@ -1097,6 +1195,12 @@
         "url": "http://www.baghdad-club.net"
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amanat_Baghdad_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4841814",
@@ -1107,7 +1211,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q54888192",
@@ -1125,6 +1229,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ammo_Baba_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q54888192",
@@ -1135,7 +1240,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56377009",
@@ -1151,6 +1256,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Madina_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q56377009",
@@ -1161,7 +1267,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6368949",
@@ -1179,6 +1285,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Karbala_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6368949",
@@ -1189,7 +1296,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6587567",
@@ -1205,6 +1312,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tikrit_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6587567",
@@ -1215,7 +1323,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6778441",
@@ -1236,6 +1344,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/As_Samawah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6778441",
@@ -1246,7 +1360,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7010430",
@@ -1264,6 +1378,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Minaa_Olympic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7010430",
@@ -1274,7 +1389,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7010550",
@@ -1295,6 +1410,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Najaf_International_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7010550",
@@ -1305,7 +1426,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7397664",
@@ -1321,6 +1442,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baghdad_Gymnasium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7397664",
@@ -1331,7 +1453,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q75432",
@@ -1347,6 +1469,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Samarra_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q75432",
@@ -1357,7 +1480,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q764402",
@@ -1380,6 +1503,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Iraq Stars League",
+        "name_ja": "イラク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Mina'a_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q764402",
@@ -1390,7 +1519,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85740427",
@@ -1406,6 +1535,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Kifl_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85740427",
@@ -1416,7 +1546,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85802153",
@@ -1432,6 +1562,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suq_Al-Shuyukh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85802153",
@@ -1442,7 +1573,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85875543",
@@ -1460,6 +1591,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Salah_Al_Din_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85875543",
@@ -1470,6 +1602,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
