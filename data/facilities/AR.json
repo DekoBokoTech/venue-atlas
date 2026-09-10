@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104290726",
@@ -24,7 +25,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1062157",
@@ -46,6 +47,12 @@
       {
         "name": "CAタジェレス・デ・コルドバ",
         "url": "https://www.clubtalleres.com.ar/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
       }
     ],
     "events": [
@@ -79,7 +86,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q106466377",
@@ -97,6 +104,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q106466377",
@@ -106,7 +114,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1067384",
@@ -129,6 +137,12 @@
         "url": "https://catigre.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Dellagiovanna",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1067384",
@@ -139,7 +153,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1072265",
@@ -175,6 +189,16 @@
         "url": "http://www.acsanmartin.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [
       {
         "name": "1978 FIFAワールドカップ",
@@ -190,7 +214,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108061313",
@@ -217,6 +241,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108061313",
@@ -226,7 +256,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108061632",
@@ -247,6 +277,7 @@
         "url": "https://clubsat.com.ar/home/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108061632",
@@ -256,7 +287,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10858004",
@@ -272,6 +303,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Rosamonte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10858004",
@@ -282,7 +314,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108646923",
@@ -314,6 +346,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_del_CASI",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108646923",
@@ -324,7 +357,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109186690",
@@ -347,6 +380,12 @@
         "url": "https://cap.org.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109186690",
@@ -356,7 +395,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109289992",
@@ -377,6 +416,12 @@
         "url": "https://clubaindependiente.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Crucecita",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109289992",
@@ -387,7 +432,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1092901",
@@ -405,6 +450,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Potrero_de_los_Funes_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1092901",
@@ -415,7 +461,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110757701",
@@ -436,6 +482,12 @@
         "url": "https://www.chacaritajuniors.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110757701",
@@ -445,7 +497,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1116458",
@@ -468,6 +520,12 @@
         "url": "http://almagro.club/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Almagro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1116458",
@@ -478,7 +536,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q114841602",
@@ -494,6 +552,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114841602",
@@ -503,7 +562,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115048619",
@@ -521,6 +580,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115048619",
@@ -530,7 +590,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1159010",
@@ -557,6 +617,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Vicente_L%C3%B3pez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1159010",
@@ -567,7 +637,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115941135",
@@ -585,6 +655,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115941135",
@@ -594,7 +665,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116431657",
@@ -612,6 +683,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2018年ブエノスアイレスユースオリンピック",
@@ -626,7 +698,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116503047",
@@ -642,6 +714,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116503047",
@@ -651,7 +724,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1166007",
@@ -674,6 +747,12 @@
         "url": "http://www.cde.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Nueva_Espa%C3%B1a",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1166007",
@@ -684,7 +763,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116872268",
@@ -702,6 +781,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_%C3%9Anico_de_San_Nicol%C3%A1s",
     "wikidata_url": "https://www.wikidata.org/wiki/Q116872268",
@@ -712,7 +792,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1192458",
@@ -739,6 +819,16 @@
         "url": "https://clubaindependiente.com.ar/futbol/femenino"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%AA%E3%83%99%E3%83%AB%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB-%E3%83%AA%E3%82%AB%E3%83%AB%E3%83%89%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%AA%E3%82%B1%E3%83%BB%E3%83%9C%E3%83%81%E3%83%BC%E3%83%8B",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1192458",
@@ -749,7 +839,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1192472",
@@ -776,6 +866,20 @@
         "url": "https://sanlorenzo.com.ar/deportes/futbol-femenino/noticias"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Metropolitano de Hockey (men)",
+        "name_ja": null
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Pedro_Bidegain",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1192472",
@@ -786,7 +890,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1194137",
@@ -813,6 +917,16 @@
         "url": "http://www.gimnasia.org.ar/futbol/futbol-femenino/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Juan_Carmelo_Zerillo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1194137",
@@ -823,7 +937,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1196031",
@@ -850,6 +964,16 @@
         "url": "https://www.racingclub.com.ar/futbol/femenino/noticias"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B7%E3%83%87%E3%83%B3%E3%83%86%E3%83%BB%E3%83%9A%E3%83%AD%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1196031",
@@ -860,7 +984,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1196603",
@@ -892,6 +1016,12 @@
         "url": "https://uar.com.ar/equipos-uar/los-pumas/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [
       {
         "name": "1978 FIFAワールドカップ",
@@ -907,7 +1037,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123219919",
@@ -928,6 +1058,12 @@
         "url": "https://caguemes.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123219919",
@@ -937,7 +1073,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123418321",
@@ -953,6 +1089,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Enrique_Freile",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123418321",
@@ -963,7 +1100,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12388104",
@@ -984,6 +1121,7 @@
         "url": "http://www.upcnvoley.com.ar/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Aldo_Cantoni",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12388104",
@@ -994,7 +1132,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124077190",
@@ -1012,6 +1150,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/La_Casa_del_Handball_Argentino",
     "wikidata_url": "https://www.wikidata.org/wiki/Q124077190",
@@ -1022,7 +1161,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124157081",
@@ -1040,6 +1179,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124157081",
@@ -1049,7 +1189,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124322757",
@@ -1067,6 +1207,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124322757",
@@ -1076,7 +1217,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124364290",
@@ -1101,6 +1242,16 @@
         "url": "https://belgranoathletic.club/"
       }
     ],
+    "leagues": [
+      {
+        "name": "URBA Top 14",
+        "name_ja": "トルネオ・デ・ラ・URBA"
+      },
+      {
+        "name": "Metropolitano de Hockey (women)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Belgrano_Athletic",
     "wikidata_url": "https://www.wikidata.org/wiki/Q124364290",
@@ -1111,7 +1262,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124571041",
@@ -1134,6 +1285,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124571041",
@@ -1143,7 +1300,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124665254",
@@ -1166,6 +1323,12 @@
         "url": "https://clubaindependiente.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/La_Doble_Visera",
     "wikidata_url": "https://www.wikidata.org/wiki/Q124665254",
@@ -1176,7 +1339,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q126678497",
@@ -1192,6 +1355,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126678497",
@@ -1201,7 +1365,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1292306",
@@ -1217,6 +1381,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Navy_Petty-Officers_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1292306",
@@ -1227,7 +1392,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130436327",
@@ -1258,6 +1423,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130436327",
@@ -1267,7 +1433,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130682664",
@@ -1285,6 +1451,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130682664",
@@ -1294,7 +1461,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134290220",
@@ -1310,6 +1477,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134290220",
@@ -1319,7 +1487,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369026",
@@ -1342,6 +1510,12 @@
         "url": "https://www.clubaunion.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_15_de_Abril",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369026",
@@ -1352,7 +1526,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369047",
@@ -1375,6 +1549,7 @@
         "url": "https://www.gyejoficial.com.ar/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%99%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A3%E3%83%88%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%82%B4%E3%82%B9%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369047",
@@ -1385,7 +1560,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369082",
@@ -1408,6 +1583,12 @@
         "url": "https://www.clubtalleres.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_La_Boutique",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369082",
@@ -1418,7 +1599,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369111",
@@ -1442,6 +1623,12 @@
         "url": "https://clubcolon.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%96%E3%83%AA%E3%82%AC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%98%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%AA%E3%83%BB%E3%83%AD%E3%83%9A%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369111",
@@ -1452,7 +1639,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369128",
@@ -1475,6 +1662,12 @@
         "url": "https://www.chacaritajuniors.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_de_Chacarita_Juniors",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369128",
@@ -1485,7 +1678,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369163",
@@ -1513,6 +1706,7 @@
         "url": "https://uar.com.ar/equipos-uar/los-pumas/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A6%E3%83%8B%E3%82%B3%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%A9%E3%83%89%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369163",
@@ -1523,7 +1717,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369186",
@@ -1550,6 +1744,16 @@
         "url": "https://argentinosjuniors.com.ar/categoria/futbol-femenino/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Campeonato de Fútbol Femenino de Primera División B",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%A9%E3%83%89%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369186",
@@ -1560,7 +1764,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369269",
@@ -1583,6 +1787,12 @@
         "url": "https://caallboys.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Islas_Malvinas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369269",
@@ -1593,7 +1803,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369282",
@@ -1621,6 +1831,16 @@
         "url": "https://clubalvarado.ar"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [
       {
         "name": "1978 FIFAワールドカップ",
@@ -1644,7 +1864,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369290",
@@ -1671,6 +1891,16 @@
         "url": "https://belgrano.com.ar/profesional-femenino/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Campeonato de Fútbol Femenino de Primera División C",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Gigante_de_Alberdi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369290",
@@ -1681,7 +1911,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369295",
@@ -1704,6 +1934,12 @@
         "url": "https://www.arsenalfc.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Julio_Humberto_Grondona",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369295",
@@ -1714,7 +1950,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369357",
@@ -1737,6 +1973,12 @@
         "url": "https://www.newellsoldboys.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Marcelo_Bielsa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369357",
@@ -1747,7 +1989,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369373",
@@ -1770,6 +2012,12 @@
         "url": "https://douglashaig.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Argentino A",
+        "name_ja": "トルネオ・アルヘンティーノA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Miguel_Morales",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369373",
@@ -1780,7 +2028,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369432",
@@ -1804,6 +2052,12 @@
         "url": "https://www.clubatleticotucuman.com.ar"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Monumental_Jos%C3%A9_Fierro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369432",
@@ -1814,7 +2068,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369598",
@@ -1837,6 +2091,12 @@
         "url": "http://www.huracantsas.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal C",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369598",
@@ -1846,7 +2106,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369604",
@@ -1869,6 +2129,12 @@
         "url": "https://clubolimpobb.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Roberto_Natalio_Carminatti",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369604",
@@ -1879,7 +2145,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369691",
@@ -1903,6 +2169,12 @@
         "url": "http://www.sanmartindesanjuan.wordpress.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_San_Juan_del_Bicentenario",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369691",
@@ -1913,7 +2185,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137183863",
@@ -1931,6 +2203,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q137183863",
@@ -1940,7 +2213,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q141277181",
@@ -1958,6 +2231,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141277181",
@@ -1967,7 +2241,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1462481",
@@ -1988,6 +2262,7 @@
         "url": "https://t4f.com.br/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Luna_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1462481",
@@ -1998,7 +2273,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15194186",
@@ -2016,6 +2291,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Emiliozzi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15194186",
@@ -2026,7 +2302,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15194198",
@@ -2044,6 +2320,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Viedma",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15194198",
@@ -2054,7 +2331,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1557482",
@@ -2070,6 +2347,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%83%AB%E3%83%A2%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1557482",
@@ -2080,7 +2358,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16489237",
@@ -2096,6 +2374,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Provincia_de_La_Pampa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16489237",
@@ -2106,7 +2385,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16492897",
@@ -2127,6 +2406,12 @@
         "url": "https://clubtsuarez.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16492897",
@@ -2136,7 +2421,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16492906",
@@ -2157,6 +2442,12 @@
         "url": "https://www.newellsoldboys.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Cubierto_Newell's_Old_Boys",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16492906",
@@ -2167,7 +2458,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16564609",
@@ -2190,6 +2481,12 @@
         "url": "https://www.barracascentral.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Claudio_Chiqui_Tapia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16564609",
@@ -2200,7 +2497,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16564623",
@@ -2216,6 +2513,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16564623",
@@ -2225,7 +2523,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16564632",
@@ -2246,6 +2544,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Argentino Β",
+        "name_ja": "トルネオ・アルヘンティーノB"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16564632",
@@ -2255,7 +2559,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16564641",
@@ -2276,6 +2580,12 @@
         "url": "https://villasancarlosclub.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16564641",
@@ -2285,7 +2595,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16564667",
@@ -2306,6 +2616,12 @@
         "url": "https://clubacassuso.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16564667",
@@ -2315,7 +2631,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16564679",
@@ -2342,6 +2658,16 @@
         "url": "http://www.uaiurquiza.com.ar"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16564679",
@@ -2351,7 +2677,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16564696",
@@ -2376,6 +2702,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      },
+      {
+        "name": "Campeonato de Fútbol Femenino de Primera División B",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Nuevo_Francisco_Urbano",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16564696",
@@ -2386,7 +2722,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16604121",
@@ -2409,6 +2745,20 @@
         "url": "https://www.bocajuniors.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Liga Nacional de Básquet",
+        "name_ja": "リーガ・ナシオナル・バスケットボール"
+      },
+      {
+        "name": "Liga de Voleibol Argentina – Serie A1",
+        "name_ja": "アルゼンチン・セリエA (バレーボール)"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ministro_Brin_y_Senguel",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16604121",
@@ -2419,7 +2769,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632563",
@@ -2435,6 +2785,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Hern%C3%A1ndez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632563",
@@ -2445,7 +2796,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16890403",
@@ -2461,6 +2812,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "ブエノスアイレスグランプリ",
@@ -2476,7 +2828,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16941590",
@@ -2492,6 +2844,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_de_Concepci%C3%B3n_del_Uruguay",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16941590",
@@ -2502,7 +2855,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16941721",
@@ -2518,6 +2871,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16941721",
@@ -2527,7 +2881,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17010976",
@@ -2545,6 +2899,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Mendocino_de_Hockey",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17010976",
@@ -2555,7 +2910,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q173116",
@@ -2573,6 +2928,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "アルゼンチングランプリ",
@@ -2588,7 +2944,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17622406",
@@ -2608,6 +2964,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Microestadio_Malvinas_Argentinas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17622406",
@@ -2618,7 +2975,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17624168",
@@ -2634,6 +2991,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q17624168",
@@ -2643,7 +3001,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17746467",
@@ -2661,6 +3019,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Puerto_Madero_Street_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17746467",
@@ -2671,7 +3030,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17995297",
@@ -2687,6 +3046,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Pig%C3%BC%C3%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17995297",
@@ -2697,7 +3057,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1806472",
@@ -2713,6 +3073,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Las_Le%C3%B1as",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1806472",
@@ -2723,7 +3084,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18416930",
@@ -2739,6 +3100,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Mar%C3%ADa_Mora%C3%B1os",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18416930",
@@ -2749,7 +3111,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18644332",
@@ -2777,6 +3139,16 @@
         "url": "https://clubatletico.bocajuniors.com.ar/spo/17"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Nacional de Básquet",
+        "name_ja": "リーガ・ナシオナル・バスケットボール"
+      },
+      {
+        "name": "Liga Femenina de Voleibol Argentino",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Luis_Conde",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18644332",
@@ -2787,7 +3159,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18682950",
@@ -2810,6 +3182,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Guillermo_Laza",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18682950",
@@ -2820,7 +3198,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19317756",
@@ -2836,6 +3214,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q19317756",
@@ -2845,7 +3224,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1993719",
@@ -2877,6 +3256,12 @@
         "url": "https://uar.com.ar/equipos-uar/los-pumas/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Metropolitano de Hockey (women)",
+        "name_ja": null
+      }
+    ],
     "events": [
       {
         "name": "サッカー南米選手権1916",
@@ -2900,7 +3285,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20014927",
@@ -2924,6 +3309,7 @@
         "url": "https://clubestudiantesbb.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Osvaldo_Casanova",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20014927",
@@ -2934,7 +3320,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20022006",
@@ -2950,6 +3336,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_La_Rioja",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20022006",
@@ -2960,7 +3347,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20869938",
@@ -2976,6 +3363,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Parque_Ol%C3%ADmpico_de_la_Juventud",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20869938",
@@ -2986,7 +3374,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20983542",
@@ -3002,6 +3390,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Juan_Oria",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20983542",
@@ -3012,7 +3401,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20983595",
@@ -3028,6 +3417,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_General_San_Mart%C3%ADn",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20983595",
@@ -3038,7 +3428,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21396242",
@@ -3054,6 +3444,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/DirecTV_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21396242",
@@ -3064,7 +3455,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21828778",
@@ -3080,6 +3471,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21828778",
@@ -3089,7 +3481,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23015894",
@@ -3116,6 +3508,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Nacional de Básquet",
+        "name_ja": "リーガ・ナシオナル・バスケットボール"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_%C3%81ngel_Malvicino",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23015894",
@@ -3126,7 +3524,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25407388",
@@ -3151,6 +3549,7 @@
         "url": "https://www.ferrocarriloeste.org.ar/category/basquet/basquet-basquet/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_H%C3%A9ctor_Etchart",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25407388",
@@ -3161,7 +3560,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q264255",
@@ -3184,6 +3583,12 @@
         "url": "https://clubdegyt.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_El_Gigante_del_Norte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q264255",
@@ -3194,7 +3599,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2752518",
@@ -3212,6 +3617,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Juan_Manuel_Fangio",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2752518",
@@ -3222,7 +3628,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q276354",
@@ -3258,6 +3664,20 @@
         "url": "https://www.riverplate.com/museo"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Liga de Voleibol Argentina – Serie A1",
+        "name_ja": "アルゼンチン・セリエA (バレーボール)"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [
       {
         "name": "1978 FIFAワールドカップ",
@@ -3285,7 +3705,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q280141",
@@ -3312,6 +3732,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Tom%C3%A1s_Adolfo_Duc%C3%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q280141",
@@ -3322,7 +3748,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28093719",
@@ -3343,6 +3769,12 @@
         "url": "https://villamitre.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga del Sur",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q28093719",
@@ -3352,7 +3784,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28162972",
@@ -3368,6 +3800,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Centro_de_Alto_Rendimiento_Deportivo_Pedro_Candioti",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28162972",
@@ -3378,7 +3811,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28517290",
@@ -3396,6 +3829,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q28517290",
@@ -3405,7 +3839,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2885854",
@@ -3423,6 +3857,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Mundialista_Luciana_Aymar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2885854",
@@ -3433,7 +3868,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2887651",
@@ -3449,6 +3884,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2887651",
@@ -3458,7 +3894,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2888263",
@@ -3483,6 +3919,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      },
+      {
+        "name": "Campeonato de Fútbol Femenino de Primera División B",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_de_Argentino_de_Quilmes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2888263",
@@ -3493,7 +3939,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2893799",
@@ -3511,6 +3957,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tecn%C3%B3polis",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2893799",
@@ -3521,7 +3968,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q29042747",
@@ -3537,6 +3984,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29042747",
@@ -3546,7 +3994,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2918908",
@@ -3562,6 +4010,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Mar_y_Valle",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2918908",
@@ -3572,7 +4021,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2949394",
@@ -3588,6 +4037,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Escuela_Superior_de_Guerra_(Argentina)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2949394",
@@ -3598,7 +4048,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2983873",
@@ -3614,6 +4064,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Colegio_Militar_de_la_Naci%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2983873",
@@ -3624,7 +4075,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3058797",
@@ -3647,6 +4098,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Fortunato_Bonelli",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3058797",
@@ -3657,7 +4109,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30904645",
@@ -3673,6 +4125,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Bassi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30904645",
@@ -3683,7 +4136,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30911317",
@@ -3701,6 +4154,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_%C3%9Anico_de_Villa_Mercedes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30911317",
@@ -3711,7 +4165,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3298173",
@@ -3732,6 +4186,7 @@
         "url": "https://www.obrasclub.com.ar/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Obras_Sanitarias",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3298173",
@@ -3742,7 +4197,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495828",
@@ -3765,6 +4220,12 @@
         "url": "https://www.institutoacc.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Monumental_Presidente_Per%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495828",
@@ -3775,7 +4236,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3733326",
@@ -3802,6 +4263,16 @@
         "url": "https://www.afa.com.ar/es/seleccion-mayor"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Liga de Voleibol Argentina – Serie A1",
+        "name_ja": "アルゼンチン・セリエA (バレーボール)"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Alvear_y_Tagle",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3733326",
@@ -3812,7 +4283,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3733332",
@@ -3830,6 +4301,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Racing_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3733332",
@@ -3840,7 +4312,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3733334",
@@ -3863,6 +4335,16 @@
         "url": "https://sanlorenzo.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Metropolitano de Hockey (men)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Gas%C3%B3metro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3733334",
@@ -3873,7 +4355,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3733335",
@@ -3892,6 +4374,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Guido_y_Sarmiento",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3733335",
@@ -3902,7 +4385,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3733346",
@@ -3927,6 +4410,7 @@
         "url": "https://penarolmdp.com.ar/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polideportivo_Islas_Malvinas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3733346",
@@ -3937,7 +4421,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3733349",
@@ -3960,6 +4444,12 @@
         "url": "https://clubtalleres.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3733349",
@@ -3969,7 +4459,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3896958",
@@ -3992,6 +4482,12 @@
         "url": "http://www.clubcrucerodelnorte.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Comandante_Andr%C3%A9s_Guacurar%C3%AD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3896958",
@@ -4002,7 +4498,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39056094",
@@ -4027,6 +4523,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Flores_Old_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39056094",
@@ -4037,7 +4534,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119280",
@@ -4062,6 +4559,16 @@
         "url": "http://www.clubcomunicaciones.com.ar/index.php/futbol-amateur-femenino"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      },
+      {
+        "name": "Campeonato de Fútbol Femenino de Primera División B",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Alfredo_Ramos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119280",
@@ -4072,7 +4579,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4381692",
@@ -4088,6 +4595,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%A4%E3%82%B7%E3%83%89%E3%83%AD%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4381692",
@@ -4098,7 +4606,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q44855700",
@@ -4116,6 +4624,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Enrique_Sexto",
     "wikidata_url": "https://www.wikidata.org/wiki/Q44855700",
@@ -4126,7 +4635,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827214",
@@ -4144,6 +4653,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Concordia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827214",
@@ -4154,7 +4664,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827215",
@@ -4172,6 +4682,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ezequiel_Crisol",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827215",
@@ -4182,7 +4693,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827216",
@@ -4200,6 +4711,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Mar_del_Plata",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827216",
@@ -4210,7 +4722,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827217",
@@ -4228,6 +4740,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Paran%C3%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827217",
@@ -4238,7 +4751,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827220",
@@ -4256,6 +4769,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_General_San_Mart%C3%ADn",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827220",
@@ -4266,7 +4780,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827227",
@@ -4284,6 +4798,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jorge_%C3%81ngel_Pena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827227",
@@ -4294,7 +4809,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827230",
@@ -4312,6 +4827,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Cabal%C3%A9n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827230",
@@ -4322,7 +4838,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827233",
@@ -4340,6 +4856,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Parque_Ciudad_de_General_Roca",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827233",
@@ -4350,7 +4867,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827234",
@@ -4368,6 +4885,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Parque_de_la_Velocidad_de_San_Jorge",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827234",
@@ -4378,7 +4896,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827240",
@@ -4396,6 +4914,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Santiago_Yaco_Guarnieri",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827240",
@@ -4406,7 +4925,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827242",
@@ -4424,6 +4943,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A2%E3%83%BB%E3%83%86%E3%83%AB%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%89",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827242",
@@ -4434,7 +4954,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4985518",
@@ -4467,6 +4987,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Buenos_Aires_Cricket_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4985518",
@@ -4477,7 +4998,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q499855",
@@ -4508,6 +5029,20 @@
         "url": "https://museoboquense.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Liga Nacional de Básquet",
+        "name_ja": "リーガ・ナシオナル・バスケットボール"
+      },
+      {
+        "name": "Liga de Voleibol Argentina – Serie A1",
+        "name_ja": "アルゼンチン・セリエA (バレーボール)"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%8D%E3%83%BC%E3%83%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q499855",
@@ -4518,7 +5053,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q502799",
@@ -4539,6 +5074,12 @@
         "url": "https://clubgodoycruz.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Feliciano_Gambarte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q502799",
@@ -4549,7 +5090,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5055678",
@@ -4582,6 +5123,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CeNARD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5055678",
@@ -4592,7 +5134,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5121627",
@@ -4610,6 +5152,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Rosendo_Hern%C3%A1ndez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5121627",
@@ -4620,7 +5163,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q533015",
@@ -4647,6 +5190,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Lan%C3%BAs_%E2%80%93_N%C3%A9stor_D%C3%ADaz_P%C3%A9rez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q533015",
@@ -4657,7 +5210,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5391447",
@@ -4678,6 +5231,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Cincuentenario",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5391447",
@@ -4688,7 +5242,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5392228",
@@ -4704,6 +5258,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Legrotaglie",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5392228",
@@ -4714,7 +5269,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400079",
@@ -4737,6 +5292,12 @@
         "url": "https://temperley.org.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Alfredo_Beranger",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400079",
@@ -4747,7 +5308,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400104",
@@ -4770,6 +5331,12 @@
         "url": "https://independienterivadavia.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Bautista_Gargantini",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400104",
@@ -4780,7 +5347,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400128",
@@ -4804,6 +5371,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Centenario_(Resistencia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400128",
@@ -4814,7 +5387,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400136",
@@ -4837,6 +5410,12 @@
         "url": "https://caestudiantes.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Caseros",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400136",
@@ -4847,7 +5426,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400169",
@@ -4874,6 +5453,16 @@
         "url": "https://www.caatlanta.com.ar/futbol-11-femenino/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      },
+      {
+        "name": "Campeonato de Fútbol Femenino de Primera División B",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Don_Le%C3%B3n_Kolbowski",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400169",
@@ -4884,7 +5473,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400174",
@@ -4907,6 +5496,12 @@
         "url": "https://losandesoficial.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Eduardo_Gallard%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400174",
@@ -4917,7 +5512,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400186",
@@ -4938,6 +5533,12 @@
         "url": "http://csd.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Argentino A",
+        "name_ja": "トルネオ・アルヘンティーノA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_El_Serpentario",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400186",
@@ -4948,7 +5549,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400194",
@@ -4969,6 +5570,12 @@
         "url": "https://clubatleticosarmiento.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Eva_Per%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400194",
@@ -4979,7 +5586,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400214",
@@ -5002,6 +5609,16 @@
         "url": "https://www.almirantebrown.org.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      },
+      {
+        "name": "Unión de Rugby de Buenos Aires",
+        "name_ja": "ブエノスアイレスラグビー協会"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Fragata_Presidente_Sarmiento",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400214",
@@ -5012,7 +5629,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400223",
@@ -5035,6 +5652,12 @@
         "url": "https://www.centralcordoba.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Gabino_Sosa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400223",
@@ -5045,7 +5668,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400254",
@@ -5068,6 +5691,12 @@
         "url": "http://www.sanmartindesanjuan.wordpress.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ingeniero_Hilario_S%C3%A1nchez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400254",
@@ -5078,7 +5707,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400286",
@@ -5099,6 +5728,12 @@
         "url": "http://www.cahuracancorrientes.com.ar/cahcjoomla/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Argentino C",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Antonio_Romero_Feris",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400286",
@@ -5109,7 +5744,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400288",
@@ -5125,6 +5760,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Jorge_Conte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400288",
@@ -5135,7 +5771,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400294",
@@ -5162,6 +5798,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      },
+      {
+        "name": "Campeonato de Fútbol Femenino de Primera División B",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Manuel_Moreno",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400294",
@@ -5172,7 +5818,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400295",
@@ -5193,6 +5839,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Mart%C3%ADn_Olaeta",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400295",
@@ -5203,7 +5855,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400316",
@@ -5221,6 +5873,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_La_Ciudadela",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400316",
@@ -5231,7 +5884,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400360",
@@ -5254,6 +5907,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Mary_Ter%C3%A1n_de_Weiss",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400360",
@@ -5264,7 +5918,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400411",
@@ -5285,6 +5939,12 @@
         "url": "http://www.caicr.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Regional Federal Amateur",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_de_Comodoro_Rivadavia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400411",
@@ -5295,7 +5955,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400428",
@@ -5326,6 +5986,12 @@
         "url": "https://quilmesaclub.org.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [
       {
         "name": "2007 Women's Hockey Champions Trophy",
@@ -5345,7 +6011,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400433",
@@ -5368,6 +6034,12 @@
         "url": "https://defensayjusticia.org.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Norberto_%22Tito%22_Tomaghello",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400433",
@@ -5378,7 +6050,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400456",
@@ -5401,6 +6073,12 @@
         "url": "http://www.clubbenhur.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Parque_Barrio_Ilolay",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400456",
@@ -5411,7 +6089,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400467",
@@ -5432,6 +6110,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ra%C3%BAl_Conti",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400467",
@@ -5442,7 +6126,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400486",
@@ -5458,6 +6142,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_San_Mart%C3%ADn",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400486",
@@ -5468,7 +6153,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400494",
@@ -5497,6 +6182,12 @@
         "url": "https://www.afa.com.ar/es/seleccion-mayor"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera D Argentina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Sportivo_Barracas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400494",
@@ -5507,7 +6198,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400496",
@@ -5528,6 +6219,7 @@
         "url": "http://gimnasiacomodoro.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Socios_Fundadores",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400496",
@@ -5538,7 +6230,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400544",
@@ -5561,6 +6253,12 @@
         "url": "https://clubsportivodocksud.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_de_Los_Inmigrantes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400544",
@@ -5571,7 +6269,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5473025",
@@ -5594,6 +6292,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal J",
+        "name_ja": "トルネオ・フェデラルB"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fort%C3%ADn_de_Ludue%C3%B1a",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5473025",
@@ -5604,7 +6308,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5558581",
@@ -5631,6 +6335,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_de_Excursionistas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5558581",
@@ -5641,7 +6355,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55633299",
@@ -5662,6 +6376,12 @@
         "url": "https://www.jjurquiza.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q55633299",
@@ -5671,7 +6391,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5640228",
@@ -5692,6 +6412,12 @@
         "url": "http://adboficial.com.ar//"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Norman_Lee",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5640228",
@@ -5702,7 +6428,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5712981",
@@ -5718,6 +6444,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Nueve_de_Julio_-_Guillermo_Yoyo_Maldonado",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5712981",
@@ -5728,7 +6455,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5712984",
@@ -5744,6 +6471,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Ober%C3%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5712984",
@@ -5754,7 +6482,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5712986",
@@ -5772,6 +6500,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Ciudad_de_Rafaela",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5712986",
@@ -5782,7 +6511,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5712988",
@@ -5798,6 +6527,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Eusebio_Marcilla",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5712988",
@@ -5808,7 +6538,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5713007",
@@ -5824,6 +6554,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Mart%C3%ADn_Miguel_de_G%C3%BCemes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5713007",
@@ -5834,7 +6565,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5713014",
@@ -5850,6 +6581,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Municipal_Juan_Manuel_Fangio",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5713014",
@@ -5860,7 +6592,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5713023",
@@ -5876,6 +6608,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Parque_Provincia_del_Neuqu%C3%A9n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5713023",
@@ -5886,7 +6619,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5713026",
@@ -5902,6 +6635,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Luis_Rub%C3%A9n_Di_Palma",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5713026",
@@ -5912,7 +6646,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q57204547",
@@ -5928,6 +6662,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AB%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%95%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%93%E3%83%AA%E3%82%AF%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q57204547",
@@ -5938,7 +6673,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q57304906",
@@ -5961,6 +6696,7 @@
         "url": "https://www.casi.org.ar/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q57304906",
@@ -5970,7 +6706,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5745793",
@@ -5990,6 +6726,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5745793",
@@ -5999,7 +6736,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5821506",
@@ -6020,6 +6757,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga del Sur",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5821506",
@@ -6029,7 +6772,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5838781",
@@ -6045,6 +6788,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Escuela_Naval_Militar_(Argentina)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5838781",
@@ -6055,7 +6799,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5839063",
@@ -6071,6 +6815,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Escuela_de_Aviaci%C3%B3n_Militar_(Argentina)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5839063",
@@ -6081,7 +6826,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5842536",
@@ -6097,6 +6842,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5842536",
@@ -6106,7 +6852,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847753",
@@ -6129,6 +6875,12 @@
         "url": "https://www.cacentralcordoba.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Alfredo_Terrera",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847753",
@@ -6139,7 +6891,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847773",
@@ -6157,6 +6909,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847773",
@@ -6166,7 +6919,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847798",
@@ -6184,6 +6937,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847798",
@@ -6193,7 +6947,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847840",
@@ -6211,6 +6965,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847840",
@@ -6220,7 +6975,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847860",
@@ -6238,6 +6993,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Libertad",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847860",
@@ -6248,7 +7004,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847863",
@@ -6271,6 +7027,12 @@
         "url": "https://aaestudiantes.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ciudad_de_R%C3%ADo_Cuarto",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847863",
@@ -6281,7 +7043,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847868",
@@ -6302,6 +7064,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847868",
@@ -6311,7 +7074,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847906",
@@ -6334,6 +7097,12 @@
         "url": "https://clubsantelmo.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847906",
@@ -6343,7 +7112,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847956",
@@ -6364,6 +7133,12 @@
         "url": "https://deportivomoron.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847956",
@@ -6373,7 +7148,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847958",
@@ -6389,6 +7164,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847958",
@@ -6398,7 +7174,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847969",
@@ -6416,6 +7192,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Gildo_Francisco_Ghersinich",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847969",
@@ -6426,7 +7203,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848015",
@@ -6449,6 +7226,12 @@
         "url": "https://www.andestalleres.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Argentino Β",
+        "name_ja": "トルネオ・アルヘンティーノB"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848015",
@@ -6458,7 +7241,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848051",
@@ -6479,6 +7262,12 @@
         "url": "https://www.defeweb.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Juan_Pasquale",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848051",
@@ -6489,7 +7278,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848096",
@@ -6512,6 +7301,12 @@
         "url": "https://www.cabrown.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848096",
@@ -6521,7 +7316,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848124",
@@ -6542,6 +7337,12 @@
         "url": "https://clubatleticosanmiguel.com.ar"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848124",
@@ -6551,7 +7352,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848146",
@@ -6574,6 +7375,12 @@
         "url": "https://racingcba.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Miguel_Sancho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848146",
@@ -6584,7 +7391,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848296",
@@ -6607,6 +7414,12 @@
         "url": "https://deportivomaipu.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848296",
@@ -6616,7 +7429,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848329",
@@ -6634,6 +7447,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Provincial_Juan_Gilberto_Funes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848329",
@@ -6644,7 +7458,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848348",
@@ -6667,6 +7481,12 @@
         "url": "https://clubsportivoitaliano.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Rep%C3%BAblica_de_Italia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848348",
@@ -6677,7 +7497,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848361",
@@ -6698,6 +7518,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera C Argentina",
+        "name_ja": "プリメーラC"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ricardo_Puga",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848361",
@@ -6708,7 +7534,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848370",
@@ -6724,6 +7550,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ruca_Che",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848370",
@@ -6734,7 +7561,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848478",
@@ -6757,6 +7584,12 @@
         "url": "https://clubatleticocolegiales.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848478",
@@ -6766,7 +7599,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848485",
@@ -6787,6 +7620,12 @@
         "url": "http://www.caituzaingo.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・メトロポリターナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848485",
@@ -6796,7 +7635,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5898494",
@@ -6812,6 +7651,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5898494",
@@ -6821,7 +7661,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5946736",
@@ -6839,6 +7679,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hurlingham_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5946736",
@@ -6849,7 +7690,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q594681",
@@ -6867,6 +7708,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Nueva_Chicago",
     "wikidata_url": "https://www.wikidata.org/wiki/Q594681",
@@ -6877,7 +7719,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q59662045",
@@ -6893,6 +7735,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_del_Argentino_de_Merlo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q59662045",
@@ -6903,7 +7746,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q59662046",
@@ -6919,6 +7762,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_12_de_Octubre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q59662046",
@@ -6929,7 +7773,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q59680331",
@@ -6945,6 +7789,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ciudad_de_Laferrere",
     "wikidata_url": "https://www.wikidata.org/wiki/Q59680331",
@@ -6955,7 +7800,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q59680332",
@@ -6971,6 +7816,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_de_Leandro_N._Alem",
     "wikidata_url": "https://www.wikidata.org/wiki/Q59680332",
@@ -6981,7 +7827,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q599468",
@@ -7004,6 +7850,12 @@
         "url": "https://clubabanfield.org/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Florencio_Sola",
     "wikidata_url": "https://www.wikidata.org/wiki/Q599468",
@@ -7014,7 +7866,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6062504",
@@ -7040,6 +7892,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6062504",
@@ -7049,7 +7902,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6081768",
@@ -7076,6 +7929,7 @@
         "url": "http://www.gimnasia.org.ar/deportes/basquet-primera-division/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polideportivo_Gimnasia_y_Esgrima_La_Plata",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6081768",
@@ -7086,7 +7940,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q62005881",
@@ -7102,6 +7956,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Movistar_Arena_(Buenos_Aires)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q62005881",
@@ -7112,7 +7967,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q638797",
@@ -7132,6 +7987,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_Argentino_de_Polo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q638797",
@@ -7142,7 +7998,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6492394",
@@ -7160,6 +8016,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Las_Paredes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6492394",
@@ -7170,7 +8027,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65059774",
@@ -7195,6 +8052,16 @@
         "url": "https://atleticodelrosario.club/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "URBA Top 14",
+        "name_ja": "トルネオ・デ・ラ・URBA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Plaza_Jewell",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65059774",
@@ -7205,7 +8072,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65115607",
@@ -7236,6 +8103,20 @@
         "url": "https://caguemes.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      },
+      {
+        "name": "La Liga Federal",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A6%E3%83%8B%E3%82%B3%E3%83%BB%E3%83%9E%E3%83%89%E3%83%AC%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B7%E3%82%A6%E3%83%80%E3%83%87%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65115607",
@@ -7246,7 +8127,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q675432",
@@ -7269,6 +8150,12 @@
         "url": "https://quilmesaclub.org.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Centenario_Ciudad_de_Quilmes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q675432",
@@ -7279,7 +8166,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q678824",
@@ -7306,6 +8193,16 @@
         "url": "https://www.estudiantesdelaplata.com/futbol/futbol-femenino/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%9B%E3%83%AB%E3%83%98%E3%83%BB%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%92%E3%83%AB%E3%82%B7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q678824",
@@ -7316,7 +8213,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q686521",
@@ -7334,6 +8231,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Roberto_Mouras",
     "wikidata_url": "https://www.wikidata.org/wiki/Q686521",
@@ -7344,7 +8242,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7101706",
@@ -7368,6 +8266,7 @@
         "url": "https://atenas.com.ar/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Orfeo_Superdomo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7101706",
@@ -7378,7 +8277,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q713597",
@@ -7406,6 +8305,12 @@
         "url": "https://rosariocentral.com/plantel-femenino/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [
       {
         "name": "1978 FIFAワールドカップ",
@@ -7425,7 +8330,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7209713",
@@ -7446,6 +8351,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polideportivo_Delmi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7209713",
@@ -7456,7 +8362,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7209718",
@@ -7476,6 +8382,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polideportivo_Municipal_Carlos_Cerutti",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7209718",
@@ -7486,7 +8393,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q740225",
@@ -7507,6 +8414,12 @@
         "url": "https://atleticorafaela.com.ar/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Nuevo_Monumental",
     "wikidata_url": "https://www.wikidata.org/wiki/Q740225",
@@ -7517,7 +8430,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q764585",
@@ -7553,6 +8466,24 @@
         "url": "https://uar.com.ar/equipos-uar/los-pumas/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      },
+      {
+        "name": "Liga Nacional de Básquet",
+        "name_ja": "リーガ・ナシオナル・バスケットボール"
+      },
+      {
+        "name": "Primera División A",
+        "name_ja": "カンペオナート・デ・フトボル・フェミニーノ"
+      },
+      {
+        "name": "Argentine Primera División",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Arquitecto_Ricardo_Etcheverri",
     "wikidata_url": "https://www.wikidata.org/wiki/Q764585",
@@ -7563,7 +8494,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q789430",
@@ -7581,6 +8512,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Parque_Ciudad_de_R%C3%ADo_Cuarto",
     "wikidata_url": "https://www.wikidata.org/wiki/Q789430",
@@ -7591,7 +8523,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8210040",
@@ -7609,6 +8541,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Eduardo_Copello",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8210040",
@@ -7619,7 +8552,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q86720654",
@@ -7635,6 +8568,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q86720654",
@@ -7644,7 +8578,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8842881",
@@ -7667,6 +8601,12 @@
         "url": "https://patronatofutbol.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Presb%C3%ADtero_Bartolom%C3%A9_Grella",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8842881",
@@ -7677,7 +8617,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q946549",
@@ -7701,6 +8641,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Argentino A",
+        "name_ja": "トルネオ・アルヘンティーノA"
+      },
+      {
+        "name": "Torneo Federal A",
+        "name_ja": "トルネオ・フェデラルA"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Padre_Ernesto_Martearena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q946549",
@@ -7711,7 +8661,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97169308",
@@ -7729,6 +8679,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97169308",
@@ -7738,7 +8689,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97182054",
@@ -7757,6 +8708,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_San_Nicol%C3%A1s",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97182054",
@@ -7767,7 +8719,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97506160",
@@ -7788,6 +8740,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Torneo Argentino Β",
+        "name_ja": "トルネオ・アルヘンティーノB"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97506160",
@@ -7797,7 +8755,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q98380412",
@@ -7818,6 +8776,12 @@
         "url": "https://cybrsantamarina.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q98380412",
@@ -7827,7 +8791,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q98829621",
@@ -7850,6 +8814,16 @@
         "url": "https://camitre.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera Nacional",
+        "name_ja": "プリメーラB・ナシオナル"
+      },
+      {
+        "name": "La Liga Federal",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Doctores_Jos%C3%A9_y_Antonio_Castiglione",
     "wikidata_url": "https://www.wikidata.org/wiki/Q98829621",
@@ -7860,6 +8834,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
