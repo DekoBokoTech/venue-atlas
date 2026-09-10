@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115588530",
@@ -24,7 +25,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q167042",
@@ -45,6 +46,7 @@
         "url": "https://www.windiescricket.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%88%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%90%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q167042",
@@ -55,7 +57,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25112645",
@@ -73,6 +75,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Usain_Bolt_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25112645",
@@ -83,7 +86,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4636432",
@@ -99,6 +102,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Ws_Oval",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4636432",
@@ -109,7 +113,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5523099",
@@ -129,6 +133,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Garfield_Sobers_Gymnasium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5523099",
@@ -139,7 +144,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5524057",
@@ -155,6 +160,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Garrison_Savannah_Racetrack",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5524057",
@@ -165,7 +171,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65121129",
@@ -183,6 +189,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wildey_Turf",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65121129",
@@ -193,7 +200,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q807307",
@@ -214,6 +221,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Barbados Premier Division",
+        "name_ja": "バルバドス・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Barbados_National_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q807307",
@@ -224,6 +237,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
