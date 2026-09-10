@@ -18,6 +18,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Somali First Division",
+        "name_ja": "ソマリアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Horseed_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15900013",
@@ -28,7 +34,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3545656",
@@ -49,6 +55,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8A%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3545656",
@@ -59,7 +66,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6873082",
@@ -75,6 +82,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mire_Aware_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6873082",
@@ -85,7 +93,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6890414",
@@ -110,6 +118,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%AC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6890414",
@@ -120,7 +129,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6978666",
@@ -143,6 +152,7 @@
         "url": "https://somsoccer.so/somali/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6978666",
@@ -152,7 +162,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85740486",
@@ -168,6 +178,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alamzey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85740486",
@@ -178,6 +189,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
