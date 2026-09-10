@@ -1,79 +1,5 @@
 [
   {
-    "id": "Q105551393",
-    "name": "Q105551393",
-    "name_ja": null,
-    "lat": 33.133056,
-    "lng": 11.216111,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q105551393",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q106671903",
-    "name": "Q106671903",
-    "name_ja": null,
-    "lat": 34.38209,
-    "lng": 8.1503802,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q106671903",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q108379439",
-    "name": "Q108379439",
-    "name_ja": null,
-    "lat": 36.7697,
-    "lng": 10.20375,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "US Djebel Jelloud",
-        "url": "http://usdd.tn/?fbclid=IwY2xjawGA_rRleHRuA2FlbQIxMAABHeHQ9V2aTKMQ2gFWaMhECiZajqvXDWQ21Cy-tBiyNeUT_gyMfJ07hz-vsg_aem_kzvEKEtAwHOWhEVYV8gFLQ"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q108379439",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q109024353",
     "name": "Ezzahra Arena",
     "name_ja": null,
@@ -84,40 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109024353",
     "image_url": "Ezzahra Arena.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q109044991",
-    "name": "Q109044991",
-    "name_ja": null,
-    "lat": 36.886028,
-    "lng": 10.205028,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109044991",
-    "image_url": "Stade Borj Louzir.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1133198",
@@ -126,10 +32,13 @@
     "lat": 36.828863,
     "lng": 10.170121,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18000,
     "opened_year": 1942,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -137,16 +46,18 @@
         "url": "https://js-omrane.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chedly_Zouiten_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1133198",
     "image_url": "Tnplaces 12.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115648",
@@ -155,10 +66,13 @@
     "lat": 37.2789,
     "lng": 9.86558,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -166,16 +80,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Bsiri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q115648",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115658",
@@ -184,15 +105,24 @@
     "lat": 35.8549,
     "lng": 10.5986,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
         "name": "ES Hammam-Sousse",
-        "url": null
+        "url": "https://eshs-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
       }
     ],
     "events": [],
@@ -200,62 +130,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q115658",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q11894352",
-    "name": "Q11894352",
-    "name_ja": null,
-    "lat": 33.870736237,
-    "lng": 10.858547728,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "AS Djerba",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q11894352",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12241653",
-    "name": "Q12241653",
-    "name_ja": null,
-    "lat": 36.7273,
-    "lng": 9.94108,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1968,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12241653",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q140299408",
@@ -268,6 +148,7 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -275,85 +156,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tozeur_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q140299408",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16010627",
-    "name": "Q16010627",
-    "name_ja": null,
-    "lat": 36.6467,
-    "lng": 10.4445,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16010627",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16011154",
-    "name": "Q16011154",
-    "name_ja": null,
-    "lat": 37.2463,
-    "lng": 9.78318,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16011154",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16011157",
-    "name": "Q16011157",
-    "name_ja": null,
-    "lat": 37.2712,
-    "lng": 9.86359,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16011157",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16506663",
@@ -366,109 +180,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16506663",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16507807",
-    "name": "Q16507807",
-    "name_ja": null,
-    "lat": 36.8949,
-    "lng": 11.0869,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16507807",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16507808",
-    "name": "Q16507808",
-    "name_ja": null,
-    "lat": 37.2484,
-    "lng": 10.0493,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16507808",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16507810",
-    "name": "Q16507810",
-    "name_ja": null,
-    "lat": 36.8147,
-    "lng": 10.1532,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16507810",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16507811",
-    "name": "Q16507811",
-    "name_ja": null,
-    "lat": 34.5965,
-    "lng": 9.60849,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16507811",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1848770",
@@ -477,10 +202,14 @@
     "lat": 36.747777777,
     "lng": 10.272777777,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技",
+      "サッカー"
+    ],
     "capacity": 65000,
     "opened_year": 2001,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -492,16 +221,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB%E3%83%A9%E3%83%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1848770",
     "image_url": "STADE DE RADES.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1851717",
@@ -510,10 +246,13 @@
     "lat": 34.733611111,
     "lng": 10.746111111,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 11000,
     "opened_year": 1938,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -521,44 +260,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Taieb_Mhiri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1851717",
     "image_url": "Stade taieb mehiri.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q20384764",
-    "name": "Q20384764",
-    "name_ja": null,
-    "lat": 35.17559,
-    "lng": 8.797479,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "AS Kasserine",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20384764",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22932638",
@@ -571,6 +289,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -578,16 +297,23 @@
         "url": "https://es-metlaoui.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A9tlaoui_Municipal_stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22932638",
     "image_url": "Municipal Stadium in Metlaoui 08.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2663873",
@@ -596,21 +322,26 @@
     "lat": 35.89693,
     "lng": 10.58663,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2663873",
     "image_url": "Sousse - Kantaoui Golf Course.jpg",
     "website": "http://www.kantaouigolfcourse.com.tn/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2722281",
@@ -619,10 +350,13 @@
     "lat": 36.727778,
     "lng": 9.1925,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -630,15 +364,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2722281",
     "image_url": "Stade Boujemaa Kmiti.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2740479",
@@ -647,10 +388,13 @@
     "lat": 37.278923,
     "lng": 9.865583,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1990,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -658,16 +402,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/15_October_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2740479",
     "image_url": "Stade de bizerte.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2974258",
@@ -680,18 +431,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Circus_of_Carthage",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2974258",
     "image_url": "Tunis Carthage Cirque 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3089460",
@@ -700,10 +454,13 @@
     "lat": 35.776389,
     "lng": 10.820278,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -711,16 +468,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mustapha_Ben_Jannet_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3089460",
     "image_url": "Stade Mustapha-Ben-Jennet.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3110152",
@@ -729,21 +493,26 @@
     "lat": 36.42591,
     "lng": 10.546124,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3110152",
     "image_url": "2007-11-21-Hammamet-Golf-Citrus-1.JPG",
     "website": "https://www.citrusgolfclub.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3110157",
@@ -752,21 +521,26 @@
     "lat": 33.826282,
     "lng": 11.011234,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3110157",
     "image_url": null,
     "website": "http://www.djerbagolf.com.tn/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3110159",
@@ -775,21 +549,26 @@
     "lat": 35.745504,
     "lng": 10.800041,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3110159",
     "image_url": "2008-11-25-Monastir-Flamingo-74.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3110161",
@@ -798,21 +577,26 @@
     "lat": 36.423523,
     "lng": 10.55853,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3110161",
     "image_url": "2006-11-21-Hammamet-22.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3110181",
@@ -821,67 +605,26 @@
     "lat": 36.8805,
     "lng": 10.2488,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3110181",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3110207",
-    "name": "Q3110207",
-    "name_ja": null,
-    "lat": 36.95086,
-    "lng": 8.793311,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3110207",
-    "image_url": "Golf et ville de Tabarka.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3135888",
-    "name": "Q3135888",
-    "name_ja": null,
-    "lat": 36.817625,
-    "lng": 10.11325,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3135888",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q31440364",
@@ -890,10 +633,13 @@
     "lat": 33.13305556,
     "lng": 11.21611111,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -901,16 +647,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 2",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/7_March_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q31440364",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3361138",
@@ -919,10 +672,14 @@
     "lat": 36.8361,
     "lng": 10.1829,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バレーボール"
+    ],
     "capacity": 4500,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -930,16 +687,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Menzah_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3361138",
     "image_url": "PalaisSportsElMenzahMai2012.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3363824",
@@ -948,50 +707,27 @@
     "lat": 36.81417,
     "lng": 10.186726,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Esp%C3%A9rance_de_Tunis_Training_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3363824",
     "image_url": "Parc Hassen Belkhodja - Parc B - حديقة الرياضة ب حسان بلخوجة photo1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3363866",
-    "name": "Q3363866",
-    "name_ja": null,
-    "lat": 36.8039,
-    "lng": 10.1894,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1999,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Club Africain",
-        "url": "https://www.clubafricain.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3363866",
-    "image_url": "Parc A - Club Africain.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q33700717",
@@ -1000,10 +736,13 @@
     "lat": 33.804676509,
     "lng": 10.987699619,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1011,44 +750,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Midoun_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q33700717",
     "image_url": "Espoir Sportif de Jerba Midoun Okt 2022 26.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3469851",
-    "name": "Q3469851",
-    "name_ja": null,
-    "lat": 36.7898,
-    "lng": 10.1669,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Club Africain",
-        "url": "https://www.clubafricain.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3469851",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3469875",
@@ -1057,10 +770,14 @@
     "lat": 36.8141,
     "lng": 10.1864,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール",
+      "バレーボール"
+    ],
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1068,43 +785,22 @@
         "url": "https://www.est.org.tn/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3469875",
     "image_url": "Salle Zouaoui.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3469934",
-    "name": "Q3469934",
-    "name_ja": null,
-    "lat": 36.7229,
-    "lng": 9.192,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Olympique Béja",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3469934",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495483",
@@ -1113,15 +809,24 @@
     "lat": 36.875,
     "lng": 10.32,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
         "name": "ASマルサ",
-        "url": null
+        "url": "https://as-marsa.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
       }
     ],
     "events": [],
@@ -1129,11 +834,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495483",
     "image_url": "Stade Abdelaziz Chtioui La Marsa.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495500",
@@ -1142,10 +848,13 @@
     "lat": 35.6663,
     "lng": 10.1094,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1153,16 +862,23 @@
         "url": "https://jsk-kairouan.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Zouaoui_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495500",
     "image_url": "Ali Zouaoui stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495586",
@@ -1171,10 +887,13 @@
     "lat": 34.7033,
     "lng": 11.2078,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1182,43 +901,22 @@
         "url": "https://oc-kerkennah.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 2",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495586",
     "image_url": "Stade Farhat Hached 2.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495618",
-    "name": "Q3495618",
-    "name_ja": null,
-    "lat": 35.6869,
-    "lng": 10.0736,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": 4500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "JS Kairouan",
-        "url": "https://jsk-kairouan.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495618",
-    "image_url": "Hamda Laouani stadium.JPG",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495654",
@@ -1227,10 +925,13 @@
     "lat": 33.491667,
     "lng": 11.110556,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1238,15 +939,22 @@
         "url": "https://esperance-sportive-de-zarzis.web.app/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495654",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496171",
@@ -1255,10 +963,13 @@
     "lat": 36.4941,
     "lng": 8.78214,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1266,16 +977,23 @@
         "url": "http://jendoubasport.net/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 2",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jendouba_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496171",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496175",
@@ -1284,10 +1002,13 @@
     "lat": 36.7273,
     "lng": 10.3462,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1295,16 +1016,23 @@
         "url": "https://cshl-fc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bou_Kornine_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496175",
     "image_url": "Stade municipal de Hammam Lif.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496213",
@@ -1313,15 +1041,24 @@
     "lat": 34.4225,
     "lng": 8.771667,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
         "name": "EGS Gafsa",
-        "url": null
+        "url": "https://egsgafsa-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 2",
+        "name_ja": null
       }
     ],
     "events": [],
@@ -1329,11 +1066,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496213",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3542105",
@@ -1346,41 +1084,47 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tunis_Sports_City",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3542105",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
-    "id": "Q42609133",
-    "name": "Q42609133",
+    "id": "Q54965878",
+    "name": "Radès Olympic City",
     "name_ja": null,
-    "lat": 36.426605,
-    "lng": 9.215402,
+    "lat": 36.747362325,
+    "lng": 10.27084507,
     "country": "TN",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q42609133",
-    "image_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q54965878",
+    "image_url": "Ben Arous، Tunisia - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56376630",
@@ -1389,10 +1133,13 @@
     "lat": 36.8162,
     "lng": 10.1253,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1400,16 +1147,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A9di_Enneifer_stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q56376630",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60848180",
@@ -1422,18 +1176,21 @@
     "capacity": 4075,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed-Mzali_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60848180",
     "image_url": "SalleOmnisport7NovembreMonastir.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60853158",
@@ -1446,18 +1203,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Belv%C3%A9d%C3%A8re_Municipal_Swimming_Pool",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60853158",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q62266711",
@@ -1466,21 +1226,26 @@
     "lat": 36.768055555,
     "lng": 10.181944444,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q62266711",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q62305960",
@@ -1493,17 +1258,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q62305960",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q62307237",
@@ -1516,17 +1284,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q62307237",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q62507227",
@@ -1539,17 +1310,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q62507227",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596086",
@@ -1558,10 +1332,13 @@
     "lat": 36.83974,
     "lng": 10.18518,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1569,16 +1346,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 2",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ameur_El-Gargouri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596086",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596180",
@@ -1587,19 +1371,32 @@
     "lat": 33.8658741,
     "lng": 10.1056385,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
         "name": "Stade Gabèsien",
-        "url": null
+        "url": "https://stadegabesien-sc.com/"
       },
       {
         "name": "AS Gabès",
-        "url": null
+        "url": "https://fc-asg.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 2",
+        "name_ja": null
+      },
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
       }
     ],
     "events": [],
@@ -1607,34 +1404,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596180",
     "image_url": "Public stade gabésien en derby.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q79403656",
-    "name": "Q79403656",
-    "name_ja": null,
-    "lat": 36.69368504,
-    "lng": 10.483907747,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q79403656",
-    "image_url": "Stade de Soliman.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q84361896",
@@ -1643,21 +1418,26 @@
     "lat": 33.909424347,
     "lng": 8.108446598,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q84361896",
     "image_url": "Terrain de golf de Tozeur.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q90938613",
@@ -1666,21 +1446,29 @@
     "lat": 36.842641,
     "lng": 10.183934,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "競泳",
+      "水球",
+      "飛込競技",
+      "アーティスティックスイミング"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q90938613",
     "image_url": "SwimmingPoolElMenzah 4.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q919690",
@@ -1689,22 +1477,27 @@
     "lat": 36.745556,
     "lng": 10.269167,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール"
+    ],
     "capacity": 17000,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Salle_Omnisport_de_Rad%C3%A8s",
     "wikidata_url": "https://www.wikidata.org/wiki/Q919690",
     "image_url": "Salle des sports de Radès.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q919953",
@@ -1713,10 +1506,13 @@
     "lat": 35.823333,
     "lng": 10.612778,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 42000,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1724,16 +1520,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sousse_Olympic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q919953",
     "image_url": "Stade olympique de Sousse, vue panoramique, 1 Mars 2025.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q983916",
@@ -1742,10 +1545,13 @@
     "lat": 36.839778,
     "lng": 10.185361,
     "country": "TN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 45000,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1753,71 +1559,22 @@
         "url": "https://www.est.org.tn/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tunisian Ligue Professionnelle 1",
+        "name_ja": "チュニジア・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%A1%E3%83%B3%E3%82%B6",
     "wikidata_url": "https://www.wikidata.org/wiki/Q983916",
     "image_url": "El Menzah Stadium 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q99705141",
-    "name": "Q99705141",
-    "name_ja": null,
-    "lat": 32.960208,
-    "lng": 10.470968,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "USタタウイヌ",
-        "url": "https://us-tataouine.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q99705141",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q99955188",
-    "name": "Q99955188",
-    "name_ja": null,
-    "lat": 35.47071,
-    "lng": 11.050375,
-    "country": "TN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "AS Rejiche",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q99955188",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

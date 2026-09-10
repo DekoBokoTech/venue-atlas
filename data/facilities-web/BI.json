@@ -6,10 +6,13 @@
     "lat": -3.383333,
     "lng": 29.373778,
     "country": "BI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22000,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -21,112 +24,22 @@
         "url": "http://www.vitalofc.org"
       }
     ],
+    "leagues": [
+      {
+        "name": "Burundi Premier League",
+        "name_ja": "ブルンジ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Intwari_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1585283",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605627",
-    "name": "Q16605627",
-    "name_ja": null,
-    "lat": -3.25,
-    "lng": 29.6,
-    "country": "BI",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605627",
-    "image_url": "Stade Muramvya.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605644",
-    "name": "Q16605644",
-    "name_ja": null,
-    "lat": -3.96667,
-    "lng": 29.4333,
-    "country": "BI",
-    "sport_types": [],
-    "capacity": 5418,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "ル・メッセンジャー・ンゴジFC",
-        "url": "http://www.lemessagerfc.org"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605644",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30913272",
-    "name": "Q30913272",
-    "name_ja": null,
-    "lat": -2.909467,
-    "lng": 29.825,
-    "country": "BI",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30913272",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q9341086",
-    "name": "Q9341086",
-    "name_ja": null,
-    "lat": -3.47704,
-    "lng": 30.2474,
-    "country": "BI",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9341086",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

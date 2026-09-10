@@ -6,10 +6,13 @@
     "lat": 1.82,
     "lng": 9.7875,
     "country": "GQ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -21,16 +24,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Equatorial Guinea Football Ligue",
+        "name_ja": "赤道ギニア・プリメーラディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%87%E3%83%BB%E3%83%90%E3%82%BF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369679",
     "image_url": "Bata Stadium Equatorial Guinea.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1510743",
@@ -39,10 +49,13 @@
     "lat": 3.725,
     "lng": 8.769167,
     "country": "GQ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15250,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -54,16 +67,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Equatorial Guinea Football Ligue",
+        "name_ja": "赤道ギニア・プリメーラディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%A8%E3%83%9C%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%87%E3%83%BB%E3%83%9E%E3%83%A9%E3%83%9C",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1510743",
     "image_url": "Estadio de Malabo Equatorial Guinea.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18605917",
@@ -72,10 +92,13 @@
     "lat": 1.65108,
     "lng": 11.29933,
     "country": "GQ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -83,16 +106,18 @@
         "url": "https://www.feguifut.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_de_Mongomo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18605917",
     "image_url": "Stade-Mongomo.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400260",
@@ -101,22 +126,27 @@
     "lat": 3.7496826,
     "lng": 8.7808979,
     "country": "GQ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Internacional",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400260",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400322",
@@ -129,40 +159,20 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400322",
     "image_url": "Estadio de Libertad Bata Guinea Eq Jul 2010.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5848079",
-    "name": "Q5848079",
-    "name_ja": null,
-    "lat": 3.74947,
-    "lng": 8.7811,
-    "country": "GQ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5848079",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5848131",
@@ -171,10 +181,13 @@
     "lat": 2.14122,
     "lng": 11.31211,
     "country": "GQ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -182,15 +195,17 @@
         "url": "https://www.feguifut.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ebibeyin_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5848131",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

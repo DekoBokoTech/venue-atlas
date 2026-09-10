@@ -6,10 +6,13 @@
     "lat": 41.5676,
     "lng": 44.994,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 2889,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,38 +20,17 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104759128",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q10705724",
-    "name": "Q10705724",
-    "name_ja": null,
-    "lat": 42.42,
-    "lng": 42.374861,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q10705724",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109041518",
@@ -61,17 +43,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109041518",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109043083",
@@ -84,17 +69,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109043083",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109044997",
@@ -107,17 +95,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109044997",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109044999",
@@ -130,86 +121,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109044999",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q109045001",
-    "name": "Q109045001",
-    "name_ja": null,
-    "lat": 41.973631,
-    "lng": 44.115606,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109045001",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q109045003",
-    "name": "Q109045003",
-    "name_ja": null,
-    "lat": 41.735441,
-    "lng": 44.718107,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109045003",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q109045006",
-    "name": "Q109045006",
-    "name_ja": null,
-    "lat": 42.14628,
-    "lng": 41.689844,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109045006",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113330739",
@@ -222,109 +147,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113330739",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q126372243",
-    "name": "Q126372243",
-    "name_ja": null,
-    "lat": 41.71861111,
-    "lng": 43.53388889,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q126372243",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q126372244",
-    "name": "Q126372244",
-    "name_ja": null,
-    "lat": 41.71527778,
-    "lng": 43.54111111,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q126372244",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q126372245",
-    "name": "Q126372245",
-    "name_ja": null,
-    "lat": 41.73916667,
-    "lng": 43.55416667,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q126372245",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q126372246",
-    "name": "Q126372246",
-    "name_ja": null,
-    "lat": 42.47194444,
-    "lng": 44.49111111,
-    "country": "GE",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q126372246",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12869347",
@@ -337,18 +173,21 @@
     "capacity": 2000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shatili_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12869347",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130421043",
@@ -361,17 +200,20 @@
     "capacity": null,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130421043",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134779728",
@@ -384,17 +226,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134779728",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1383071",
@@ -407,6 +252,7 @@
     "capacity": 22000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -414,16 +260,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Evgrapi_Shevardnadze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1383071",
     "image_url": "Shevardnadze Stadium in Lanchkhuti.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1519723",
@@ -432,10 +280,13 @@
     "lat": 41.983019,
     "lng": 44.103828,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -443,16 +294,23 @@
         "url": "http://fcdila.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tengiz_Burjanadze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1519723",
     "image_url": "Tengiz Burjanadze Stadium in Gori, Georgia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1528840",
@@ -461,10 +319,13 @@
     "lat": 42.255141666,
     "lng": 42.683086111,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -472,16 +333,23 @@
         "url": "https://fctorpedokutaisi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ramaz_Shengelia_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1528840",
     "image_url": "Ramaz Shengelia Stadium 20140309.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1535913",
@@ -490,10 +358,13 @@
     "lat": 41.709617,
     "lng": 44.746247,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 27223,
     "opened_year": 1952,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -505,16 +376,23 @@
         "url": "https://www.fcsaburtalo.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%98%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%A1%E3%82%B9%E3%83%92%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1535913",
     "image_url": "Mikhain Meskhi Stadium 2024.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1553013",
@@ -527,18 +405,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gudauri",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1553013",
     "image_url": "Gudauri (11).jpg",
     "website": "http://www.gudauri.ski",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16372227",
@@ -551,6 +432,7 @@
     "capacity": 3500,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -558,27 +440,37 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16372227",
     "image_url": "Megobroba46170957.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16605713",
     "name": "David Kipiani Stadium",
     "name_ja": null,
-    "lat": 41.7562,
-    "lng": 45.7972,
+    "lat": 41.756,
+    "lng": 45.797277777,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -586,16 +478,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga 3",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/David_Kipiani_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16605713",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1688179",
@@ -608,6 +507,7 @@
     "capacity": 4657,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -615,16 +515,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Poladi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1688179",
     "image_url": "Poladi Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1781298",
@@ -637,18 +544,21 @@
     "capacity": null,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rustavi_International_Motorpark",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1781298",
     "image_url": "Rustavi 3d.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q189920",
@@ -661,6 +571,7 @@
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -668,16 +579,23 @@
         "url": "http://dinamobatumi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Batumi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q189920",
     "image_url": "Stadioni Batumi.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q189921",
@@ -690,6 +608,7 @@
     "capacity": 4558,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -697,16 +616,18 @@
         "url": "http://www.fczestafoni.ge/Eng/FcZestafoni.htm"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/David_Abashidze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q189921",
     "image_url": "Davit Abashidze Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q190793",
@@ -719,6 +640,7 @@
     "capacity": 35000,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -726,16 +648,23 @@
         "url": "https://fcdinamo.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Tbilisi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q190793",
     "image_url": "Dinamo Standium 1935.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2075609",
@@ -744,10 +673,13 @@
     "lat": 42.16084,
     "lng": 42.33064,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -755,16 +687,23 @@
         "url": "http://fcsamtredia.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Erosi_Manjgaladze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2075609",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25110954",
@@ -773,22 +712,27 @@
     "lat": 43.28611,
     "lng": 40.2626333,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4300,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium%2C_Sokhumi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25110954",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25212595",
@@ -801,6 +745,7 @@
     "capacity": 4860,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -808,16 +753,18 @@
         "url": "https://www.aia-rugby.ge"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25212595",
     "image_url": "AIA Kutaisi Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2645803",
@@ -830,6 +777,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -837,16 +785,23 @@
         "url": "https://www.witgeorgia.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mtskheta_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2645803",
     "image_url": "Mtskheta Park in Mtskheta, Georgia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q290801",
@@ -855,10 +810,13 @@
     "lat": 41.723,
     "lng": 44.78975,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 54549,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -866,16 +824,18 @@
         "url": "https://rugby.ge/%e1%83%94%e1%83%a0%e1%83%9d%e1%83%95%e1%83%9c%e1%83%a3%e1%83%9a%e1%83%98/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%91%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q290801",
     "image_url": "Boris Paichadze Dinamo Arena, Samtredia - Qarabağ.jpg",
     "website": "http://www.fcdinamo.ge/en/club/stadium",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2919558",
@@ -888,6 +848,7 @@
     "capacity": 9700,
     "opened_year": 1961,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -895,16 +856,18 @@
         "url": "http://www.gbf.ge/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2919558",
     "image_url": "Sports Palace in Tbilisi.jpg",
     "website": "http://www.sportspalace.ge",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3545125",
@@ -917,6 +880,7 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -924,16 +888,23 @@
         "url": "https://poti.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fazisi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3545125",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3649248",
@@ -946,6 +917,7 @@
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -953,16 +925,18 @@
         "url": "http://fczugdidi.ge"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gulia_Tutberidze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3649248",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3649322",
@@ -975,17 +949,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3649322",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3649379",
@@ -998,6 +975,7 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1005,16 +983,23 @@
         "url": "https://fctelavi.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Municipal_Stadium_(Telavi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3649379",
     "image_url": "Telavi Municipal Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3650758",
@@ -1027,6 +1012,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1034,15 +1020,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3650758",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q37181445",
@@ -1051,22 +1044,27 @@
     "lat": 41.7181,
     "lng": 44.7279,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Olympic_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q37181445",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4242676",
@@ -1079,18 +1077,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Krtsanisi_National_Training_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4242676",
     "image_url": "Krtsanisi training center logo.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4439105",
@@ -1099,22 +1100,27 @@
     "lat": 43.2861,
     "lng": 40.2626,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Daur_Akhvlediani_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4439105",
     "image_url": "Daur Akhvlediani Stadium.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4750983",
@@ -1127,17 +1133,20 @@
     "capacity": 1000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4750983",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4849605",
@@ -1150,18 +1159,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bakuriani_K-115",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4849605",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4873358",
@@ -1170,10 +1182,13 @@
     "lat": 41.63527778,
     "lng": 41.61916667,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20035,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1181,16 +1196,23 @@
         "url": "http://dinamobatumi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%82%A5%E3%83%9F%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4873358",
     "image_url": "Dinamo Batumi vs. Bate Belarus.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q502180",
@@ -1203,6 +1225,7 @@
     "capacity": 6000,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1210,16 +1233,23 @@
         "url": "http://fcshukura.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga 4 (Georgia)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chele_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q502180",
     "image_url": "Chele Arena in Kobuleti,Georgia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5608996",
@@ -1232,6 +1262,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1239,28 +1270,34 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Grigol_Jomartidze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5608996",
     "image_url": "Iveria Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61459729",
     "name": "David Petriashvili stadium",
     "name_ja": null,
     "lat": 41.791667,
-    "lng": 44.78,
+    "lng": 44.779444,
     "country": "GE",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 2130,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1268,15 +1305,22 @@
         "url": "https://gagrafc.ge/en/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q61459729",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6177080",
@@ -1289,18 +1333,21 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jemal_Zeinklishvili_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6177080",
     "image_url": "Jemal Zeinklishvili Stadium in Borjomi, Georgia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6373576",
@@ -1313,6 +1360,7 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1320,16 +1368,18 @@
         "url": "http://www.fcspartak.ge/index.php?LanG=2"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kartli_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6373576",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6849801",
@@ -1342,6 +1392,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1349,16 +1400,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mikheil_Iadze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6849801",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q750051",
@@ -1371,6 +1424,7 @@
     "capacity": 3400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1378,16 +1432,23 @@
         "url": "http://fcsioni.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tamaz_Stepania_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q750051",
     "image_url": "Tamaz Stepania Stadium in Bolnisi, Georgia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7579289",
@@ -1400,18 +1461,21 @@
     "capacity": 2000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sport-kompleksi_Shatili",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579289",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7699089",
@@ -1424,6 +1488,7 @@
     "capacity": 11650,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1431,16 +1496,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Temur_Maghradze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7699089",
     "image_url": "ჭიათურა - თემურ მაღრაძის სტადიონი 0757.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7938224",
@@ -1453,6 +1525,7 @@
     "capacity": 14700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1460,16 +1533,23 @@
         "url": "https://meshakhte-fc.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimer_Bochorishvili_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7938224",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q839989",
@@ -1482,6 +1562,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1489,15 +1570,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sinatle_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q839989",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

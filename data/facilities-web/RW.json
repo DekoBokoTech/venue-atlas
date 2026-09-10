@@ -10,17 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123151222",
     "image_url": "Stade regional de Muhanga.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137636047",
@@ -29,10 +32,13 @@
     "lat": -2.487727332,
     "lng": 28.899708957,
     "country": "RW",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -40,15 +46,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q137636047",
     "image_url": "KamembeGenocideMemorial04.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17521096",
@@ -61,17 +74,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q17521096",
     "image_url": "Africa Rising Cycling Center 01.jpeg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18391584",
@@ -80,22 +96,27 @@
     "lat": -2.02952778,
     "lng": 30.10722222,
     "country": "RW",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rwanda_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18391584",
     "image_url": "GCS Drone Shot-YT.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2749637",
@@ -104,10 +125,13 @@
     "lat": -1.955028,
     "lng": 30.114222,
     "country": "RW",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -115,16 +139,18 @@
         "url": "http://www.ferwafa.rw/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amahoro_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2749637",
     "image_url": "Amahoro Stadium Kigali.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q64597370",
@@ -137,17 +163,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64597370",
     "image_url": null,
     "website": "https://www.skate-aid.org/en/projects/africa/rwanda-kigali/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65050783",
@@ -160,18 +189,21 @@
     "capacity": null,
     "opened_year": 2019,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/BK_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65050783",
     "image_url": "Le président du Rwanda Paul Kagame lors de la cérémonie de dévoilement du logo BAL à la Kigali Arena, à Kigali, Rwanda, le 19 décembre 2019.jpg",
     "website": "https://bkarena.rw/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596121",
@@ -184,6 +216,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -191,16 +224,23 @@
         "url": "http://www.mukuravictorysport.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Huye_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596121",
     "image_url": "Inside Huye Stadium, People doing written exams for vacancies after COVID-19 Lock-down.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596202",
@@ -209,10 +249,13 @@
     "lat": -1.978106,
     "lng": 30.044125,
     "country": "RW",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -226,6 +269,16 @@
       {
         "name": "S.C. Kiyovu Sports",
         "url": "http://www.kiyovusport.co.rw"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
+      },
+      {
+        "name": "Rwanda Women's Football League",
+        "name_ja": null
       }
     ],
     "events": [
@@ -246,11 +299,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596202",
     "image_url": "Kigali Pele Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7881843",
@@ -263,6 +317,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -272,6 +327,12 @@
       {
         "name": "Rutsiro FC",
         "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
       }
     ],
     "events": [
@@ -288,10 +349,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q7881843",
     "image_url": "Stadium of Rubavu.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

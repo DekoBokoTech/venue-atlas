@@ -6,10 +6,13 @@
     "lat": 43.9351,
     "lng": 12.4518,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,43 +20,22 @@
         "url": "http://www.polisportivalibertas.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campionato Sammarinese di Calcio",
+        "name_ja": "カンピオナート・サンマリネーゼ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3654708",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3654710",
-    "name": "Q3654710",
-    "name_ja": null,
-    "lat": 43.9824,
-    "lng": 12.4948,
-    "country": "SM",
-    "sport_types": [],
-    "capacity": 1200,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "ACユベネス・ドガーナ",
-        "url": "http://www.acjuvenesdogana.sm/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3654710",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3654711",
@@ -62,10 +44,13 @@
     "lat": 43.9453,
     "lng": 12.4661,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -73,15 +58,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Campionato Sammarinese di Calcio",
+        "name_ja": "カンピオナート・サンマリネーゼ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3654711",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3654715",
@@ -90,21 +82,26 @@
     "lat": 43.908667,
     "lng": 12.447944,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3654715",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3654717",
@@ -113,44 +110,26 @@
     "lat": 43.9149,
     "lng": 12.4821,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3654717",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3867044",
-    "name": "Q3867044",
-    "name_ja": null,
-    "lat": 43.96944444,
-    "lng": 12.47833333,
-    "country": "SM",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3867044",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3967881",
@@ -159,21 +138,26 @@
     "lat": 43.9725,
     "lng": 12.48055556,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3967881",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3967943",
@@ -182,10 +166,13 @@
     "lat": 43.97,
     "lng": 12.4739,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": 1500,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -193,16 +180,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadio_di_Baseball_di_Serravalle",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3967943",
     "image_url": "Stadio Baseball Serravalle European Cup 2012.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q728131",
@@ -211,10 +200,13 @@
     "lat": 43.97125,
     "lng": 12.476972,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6664,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -226,16 +218,23 @@
         "url": "http://www.sanmarinocalcio.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serie D",
+        "name_ja": "セリエD"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%8E%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q728131",
     "image_url": "Stadio Olimpico (Serravalle).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9341095",
@@ -244,10 +243,13 @@
     "lat": 43.9296,
     "lng": 12.4427,
     "country": "SM",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -259,14 +261,21 @@
         "url": "http://www.trepenne.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Campionato Sammarinese di Calcio",
+        "name_ja": "カンピオナート・サンマリネーゼ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9341095",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

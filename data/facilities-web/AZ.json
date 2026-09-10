@@ -6,10 +6,13 @@
     "lat": 40.6406,
     "lng": 48.6355,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2200,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,16 +20,23 @@
         "url": "https://shamakhifc.az/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shamakhi_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109453861",
     "image_url": "Şamaxı şəhər stadionu 01.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1138958",
@@ -35,10 +45,13 @@
     "lat": 40.397333,
     "lng": 49.852417,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 31200,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -50,16 +63,23 @@
         "url": "http://www.affa.az/index.php/national-teams/azerbaijan-national-team/players/1628"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%95%E3%82%A3%E3%82%AF%E3%83%BB%E3%83%90%E3%83%95%E3%83%A9%E3%83%A2%E3%83%95%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1138958",
     "image_url": "Qarabagh - Young Boys, 27.08.2015 (1).JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115791959",
@@ -72,18 +92,47 @@
     "capacity": null,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defense_University_(Azerbaijan)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q115791959",
     "image_url": null,
     "website": "https://www.mmu.edu.az/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q121323726",
+    "name": "Lankaran Olympic Sports Complex",
+    "name_ja": null,
+    "lat": 38.7358884,
+    "lng": 48.8598422,
+    "country": "AZ",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q121323726",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12841927",
@@ -96,18 +145,21 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Gymnastics_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12841927",
     "image_url": null,
     "website": "http://www.mga.az/en",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1335102",
@@ -120,6 +172,7 @@
     "capacity": 15350,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -127,16 +180,23 @@
         "url": "http://sumqayitpfc.az/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sumgayit_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1335102",
     "image_url": "Mehdi Hüseynzadə adına stadionda ilk oyun - 04.02.2024 - 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134542238",
@@ -149,17 +209,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134542238",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134599717",
@@ -172,17 +235,46 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134599717",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q134619771",
+    "name": "Agsu Sport Complex",
+    "name_ja": null,
+    "lat": 40.581941933,
+    "lng": 48.387555609,
+    "country": "AZ",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q134619771",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134619778",
@@ -195,63 +287,46 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134619778",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
-    "id": "Q137907782",
-    "name": "Q137907782",
+    "id": "Q137103344",
+    "name": "Goranboy olympic sports complex",
     "name_ja": null,
-    "lat": 40.400331012,
-    "lng": 49.854606058,
+    "lat": 40.5987337,
+    "lng": 46.774001,
     "country": "AZ",
     "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
+    "capacity": 1141,
+    "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q137907782",
-    "image_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q137103344",
+    "image_url": "Геранбойский олимпийский спортивный комплекс.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q139918771",
-    "name": "Q139918771",
-    "name_ja": null,
-    "lat": 40.397817,
-    "lng": 49.852506,
-    "country": "AZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139918771",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15285180",
@@ -264,6 +339,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -271,16 +347,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shamkir_Olympic_Sport_Complex_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15285180",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15831231",
@@ -293,6 +376,7 @@
     "capacity": 12800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -300,16 +384,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhchivan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15831231",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15917734",
@@ -322,6 +413,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -329,16 +421,27 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      },
+      {
+        "name": "Azerbaijan Regional League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Qazakh_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15917734",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15917736",
@@ -347,10 +450,13 @@
     "lat": 40.576667,
     "lng": 48.381389,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -358,56 +464,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Agsu_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15917736",
     "image_url": "Agsu city stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16417001",
-    "name": "Q16417001",
-    "name_ja": null,
-    "lat": 40.334883,
-    "lng": 49.835045,
-    "country": "AZ",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "アゼルレイル・バクー",
-        "url": null
-      },
-      {
-        "name": "アゼリョル・バクー",
-        "url": "http://www.azeryol-vc.az/"
-      },
-      {
-        "name": "ラビタ・バクー",
-        "url": null
-      },
-      {
-        "name": "ロコモティフ・バクー",
-        "url": "http://vclokomotiv.com/site"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16417001",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16642128",
@@ -420,18 +493,21 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aquatic_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16642128",
     "image_url": "Baku Aquatic Palace, Azerbaijan, Caspian Sea shore, Boulevard.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16642153",
@@ -440,10 +516,13 @@
     "lat": 40.3586,
     "lng": 49.835,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -451,16 +530,18 @@
         "url": "http://www.baku2015.com/badminton/index.html"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baku_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16642153",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16708718",
@@ -473,17 +554,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16708718",
     "image_url": "Stamps of Azerbaijan, 2014-1171.jpg",
     "website": "https://www.tufandag.com",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17004958",
@@ -496,18 +580,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%BC%E5%B8%82%E8%A1%97%E5%9C%B0%E3%82%B3%E3%83%BC%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17004958",
     "image_url": "Aerial View of Baku, May 2012.jpg",
     "website": "https://www.bakucitycircuit.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18126330",
@@ -520,6 +607,7 @@
     "capacity": 5800,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -527,39 +615,23 @@
         "url": "https://www.qarabagh.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Azersun_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18126330",
     "image_url": "AzersunArena.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q20119896",
-    "name": "Q20119896",
-    "name_ja": null,
-    "lat": 40.413333,
-    "lng": 49.791111,
-    "country": "AZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q20119896",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2042133",
@@ -572,6 +644,7 @@
     "capacity": 3500,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -579,16 +652,18 @@
         "url": "http://simurqpfk.az/az"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zaqatala_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2042133",
     "image_url": "Zaqatala City Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2042479",
@@ -601,6 +676,7 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -608,16 +684,23 @@
         "url": "http://gabalafc.az"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gabala_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2042479",
     "image_url": "Qəbələ City Stadium view (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2086488",
@@ -626,10 +709,13 @@
     "lat": 39.99305556,
     "lng": 46.93055556,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1952,
-    "closed_year": null,
+    "closed_year": 1993,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -637,16 +723,23 @@
         "url": "https://www.qarabagh.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Imarat_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2086488",
     "image_url": "Imarat Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2094390",
@@ -659,6 +752,7 @@
     "capacity": 6500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -670,16 +764,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dalga_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2094390",
     "image_url": "Dalga Arena.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21660423",
@@ -692,17 +793,20 @@
     "capacity": null,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21660423",
     "image_url": "Arena Hotels Kür.jpg",
     "website": "https://kur.arenahotels.az",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23808283",
@@ -711,10 +815,13 @@
     "lat": 40.35892,
     "lng": 50.29311,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -722,16 +829,23 @@
         "url": "http://fczire.az/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zira_Olympic_Sport_Complex_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23808283",
     "image_url": "Zirə FK – Qarabağ Ağdam 19-02-2023.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23978564",
@@ -744,17 +858,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q23978564",
     "image_url": "Respublika Velotreki.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25542555",
@@ -767,17 +884,20 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25542555",
     "image_url": "Göygöl Olimpiya İdman Kompleksi.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25542778",
@@ -790,17 +910,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25542778",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2612138",
@@ -809,10 +932,14 @@
     "lat": 40.429766,
     "lng": 49.91979,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 69870,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -820,16 +947,18 @@
         "url": "http://www.affa.az/index.php/national-teams/azerbaijan-national-team/players/1628"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2612138",
     "image_url": "Chelsea won UEFA Europa League final at Olympic Stadium and President Ilham Aliyev watched the final match 16.jpg",
     "website": "http://bos.az/en/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2634267",
@@ -842,6 +971,7 @@
     "capacity": 7800,
     "opened_year": 1977,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -849,16 +979,18 @@
         "url": "http://mfa.gov.az/en"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Sports_and_Concert_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2634267",
     "image_url": "Heydar Aliyev Sports and Exhibition Complex 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30116888",
@@ -871,18 +1003,21 @@
     "capacity": null,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Aviation_Academy_(Azerbaijan)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30116888",
     "image_url": "MAA, I tədris binası.jpg",
     "website": "https://naa.edu.az/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3510514",
@@ -891,10 +1026,13 @@
     "lat": 40.422503785,
     "lng": 49.842346122,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 3000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -902,16 +1040,18 @@
         "url": "http://bakucup.az/?lang=2"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baku_Tennis_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3510514",
     "image_url": "Baku Tennis Academy.jpg",
     "website": "https://www.bta.az/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q390733",
@@ -924,6 +1064,7 @@
     "capacity": 8125,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -931,16 +1072,23 @@
         "url": "https://shamakhifc.az/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ASK_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q390733",
     "image_url": "\"ASK Arena\" after replacement of a covering.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4032454",
@@ -949,10 +1097,13 @@
     "lat": 40.400163,
     "lng": 49.944019,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -960,16 +1111,23 @@
         "url": "https://neftchi.az/az"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Neft%C3%A7i_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4032454",
     "image_url": "İlham Əliyev Bakıda “8 KM” stadionunun açılışında iştirak etmişdir (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4172992",
@@ -978,10 +1136,13 @@
     "lat": 40.602777777,
     "lng": 47.161388888,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -989,16 +1150,23 @@
         "url": "http://www.karvan.az"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yevlakh_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4172992",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4439089",
@@ -1007,10 +1175,15 @@
     "lat": 40.156667,
     "lng": 47.170278,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "バレーボール",
+      "バスケットボール"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1018,16 +1191,23 @@
         "url": "https://www.qarabagh.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Guzanli_Olympic_Complex_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4439089",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4655240",
@@ -1036,10 +1216,13 @@
     "lat": 40.4968,
     "lng": 50.1964,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3500,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1047,16 +1230,23 @@
         "url": "http://www.azalpfc.az/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/AZAL_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4655240",
     "image_url": "AZAL Arena1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4753153",
@@ -1069,6 +1259,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1076,16 +1267,23 @@
         "url": "https://neftchi.az/az"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ismat_Gayibov_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4753153",
     "image_url": "Neftchi-2 vs. Qarabag 2 at Ismat Gayibov Stadium (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4816232",
@@ -1098,6 +1296,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1105,16 +1304,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nariman_Narimanov_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4816232",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4816249",
@@ -1127,18 +1333,21 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shovkat_Ordukhanov_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4816249",
     "image_url": "Shovkat Ordukhanov Stadium (71006).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4816625",
@@ -1151,6 +1360,7 @@
     "capacity": 6480,
     "opened_year": 1979,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1158,16 +1368,23 @@
         "url": "http://turantovuzpfk.az"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tovuz_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4816625",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4819227",
@@ -1180,18 +1397,21 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MOIK_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4819227",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4874537",
@@ -1200,10 +1420,13 @@
     "lat": 40.332217,
     "lng": 49.817664,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1211,16 +1434,23 @@
         "url": "https://sabailfc.az/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bayil_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4874537",
     "image_url": "Bayıl Arena, May 2022.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q53623064",
@@ -1229,22 +1459,27 @@
     "lat": 40.307502,
     "lng": 49.806205,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "自転車競技"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Velopark_(Baku)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q53623064",
     "image_url": "Opening of the Baku Bike Park 5.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5521343",
@@ -1257,6 +1492,7 @@
     "capacity": 25000,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1264,16 +1500,23 @@
         "url": "http://www.pfckapaz.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ganja_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5521343",
     "image_url": "Ganja City Stadium, September 2025 — 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5749546",
@@ -1286,6 +1529,7 @@
     "capacity": 8500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1293,16 +1537,23 @@
         "url": "http://www.mktaraz.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5749546",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q600569",
@@ -1315,6 +1566,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1322,16 +1574,18 @@
         "url": "http://www.lankaranfc.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%B6%E3%83%AB%E3%83%BB%E3%83%AC%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%AB%E3%82%B1%E3%82%B8%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C",
     "wikidata_url": "https://www.wikidata.org/wiki/Q600569",
     "image_url": "Firtina face.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q618714",
@@ -1344,8 +1598,10 @@
     "capacity": 25000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "ユーロビジョン・ソング・コンテスト2012",
@@ -1356,11 +1612,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q618714",
     "image_url": "Baku bolvard and flag square 1.JPG",
     "website": "http://www.crystalhall.az",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q637116",
@@ -1369,10 +1626,13 @@
     "lat": 39.821111,
     "lng": 46.753056,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": 1956,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1384,16 +1644,27 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      },
+      {
+        "name": "AFFA Amateur League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stepanakert_Republican_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q637116",
     "image_url": "Ilham Aliyev delivered speech at Khankendi Stadium 3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7406975",
@@ -1402,10 +1673,13 @@
     "lat": 39.613972,
     "lng": 48.975028,
     "country": "AZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1413,16 +1687,23 @@
         "url": "http://www.muganfc.az/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Salyan_Olympic_Sport_Complex_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7406975",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7461155",
@@ -1435,17 +1716,20 @@
     "capacity": 1032,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7461155",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7461503",
@@ -1458,18 +1742,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shahdag_Mountain_Resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7461503",
     "image_url": "Shahdag01.jpg",
     "website": "https://www.shahdag.az/en",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7487594",
@@ -1482,18 +1769,21 @@
     "capacity": 11500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shamkir_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7487594",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8049714",
@@ -1506,6 +1796,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1513,16 +1804,23 @@
         "url": "https://mingachevir-fc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan First Division",
+        "name_ja": "アゼルバイジャン・ブリンジ・ディヴィジオヌ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yashar_Mammadzade_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8049714",
     "image_url": "Yashar Mammadzade Stadium 05.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8063594",
@@ -1535,6 +1833,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1542,61 +1841,22 @@
         "url": "https://neftchi.az/az"
       }
     ],
+    "leagues": [
+      {
+        "name": "Azerbaijan Premier League",
+        "name_ja": "アゼルバイジャン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zabrat_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8063594",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q86675963",
-    "name": "Q86675963",
-    "name_ja": null,
-    "lat": 39.960833,
-    "lng": 48.936389,
-    "country": "AZ",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86675963",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q97231387",
-    "name": "Q97231387",
-    "name_ja": null,
-    "lat": 40.576728929,
-    "lng": 48.381551881,
-    "country": "AZ",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97231387",
-    "image_url": "İlham Əliyev Ağsu şəhər stadionunun açılışında iştirak etmişdir.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

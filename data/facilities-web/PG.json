@@ -10,6 +10,7 @@
     "capacity": 15000,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,16 +18,18 @@
         "url": "https://www.pngfootball.com.pg/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_Hubert_Murray_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1633327",
     "image_url": "Sir Hubert Murray Stadium (1993, cropped).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16601209",
@@ -35,22 +38,27 @@
     "lat": -6.73528,
     "lng": 147.007,
     "country": "PG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": 1990,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_Ignatius_Kilage_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16601209",
     "image_url": "Lae Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632718",
@@ -63,6 +71,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -70,16 +79,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kalabond_Oval",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632718",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2289928",
@@ -88,22 +99,27 @@
     "lat": -9.44,
     "lng": 147.18361111,
     "country": "PG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_John_Guise_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2289928",
     "image_url": "Sir. John Guise Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3257543",
@@ -112,10 +128,13 @@
     "lat": -9.468333,
     "lng": 147.198333,
     "country": "PG",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーリーグ"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -127,16 +146,18 @@
         "url": "http://www.pngrfl.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%83%89%E3%83%BB%E3%83%AD%E3%83%96%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3257543",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q35278526",
@@ -149,17 +170,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q35278526",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q384723",
@@ -168,10 +192,13 @@
     "lat": -9.465,
     "lng": 147.191667,
     "country": "PG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -179,16 +206,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Papua New Guinea National Soccer League",
+        "name_ja": "パプアニューギニア・ナショナル・サッカーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/PMRL_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q384723",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55809612",
@@ -197,20 +231,25 @@
     "lat": -6.071425,
     "lng": 145.390031,
     "country": "PG",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーリーグ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q55809612",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

@@ -6,10 +6,13 @@
     "lat": 20.9132,
     "lng": -17.0467,
     "country": "MR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,62 +20,23 @@
         "url": "https://fcndb.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Mauritanian Premier League",
+        "name_ja": "スーパーD1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nouadhibou_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16605630",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605651",
-    "name": "Q16605651",
-    "name_ja": null,
-    "lat": 16.5141,
-    "lng": -15.7913,
-    "country": "MR",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605651",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30913262",
-    "name": "Q30913262",
-    "name_ja": null,
-    "lat": 16.605011,
-    "lng": -11.401683,
-    "country": "MR",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30913262",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596240",
@@ -85,18 +49,21 @@
     "capacity": 5000,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cheikha_Ould_Bo%C3%AFdiya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596240",
     "image_url": "ملعب شيخا بيديا 3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596508",
@@ -109,18 +76,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_of_Ksar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596508",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q772511",
@@ -129,10 +99,13 @@
     "lat": 18.10470278,
     "lng": -15.98545556,
     "country": "MR",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -140,15 +113,17 @@
         "url": "https://www.ffrim.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF_(%E3%83%8C%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q772511",
     "image_url": "Nouakchott stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

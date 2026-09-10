@@ -6,10 +6,13 @@
     "lat": 1.32916,
     "lng": 172.97694,
     "country": "KI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,15 +20,17 @@
         "url": "https://kiribatifootball.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bairiki_National_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q803944",
     "image_url": "Bairiki National Stadium, Tarawa, Kiribati.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

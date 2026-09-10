@@ -1,28 +1,5 @@
 [
   {
-    "id": "Q109652654",
-    "name": "Q109652654",
-    "name_ja": null,
-    "lat": 42.5175,
-    "lng": 21.127222,
-    "country": "XK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109652654",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q120754644",
     "name": "Gërmia swimming pool",
     "name_ja": null,
@@ -33,18 +10,21 @@
     "capacity": null,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Germia_swimming_pool",
     "wikidata_url": "https://www.wikidata.org/wiki/Q120754644",
     "image_url": "Swimming pool Germia Park in Prishtina 2.JPG",
     "website": "https://nplsportmarketing.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1550984",
@@ -53,10 +33,13 @@
     "lat": 42.66297,
     "lng": 21.15688,
     "country": "XK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 16200,
     "opened_year": 1922,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -64,39 +47,23 @@
         "url": "https://www.prishtinafc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Football Superleague of Kosovo",
+        "name_ja": "ライファイゼン・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fadil_Vokrri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1550984",
     "image_url": "Fadil Vokrri Stadium 2024.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605748",
-    "name": "Q16605748",
-    "name_ja": null,
-    "lat": 42.2069,
-    "lng": 20.7286,
-    "country": "XK",
-    "sport_types": [],
-    "capacity": 15000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605748",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16953614",
@@ -109,18 +76,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Brezovica_ski_resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16953614",
     "image_url": "Brezovica Ski Resort - Sharri Mountains.jpg",
     "website": "https://www.skijalistasrbije.rs/sr/o-centru-brezovica",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17741507",
@@ -133,6 +103,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -140,16 +111,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Siguria Superleague",
+        "name_ja": "コソボ　スーパーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17741507",
     "image_url": "Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 19.JPG",
     "website": "https://pallatirinise.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20312106",
@@ -162,6 +140,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -169,16 +148,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Football Superleague of Kosovo",
+        "name_ja": "ライファイゼン・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bajram_Aliu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20312106",
     "image_url": "Stadiumi Bajram Aliu.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20874882",
@@ -191,18 +177,21 @@
     "capacity": 2500,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Minatori_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20874882",
     "image_url": "Minatori Sports Hall in Mitrovica.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24910606",
@@ -215,6 +204,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -222,16 +212,23 @@
         "url": "http://feronikelifc.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Football League of Kosovo",
+        "name_ja": "リーガ・エ・パラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rexhep_Rexhepi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24910606",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24911326",
@@ -240,10 +237,13 @@
     "lat": 42.207037,
     "lng": 20.729092,
     "country": "XK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -251,16 +251,23 @@
         "url": "http://www.liriafc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Football League of Kosovo",
+        "name_ja": "リーガ・エ・パラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%ABrparim_Tha%C3%A7i_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24911326",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24911330",
@@ -273,6 +280,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -280,16 +288,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Football League of Kosovo",
+        "name_ja": "リーガ・エ・パラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Riza_Lushta_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24911330",
     "image_url": "Stadiumi i Trepçës '89.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24912801",
@@ -298,68 +313,27 @@
     "lat": 42.778222,
     "lng": 20.493861,
     "country": "XK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Demush_Mavraj_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24912801",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q25408349",
-    "name": "Q25408349",
-    "name_ja": null,
-    "lat": 42.674731,
-    "lng": 21.170856,
-    "country": "XK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q25408349",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30913259",
-    "name": "Q30913259",
-    "name_ja": null,
-    "lat": 42.700011,
-    "lng": 21.191117,
-    "country": "XK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30913259",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3137585",
@@ -368,10 +342,13 @@
     "lat": 42.88155556,
     "lng": 20.85088889,
     "country": "XK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 28500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -383,16 +360,23 @@
         "url": "http://www.kftrepca.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Morava Zone League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Adem_Jashari_Olympic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3137585",
     "image_url": "Olympisches Stadium \"Adem Jashari\" Mitrovicë.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5123439",
@@ -401,10 +385,13 @@
     "lat": 42.466667,
     "lng": 21.464444,
     "country": "XK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -416,16 +403,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Football Superleague of Kosovo",
+        "name_ja": "ライファイゼン・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gjilan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5123439",
     "image_url": "Stadiumi i Qytetit në Gjilan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5123440",
@@ -438,6 +432,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -445,16 +440,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Football League of Kosovo",
+        "name_ja": "リーガ・エ・パラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zahir_Pajaziti_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5123440",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5123441",
@@ -467,6 +469,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -474,16 +477,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Football League of Kosovo",
+        "name_ja": "リーガ・エ・パラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ferki_Aliu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5123441",
     "image_url": "Ferki Aliu-Stadion.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5123442",
@@ -496,6 +506,7 @@
     "capacity": 6000,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -503,16 +514,18 @@
         "url": "http://vellaznimi.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gjakova_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5123442",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55605253",
@@ -525,6 +538,7 @@
     "capacity": null,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -532,15 +546,17 @@
         "url": "http://kflepenci.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q55605253",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7461769",
@@ -553,6 +569,7 @@
     "capacity": 8500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -560,62 +577,23 @@
         "url": "https://fcbesa1923.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First Football League of Kosovo",
+        "name_ja": "リーガ・エ・パラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shahin_Haxhiislami_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7461769",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q86683664",
-    "name": "Q86683664",
-    "name_ja": null,
-    "lat": 42.690444,
-    "lng": 21.07525,
-    "country": "XK",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86683664",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q9341264",
-    "name": "Q9341264",
-    "name_ja": null,
-    "lat": 42.3631,
-    "lng": 21.15,
-    "country": "XK",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9341264",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96407056",
@@ -624,21 +602,26 @@
     "lat": 42.353253,
     "lng": 20.822536,
     "country": "XK",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suva_Reka_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q96407056",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

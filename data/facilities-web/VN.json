@@ -10,18 +10,21 @@
     "capacity": 3094,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hanoi_Indoor_Games_Gymnasium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10751151",
     "image_url": "Hanoi Indoor Games Gymnasium 2022.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10822664",
@@ -34,6 +37,7 @@
     "capacity": 44400,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -41,16 +45,23 @@
         "url": "http://www.bongdacantho.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 2",
+        "name_ja": "Vリーグ2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/C%E1%BA%A7n_Th%C6%A1_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10822664",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10822667",
@@ -63,6 +74,7 @@
     "capacity": 22000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -70,16 +82,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ninh_B%C3%ACnh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10822667",
     "image_url": "Ninh Bình Stadium in 2008.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10822668",
@@ -92,6 +111,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -99,16 +119,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%E1%BA%A1ch_Gi%C3%A1_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10822668",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109436207",
@@ -117,22 +144,27 @@
     "lat": 21.305278,
     "lng": 105.413056,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vi%E1%BB%87t_Tr%C3%AC_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109436207",
     "image_url": "SvdVietTri.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113449918",
@@ -145,18 +177,21 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A0_T%C4%A9nh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q113449918",
     "image_url": "Hà Tĩnh Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1150956",
@@ -165,10 +200,13 @@
     "lat": 21.020555555,
     "lng": 105.763805555,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40192,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -176,16 +214,18 @@
         "url": "http://www.vff.org.vn/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1150956",
     "image_url": "Khán đài B - Sân vận động Quốc gia Mỹ Đình.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116890004",
@@ -198,17 +238,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116890004",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q117007096",
@@ -221,17 +264,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117007096",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q120510464",
@@ -240,21 +286,26 @@
     "lat": 10.959805075,
     "lng": 106.831844619,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120510464",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q121028091",
@@ -263,21 +314,26 @@
     "lat": 10.781124301,
     "lng": 106.694350839,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121028091",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131077843",
@@ -286,21 +342,26 @@
     "lat": 21.18190337,
     "lng": 106.079829585,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131077843",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1319902",
@@ -313,64 +374,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%BC%E3%83%88%E3%83%BC%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1319902",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q135438798",
-    "name": "Q135438798",
-    "name_ja": null,
-    "lat": 21.067222222,
-    "lng": 105.709444444,
-    "country": "VN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q135438798",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q135438868",
-    "name": "Q135438868",
-    "name_ja": null,
-    "lat": 10.933333333,
-    "lng": 108.093888888,
-    "country": "VN",
-    "sport_types": [],
-    "capacity": 20000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q135438868",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1817188",
@@ -379,10 +397,13 @@
     "lat": 21.029722,
     "lng": 105.833056,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 22000,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -390,16 +411,23 @@
         "url": "https://hanoifc.com.vn/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%80%E3%82%A4%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1817188",
     "image_url": "Hàng Đẫy Stadium Gate.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18207285",
@@ -408,22 +436,28 @@
     "lat": 10.7694,
     "lng": 106.658,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "テコンドー",
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18207285",
     "image_url": "PhuThoFutsal.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19457544",
@@ -436,6 +470,7 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -447,16 +482,27 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      },
+      {
+        "name": "Vietnamese Women's National League",
+        "name_ja": "ベトナム女子サッカー選手権"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/C%E1%BA%A9m_Ph%E1%BA%A3_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19457544",
     "image_url": "Sân vận động Cẩm Phả.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19578021",
@@ -469,6 +515,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -476,16 +523,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 2",
+        "name_ja": "Vリーグ2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tam_K%E1%BB%B3_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19578021",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2051647",
@@ -494,10 +548,13 @@
     "lat": 10.760703,
     "lng": 106.663331,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": 1931,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -509,28 +566,40 @@
         "url": "http://clbbongdasaigon.com.vn/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Vietnamese Second Division",
+        "name_ja": "ベトナム・セカンドディヴィジョン"
+      },
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%8B%E3%83%A3%E3%83%83%E3%83%88%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2051647",
     "image_url": "Thống Nhất Stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2524171",
     "name": "Biên Hòa Stadium",
     "name_ja": null,
-    "lat": 10.9619,
-    "lng": 106.863,
+    "lat": 10.96139,
+    "lng": 106.8625,
     "country": "VN",
     "sport_types": [],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -538,16 +607,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 2",
+        "name_ja": "Vリーグ2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Nai_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2524171",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2770718",
@@ -560,18 +636,21 @@
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E7%AC%AC7%E8%BB%8D%E5%8C%BA%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2770718",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28197235",
@@ -584,18 +663,21 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A2%E3%82%B9%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28197235",
     "image_url": "Hoa Xuan Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3277621",
@@ -608,6 +690,7 @@
     "capacity": 12000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -615,16 +698,23 @@
         "url": "https://www.slnafc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277621",
     "image_url": "Sân vận động Vinh 8.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3277766",
@@ -637,6 +727,7 @@
     "capacity": 28000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -644,16 +735,23 @@
         "url": "https://fc-haiphong.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%83%A3%E3%82%A4%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277766",
     "image_url": "San LachTray.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4115591",
@@ -666,6 +764,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -673,16 +772,23 @@
         "url": "https://nam-dinh-fc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%81%E3%83%A5%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4115591",
     "image_url": "Sân vận động Thiên Trường.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q43896632",
@@ -695,17 +801,20 @@
     "capacity": null,
     "opened_year": 1948,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q43896632",
     "image_url": null,
     "website": "http://vmmu.edu.vn/Portal/Home.html",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5034301",
@@ -718,18 +827,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cao_L%C3%A3nh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5034301",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5095075",
@@ -742,6 +854,7 @@
     "capacity": 28000,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -749,16 +862,23 @@
         "url": "https://shbdanangfc.com.vn/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5095075",
     "image_url": "Chi Lang Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5335653",
@@ -771,17 +891,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5335653",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5574748",
@@ -794,6 +917,7 @@
     "capacity": 18250,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -801,16 +925,23 @@
         "url": "https://www.binhduongffc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%80%E3%82%A6%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5574748",
     "image_url": "SVĐ Gò Đậu.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q58395249",
@@ -823,18 +954,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8E%E3%82%A4%E5%B8%82%E8%A1%97%E5%9C%B0%E3%82%B3%E3%83%BC%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q58395249",
     "image_url": "Circuit de Hanoi.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5929707",
@@ -847,6 +981,7 @@
     "capacity": null,
     "opened_year": 1932,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -854,16 +989,23 @@
         "url": "https://bongda-hue-fc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 2",
+        "name_ja": "Vリーグ2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%BC%E3%82%BE%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5929707",
     "image_url": "Sân vận động Tự Do.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5930497",
@@ -876,6 +1018,7 @@
     "capacity": 19975,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -883,16 +1026,23 @@
         "url": "http://www.dongtamlongan.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5930497",
     "image_url": "Long An Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q67151925",
@@ -901,21 +1051,26 @@
     "lat": 10.773333014,
     "lng": 106.693639246,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q67151925",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7023325",
@@ -928,18 +1083,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nha_Trang_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7023325",
     "image_url": "NhaTrangStd.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7204458",
@@ -952,6 +1110,7 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -959,16 +1118,23 @@
         "url": "https://haglfc.vn/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7204458",
     "image_url": "Pleiku stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7273047",
@@ -981,18 +1147,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%83%8B%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7273047",
     "image_url": "Quy Nhon Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7400088",
@@ -1004,19 +1173,22 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
-    "closed_year": null,
+    "closed_year": 2006,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saigon_Water_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7400088",
     "image_url": "Saigon Water Park 509.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7682018",
@@ -1025,10 +1197,13 @@
     "lat": 10.794422,
     "lng": 106.653206,
     "country": "VN",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1036,16 +1211,18 @@
         "url": "http://www.saigonheat.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_Gymnasium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7682018",
     "image_url": "Tan Binh Gymnasium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7710351",
@@ -1058,6 +1235,7 @@
     "capacity": 14000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1065,15 +1243,22 @@
         "url": "http://bongdathanhhoa.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "V.League 1",
+        "name_ja": "Vリーグ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thanh_H%C3%B3a_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7710351",
     "image_url": "San-thanh-hoa-thay-da-doi-thit-truoc-them-flc-cup-2016.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

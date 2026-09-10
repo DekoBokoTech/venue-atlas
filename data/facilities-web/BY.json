@@ -1,61 +1,19 @@
 [
   {
-    "id": "Q105272146",
-    "name": "Q105272146",
-    "name_ja": null,
-    "lat": 52.568338,
-    "lng": 24.474418,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q105272146",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q106504771",
-    "name": "Q106504771",
-    "name_ja": null,
-    "lat": 53.937028,
-    "lng": 27.357151,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q106504771",
-    "image_url": "Ratamka 20180519 113343.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q1130487",
     "name": "Dinamo Stadium",
     "name_ja": "ディナモ・スタジアム",
     "lat": 53.895138888,
     "lng": 27.560277777,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 22000,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -67,16 +25,23 @@
         "url": "https://dinamo-minsk.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%8A%E3%83%A2%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_(%E3%83%9F%E3%83%B3%E3%82%B9%E3%82%AF)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1130487",
     "image_url": "Interior view of Dynamo Stadium (Minsk, Belarus) — Внутренний вид стадиона Динамо (Минск, Беларусь) 2018 2.jpg",
     "website": "https://stadium-dinamo.by/ru",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q114712247",
@@ -89,17 +54,20 @@
     "capacity": 1360,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114712247",
     "image_url": "Гомель. Дворец легкой атлетики..JPG",
     "website": "http://manezh-gomel.by/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124807474",
@@ -112,284 +80,33 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124807474",
     "image_url": "Minsk Regional Cadet School in Slutsk (2022-07-15) 02.jpg",
     "website": "https://www.moky.by/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140185917",
-    "name": "Q140185917",
-    "name_ja": null,
-    "lat": 52.431944444,
-    "lng": 30.973055555,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1925,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140185917",
-    "image_url": "Стадион локомотив.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140186217",
-    "name": "Q140186217",
-    "name_ja": null,
-    "lat": 52.364355,
-    "lng": 30.426597,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 3550,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FKスプートニク・レチツァ",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140186217",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140187360",
-    "name": "Q140187360",
-    "name_ja": null,
-    "lat": 53.075943,
-    "lng": 26.636981,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1980,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC Kletsk",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140187360",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140187464",
-    "name": "Q140187464",
-    "name_ja": null,
-    "lat": 52.632154,
-    "lng": 29.72354,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC Khimik Svetlogorsk",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140187464",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140191057",
-    "name": "Q140191057",
-    "name_ja": null,
-    "lat": 52.433915,
-    "lng": 31.018382,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140191057",
-    "image_url": "ГСДЮШОР №8.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140191096",
-    "name": "Q140191096",
-    "name_ja": null,
-    "lat": 53.683393,
-    "lng": 27.138703,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 1600,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC Arsenal Dzerzhinsk",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140191096",
-    "image_url": "Дзержинск, Дзержинский район, Минская область, Беларусь 39.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140191166",
-    "name": "Q140191166",
-    "name_ja": null,
-    "lat": 54.493638,
-    "lng": 30.406991,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140191166",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140191201",
-    "name": "Q140191201",
-    "name_ja": null,
-    "lat": 52.105384,
-    "lng": 23.706217,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1960,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140191201",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q140288119",
-    "name": "Q140288119",
-    "name_ja": null,
-    "lat": 53.224968,
-    "lng": 26.682985,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 1963,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140288119",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q15109396",
-    "name": "Q15109396",
-    "name_ja": null,
-    "lat": 52.11155556,
-    "lng": 23.76522222,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 5500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FCディナモ・ブレスト",
-        "url": "https://dynamo-brest.by/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q15109396",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15127347",
     "name": "Shakhtyor Stadium",
     "name_ja": null,
-    "lat": 52.793325,
-    "lng": 27.55087222,
+    "lat": 52.79333333,
+    "lng": 27.54972222,
     "country": "BY",
     "sport_types": [],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -397,28 +114,31 @@
         "url": "http://www.fcshakhter.by/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shakhtyor_Stadium_(Soligorsk)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15127347",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16152053",
     "name": "City Stadium",
     "name_ja": null,
-    "lat": 54.512993,
-    "lng": 30.434552,
+    "lat": 54.5128,
+    "lng": 30.4342,
     "country": "BY",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -426,16 +146,23 @@
         "url": "https://www.fc-orsha.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian First League",
+        "name_ja": "ベラルーシ・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Stadium_(Orsha)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16152053",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16637932",
@@ -448,6 +175,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -459,38 +187,22 @@
         "url": "http://www.fcgomel.by"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16637932",
     "image_url": "ГСДЮШОР №8.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16642131",
-    "name": "Q16642131",
-    "name_ja": null,
-    "lat": 52.461378,
-    "lng": 31.021362,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16642131",
-    "image_url": "Palace of Water Sports.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17399576",
@@ -503,6 +215,7 @@
     "capacity": 1896,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -510,39 +223,23 @@
         "url": "http://sfc-slutsk.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian First League",
+        "name_ja": "ベラルーシ・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Stadium_(Slutsk)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17399576",
     "image_url": "Слуцк (городской стадион).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q18015628",
-    "name": "Q18015628",
-    "name_ja": null,
-    "lat": 53.952895,
-    "lng": 27.452229,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q18015628",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19692601",
@@ -555,6 +252,7 @@
     "capacity": 3090,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -562,16 +260,23 @@
         "url": "http://www.fcgranit.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Second League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polesye_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19692601",
     "image_url": "Полесье (стадион).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20165460",
@@ -580,10 +285,13 @@
     "lat": 53.86166667,
     "lng": 27.57861111,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -595,16 +303,27 @@
         "url": "http://www.fcminsk.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      },
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/FC_Minsk_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20165460",
     "image_url": "Стадион ФК Минск.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2041015",
@@ -617,6 +336,7 @@
     "capacity": 4520,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -624,16 +344,23 @@
         "url": "http://fcnaftan.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Atlant_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2041015",
     "image_url": "StadAtlant.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2059396",
@@ -646,6 +373,7 @@
     "capacity": 8144,
     "opened_year": 1937,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -653,16 +381,23 @@
         "url": "http://www.fc.vitebsk.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vitebsky_Central_Sport_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2059396",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2067888",
@@ -671,10 +406,14 @@
     "lat": 53.910679,
     "lng": 27.54958,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー",
+      "バドミントン"
+    ],
     "capacity": 3311,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -682,44 +421,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Minsk_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2067888",
     "image_url": "Minsk, Sport palace's ice arena.jpg",
     "website": "http://www.sportpalace.by/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q21392992",
-    "name": "Q21392992",
-    "name_ja": null,
-    "lat": 54.216009,
-    "lng": 30.288571,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 2500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC Spartak Shklov",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q21392992",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22246187",
@@ -732,17 +445,20 @@
     "capacity": 2200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q22246187",
     "image_url": "Лядовы палац у Маладэчне.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22668043",
@@ -751,10 +467,13 @@
     "lat": 53.306666666,
     "lng": 26.5075,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1625,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -762,16 +481,44 @@
         "url": "http://fcgorodeya.by/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gorodeya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22668043",
     "image_url": "ФК Городея.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q2329169",
+    "name": "Stajki Sports Complex",
+    "name_ja": null,
+    "lat": 53.807401,
+    "lng": 27.72515,
+    "country": "BY",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2329169",
+    "image_url": "Зимний вид с крыши гостиницы №1 на озеро и манеж - panoramio.jpg",
+    "website": "http://stayki.com/",
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2464927",
@@ -780,10 +527,13 @@
     "lat": 53.881388888,
     "lng": 27.6175,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 17600,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -795,16 +545,23 @@
         "url": "http://www.fcminsk.by"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Traktar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2464927",
     "image_url": "Stadyjon Traktar-1.26-07.2014.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2580954",
@@ -817,18 +574,21 @@
     "capacity": null,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Academy_of_Belarus",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2580954",
     "image_url": "Military akademia RB.jpg",
     "website": "http://varb.mil.by/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2590363",
@@ -837,10 +597,13 @@
     "lat": 53.904439,
     "lng": 27.416553,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -852,16 +615,23 @@
         "url": "https://dinamo-minsk.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo-Yuni_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2590363",
     "image_url": "Dinamo-Yuni.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q26240621",
@@ -874,17 +644,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q26240621",
     "image_url": "Autumn 2009, European Rowing Championships - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2661079",
@@ -897,6 +670,7 @@
     "capacity": 14307,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -904,16 +678,23 @@
         "url": "http://www.fcgomel.by"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Gomel)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2661079",
     "image_url": "Стадион Центральный в Гомеле.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2662436",
@@ -926,6 +707,7 @@
     "capacity": 8479,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -933,95 +715,23 @@
         "url": "http://www.fcneman.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Neman_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2662436",
     "image_url": "Стадыён \"Нёман\" 9585.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q27235473",
-    "name": "Q27235473",
-    "name_ja": null,
-    "lat": 53.14862,
-    "lng": 26.06678,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 1100,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q27235473",
-    "image_url": "Галоўны ўваход на стадыён, Баранавічы.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q27235477",
-    "name": "Q27235477",
-    "name_ja": null,
-    "lat": 53.1308,
-    "lng": 26.0314,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 3749,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FCバラーナヴィチ",
-        "url": "http://www.fcbaranovichi.com"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q27235477",
-    "image_url": "Стадыен \"Лакаматыў\" . Баранавічы. 1.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q2782867",
-    "name": "Q2782867",
-    "name_ja": null,
-    "lat": 52.9093,
-    "lng": 30.0501,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Metallurg Zhlobin",
-        "url": "https://metallurg.zhlobin.by/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2782867",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28110662",
@@ -1034,6 +744,7 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1041,16 +752,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lokomotiv_Stadium_(Minsk)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28110662",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28110672",
@@ -1063,6 +776,7 @@
     "capacity": null,
     "opened_year": 1925,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1070,16 +784,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Rechitsa)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28110672",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28225326",
@@ -1088,10 +804,13 @@
     "lat": 53.32388889,
     "lng": 28.64416667,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1099,16 +818,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian First League",
+        "name_ja": "ベラルーシ・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Osipovichi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28225326",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q31213453",
@@ -1121,6 +847,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1128,38 +855,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Second League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q31213453",
     "image_url": "Мар’іна Горка, Гарадскі стадыён - галоўны ўваход.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3564096",
-    "name": "Q3564096",
-    "name_ja": null,
-    "lat": 53.93638889,
-    "lng": 27.48277778,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3564096",
-    "image_url": "Minsk, new ice-hockey hall - panoramio.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q384834",
@@ -1168,10 +879,13 @@
     "lat": 54.222361111,
     "lng": 28.490277777,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5402,
     "opened_year": 1959,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1179,44 +893,18 @@
         "url": "http://fcsmolevichi.by/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Haradski_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q384834",
     "image_url": "WestStand1.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3918924",
-    "name": "Q3918924",
-    "name_ja": null,
-    "lat": 52.09138,
-    "lng": 23.73862,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "HK Brest",
-        "url": "http://www.brest-hockey.by"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3918924",
-    "image_url": "Brest hockey stadium.JPG",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3919405",
@@ -1228,18 +916,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 2004,
-    "closed_year": null,
+    "closed_year": 2026,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3919405",
     "image_url": "Sport Complex Lahoisk, Belarus.jpg",
     "website": "http://www.logoisk.by/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3920471",
@@ -1252,125 +943,57 @@
     "capacity": null,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Minsk_Suvorov_Military_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3920471",
     "image_url": "Military secondary school of Suvorov into Minsk1.JPG",
     "website": "http://mnsvu.org/index.php/option/frontpage/itemid/22",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
-    "id": "Q4112351",
-    "name": "Q4112351",
+    "id": "Q4257181",
+    "name": "Ice Sports Palace in Hrodna",
     "name_ja": null,
-    "lat": 55.169,
-    "lng": 30.2271,
+    "lat": 53.6881,
+    "lng": 23.8242,
     "country": "BY",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
-        "name": "HK Vitebsk",
-        "url": "https://vitebsk.hockey.by/"
+        "name": "HK Neman Grodno",
+        "url": "http://hcneman.by/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Belarusian Extraleague",
+        "name_ja": "ベラルスカヤ・エクストラリーガ"
       }
     ],
     "events": [],
     "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4112351",
-    "image_url": "The Palace of Sport in Viciebsk at night - panoramio - Andrej Kuźniečyk.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q4123576",
-    "name": "Q4123576",
-    "name_ja": null,
-    "lat": 52.123052,
-    "lng": 26.125864,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 3136,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC Volna Pinsk",
-        "url": "http://fcvolna-pinsk.by/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4123576",
-    "image_url": "Stadiumvolna.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q4142923",
-    "name": "Q4142923",
-    "name_ja": null,
-    "lat": 52.4603,
-    "lng": 31.0222,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "HK Gomel",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4142923",
-    "image_url": "Ледовый дворец в г. Гомеле.JPG",
-    "website": "http://icearena.by",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q4257180",
-    "name": "Q4257180",
-    "name_ja": null,
-    "lat": 52.566111111,
-    "lng": 24.474166666,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4257180",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4257181",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4257189",
@@ -1383,6 +1006,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1390,15 +1014,22 @@
         "url": "http://hcshahter.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Extraleague",
+        "name_ja": "ベラルスカヤ・エクストラリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4257189",
     "image_url": "BLR Ice palace in Soligorsk.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4295222",
@@ -1411,46 +1042,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Minsk_Ice_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4295222",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q4299180",
-    "name": "Q4299180",
-    "name_ja": null,
-    "lat": 53.8847,
-    "lng": 30.3292,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Khimvolokno Mogilev",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4299180",
-    "image_url": "Магілёў. Краявіды з дома па Гагарына (Лядовы палац).jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4350644",
@@ -1459,10 +1065,13 @@
     "lat": 53.845,
     "lng": 27.629027,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 9614,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1470,16 +1079,23 @@
         "url": "http://junost.org/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Extraleague",
+        "name_ja": "ベラルスカヤ・エクストラリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B8%E3%83%A7%E3%82%A6%E3%82%AB%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4350644",
     "image_url": "CzechRepublic-Italy 140514 2-0.jpg",
     "website": "http://chizhovka-arena.org",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4430720",
@@ -1488,10 +1104,13 @@
     "lat": 53.905416666,
     "lng": 30.340972222,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7350,
     "opened_year": 1956,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1499,16 +1118,23 @@
         "url": "http://fc-dnepr.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%AB%E3%82%BF%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_(%E3%83%9E%E3%83%92%E3%83%AA%E3%83%A7%E3%82%A6)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4430720",
     "image_url": "Магілёў. Цэнтр горада ў 2016 годзе (58).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4430721",
@@ -1521,6 +1147,7 @@
     "capacity": 3700,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1528,16 +1155,23 @@
         "url": "http://www.fcbelshina.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%AB%E3%82%BF%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_(%E3%83%90%E3%83%96%E3%83%AB%E3%82%A4%E3%82%B9%E3%82%AF)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4430721",
     "image_url": "Стадион Спартак (Бобруйск).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4439085",
@@ -1546,10 +1180,13 @@
     "lat": 54.192777777,
     "lng": 28.475694444,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13121,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1557,16 +1194,23 @@
         "url": "http://www.fcbate.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AA%E3%82%BD%E3%83%95%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4439085",
     "image_url": "Barysaw Barysaw-Arena 1.jpg",
     "website": "http://borisov-arena.by",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4444132",
@@ -1579,6 +1223,7 @@
     "capacity": 4200,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1586,16 +1231,18 @@
         "url": "http://www.fcshakhter.by/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stroitel_Stadium_(Soligorsk)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4444132",
     "image_url": "Soligorsk stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4461289",
@@ -1608,6 +1255,7 @@
     "capacity": 6524,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1615,16 +1263,23 @@
         "url": "http://torpedo-belaz.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Torpedo_Stadium_(Zhodino)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4461289",
     "image_url": "Torpedo stadium Zhodino west stand 03.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4461293",
@@ -1637,6 +1292,7 @@
     "capacity": 5200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1644,16 +1300,18 @@
         "url": "http://tarpeda.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Torpedo_Stadium_(Minsk)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4461293",
     "image_url": "Tarpeda (Torpedo) stadium in Minsk 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4502967",
@@ -1666,17 +1324,20 @@
     "capacity": null,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4502967",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4534625",
@@ -1689,6 +1350,7 @@
     "capacity": 5133,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1696,16 +1358,23 @@
         "url": "http://www.fcslavia.by"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Mazyr)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4534625",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4534629",
@@ -1718,6 +1387,7 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1725,16 +1395,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian First League",
+        "name_ja": "ベラルーシ・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Slonim)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4534629",
     "image_url": "Стадион Юность (Слоним).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5465884",
@@ -1747,41 +1424,21 @@
     "capacity": 3000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Football_Manege_(Minsk)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5465884",
     "image_url": "Pieramožcaŭ avenue (Minsk) 260919 p5.jpg",
     "website": "http://www.maneg.by",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q56247752",
-    "name": "Q56247752",
-    "name_ja": null,
-    "lat": 52.09261,
-    "lng": 23.73855,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2003,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q56247752",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5653591",
@@ -1794,6 +1451,7 @@
     "capacity": 4560,
     "opened_year": 1946,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1805,16 +1463,23 @@
         "url": "http://energetikbgu.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian First League",
+        "name_ja": "ベラルーシ・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Stadium_(Molodechno)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5653591",
     "image_url": "Молодечно (городской сдадион).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56816043",
@@ -1823,10 +1488,13 @@
     "lat": 53.93266,
     "lng": 27.51019,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1834,84 +1502,17 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q56816043",
     "image_url": "Pieramožcaŭ avenue (Minsk) 260919 p4.jpg",
     "website": "https://falconclub.by/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q61700699",
-    "name": "Q61700699",
-    "name_ja": null,
-    "lat": 53.934861111,
-    "lng": 27.482083333,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q61700699",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q63255895",
-    "name": "Q63255895",
-    "name_ja": null,
-    "lat": 55.249527777,
-    "lng": 30.128972222,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2011,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q63255895",
-    "image_url": "Витебское кадетское училище.jpg",
-    "website": "http://vku.by/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q64448626",
-    "name": "Q64448626",
-    "name_ja": null,
-    "lat": 53.148333333,
-    "lng": 26,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 2158,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q64448626",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q64576277",
@@ -1924,17 +1525,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64576277",
     "image_url": "Rowing canal 1, Zaslauje.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q64741747",
@@ -1943,21 +1547,26 @@
     "lat": 53.95073,
     "lng": 27.7083,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64741747",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65125208",
@@ -1970,18 +1579,21 @@
     "capacity": 33000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Football_Stadium_(Belarus)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65125208",
     "image_url": "National Football Stadium of Belarus (model) 4.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6696538",
@@ -1994,6 +1606,7 @@
     "capacity": 5000,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2001,16 +1614,23 @@
         "url": "http://www.fcgomel.by"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luch_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6696538",
     "image_url": "Luch Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7309159",
@@ -2023,6 +1643,7 @@
     "capacity": 10169,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2034,16 +1655,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": "ベラルーシ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Regional_Sport_Complex_Brestsky",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7309159",
     "image_url": "Football stadium in Brest - panoramio.jpg",
     "website": "http://oskbrest.by",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7826745",
@@ -2056,6 +1684,7 @@
     "capacity": 3500,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2067,16 +1696,18 @@
         "url": "http://www.torpedomogilev.by/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Torpedo_Stadium_(Mogilev)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7826745",
     "image_url": null,
     "website": "https://web.archive.org/web/20160131022820/http://www.torpedomogilev.by/#!stadion/calw",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7834582",
@@ -2089,18 +1720,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Transmash_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7834582",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q797764",
@@ -2109,22 +1743,27 @@
     "lat": 53.142362,
     "lng": 29.246981,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー"
+    ],
     "capacity": 7191,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Babruysk_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q797764",
     "image_url": "Ледовый дворец в Бобруйске.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8061368",
@@ -2137,6 +1776,7 @@
     "capacity": 3500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2144,16 +1784,23 @@
         "url": "http://www.fc-smorgon.by"
       }
     ],
+    "leagues": [
+      {
+        "name": "Belarusian First League",
+        "name_ja": "ベラルーシ・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Smorgon)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8061368",
     "image_url": "Стадион \"Юность\" (главная трибуна).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q863096",
@@ -2162,10 +1809,14 @@
     "lat": 53.9365,
     "lng": 27.4829,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "アイスホッケー",
+      "バドミントン"
+    ],
     "capacity": 15086,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -2177,16 +1828,27 @@
         "url": "https://minskbasket.by/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kontinental Hockey League",
+        "name_ja": "KHL"
+      },
+      {
+        "name": "Belarusian Premier League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q863096",
     "image_url": "Continental Cup 2011, Junost - Red Bull.JPG",
     "website": "http://www.minskarena.by/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q86525312",
@@ -2199,114 +1861,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q86525312",
     "image_url": "Gorki park, Minsk3.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q86697183",
-    "name": "Q86697183",
-    "name_ja": null,
-    "lat": 55.473555555,
-    "lng": 28.766388888,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2010,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q86697183",
-    "image_url": null,
-    "website": "http://www.p-kadet.vitebsk.by/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q94645242",
-    "name": "Q94645242",
-    "name_ja": null,
-    "lat": 53.918554,
-    "lng": 27.606027,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q94645242",
-    "image_url": "Мінск. Па Сурганава ў маі 2019 (27).jpg",
-    "website": "https://www.free-style.by/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q97006515",
-    "name": "Q97006515",
-    "name_ja": null,
-    "lat": 53.859732,
-    "lng": 27.501681,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 3200,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97006515",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q97006524",
-    "name": "Q97006524",
-    "name_ja": null,
-    "lat": 55.488056,
-    "lng": 28.765556,
-    "country": "BY",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FC Polotsk",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q97006524",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97006963",
@@ -2315,21 +1883,26 @@
     "lat": 52.431944,
     "lng": 30.973194,
     "country": "BY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97006963",
     "image_url": "Стадион локомотив.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q980500",
@@ -2342,17 +1915,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Silichy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q980500",
     "image_url": "Silichy-02.jpg",
     "website": "https://silichy.by/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

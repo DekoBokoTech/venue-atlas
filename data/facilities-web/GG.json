@@ -10,18 +10,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Beaucette_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28403039",
     "image_url": null,
     "website": "http://www.beaucettemarina.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4796401",
@@ -30,22 +33,27 @@
     "lat": 49.72361111,
     "lng": -2.18333333,
     "country": "GG",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arsenal_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4796401",
     "image_url": "Arsenal Ground, Mount Hale, Alderney.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65083926",
@@ -54,22 +62,27 @@
     "lat": 49.4725,
     "lng": -2.574,
     "country": "GG",
-    "sport_types": [],
+    "sport_types": [
+      "クリケット"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/King_George_V_Sports_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65083926",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7727601",
@@ -82,6 +95,7 @@
     "capacity": 3000,
     "opened_year": 1932,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -89,16 +103,23 @@
         "url": "http://www.valerec.org.gg/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Priaulx League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Corbet_Field",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7727601",
     "image_url": "Corbet Football Field 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7769830",
@@ -111,6 +132,7 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -118,16 +140,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Track_(stadium)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7769830",
     "image_url": "Guernsey 2012 011.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8564402",
@@ -140,6 +164,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -147,15 +172,17 @@
         "url": "https://www.pitchero.com/clubs/guernseyrfc/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Footes_Lane",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8564402",
     "image_url": "Footes Lane.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

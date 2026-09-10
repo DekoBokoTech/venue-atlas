@@ -10,18 +10,48 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pampanga_International_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q105037920",
     "image_url": "Pampanga International Circuit in Porac, Pampanga, Philippines.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q107304775",
+    "name": "Bren Z. Guiao Sports Complex and Convention Center",
+    "name_ja": null,
+    "lat": 15.029944444,
+    "lng": 120.687416666,
+    "country": "PH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bren_Z._Guiao_Convention_Center",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q107304775",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107451964",
@@ -34,18 +64,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/AUF_Sports_and_Cultural_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q107451964",
     "image_url": "9422jfAngeles University Foundation Roadsfvf 18.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10954473",
@@ -58,18 +91,21 @@
     "capacity": 12000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_M._Robredo_Coliseum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10954473",
     "image_url": "Jesse M. Robredo Coliseum.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111890988",
@@ -78,21 +114,52 @@
     "lat": 14.607222222,
     "lng": 121.053888888,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q111890988",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q113514456",
+    "name": "Binangonan Recreation and Conference Center",
+    "name_ja": null,
+    "lat": 14.475820698,
+    "lng": 121.206912429,
+    "country": "PH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": 2013,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113514456",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q11685654",
@@ -101,22 +168,27 @@
     "lat": 14.6299,
     "lng": 121.023201,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 15000,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amoranto_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q11685654",
     "image_url": "01242jfAmoranto Sports Complex Paligsahan Panay Avenues Quezon Cityfvf 01.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q122534324",
@@ -125,21 +197,26 @@
     "lat": 14.562414929,
     "lng": 120.994328666,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122534324",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q122534901",
@@ -148,21 +225,26 @@
     "lat": 9.301285543,
     "lng": 123.297754404,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122534901",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124395244",
@@ -171,21 +253,26 @@
     "lat": 9.301613825,
     "lng": 123.297691534,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124395244",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q128799365",
@@ -194,22 +281,27 @@
     "lat": 14.3217,
     "lng": 121.0398,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Manila_Southwoods_Golf_%26_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q128799365",
     "image_url": null,
     "website": "https://www.manilasouthwoods.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q132735727",
@@ -222,17 +314,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q132735727",
     "image_url": "Sual33axjf.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135100111",
@@ -245,18 +340,21 @@
     "capacity": null,
     "opened_year": 2025,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tagaytay_City_Velodrome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q135100111",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15228396",
@@ -265,10 +363,14 @@
     "lat": 10.71166667,
     "lng": 122.5625,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "テニス",
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -276,16 +378,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Iloilo_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15228396",
     "image_url": "Iloilo Sports Center track 01.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16604105",
@@ -298,18 +402,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Negros_Occidental_Multi-Purpose_Activity_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16604105",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16630570",
@@ -322,17 +429,20 @@
     "capacity": 15000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16630570",
     "image_url": "Mayor Vitaliano D. Agan (Zamboanga City) Coliseum.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632753",
@@ -345,6 +455,7 @@
     "capacity": 20000,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -352,16 +463,18 @@
         "url": "https://pff.org.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632753",
     "image_url": "JfCiudadINC29PhilArenaStadiumfvf.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632757",
@@ -374,18 +487,21 @@
     "capacity": 50000,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/KJC_King_Dome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632757",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16890428",
@@ -398,18 +514,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Clark_International_Speedway",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16890428",
     "image_url": "Clark Speedway (26671560787).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16891052",
@@ -422,6 +541,7 @@
     "capacity": 2000,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -429,16 +549,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/McKinley_Hill_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16891052",
     "image_url": "Emperadorstadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16968850",
@@ -451,18 +573,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Marikina_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16968850",
     "image_url": "Marikinajf9356 43.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16994744",
@@ -471,22 +596,27 @@
     "lat": 10.821,
     "lng": 122.522,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Iloilo_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16994744",
     "image_url": "Santa Barbara Golf Course.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17048881",
@@ -495,22 +625,27 @@
     "lat": 14.5841,
     "lng": 120.985,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1893,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Casino_Espa%C3%B1ol_de_Manila",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17048881",
     "image_url": "Casino Espanol de Manila 10.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18349990",
@@ -523,18 +658,21 @@
     "capacity": 7200,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hoops_Dome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18349990",
     "image_url": "Hoops Dome.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18391616",
@@ -547,18 +685,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/PFF_National_Training_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18391616",
     "image_url": null,
     "website": "http://www.manilajockey.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1986327",
@@ -571,18 +712,21 @@
     "capacity": null,
     "opened_year": 1905,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Philippine_Military_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1986327",
     "image_url": "PMA Facade.JPG",
     "website": "https://www.pma.edu.ph/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20571961",
@@ -595,18 +739,21 @@
     "capacity": null,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Philippine_National_Police_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20571961",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20926151",
@@ -615,10 +762,13 @@
     "lat": 14.31388889,
     "lng": 121.07916667,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 6500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -626,16 +776,18 @@
         "url": "https://www.pba.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alonte_Sports_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20926151",
     "image_url": "Biñan Sports Arena.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q210710",
@@ -644,10 +796,13 @@
     "lat": 14.563403,
     "lng": 120.992,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 30000,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -655,16 +810,18 @@
         "url": "https://pff.org.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q210710",
     "image_url": "Rizal Memorial Track and Football Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2141932",
@@ -677,6 +834,7 @@
     "capacity": 8000,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -684,16 +842,18 @@
         "url": "http://www.sbp.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rizal_Memorial_Coliseum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2141932",
     "image_url": "RMSCjf9787 02.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22252115",
@@ -706,6 +866,7 @@
     "capacity": 2580,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -713,16 +874,45 @@
         "url": "http://pff.org.ph/category/teams/womens-national-team/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bi%C3%B1an_Football_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22252115",
     "image_url": "3684Biñan City, Laguna Barangays Landmarks 42.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q23022950",
+    "name": "Baguio Athletic Bowl",
+    "name_ja": null,
+    "lat": 16.40777779,
+    "lng": 120.59583282,
+    "country": "PH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baguio_Athletic_Bowl",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q23022950",
+    "image_url": "Baguio Athletic Bowl Jan 2018 a.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23039403",
@@ -731,22 +921,27 @@
     "lat": 14.79717,
     "lng": 120.95257,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Philippine_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23039403",
     "image_url": "JfCiudadVictoria9816PhilArenaStadiumINCfvf 20.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23039584",
@@ -755,22 +950,54 @@
     "lat": 11.575,
     "lng": 122.75805556,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Villareal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23039584",
     "image_url": "Capiz Villareal Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q2614435",
+    "name": "Rizal Memorial Sports Complex",
+    "name_ja": "リサール記念スポーツ・コンプレックス",
+    "lat": 14.5625,
+    "lng": 120.9925,
+    "country": "PH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": 1934,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rizal_Memorial_Sports_Complex",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2614435",
+    "image_url": "Rizal Memorial Sports Complex birdseye.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2616959",
@@ -779,10 +1006,13 @@
     "lat": 14.5775,
     "lng": 121.066111,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 10000,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -790,16 +1020,18 @@
         "url": "https://www.pba.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/PhilSports_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2616959",
     "image_url": "PhilSports Arena FIBA-Asia Champions Cup 2011.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28445815",
@@ -812,6 +1044,7 @@
     "capacity": 5000,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -819,16 +1052,50 @@
         "url": "http://iufc.com.ph"
       }
     ],
+    "leagues": [
+      {
+        "name": "Philippines Football League",
+        "name_ja": "フィリピン・フットボールリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Quirino_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28445815",
     "image_url": "Quirino Stadium Facade.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q28446784",
+    "name": "New Clark City Sports Hub",
+    "name_ja": null,
+    "lat": 15.343583333,
+    "lng": 120.531444444,
+    "country": "PH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/New_Clark_City_Sports_Hub",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28446784",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30622069",
@@ -837,22 +1104,27 @@
     "lat": 10.35697222,
     "lng": 123.90988889,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_San_Carlos_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30622069",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4650331",
@@ -865,17 +1137,20 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4650331",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4839903",
@@ -888,18 +1163,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bacolod_Arts_%26_Youth_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4839903",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4868606",
@@ -912,18 +1190,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Batangas_Racing_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4868606",
     "image_url": "BRC drag.jpg",
     "website": "http://www.batangasracingcircuit.org/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4929085",
@@ -936,6 +1217,7 @@
     "capacity": 7500,
     "opened_year": 1949,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -943,16 +1225,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Blue_Eagle_Gym",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4929085",
     "image_url": "Blue Eagle Gym int.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028799",
@@ -961,22 +1245,28 @@
     "lat": 13.59163,
     "lng": 123.25328,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ウェイクボード",
+      "水上スキー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Camsur_Watersports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028799",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5043739",
@@ -989,18 +1279,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carmona_Racing_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5043739",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5055801",
@@ -1013,6 +1306,7 @@
     "capacity": null,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1020,16 +1314,23 @@
         "url": "http://globalfc.ph/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Philippines Football League",
+        "name_ja": "フィリピン・フットボールリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%96%E5%B8%82%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5055801",
     "image_url": "Cebu City Sports Complex.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5055802",
@@ -1042,6 +1343,7 @@
     "capacity": null,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1049,16 +1351,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cebu_Coliseum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5055802",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5136243",
@@ -1071,18 +1375,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Club_Filipino",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5136243",
     "image_url": "Clubfiljf.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5194251",
@@ -1095,6 +1402,7 @@
     "capacity": 12000,
     "opened_year": 1993,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1102,16 +1410,18 @@
         "url": "https://www.pba.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cuneta_Astrodome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5194251",
     "image_url": "Cuneta Astrodome facade 2012.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5379745",
@@ -1124,18 +1434,21 @@
     "capacity": null,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Enrique_M._Razon_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5379745",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5449194",
@@ -1144,10 +1457,13 @@
     "lat": 14.605574,
     "lng": 121.032914,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 5000,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1155,16 +1471,45 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Filoil_EcoOil_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5449194",
     "image_url": "Filoil EcoOil Centre - Interior - 2022.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q55392157",
+    "name": "Vermosa Sports Hub",
+    "name_ja": null,
+    "lat": 14.38079,
+    "lng": 120.96082,
+    "country": "PH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ayala_Vermosa_Sports_Hub",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55392157",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q58064966",
@@ -1177,17 +1522,20 @@
     "capacity": null,
     "opened_year": 1905,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q58064966",
     "image_url": "Baguio Country Club 01.jpg",
     "website": "http://bcc.com.ph/#home",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5834051",
@@ -1200,6 +1548,7 @@
     "capacity": 40000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1207,15 +1556,17 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5834051",
     "image_url": "Joaquin F. Enriquez Memorial Stadium Area.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60767776",
@@ -1228,18 +1579,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Narciso_Ramos_Sports_and_Civic_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60767776",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60775764",
@@ -1252,18 +1606,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cebu_Provincial_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60775764",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61988138",
@@ -1272,22 +1629,30 @@
     "lat": 14.581666666,
     "lng": 120.999722222,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "競泳",
+      "テニス",
+      "バドミントン",
+      "バスケットボール"
+    ],
     "capacity": null,
     "opened_year": 1907,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Philippine_Columbian_Association",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61988138",
     "image_url": "Philippine Columbian Association facade.jpg",
     "website": "http://philcolumbian.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6206372",
@@ -1300,6 +1665,7 @@
     "capacity": 10000,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1307,16 +1673,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Joaquin_F._Enriquez_Memorial_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6206372",
     "image_url": "Joaquin F. Enriquez Memorial Stadium.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q625986",
@@ -1329,6 +1697,7 @@
     "capacity": 22000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1336,16 +1705,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%BB%E3%82%B3%E3%83%AD%E3%82%B7%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q625986",
     "image_url": "Smart Araneta Coliseum Basketball setup.jpg",
     "website": "http://www.smartaranetacoliseum.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6465091",
@@ -1358,6 +1729,7 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1365,16 +1737,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/La_Salle_Coliseum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6465091",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65047236",
@@ -1387,8 +1761,10 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2019年東南アジア競技大会",
@@ -1399,11 +1775,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q65047236",
     "image_url": "Inside New Clark City Athletic Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6738836",
@@ -1416,6 +1793,7 @@
     "capacity": 3000,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1423,16 +1801,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Makati_Coliseum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6738836",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6743990",
@@ -1441,10 +1821,13 @@
     "lat": 14.531944,
     "lng": 120.983611,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 18000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1452,16 +1835,18 @@
         "url": "https://uaap.org"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/SM%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6743990",
     "image_url": "SMMallofAsiajf9219 27.JPG",
     "website": "https://www.sm-arena.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6749689",
@@ -1474,8 +1859,10 @@
     "capacity": null,
     "opened_year": 1940,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "建設",
@@ -1494,11 +1881,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q6749689",
     "image_url": "Manila Jai Alai Building in 1955.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6972180",
@@ -1511,18 +1899,21 @@
     "capacity": null,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defense_College_of_the_Philippines",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6972180",
     "image_url": "National Defense College of the Philippines in Camp Aguinaldo, Quezon City.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7039115",
@@ -1531,10 +1922,15 @@
     "lat": 14.564167,
     "lng": 120.991111,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン",
+      "テコンドー",
+      "重量挙げ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1542,16 +1938,18 @@
         "url": "https://uaap.org"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ninoy_Aquino_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7039115",
     "image_url": "Ninoy Aquino Stadium SEA Games 2019.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7129742",
@@ -1560,10 +1958,13 @@
     "lat": 10.624926,
     "lng": 122.965465,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 15500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1571,16 +1972,18 @@
         "url": "https://pff.org.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7129742",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7161233",
@@ -1593,18 +1996,21 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pela%C3%A9z_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7161233",
     "image_url": "PSC CDO.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7181636",
@@ -1617,6 +2023,7 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1624,16 +2031,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/PhilSports_Football_and_Athletics_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7181636",
     "image_url": "PhilSports Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7181637",
@@ -1646,18 +2055,21 @@
     "capacity": null,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/PhilSports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7181637",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7184961",
@@ -1666,22 +2078,27 @@
     "lat": 14.793583333,
     "lng": 120.953527777,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 50500,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7184961",
     "image_url": "JfBocaue9586HallChapelDuhatfvf 14.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7268394",
@@ -1694,6 +2111,7 @@
     "capacity": 5792,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1701,16 +2119,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Quadricentennial_Pavilion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7268394",
     "image_url": "Jcpicsü1780.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7339076",
@@ -1723,6 +2143,7 @@
     "capacity": 10000,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1730,16 +2151,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rizal_Memorial_Baseball_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7339076",
     "image_url": "RMSjf9924 04.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7414583",
@@ -1752,6 +2175,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1759,16 +2183,45 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/San_Juan_Gym",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7414583",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q74482175",
+    "name": "The Villages Sports Complex",
+    "name_ja": null,
+    "lat": 15.202806,
+    "lng": 120.521472,
+    "country": "PH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Villages_Sports_Complex",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q74482175",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7631321",
@@ -1781,18 +2234,21 @@
     "capacity": null,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Subic_International_Raceway",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7631321",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7895661",
@@ -1805,6 +2261,7 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1812,16 +2269,18 @@
         "url": "http://www.uflphilippines.com.ph/index.html"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%83%86%E3%82%A3%E5%A4%A7%E5%AD%A6%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7895661",
     "image_url": "University of Makati Stadium Aug 16 2017.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7896264",
@@ -1834,18 +2293,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Santo_Tomas_Field",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7896264",
     "image_url": "UST Field.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7958796",
@@ -1854,22 +2316,27 @@
     "lat": 14.591666666,
     "lng": 121.05,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wack_Wack_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7958796",
     "image_url": "Wack Wack Golf and Country Club clubhouse.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8054034",
@@ -1882,6 +2349,7 @@
     "capacity": 12000,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1889,16 +2357,18 @@
         "url": "https://www.pba.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ynares_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8054034",
     "image_url": "YnaresCenterjf5353 13.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8054036",
@@ -1911,6 +2381,7 @@
     "capacity": 3000,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1918,16 +2389,18 @@
         "url": "https://www.pba.ph/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ynares_Sports_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8054036",
     "image_url": "0592jfPasig City Capitol Commons Sports Arena Ortigas Center Shaw Boulevardfvf 14.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85739459",
@@ -1940,18 +2413,21 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aboitiz_Pitch",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85739459",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85782632",
@@ -1960,21 +2436,26 @@
     "lat": 15.4324708,
     "lng": 120.6182799,
     "country": "PH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luisita_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85782632",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

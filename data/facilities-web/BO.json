@@ -10,17 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104836063",
     "image_url": "Rio Blanco de Porvenir.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q104836794",
@@ -33,17 +36,20 @@
     "capacity": null,
     "opened_year": 112020,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104836794",
     "image_url": "Líderes Villa 14 de Septiembre todos.jpg",
     "website": "https://septiembredenoe.wixsite.com/lderesdevilla14desep",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124518347",
@@ -52,44 +58,26 @@
     "lat": -17.381163977,
     "lng": -66.161621854,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124518347",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q125963312",
-    "name": "Q125963312",
-    "name_ja": null,
-    "lat": -17.050277777,
-    "lng": -64.869722222,
-    "country": "BO",
-    "sport_types": [],
-    "capacity": 24000,
-    "opened_year": 2011,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q125963312",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q132011639",
@@ -102,17 +90,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q132011639",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369261",
@@ -121,10 +112,13 @@
     "lat": -16.499444,
     "lng": -68.122778,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 38000,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -140,16 +134,23 @@
         "url": "https://alwaysready.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%AC%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369261",
     "image_url": "Hernando Siles Stadium - La Paz.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17364246",
@@ -158,21 +159,26 @@
     "lat": -17.38333333,
     "lng": -66.16666667,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "トラックレース"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q17364246",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18397955",
@@ -185,17 +191,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18397955",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2017250",
@@ -204,10 +213,13 @@
     "lat": -17.946211,
     "lng": -67.111564,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -215,16 +227,23 @@
         "url": "http://www.sanjosefc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jes%C3%BAs_Berm%C3%BAdez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2017250",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2408913",
@@ -233,10 +252,13 @@
     "lat": -19.578611,
     "lng": -65.761111,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 32000,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -244,16 +266,23 @@
         "url": "https://www.clubrealpotosi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2408913",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2628469",
@@ -262,10 +291,13 @@
     "lat": -17.796067,
     "lng": -63.183873,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35180,
     "opened_year": 1940,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -273,16 +305,23 @@
         "url": "https://www.orientepetrolero.com.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ram%C3%B3n_Tahuichi_Aguilera",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2628469",
     "image_url": "Estadio Ramón Tahuichi Aguilera SC.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2705722",
@@ -291,10 +330,13 @@
     "lat": -17.379303,
     "lng": -66.16183,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 35000,
     "opened_year": 1938,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -306,16 +348,27 @@
         "url": "http://www.clubaurora.com.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      },
+      {
+        "name": "Nacional B 2016-17 (Bolivia)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_F%C3%A9lix_Capriles",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2705722",
     "image_url": "Vista Aerea de la Inauguracion de los Juegos Suramericanos Cochabamba 2018.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28220464",
@@ -328,41 +381,21 @@
     "capacity": 17000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Edgar_Pe%C3%B1a_Gutierrez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28220464",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q29540184",
-    "name": "Q29540184",
-    "name_ja": null,
-    "lat": -16.523526,
-    "lng": -68.081985,
-    "country": "BO",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q29540184",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3058801",
@@ -371,10 +404,13 @@
     "lat": -21.532222,
     "lng": -64.724444,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -382,16 +418,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_IV_Centenario",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3058801",
     "image_url": "Estadio IV Centenario.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400235",
@@ -404,6 +442,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -411,16 +450,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Gran_Mamor%C3%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400235",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400237",
@@ -433,6 +479,7 @@
     "capacity": 18000,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -440,16 +487,23 @@
         "url": "http://www.clubguabira.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Gilberto_Parada",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400237",
     "image_url": "Estadio Gilberto Parada, Montero.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400301",
@@ -462,6 +516,7 @@
     "capacity": 25000,
     "opened_year": 1997,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -469,16 +524,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Juan_Carlos_Dur%C3%A1n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400301",
     "image_url": "Estadio juan carlos duran.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400337",
@@ -491,6 +548,7 @@
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -498,16 +556,23 @@
         "url": "https://clubbolivar.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Libertador_Sim%C3%B3n_Bol%C3%ADvar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400337",
     "image_url": "20170812 Bolivia 1772 La Paz sRGB (37926540966).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400464",
@@ -520,6 +585,7 @@
     "capacity": 15000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -527,39 +593,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Rafael_Mendoza",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400464",
     "image_url": "Estadio Rafael Mendoza Castellon (noche).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q5848327",
-    "name": "Q5848327",
-    "name_ja": null,
-    "lat": -19.582861111,
-    "lng": -65.750666666,
-    "country": "BO",
-    "sport_types": [],
-    "capacity": 7000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q5848327",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60588818",
@@ -572,6 +622,7 @@
     "capacity": null,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -579,16 +630,23 @@
         "url": "https://alwaysready.bo/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Alto_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60588818",
     "image_url": "Estadio Municipal El Alto Tribunas.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61877434",
@@ -597,22 +655,27 @@
     "lat": -16.9511232,
     "lng": -65.3998196,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Bicentenario_de_Villa_Tunari",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61877434",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q747644",
@@ -621,10 +684,13 @@
     "lat": -19.032322,
     "lng": -65.257912,
     "country": "BO",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30700,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -632,15 +698,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Bolivia",
+        "name_ja": "プリメーラ・ディビシオン・デ・ボリビア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Patria",
     "wikidata_url": "https://www.wikidata.org/wiki/Q747644",
     "image_url": "Estadioolimpicopatria.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

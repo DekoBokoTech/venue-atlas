@@ -10,16 +10,31 @@
     "capacity": 15000,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ムアントン・ユナイテッドFC",
+        "url": "https://mtutd.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1058451",
     "image_url": "Thunderdome.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107173244",
@@ -32,36 +47,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107173244",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q107549690",
-    "name": "Q107549690",
-    "name_ja": null,
-    "lat": 14.008094,
-    "lng": 100.673338,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q107549690",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108803686",
@@ -74,15 +73,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108803686",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108822521",
@@ -95,36 +99,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108822521",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q108833890",
-    "name": "Q108833890",
-    "name_ja": null,
-    "lat": 17.197583,
-    "lng": 102.432889,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q108833890",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108857713",
@@ -137,16 +125,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Samaesan_Hole",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108857713",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1089417",
@@ -159,16 +152,21 @@
     "capacity": null,
     "opened_year": 1887,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%A9%E3%83%81%E3%83%A7%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%A9%E3%82%AA%E9%99%B8%E8%BB%8D%E5%A3%AB%E5%AE%98%E5%AD%A6%E6%A0%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1089417",
     "image_url": "CRMA Library.JPG",
+    "website": "http://www.crma.ac.th/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116637649",
@@ -181,15 +179,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116637649",
     "image_url": "Battleship Stadium Sattahip.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116687490",
@@ -202,15 +205,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116687490",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116687491",
@@ -223,57 +231,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116687491",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q116693302",
-    "name": "Q116693302",
-    "name_ja": null,
-    "lat": 16.198683,
-    "lng": 103.273406,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q116693302",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q116693303",
-    "name": "Q116693303",
-    "name_ja": null,
-    "lat": 8.662067,
-    "lng": 99.375647,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q116693303",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116701977",
@@ -286,15 +257,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116701977",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116701978",
@@ -307,15 +283,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116701978",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116763746",
@@ -328,16 +309,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bangsaen_Street_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q116763746",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q117044322",
@@ -346,19 +332,26 @@
     "lat": 14.983736843,
     "lng": 102.090395454,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117044322",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q117210047",
@@ -371,36 +364,20 @@
     "capacity": null,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117210047",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q118998535",
-    "name": "Q118998535",
-    "name_ja": null,
-    "lat": 18.898361,
-    "lng": 99.013278,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q118998535",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119052044",
@@ -413,15 +390,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q119052044",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119085655",
@@ -434,15 +416,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q119085655",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119085656",
@@ -455,15 +442,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q119085656",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119085658",
@@ -476,15 +468,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q119085658",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119085659",
@@ -497,57 +494,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q119085659",
     "image_url": "Nom Klao Maharaj Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q119206205",
-    "name": "Q119206205",
-    "name_ja": null,
-    "lat": 15.274069,
-    "lng": 99.867376,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q119206205",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q119244774",
-    "name": "Q119244774",
-    "name_ja": null,
-    "lat": 14.169009,
-    "lng": 100.529332,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q119244774",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119292532",
@@ -560,36 +520,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q119292532",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q119292585",
-    "name": "Q119292585",
-    "name_ja": null,
-    "lat": 13.963052,
-    "lng": 99.593553,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q119292585",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q121301284",
@@ -598,19 +542,26 @@
     "lat": 18.841077288,
     "lng": 98.961495468,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121301284",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q121816431",
@@ -619,19 +570,26 @@
     "lat": 13.738940494,
     "lng": 100.525812259,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121816431",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q122834533",
@@ -640,20 +598,28 @@
     "lat": 13.745555555,
     "lng": 100.525555555,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 19615,
     "opened_year": 1938,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%83%81%E3%83%A3%E3%83%A9%E3%82%B5%E3%82%A4%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q122834533",
     "image_url": "Hotel Holiday Inn Bangkok Siam 6.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123032624",
@@ -662,19 +628,26 @@
     "lat": 13.902492095,
     "lng": 100.528526313,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123032624",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123740828",
@@ -683,19 +656,26 @@
     "lat": 14.055227789,
     "lng": 100.677242795,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123740828",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123740833",
@@ -704,19 +684,26 @@
     "lat": 14.065957257,
     "lng": 100.603256864,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123740833",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125274327",
@@ -725,19 +712,26 @@
     "lat": 13.738983932,
     "lng": 100.525805657,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125274327",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13021963",
@@ -746,20 +740,37 @@
     "lat": 15.807952,
     "lng": 102.020799,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Chaiyaphum United F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chaiyaphum_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13021963",
     "image_url": "Chaiyaphum Province Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13021965",
@@ -768,20 +779,64 @@
     "lat": 12.233759,
     "lng": 102.524949,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "トラートFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trat_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13021965",
     "image_url": "TRATFC STA.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q13021973",
+    "name": "Hua Mak Sports Complex",
+    "name_ja": null,
+    "lat": 13.756621665,
+    "lng": 100.622946216,
+    "country": "TH",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": 1966,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hua_Mak_Sports_Complex",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q13021973",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13021977",
@@ -794,16 +849,31 @@
     "capacity": 5000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "TOT SC",
+        "url": "http://www.totsc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/NT_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13021977",
     "image_url": "TOT Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13026958",
@@ -816,15 +886,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q13026958",
     "image_url": null,
+    "website": "http://www.mtts.ac.th",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130911035",
@@ -837,15 +912,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130911035",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130912695",
@@ -858,15 +938,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130912695",
     "image_url": null,
+    "website": "http://railaymuaythai.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131754338",
@@ -879,15 +964,20 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131754338",
     "image_url": "Suvarnabhumi Sky Lane.jpg",
+    "website": "https://www.hhblbikelane.com",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q132860508",
@@ -900,15 +990,20 @@
     "capacity": null,
     "opened_year": 1990,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q132860508",
     "image_url": null,
+    "website": "https://ndsi.rtarf.mi.th/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133261969",
@@ -917,19 +1012,26 @@
     "lat": 12.56644,
     "lng": 99.95245,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": 1922,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133261969",
     "image_url": "Royal Hua Hin - Par 3 5th hole.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133646940",
@@ -938,19 +1040,26 @@
     "lat": 7.865726941,
     "lng": 98.395867101,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133646940",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133987259",
@@ -959,40 +1068,26 @@
     "lat": 13.76657,
     "lng": 100.552823,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133987259",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q135440190",
-    "name": "Q135440190",
-    "name_ja": null,
-    "lat": 18.235277777,
-    "lng": 99.489536111,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q135440190",
-    "image_url": "Lampang Rajabhat University Stadium 2024.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137673604",
@@ -1005,15 +1100,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q137673604",
     "image_url": null,
+    "website": "https://www.hiendsnooker.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138862466",
@@ -1026,15 +1126,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138862466",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q141226458",
@@ -1047,15 +1152,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141226458",
     "image_url": "Aquatic Center at Sports Authority of Thailand Complex (2026) 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1435092",
@@ -1068,16 +1178,21 @@
     "capacity": 5207,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Princess_Sirindhorn_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1435092",
     "image_url": "ASSR.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15122900",
@@ -1090,16 +1205,31 @@
     "capacity": 20000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "PTTラヨーンFC",
+        "url": "http://www.pttrayongfc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/PTT_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15122900",
     "image_url": "Pttrayongstadium2014.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15195752",
@@ -1112,16 +1242,21 @@
     "capacity": 5000,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nong_Chok_Sport_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15195752",
     "image_url": "Nong Chok Sport Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1540869",
@@ -1134,16 +1269,26 @@
     "capacity": 35000,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "1998年アジア競技大会におけるサッカー競技",
+        "url": null
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tinsulanon_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1540869",
     "image_url": "Tinsulanonstadium2014.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15601980",
@@ -1156,16 +1301,31 @@
     "capacity": 20141,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナコーンラーチャシーマーFC",
+        "url": "http://swatcat-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/80th_Birthday_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15601980",
     "image_url": "Korat v Thailand XI.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15873361",
@@ -1174,19 +1334,26 @@
     "lat": 12.614289,
     "lng": 99.891809,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15873361",
     "image_url": null,
+    "website": "https://www.blackmountainhuahin.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16139843",
@@ -1198,17 +1365,22 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1916,
-    "closed_year": null,
+    "closed_year": 2019,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Turf_Club_of_Thailand",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16139843",
     "image_url": "Royal Turf Club seen from Baiyoke Tower II.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16257654",
@@ -1221,16 +1393,21 @@
     "capacity": 6000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chanchai_Acadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16257654",
     "image_url": "Chanchai acadium1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16307503",
@@ -1243,16 +1420,21 @@
     "capacity": null,
     "opened_year": 2013,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16307503",
     "image_url": "Dani Pedrosa 2018 Buriram.jpg",
+    "website": "http://www.bric.co.th/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16307874",
@@ -1265,16 +1447,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ロッブリーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phra_Ramesuan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16307874",
     "image_url": "Phra Ramesuan Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16434129",
@@ -1287,16 +1484,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チェンライ・ユナイテッドFC",
+        "url": "http://www.chiangrai-united.com/2013/home.php"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mae_Fah_Luang_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16434129",
     "image_url": "Mae Fah Luang University Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632543",
@@ -1309,16 +1521,31 @@
     "capacity": 12500,
     "opened_year": 2001,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サイアム・ネイビーFC",
+        "url": "http://www.navyfc.co.th"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sattahip_Navy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632543",
     "image_url": "NavyStadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16848482",
@@ -1331,16 +1558,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ratchaburi_Provincial_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16848482",
     "image_url": "Ratchaburi Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1771247",
@@ -1353,16 +1585,31 @@
     "capacity": 32600,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ブリーラム・ユナイテッドFC",
+        "url": "https://www.buriramunited.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1771247",
     "image_url": "Isan, Mueang Buri Ram District, Buri Ram 31000, Thailand - panoramio (6).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1796042",
@@ -1375,16 +1622,55 @@
     "capacity": null,
     "opened_year": 1898,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Thai_Naval_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1796042",
     "image_url": "RTNAHeadquarters.jpg",
+    "website": "http://www.rtna.ac.th",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q1818661",
+    "name": "His Majesty the King's 80th Birthday Anniversary, 5th December 2007 Sports Complex",
+    "name_ja": null,
+    "lat": 14.927011,
+    "lng": 102.047567,
+    "country": "TH",
+    "sport_types": [
+      "バドミントン"
+    ],
+    "capacity": 20141,
+    "opened_year": 2007,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [
+      {
+        "name": "2007年東南アジア競技大会",
+        "url": null
+      }
+    ],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Ratchasima_Sports_Complex",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1818661",
+    "image_url": "MainStandvRoiet.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18351687",
@@ -1397,16 +1683,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウドーンターニーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Institute_of_Physical_Education_Udon_Thani_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18351687",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19860600",
@@ -1419,16 +1720,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アユタヤFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ayutthaya_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19860600",
     "image_url": "Ayutthaya Province Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19860602",
@@ -1441,15 +1757,30 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラヨーン・ユナイテッドFC",
+        "url": "http://www.prachinburifc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q19860602",
     "image_url": "Klaeng Municipality Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19860603",
@@ -1462,16 +1793,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "クラビーFC",
+        "url": "http://www.krabifc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Krabi_Provincial_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19860603",
     "image_url": "Krabi Provincial Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19860605",
@@ -1484,16 +1830,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナコーンパトム・ユナイテッドFC",
+        "url": "https://nakhonpathom-united-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Pathom_Municipality_Sport_School_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19860605",
     "image_url": "Sport School Stadium Nakhon Pathom.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1996947",
@@ -1506,16 +1867,21 @@
     "capacity": null,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E3%83%BB%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%BC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1996947",
     "image_url": "IMPACT Arena.jpg",
+    "website": "http://www.impact.co.th/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2024846",
@@ -1528,16 +1894,31 @@
     "capacity": 10000,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ポリス・テロFC",
+        "url": "http://sasana.bectero.com/en/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/72nd_Anniversary_Stadium_(Min_Buri)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2024846",
     "image_url": "Stadium of Chaloermprakiat 72 punsa.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20577281",
@@ -1550,15 +1931,20 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20577281",
     "image_url": "Terminal21 after a rainy day.jpg",
+    "website": "http://www.terminal21.co.th/korat/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20943743",
@@ -1567,20 +1953,37 @@
     "lat": 17.061773,
     "lng": 99.793703,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スコータイFC",
+        "url": "http://www.sukhothaifootballclub.com/2013/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thalay_Luang_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20943743",
     "image_url": "Thung Thalay Luang Stadium 2016.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20950074",
@@ -1593,15 +1996,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20950074",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20984341",
@@ -1614,16 +2022,31 @@
     "capacity": null,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ポリス・テロFC",
+        "url": "http://sasana.bectero.com/en/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Boonyachinda_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20984341",
     "image_url": "Boonyachinda Stadium 20180303 02.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20984353",
@@ -1636,16 +2059,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ramkhamhaeng_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20984353",
     "image_url": "Ramkhamheang University Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20992877",
@@ -1658,16 +2086,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "シンブリー・バンラチャン FC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Singburi_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20992877",
     "image_url": "Singburi Province Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21006560",
@@ -1680,16 +2123,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チャンタブリーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chanthaburi_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21006560",
     "image_url": "Chanthaburi Province Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21313478",
@@ -1702,16 +2160,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "パッターニーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pattani_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21313478",
     "image_url": "Pattani Province Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21313766",
@@ -1724,16 +2197,58 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ランシット・ユニバーシティFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rangsit_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21313766",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q219047",
+    "name": "National Stadium",
+    "name_ja": "スパチャラサイ国立競技場",
+    "lat": 13.745556,
+    "lng": 100.525556,
+    "country": "TH",
+    "sport_types": [],
+    "capacity": 19793,
+    "opened_year": 1938,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/National_Stadium_(Thailand)",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q219047",
+    "image_url": "Hotel Holiday Inn Bangkok Siam 1.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22320341",
@@ -1746,16 +2261,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "プレー・ユナイテッドFC",
+        "url": "https://phrae-united-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thunghong_Subdistrict_municipality_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22320341",
     "image_url": "Thunghong Subdistrict Municipality Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22813237",
@@ -1768,16 +2298,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cartoon_Network_Amazone",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22813237",
     "image_url": null,
+    "website": "http://www.cartoonnetworkamazone.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2364667",
@@ -1790,16 +2325,31 @@
     "capacity": 23000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スパンブリーFC",
+        "url": "https://suphanburi-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suphan_Buri_Provincial_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2364667",
     "image_url": "Suphanburi Stadium.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2364676",
@@ -1812,16 +2362,31 @@
     "capacity": 5000,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "パタヤ・ユナイテッドFC",
+        "url": "http://www.ptyutd.com"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nong_Prue_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2364676",
     "image_url": "Nong Prue.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2366497",
@@ -1834,16 +2399,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tung_Burapha_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2366497",
     "image_url": "Tung Burapah Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2408962",
@@ -1852,20 +2422,37 @@
     "lat": 14.067778,
     "lng": 100.598611,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 20000,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ポリス・ユナイテッドFC",
+        "url": "http://www.policefc.com"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%9E%E3%82%B5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2408962",
     "image_url": "Thammasat Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2427500",
@@ -1878,16 +2465,21 @@
     "capacity": 9500,
     "opened_year": 1956,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%B3%E3%83%94%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2427500",
     "image_url": "Lumpinee Boxing Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24847895",
@@ -1900,16 +2492,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナラー・ユナイテッドFC",
+        "url": "http://www.naraunited.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Narathiwat_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24847895",
     "image_url": "Narathiwat Provincial Administrative Organization Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24882692",
@@ -1918,20 +2525,27 @@
     "lat": 12.925035,
     "lng": 100.948071,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nong_Prue_2_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24882692",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24885619",
@@ -1944,16 +2558,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "プレー・ユナイテッドFC",
+        "url": "https://phrae-united-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phrae_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24885619",
     "image_url": "Phrae Province Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24885620",
@@ -1962,20 +2591,27 @@
     "lat": 16.975134,
     "lng": 99.789532,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sukhothai_Institute_of_Physical_Education_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24885620",
     "image_url": "Sukhothai Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24898827",
@@ -1988,16 +2624,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナンFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajamangala_University_of_Technology_Nan_Campus_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24898827",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042444",
@@ -2010,15 +2661,30 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チャチューンサオFC",
+        "url": "https://chachoengsao-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042444",
     "image_url": "Chachoengsao Town Municipality Stadium 20180317.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042544",
@@ -2031,15 +2697,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042544",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042645",
@@ -2052,16 +2723,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナコーンナーヨックFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Nayok_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042645",
     "image_url": "Nakhon Nayok Provincial Stadium สนามกีฬากลางจังหวัดนครนายก (2024) - img 05.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042646",
@@ -2074,16 +2760,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "プラーチーンブリー・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Prachinburi_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042646",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042651",
@@ -2096,16 +2797,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Sa Kaeo City F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sa_Kaeo_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042651",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042740",
@@ -2114,20 +2830,27 @@
     "lat": 13.724254,
     "lng": 100.344909,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thonburi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042740",
     "image_url": "Thonburi University Stadium 2017.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042830",
@@ -2140,16 +2863,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Amnat Charoen Town F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amnat_Charoen_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042830",
     "image_url": "Amnat Charoen Province Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042837",
@@ -2162,16 +2900,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "カーラシンFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kalasin_Town_municipality_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042837",
     "image_url": "Kalasin Province Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042841",
@@ -2184,16 +2937,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コーンケン・ユナイテッドFC",
+        "url": "http://www.kkutd.com"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khon_Kaen_Sports_School_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042841",
     "image_url": "Khon Kaen Sports School Stadium 2015.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042851",
@@ -2206,16 +2974,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ルーイ・シティFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Loei_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042851",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042856",
@@ -2228,16 +3011,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Mukdahan City F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mukdahan_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042856",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042861",
@@ -2250,16 +3048,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナコンパノムFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Phanom_PAO_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042861",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042869",
@@ -2272,16 +3085,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ノーンブワ・ピッチャヤFC",
+        "url": "http://nbpfc.com"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nong_Bua_Lamphu_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042869",
     "image_url": "Nongbua Stadion.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042873",
@@ -2294,16 +3122,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Nong Khai F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nong_Khai_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042873",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042886",
@@ -2316,16 +3159,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Roi_Et_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042886",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042894",
@@ -2338,15 +3186,30 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サコンナコーンFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042894",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042902",
@@ -2355,20 +3218,37 @@
     "lat": 14.874996,
     "lng": 103.496772,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1994,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スリン・シティFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Narong_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042902",
     "image_url": "สนามกีฬาศรีณรงค์ ทิศตะวันตก.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042907",
@@ -2381,16 +3261,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウボンラーチャターニーFC",
+        "url": "https://ubon-kruanapat-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ubon_Rachathani_Sports_School_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042907",
     "image_url": "Ubon Rachathani Sports School Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042920",
@@ -2399,20 +3294,37 @@
     "lat": 13.850712,
     "lng": 100.441408,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ノンタブリーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nonthaburi_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042920",
     "image_url": "Nonthaburi Province Stadium 20180310 02.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042926",
@@ -2421,20 +3333,37 @@
     "lat": 13.125031,
     "lng": 99.936277,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ペッチャブリーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phetchaburi_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042926",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042940",
@@ -2443,20 +3372,27 @@
     "lat": 13.796547,
     "lng": 100.297976,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajamangala_University_of_Technology_Rattanakosin_Stadium_(Salaya)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042940",
     "image_url": "Rajamangala University of Technology Rattanakosin Salaya Campus Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042944",
@@ -2465,20 +3401,27 @@
     "lat": 13.546858,
     "lng": 100.263944,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Samut_Sakhon_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042944",
     "image_url": "Samut Sakhon Province Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042949",
@@ -2491,16 +3434,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラムプーン・ウォリアーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lamphun_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042949",
     "image_url": "Lamphun Province Stadium 2018.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042953",
@@ -2513,16 +3471,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウッタラディットFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Uttaradit_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042953",
     "image_url": "Uttaradit Province Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042960",
@@ -2535,16 +3508,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "カムペーンペットFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kamphaeng_Phet_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042960",
     "image_url": "Kamphaengphet Provincial Administrative Organization Stadium 2018.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042963",
@@ -2557,16 +3545,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Tak F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tak_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042963",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042985",
@@ -2579,16 +3582,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ピッサヌロークFC",
+        "url": "https://phitsanulok-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phitsanulok_PAO._Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042985",
     "image_url": "Phitsanulok Provincial Administrative Organization Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042991",
@@ -2601,16 +3619,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チェンライ・シティFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chiangrai_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042991",
     "image_url": "Chiangrai Province Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042995",
@@ -2623,16 +3656,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Phayao F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phayao_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042995",
     "image_url": "Phayao Provincial Administrative Organization Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042999",
@@ -2645,16 +3693,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナンFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nan_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042999",
     "image_url": "Nan Provincial Administrative Organization Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25043008",
@@ -2667,16 +3730,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チュムポーンFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chumphon_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25043008",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25043042",
@@ -2689,16 +3767,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラノーン・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ranong_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25043042",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25043058",
@@ -2711,16 +3804,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "トランFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trang_Municipality_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25043058",
     "image_url": "Trang Municipality Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25043067",
@@ -2733,16 +3841,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "シーラーチャーFC",
+        "url": "http://www.srirachafc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Si_Racha_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25043067",
     "image_url": "Suzuki Stadium Si Racha.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25043083",
@@ -2755,16 +3878,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アーントーンFC",
+        "url": "https://angthong-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ang_Thong_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25043083",
     "image_url": "Ang Thong Province Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25043087",
@@ -2777,16 +3915,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nonthaburi_Youth_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25043087",
     "image_url": "Nonthaburi Youth Centre Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25043143",
@@ -2795,20 +3938,37 @@
     "lat": 11.817598,
     "lng": 99.788093,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "プラチュワップFC",
+        "url": "http://www.prachuapfc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Prachuap_Khiri_Khan_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25043143",
     "image_url": "Sam-Ao Plate.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25047347",
@@ -2821,16 +3981,31 @@
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サムットプラーカーンFC",
+        "url": "http://www.samutprakanfc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Samut_Prakan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25047347",
     "image_url": "M Power Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25056044",
@@ -2843,16 +4018,21 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Sirikit's_60th_Anniversary_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25056044",
     "image_url": "Queen Sirikit 60th Anniversary Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25056860",
@@ -2865,16 +4045,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ピッサヌロークFC",
+        "url": "https://phitsanulok-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pibulsongkram_Rajabhat_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25056860",
     "image_url": "Pibulsongkram Rajabhat Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25056900",
@@ -2887,16 +4082,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Huai Thalaeng F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Assumption_College_Sriracha_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25056900",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25056902",
@@ -2909,16 +4119,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jarun_Burapharat_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25056902",
     "image_url": "Jarun Burapharat Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25057034",
@@ -2931,16 +4146,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "パクナムポーNSRU FC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Sawan_Sports_School_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25057034",
     "image_url": "Nakhon Sawan Sport School Stadium a.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25058088",
@@ -2949,19 +4179,36 @@
     "lat": 15.394372,
     "lng": 100.016828,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウタイターニーFC",
+        "url": "https://uthai-thani-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25058088",
     "image_url": "UtThProvSt.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25058115",
@@ -2974,16 +4221,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lampang_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25058115",
     "image_url": "Pic lampangstadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25058532",
@@ -2996,15 +4248,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25058532",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25060967",
@@ -3017,16 +4274,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "パッタルンFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phatthalung_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25060967",
     "image_url": "Phattalung Province Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25062308",
@@ -3035,20 +4307,38 @@
     "lat": 13.847122,
     "lng": 100.565834,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "カセートサート大学FC",
+        "url": "https://kasetsart-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Insee_Chantarasatit_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25062308",
     "image_url": "Insee Chantarasatit Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25063937",
@@ -3061,16 +4351,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Institute_of_Physical_Education_Chumphon_Campus_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25063937",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25063942",
@@ -3083,16 +4378,31 @@
     "capacity": 3000,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ホアヒン・シティFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hua_Hin_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25063942",
     "image_url": "Khao Takiap Stadium Hua Hin.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25063950",
@@ -3105,16 +4415,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Banbueng_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25063950",
     "image_url": "Banbueng Municipal Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25063985",
@@ -3123,20 +4438,27 @@
     "lat": 16.476767,
     "lng": 102.817386,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/50th_Anniversary_Stadium_of_Khon_Kaen_University",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25063985",
     "image_url": "50th Anniversary Stadium of Khon Kaen University.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25063986",
@@ -3149,16 +4471,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Mahasarakham City",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mahasarakham_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25063986",
     "image_url": "Mahasarakham Province Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064015",
@@ -3171,16 +4508,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サコンナコーンFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sakon_Nakhon_Rajabhat_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064015",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064033",
@@ -3193,16 +4545,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Udon_Thani_Rajabhat_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064033",
     "image_url": "Udon Thani Rajabhat University Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064036",
@@ -3215,16 +4572,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Yasothon United F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yasothon_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064036",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064134",
@@ -3237,16 +4609,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サトゥーン・ユナイテッドFC",
+        "url": "https://pt-satun-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Satun_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064134",
     "image_url": "Satun Provincial Administrative Organization Stadium 2018.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064178",
@@ -3255,20 +4642,37 @@
     "lat": 8.454633,
     "lng": 99.958086,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Nakhon Si Thammarat F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064178",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064185",
@@ -3281,16 +4685,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yala_City_Municipality_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064185",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064508",
@@ -3299,20 +4708,37 @@
     "lat": 6.733468,
     "lng": 100.691815,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Songkhla United F.C.",
+        "url": "http://www.songkhlaunited.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Na_Thawi_District_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064508",
     "image_url": "Na Thawi District Stadium 2016.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25066818",
@@ -3325,16 +4751,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Laem_Chabang_municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25066818",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25067761",
@@ -3347,16 +4778,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Amnat Charoen Town F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amnat_Charoen_municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25067761",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25069683",
@@ -3369,16 +4815,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bangkokthonburi_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25069683",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25221768",
@@ -3391,38 +4842,48 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%81%E3%83%A3%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25221768",
     "image_url": "Mitr Phol Stadium 2017.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25894317",
     "name": "Ramayana Water Park",
     "name_ja": null,
-    "lat": 12.751275,
-    "lng": 100.96268333,
+    "lat": 12.75027778,
+    "lng": 100.96027778,
     "country": "TH",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ramayana_Water_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25894317",
     "image_url": "RWP-Overview.jpg",
+    "website": "http://www.ramayanawaterpark.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2631915",
@@ -3435,16 +4896,21 @@
     "capacity": 8000,
     "opened_year": 1945,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%80%E3%83%A0%E3%83%8A%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2631915",
     "image_url": "Rajadamnern Stadium 2.jpg",
+    "website": "http://rajadamnern.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q27961720",
@@ -3457,16 +4923,31 @@
     "capacity": null,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サトゥーン・ユナイテッドFC",
+        "url": "https://pt-satun-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ratchakit_Prakan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q27961720",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q27962515",
@@ -3475,20 +4956,37 @@
     "lat": 13.497855,
     "lng": 102.179782,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Sa Kaeo City F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wangnamyen_municipality_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q27962515",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q27962608",
@@ -3501,16 +4999,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サムットプラーカーン・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Samut_Prakan_United_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q27962608",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28446862",
@@ -3523,15 +5036,30 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ウボンラーチャターニーFC",
+        "url": "https://ubon-kruanapat-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q28446862",
     "image_url": "Ubon Ratchathani University Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q29587245",
@@ -3544,15 +5072,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29587245",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30339185",
@@ -3565,15 +5098,20 @@
     "capacity": null,
     "opened_year": 1996,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30339185",
     "image_url": null,
+    "website": "https://www.thunderdome.biz/th/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30624661",
@@ -3586,15 +5124,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30624661",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3277745",
@@ -3607,16 +5150,31 @@
     "capacity": 8500,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チョンブリーFC",
+        "url": "http://www.chonburifc.net/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%B3%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277745",
     "image_url": "Chonburi Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3277892",
@@ -3629,16 +5187,31 @@
     "capacity": 20000,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アーミー・ユナイテッドFC",
+        "url": "https://www.armyufc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277892",
     "image_url": "Thai Army Sports Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q339742",
@@ -3651,16 +5224,21 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%83%E3%83%88%E3%82%BD%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q339742",
     "image_url": "Chonburi F.C. vd Samut.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q37282650",
@@ -3669,19 +5247,26 @@
     "lat": 7.561525896,
     "lng": 99.58972603,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q37282650",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3915133",
@@ -3694,16 +5279,31 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "オーソットサパー・サラブリーFC",
+        "url": "http://www.osotspafc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3915133",
     "image_url": "Saraburi Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4347394",
@@ -3716,16 +5316,26 @@
     "capacity": 25000,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "1995年東南アジア競技大会",
+        "url": null
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/700%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4347394",
     "image_url": "700th Anniversary Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4643140",
@@ -3738,16 +5348,31 @@
     "capacity": 8000,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "バンコクFC",
+        "url": "https://fc-bangkok.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/72nd_Anniversary_Stadium_(Bang_Mod)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4643140",
     "image_url": "BangModStadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4740431",
@@ -3756,20 +5381,27 @@
     "lat": 13.416713,
     "lng": 101.013361,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amata_Spring_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4740431",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4792974",
@@ -3782,16 +5414,21 @@
     "capacity": null,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD%E5%A3%AB%E5%AE%98%E5%AD%A6%E6%A0%A1%E4%BA%88%E7%A7%91",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4792974",
     "image_url": "Armed Forces Academies Preparatory School, Thailand 04.jpg",
+    "website": "http://www.afaps.ac.th/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4855206",
@@ -3804,16 +5441,26 @@
     "capacity": 12000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "2012 FIFAフットサルワールドカップ",
+        "url": "http://www.fifa.com/futsalworldcup/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bangkok_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4855206",
     "image_url": "Bangkok Fustal Arena.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4855229",
@@ -3826,16 +5473,31 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "バンコク・ユナイテッドFC",
+        "url": "https://www.truebangkokunitedfc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bangkok_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4855229",
     "image_url": "Bangkok University Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4915575",
@@ -3848,16 +5510,21 @@
     "capacity": null,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bira_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4915575",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4923737",
@@ -3866,20 +5533,29 @@
     "lat": 13.7575,
     "lng": 100.623333,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン",
+      "フットサル",
+      "バレーボール"
+    ],
     "capacity": 15000,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A2%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4923737",
     "image_url": "HuaMak.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4925368",
@@ -3892,16 +5568,31 @@
     "capacity": 12308,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ポートFC",
+        "url": "https://portfcofficial.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/PAT%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4925368",
     "image_url": "Thai Port Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5060206",
@@ -3910,20 +5601,27 @@
     "lat": 13.90361111,
     "lng": 100.52805556,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Chaengwattana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5060206",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5062154",
@@ -3936,16 +5634,31 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナコーンラーチャシーマーFC",
+        "url": "http://swatcat-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Ratchasima_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5062154",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5067971",
@@ -3958,16 +5671,31 @@
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チャイナートFC",
+        "url": "http://chainathornbill.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_Plong_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5067971",
     "image_url": "Khaopong Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5104407",
@@ -3976,20 +5704,27 @@
     "lat": 12.562,
     "lng": 99.9411,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chom_Dong",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5104407",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55180275",
@@ -4002,15 +5737,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q55180275",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55429944",
@@ -4023,15 +5763,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q55429944",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55739036",
@@ -4044,36 +5789,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q55739036",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q57302892",
-    "name": "Q57302892",
-    "name_ja": null,
-    "lat": 7.637421,
-    "lng": 99.031094,
-    "country": "TH",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q57302892",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5967744",
@@ -4086,16 +5815,31 @@
     "capacity": 14000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ブリーラム・ユナイテッドFC",
+        "url": "https://www.buriramunited.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5967744",
     "image_url": "Khao Kradong Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6040731",
@@ -4108,16 +5852,31 @@
     "capacity": 4500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スコータイFC",
+        "url": "http://www.sukhothaifootballclub.com/2013/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Institute_of_Physical_Education_Sukhothai_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6040731",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60786193",
@@ -4130,16 +5889,21 @@
     "capacity": null,
     "opened_year": 2018,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SAT_Stadium_Udon_Thani",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60786193",
     "image_url": "SAT Stadium Udon Thani.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61367798",
@@ -4148,20 +5912,29 @@
     "lat": 13.911592289,
     "lng": 100.54832981,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "テニス",
+      "バドミントン",
+      "ボクシング"
+    ],
     "capacity": null,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Impact_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61367798",
     "image_url": "IMPACT Arena.jpg",
+    "website": "http://www.impact.co.th/index.php/facilities/impactarena/th",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6202973",
@@ -4174,16 +5947,31 @@
     "capacity": 25000,
     "opened_year": 1944,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Hat Yai F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chira_Nakhon_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6202973",
     "image_url": "Chira Nakhon Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6345983",
@@ -4196,16 +5984,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kaeng_Krachan_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6345983",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6361004",
@@ -4214,20 +6007,37 @@
     "lat": 14.049855,
     "lng": 99.502743055,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "TOT SC",
+        "url": "http://www.totsc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%B3%E3%83%81%E3%83%A3%E3%83%8A%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6361004",
     "image_url": "Kanchanaburi Province Stadium 2018.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6374102",
@@ -4240,15 +6050,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6374102",
     "image_url": "Kasem Bundit University Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6374138",
@@ -4261,16 +6076,31 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ナコーンパトム・ユナイテッドFC",
+        "url": "https://nakhonpathom-united-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kasetsart_University_Kamphaeng_Saen_Campus_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6374138",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6402204",
@@ -4283,16 +6113,31 @@
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "コーンケンFC",
+        "url": "http://www.khonkaenfc.net/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khon_Kaen_Provincial_Administrative_Organization_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6402204",
     "image_url": "Khon Kaen Provincial Administrative Organization Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6469203",
@@ -4305,16 +6150,31 @@
     "capacity": 2000,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "カスタムズ・ユナイテッドFC",
+        "url": "http://www.customsfc.com"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lad_Krabang_54_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6469203",
     "image_url": "Lad Krabang 54 Stadion.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q64821212",
@@ -4327,15 +6187,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64821212",
     "image_url": "Walailak University Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65245580",
@@ -4348,15 +6213,20 @@
     "capacity": 1500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q65245580",
     "image_url": "Suphanburi Sports School Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6584519",
@@ -4369,16 +6239,31 @@
     "capacity": 15000,
     "opened_year": 2012,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チェンライ・ユナイテッドFC",
+        "url": "http://www.chiangrai-united.com/2013/home.php"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6584519",
     "image_url": "Chiangrai Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6586648",
@@ -4391,16 +6276,31 @@
     "capacity": 13000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "BGパトゥム・ユナイテッドFC",
+        "url": "http://www.bgputd.com"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/BG%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6586648",
     "image_url": "LEO Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q66289987",
@@ -4413,15 +6313,30 @@
     "capacity": 1800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アユタヤFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66289987",
     "image_url": "Udhomseelwitthaya School Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6634147",
@@ -4434,16 +6349,31 @@
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "エアフォース・ユナイテッドFC",
+        "url": "http://www.afufc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dhupatemiya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6634147",
     "image_url": "Thupatemee Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6634158",
@@ -4456,16 +6386,31 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スラートターニーFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Surat_Thani_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6634158",
     "image_url": "Surat Thani stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6634179",
@@ -4478,16 +6423,31 @@
     "capacity": 12000,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チョンブリーFC",
+        "url": "http://www.chonburifc.net/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Institute_of_Physical_Education_Chonburi_Campus_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6634179",
     "image_url": "IPE Chonburi Stadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6634190",
@@ -4500,16 +6460,31 @@
     "capacity": 6378,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ポリス・テロFC",
+        "url": "http://sasana.bectero.com/en/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thephasadin_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6634190",
     "image_url": "Thephasadin Stadium from Hotel Holiday Inn Bangkok Siam.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6676136",
@@ -4522,16 +6497,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6676136",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6960611",
@@ -4540,20 +6520,37 @@
     "lat": 15.710043,
     "lng": 100.106783,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スパンブリーFC",
+        "url": "https://suphanburi-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nakhon_Sawan_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6960611",
     "image_url": "Nakhon Sawan Province Stadium 2016.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7037674",
@@ -4562,20 +6559,39 @@
     "lat": 13.745284,
     "lng": 100.528863,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン",
+      "ハンドボール",
+      "バスケットボール",
+      "ボクシング",
+      "自転車競技",
+      "フットサル",
+      "体操",
+      "ムエタイ"
+    ],
     "capacity": 5600,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [
+      {
+        "name": "1966年アジア競技大会",
+        "year": 1966
+      }
+    ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nimibutr_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7037674",
     "image_url": "Nimibutr Stadium - Thailand Masters 2025.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q71099728",
@@ -4584,19 +6600,26 @@
     "lat": 13.741069823,
     "lng": 100.364977897,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q71099728",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7180466",
@@ -4609,16 +6632,31 @@
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Phang Nga F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 4",
+        "name_ja": "リージョナルリーグ・ディヴィジョン2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phang_Nga_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7180466",
     "image_url": "Stadium of Phang Nga.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7181613",
@@ -4631,16 +6669,31 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "TTMチエンマイFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Phichit_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7181613",
     "image_url": "Phichit Provincial Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7299365",
@@ -4653,16 +6706,31 @@
     "capacity": 4512,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラヨーンFC",
+        "url": "https://rayong-fc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rayong_Province_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7299365",
     "image_url": "RayongCentralStadium.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7330401",
@@ -4671,20 +6739,27 @@
     "lat": 9.36277778,
     "lng": 98.02194444,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "飛込競技"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Richelieu_Rock",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7330401",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7415480",
@@ -4693,19 +6768,26 @@
     "lat": 13.36444444,
     "lng": 100.97638889,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7415480",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7421937",
@@ -4718,16 +6800,31 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "オーソットサパー・サラブリーFC",
+        "url": "http://www.osotspafc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saraburi_Province_Central_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7421937",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7586170",
@@ -4740,16 +6837,31 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "イーサーン・ユナイテッドFC",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Nakhon_Lamduan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7586170",
     "image_url": "Siasaket stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q76305618",
@@ -4758,19 +6870,26 @@
     "lat": 13.70968,
     "lng": 100.543822,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q76305618",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7749762",
@@ -4779,20 +6898,27 @@
     "lat": 14.980555555,
     "lng": 102.076666666,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Mall_Lifestore_Korat",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7749762",
     "image_url": "TheMallNakhonRatchasima.jpg",
+    "website": "http://www.themall.co.th",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q840546",
@@ -4801,20 +6927,55 @@
     "lat": 13.75541,
     "lng": 100.62213,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技",
+      "自動車競技"
+    ],
     "capacity": 65000,
     "opened_year": 1988,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカータイ王国代表",
+        "url": "https://fathailand.org"
+      }
+    ],
+    "leagues": [],
+    "events": [
+      {
+        "name": "1998年アジア競技大会",
+        "year": 1998
+      },
+      {
+        "name": "15th Anniversary Made in Thailand Concert",
+        "year": 1999
+      },
+      {
+        "name": "2000 Thailand National Games",
+        "year": 2000
+      },
+      {
+        "name": "2004 FIFA U-19女子世界選手権",
+        "year": 2004
+      },
+      {
+        "name": "AFCアジアカップ2007",
+        "year": 2007
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%A9%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q840546",
     "image_url": "Rajamangala Stadium in Bangkok.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q840852",
@@ -4827,16 +6988,31 @@
     "capacity": 20000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "チュラ・ユナイテッドFC",
+        "url": "http://bbcu.mthai.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 1",
+        "name_ja": "タイ・リーグ1"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chulalongkorn_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q840852",
     "image_url": "Chulalongkorn Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q844585",
@@ -4849,16 +7025,21 @@
     "capacity": null,
     "opened_year": 1955,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defence_College_of_Thailand",
     "wikidata_url": "https://www.wikidata.org/wiki/Q844585",
     "image_url": null,
+    "website": "http://www.thaindc.org/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q931405",
@@ -4867,19 +7048,26 @@
     "lat": 12.92448,
     "lng": 100.862507,
     "country": "TH",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q931405",
     "image_url": "PEACH NewEntrance.jpg",
+    "website": "http://www.peachthailand.com/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q946100",
@@ -4892,16 +7080,39 @@
     "capacity": 15000,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "プーケットFC",
+        "url": null
+      },
+      {
+        "name": "Phuket Andaman F.C.",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      },
+      {
+        "name": "Thai League 3",
+        "name_ja": "タイ・リーグ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q946100",
     "image_url": "ASEAN Cup 2008.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q958277",
@@ -4914,16 +7125,31 @@
     "capacity": 10320,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "バンコク・ユナイテッドFC",
+        "url": "https://www.truebangkokunitedfc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Thai League 2",
+        "name_ja": "タイ・リーグ2"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q958277",
     "image_url": "Thai-Japanese Stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q98561183",
@@ -4936,15 +7162,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Blue_Canyon_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q98561183",
     "image_url": null,
+    "website": "https://www.bluecanyonphuket.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

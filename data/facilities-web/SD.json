@@ -10,17 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q140359670",
     "image_url": "نواقل (cropped Shikan Castle Stadium).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1475729",
@@ -33,6 +36,7 @@
     "capacity": 30000,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -40,16 +44,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Sudani Premier League",
+        "name_ja": "スーダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khartoum_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1475729",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2119276",
@@ -62,6 +73,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -69,16 +81,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Sudani Premier League",
+        "name_ja": "スーダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wad_Madani_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2119276",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2326163",
@@ -87,22 +106,27 @@
     "lat": 19.61778889,
     "lng": 37.2119,
     "country": "SD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Port_Sudan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2326163",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2829383",
@@ -111,10 +135,13 @@
     "lat": 15.641278,
     "lng": 32.471556,
     "country": "SD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 43000,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -122,16 +149,23 @@
         "url": "http://www.almerrikh.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Sudani Premier League",
+        "name_ja": "スーダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Merrikh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2829383",
     "image_url": "Al-Marekh Stadium Omdurman Sudan 1964 Designed by Abdel-Moneim Mustafa 8.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q287268",
@@ -140,10 +174,13 @@
     "lat": 15.64722222,
     "lng": 32.475,
     "country": "SD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -151,16 +188,23 @@
         "url": "http://www.hilalalsudan.net"
       }
     ],
+    "leagues": [
+      {
+        "name": "Sudani Premier League",
+        "name_ja": "スーダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hilal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q287268",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30335929",
@@ -173,17 +217,20 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30335929",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596081",
@@ -196,18 +243,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Atbara_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596081",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596232",
@@ -220,17 +270,20 @@
     "capacity": 14000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dar_Alryada",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596232",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

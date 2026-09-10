@@ -10,6 +10,7 @@
     "capacity": 12000,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,39 +18,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q11318928",
     "image_url": "Tishreen stad Damascus.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q12191841",
-    "name": "Q12191841",
-    "name_ja": null,
-    "lat": 34.7380056,
-    "lng": 36.6773701,
-    "country": "SY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1919,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q12191841",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12244940",
@@ -62,18 +47,21 @@
     "capacity": 25000,
     "opened_year": 2000,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Homs_Baba_Amr_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12244940",
     "image_url": "Bassel Assad Stadium, Baba Amr, Homs, 8 May 2014.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q128801753",
@@ -86,17 +74,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q128801753",
     "image_url": "Aqua Fresca 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15178808",
@@ -109,18 +100,21 @@
     "capacity": 3500,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shaba_Sports_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15178808",
     "image_url": "Al-Assad hall Aleppo.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15178825",
@@ -133,18 +127,21 @@
     "capacity": 8000,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Sports_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15178825",
     "image_url": "Hamadania arena.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15196987",
@@ -157,18 +154,21 @@
     "capacity": 1100,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Anatolia_Swimming_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15196987",
     "image_url": "Basel inter pool.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15241809",
@@ -181,18 +181,21 @@
     "capacity": 45000,
     "opened_year": 1987,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Latakia_Sports_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15241809",
     "image_url": "Latakia Sports City Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17510901",
@@ -205,18 +208,21 @@
     "capacity": null,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Tennis_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17510901",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17511307",
@@ -229,18 +235,21 @@
     "capacity": null,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Muhafaza_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17511307",
     "image_url": "Al-Mohafaza stadium3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18204942",
@@ -253,18 +262,21 @@
     "capacity": null,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Olympic_Swimming_and_Diving_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18204942",
     "image_url": "Hamdaniye pool.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18208833",
@@ -277,18 +289,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Ittihad_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18208833",
     "image_url": "Ittihad SC Aleppo stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18209874",
@@ -301,18 +316,21 @@
     "capacity": null,
     "opened_year": 1965,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ri'ayet_al-Shabab_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18209874",
     "image_url": "Riayet al-Shabab stadium, Aleppo, Syria. 31.01.2016.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18346240",
@@ -321,10 +339,13 @@
     "lat": 37.0478,
     "lng": 41.2206,
     "country": "SY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -332,16 +353,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/7_April_Stadium_(Qamishli)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18346240",
     "image_url": "Qamishli Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18394534",
@@ -354,18 +377,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tishreen_Stadium_(al-Hasakah)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18394534",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q306006",
@@ -374,10 +400,13 @@
     "lat": 33.52286,
     "lng": 36.32004,
     "country": "SY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -397,16 +426,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%90%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q306006",
     "image_url": "Destroyed Abbasiyyin Stadium 2.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3110888",
@@ -415,10 +451,13 @@
     "lat": 34.729861,
     "lng": 36.697917,
     "country": "SY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 32000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -426,16 +465,23 @@
         "url": "http://www.alkarameh.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%AA%E3%83%89%E3%83%BB%E3%82%A4%E3%83%96%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%AF%E3%83%AA%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3110888",
     "image_url": "AL Karama stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3271434",
@@ -448,6 +494,7 @@
     "capacity": 18000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -455,16 +502,18 @@
         "url": "http://footballsyria.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%9E%E3%83%80%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3271434",
     "image_url": "Al-Hamadaniya stad Aleppo1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4117069",
@@ -477,18 +526,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Latakia_Sports_City",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4117069",
     "image_url": "Latakia Sports City.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4117973",
@@ -497,10 +549,13 @@
     "lat": 35.52766,
     "lng": 35.785335,
     "country": "SY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 28000,
     "opened_year": 1978,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -508,16 +563,23 @@
         "url": "http://www.hutteensc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Latakia_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4117973",
     "image_url": "Municipal stadium latakia 2009-05-23.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119334",
@@ -530,18 +592,21 @@
     "capacity": 10000,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Jalaa_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119334",
     "image_url": "Jalaa stad.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702254",
@@ -554,6 +619,7 @@
     "capacity": 10000,
     "opened_year": 1990,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -561,16 +627,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jableh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702254",
     "image_url": "Jableh stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702278",
@@ -583,6 +656,7 @@
     "capacity": 25000,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -590,16 +664,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hasakah_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702278",
     "image_url": "Basel al-Assad stadium, al-Hasakah.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702394",
@@ -612,6 +693,7 @@
     "capacity": 12000,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -619,16 +701,18 @@
         "url": "http://www.baradaclub.net/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Fayhaa_Stadium_(Damascus)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702394",
     "image_url": "Al-Fayhaa Stadium in Damascus, Syria as seen from Mount Qasioun.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4716186",
@@ -637,10 +721,13 @@
     "lat": 36.200833,
     "lng": 37.135556,
     "country": "SY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": 1948,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -648,16 +735,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/7_April_Stadium_(Aleppo)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4716186",
     "image_url": "7 April stadium Aleppo (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5252537",
@@ -670,6 +759,7 @@
     "capacity": 17000,
     "opened_year": 1960,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -677,16 +767,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Deir_ez-Zor_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5252537",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5643915",
@@ -699,6 +796,7 @@
     "capacity": 20000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -706,16 +804,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hama_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5643915",
     "image_url": "Hama Municipal Stadium, 19 May 2017.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5891872",
@@ -728,8 +833,10 @@
     "capacity": null,
     "opened_year": 1933,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2023 Homs drone strike",
@@ -740,80 +847,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q5891872",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q60572532",
-    "name": "Q60572532",
-    "name_ja": null,
-    "lat": 34.890518031,
-    "lng": 35.897078742,
-    "country": "SY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q60572532",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q60575881",
-    "name": "Q60575881",
-    "name_ja": null,
-    "lat": 32.718913143,
-    "lng": 36.566548413,
-    "country": "SY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q60575881",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q60575885",
-    "name": "Q60575885",
-    "name_ja": null,
-    "lat": 34.897504534,
-    "lng": 35.882412323,
-    "country": "SY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q60575885",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61043443",
@@ -822,45 +861,27 @@
     "lat": 35.937222222,
     "lng": 36.624166666,
     "country": "SY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Idlib_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61043443",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q6737131",
-    "name": "Q6737131",
-    "name_ja": null,
-    "lat": 35.956940437,
-    "lng": 39.005895757,
-    "country": "SY",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q6737131",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q734097",
@@ -869,10 +890,13 @@
     "lat": 36.185,
     "lng": 37.117778,
     "country": "SY",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 75000,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -880,15 +904,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Syrian Premier League",
+        "name_ja": "シリア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%83%9D%E5%9B%BD%E9%9A%9B%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q734097",
     "image_url": "Aleppo International Stadium, day view, 2009 (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

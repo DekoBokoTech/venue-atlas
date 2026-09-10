@@ -10,17 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115193676",
     "image_url": null,
     "website": "https://chisinauarena.md/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123663199",
@@ -29,22 +32,27 @@
     "lat": 47.07637,
     "lng": 28.18005,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nisporeni_Central_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123663199",
     "image_url": "Nisporeni stadium 3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123806004",
@@ -57,18 +65,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Mumjiev_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123806004",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12724484",
@@ -77,10 +88,13 @@
     "lat": 47.3744,
     "lng": 28.8192,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2539,
     "opened_year": 1980,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -88,16 +102,23 @@
         "url": "http://www.milsami.md"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CSR_Orhei",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12724484",
     "image_url": "CSR Orhei.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14629939",
@@ -110,6 +131,7 @@
     "capacity": 1000,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -117,16 +139,18 @@
         "url": "http://www.academia.md"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_CPSM",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14629939",
     "image_url": "Stadion CPSN.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1509390",
@@ -135,10 +159,13 @@
     "lat": 46.838333,
     "lng": 29.5575,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 14300,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -146,16 +173,23 @@
         "url": "http://www.fc-sheriff.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B4%E3%83%8C%E3%82%A3%E3%82%A4%E3%83%BB%E3%82%B3%E3%83%A0%E3%83%97%E3%83%AC%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%95",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1509390",
     "image_url": "Tiraspol Sheriff Stadion.JPG",
     "website": "http://sheriff-sport.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15156081",
@@ -164,10 +198,13 @@
     "lat": 46.838333,
     "lng": 29.5575,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 13300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -175,15 +212,22 @@
         "url": "http://www.fc-sheriff.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15156081",
     "image_url": "Sheriff Stadium 01.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15910037",
@@ -196,6 +240,7 @@
     "capacity": 1500,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -203,15 +248,17 @@
         "url": "http://www.fcrapid.md/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15910037",
     "image_url": "Rapid Ghidighici Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1635077",
@@ -220,10 +267,13 @@
     "lat": 47.766213,
     "lng": 27.933197,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5953,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -231,44 +281,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Municipal_(B%C4%83l%C8%9Bi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1635077",
     "image_url": "St. Olimpia din Bălți CN.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16605745",
-    "name": "Q16605745",
-    "name_ja": null,
-    "lat": 47.2128,
-    "lng": 27.8,
-    "country": "MD",
-    "sport_types": [],
-    "capacity": 3500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "FCMウンゲニ",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16605745",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632636",
@@ -281,6 +310,7 @@
     "capacity": 1300,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -288,16 +318,23 @@
         "url": "http://dinamo-auto.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan Liga 1",
+        "name_ja": "モルドバ・リーガ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo-Auto_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632636",
     "image_url": "Dinamo-Auto Stadium.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17488119",
@@ -310,6 +347,7 @@
     "capacity": null,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -317,16 +355,23 @@
         "url": "https://fc-saxan.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan Liga 1",
+        "name_ja": "モルドバ・リーガ1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cead%C3%AEr-Lunga_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17488119",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20430863",
@@ -335,22 +380,27 @@
     "lat": 47.0476,
     "lng": 28.7825,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ArtSport_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20430863",
     "image_url": "Joma arena.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20430978",
@@ -363,18 +413,21 @@
     "capacity": null,
     "opened_year": 1993,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Manej_Sport_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20430978",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22073464",
@@ -387,17 +440,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q22073464",
     "image_url": "Stadion CF Sparta.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2375221",
@@ -406,10 +462,13 @@
     "lat": 47.0125,
     "lng": 28.83944,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8084,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -425,16 +484,23 @@
         "url": "https://www.fmf.md/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Republican_Stadium_(Chi%C8%99in%C4%83u)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2375221",
     "image_url": "...до основания, а затем... - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q239295",
@@ -443,10 +509,13 @@
     "lat": 46.980278,
     "lng": 28.866944,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10400,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -454,16 +523,23 @@
         "url": "https://zimbru.md/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%8C%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%B3%E3%83%96%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q239295",
     "image_url": "Zimbru Stadium in 26 April 2025.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2455782",
@@ -476,6 +552,7 @@
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -483,15 +560,17 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2455782",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25059691",
@@ -504,6 +583,7 @@
     "capacity": null,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -511,16 +591,23 @@
         "url": "https://petrocub.md/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%AEnce%C8%99ti_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25059691",
     "image_url": "Hîncești stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25059696",
@@ -533,6 +620,7 @@
     "capacity": null,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -540,16 +628,18 @@
         "url": "http://fcsperanta.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Mircea_Eliade",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25059696",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495802",
@@ -558,10 +648,13 @@
     "lat": 47.7745613,
     "lng": 29.0043086,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -569,16 +662,23 @@
         "url": "http://iskra-stal.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan \"B\" Division",
+        "name_ja": "モルドバ・リーガ2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadionul_Or%C4%83%C8%99enesc_(R%C3%AEbni%C8%9Ba)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495802",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495883",
@@ -587,10 +687,13 @@
     "lat": 46.9844,
     "lng": 28.667,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1500,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -598,16 +701,18 @@
         "url": "http://fcsg.md"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suruceni_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495883",
     "image_url": "Suruceni Stadium 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3543956",
@@ -616,10 +721,13 @@
     "lat": 47.026665,
     "lng": 28.8191128,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 2888,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -627,39 +735,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium_(Chi%C8%99in%C4%83u)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3543956",
     "image_url": "Dinamo Stadium in Chisinau.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q4257190",
-    "name": "Q4257190",
-    "name_ja": null,
-    "lat": 46.8407,
-    "lng": 29.6363,
-    "country": "MD",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q4257190",
-    "image_url": "Ледовый каток в Тирасполе (2024).jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5202877",
@@ -672,6 +764,7 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -679,16 +772,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/C%C4%83l%C4%83r%C4%83%C8%99euca_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5202877",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5277930",
@@ -701,18 +796,21 @@
     "capacity": null,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium_(Bender)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5277930",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65217626",
@@ -725,18 +823,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_the_Republic%2C_Chi%C8%99in%C4%83u",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65217626",
     "image_url": "Дворец Республики, Кишинев, Молдова Palatul Republicii, Chisinau, Moldova Palace of Republic, Chisinau, Moldova (49422207273).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6741565",
@@ -745,10 +846,13 @@
     "lat": 46.8404,
     "lng": 29.5579,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -756,16 +860,23 @@
         "url": "http://www.fc-sheriff.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Moldovan National Division",
+        "name_ja": "ディヴィジア・ナツィオナラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Malaya_Sportivnaya_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6741565",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596418",
@@ -774,10 +885,13 @@
     "lat": 46.9133,
     "lng": 26.92980469,
     "country": "MD",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -785,16 +899,18 @@
         "url": "http://www.fcdacia.md"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Moldova_Stadium_(Speia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596418",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596431",
@@ -807,17 +923,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tiraspol_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596431",
     "image_url": "Gor stad Tiraspol.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

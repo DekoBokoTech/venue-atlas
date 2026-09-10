@@ -10,15 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10267760",
     "image_url": "Lisboa do alto - 1 (497073532).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10268719",
@@ -31,37 +36,43 @@
     "capacity": 2179,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポルト",
+        "url": "http://www.fcporto.pt/pt/modalidades/basquetebol/Pages/basquetebol.aspx"
+      },
+      {
+        "name": "FC Porto (handball)",
+        "url": "http://www.fcporto.pt/en/modalidades/andebol/Pages/andebol.aspx"
+      },
+      {
+        "name": "FC Porto (roller hockey)",
+        "url": "http://www.fcporto.pt/en/modalidades/hoquei-em-patins/Pages/hoquei-em-patins.aspx"
+      },
+      {
+        "name": "FC Porto (volleyball)",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Andebol",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Drag%C3%A3o_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10268719",
     "image_url": "Pavilhão Dragão Caixa 2018.jpg",
+    "website": "https://www.fcporto.pt/en/club/facilities/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q10274553",
-    "name": "Q10274553",
-    "name_ja": null,
-    "lat": 38.74977,
-    "lng": -9.26675,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q10274553",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10276759",
@@ -70,19 +81,36 @@
     "lat": 38.75425,
     "lng": -8.95499,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "GD Alcochetense",
+        "url": "https://www.alcochetense.pt/pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10276759",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10276876",
@@ -91,20 +119,27 @@
     "lat": 38.663158333,
     "lng": -9.0752,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10500,
     "opened_year": 1952,
-    "closed_year": null,
+    "closed_year": 2008,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Dr._Manuel_de_Mello",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10276876",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10276896",
@@ -113,19 +148,26 @@
     "lat": 41.356,
     "lng": -8.190722222,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7540,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10276896",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277195",
@@ -134,19 +176,27 @@
     "lat": 39.4881,
     "lng": -8.54444,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 11500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277195",
     "image_url": "Different view of Estádio Municipal Doutor Alves Vieira.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277320",
@@ -155,19 +205,27 @@
     "lat": 39.603509016,
     "lng": -8.66327242,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 1545,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277320",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277485",
@@ -176,19 +234,40 @@
     "lat": 38.448088888,
     "lng": -9.100397222,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2850,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "GDセジンブラ",
+        "url": "http://www.gdsesimbra.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      },
+      {
+        "name": "Portuguese Roller Hockey 3rd Division",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277485",
     "image_url": "Estádio Vila Amália 01052021 4.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10277537",
@@ -201,37 +280,31 @@
     "capacity": 2500,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFウニオン・マデイラ",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Centro_Desportivo_da_Madeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10277537",
     "image_url": "Complexo Desportivo da Ribeira Brava.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q10278286",
-    "name": "Q10278286",
-    "name_ja": null,
-    "lat": 41.266777777,
-    "lng": -8.294083333,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q10278286",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10302837",
@@ -244,16 +317,21 @@
     "capacity": null,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_Joint_Command_and_Staff_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10302837",
     "image_url": null,
+    "website": "https://www.ium.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313919",
@@ -266,15 +344,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313919",
     "image_url": "Kartodromo AMF VilaReal.PNG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313929",
@@ -287,15 +370,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313929",
     "image_url": "Kartodromo-Baltar.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313933",
@@ -308,15 +396,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313933",
     "image_url": "Kartódromo de Fafe (3).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10313937",
@@ -329,15 +422,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10313937",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1031484",
@@ -346,20 +444,37 @@
     "lat": 32.649333333,
     "lng": -16.900361111,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFウニオン・マデイラ",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_Adelino_Rodrigues",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1031484",
     "image_url": "Campo Adelino Rodrigues.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10317955",
@@ -368,19 +483,26 @@
     "lat": 38.71659,
     "lng": -9.158899,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10317955",
     "image_url": "Escola Secundária Pedro Nunes 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1032105",
@@ -389,41 +511,32 @@
     "lat": 40.6475,
     "lng": -8.593611,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 32830,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCベイラ・マル",
+        "url": "http://www.beiramar.pt"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A0%E3%83%8B%E3%82%B7%E3%83%91%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%AD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1032105",
     "image_url": "Porto Portugal February 2015 09.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q10326419",
-    "name": "Q10326419",
-    "name_ja": null,
-    "lat": 41.18643887,
-    "lng": -8.706520469,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q10326419",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10332119",
@@ -436,15 +549,20 @@
     "capacity": 13179,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10332119",
     "image_url": "Praça de Touros de Santarém em 2023.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10345489",
@@ -457,36 +575,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10345489",
     "image_url": "Forum Braga (14).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q10345500",
-    "name": "Q10345500",
-    "name_ja": null,
-    "lat": 38.71970807,
-    "lng": -9.186438125,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q10345500",
-    "image_url": "ParqueAlvito.JPG",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10346944",
@@ -499,16 +601,21 @@
     "capacity": 2500,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Desportivo_Municipal_da_P%C3%B3voa_de_Varzim",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10346944",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10346950",
@@ -521,16 +628,21 @@
     "capacity": null,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Super_Bock_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10346950",
     "image_url": "Palaciodecristalporto.jpg",
+    "website": "http://www.superbockarena.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10346951",
@@ -543,15 +655,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10346951",
     "image_url": "Pavilhão das Goladas in 2016.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10350073",
@@ -564,15 +681,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10350073",
     "image_url": "Madeira - Porto Moniz - 03 - Piscinas naturales.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353462",
@@ -585,15 +707,20 @@
     "capacity": null,
     "opened_year": 1919,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353462",
     "image_url": "Chamusca Praça de Touros 686.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353464",
@@ -606,15 +733,20 @@
     "capacity": 6000,
     "opened_year": 1850,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353464",
     "image_url": "Praça de touros em Abiul.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353465",
@@ -627,15 +759,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353465",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353467",
@@ -648,15 +785,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353467",
     "image_url": "Aerial photograph of Praça de Touros de Viana do Castelo 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10353469",
@@ -669,15 +811,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q10353469",
     "image_url": "Praça de Touros das Caldas da Rainha em 2022.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10356314",
@@ -686,20 +833,27 @@
     "lat": 38.76627,
     "lng": -9.37134,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Quinta_da_Beloura",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10356314",
     "image_url": "Estatua na Entrada Norte.jpeg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1056864",
@@ -708,20 +862,38 @@
     "lat": 39.748611111,
     "lng": -8.813055555,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 23888,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "UDレイリア",
+        "url": "https://www.uniaodeleiria.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BBDr.%E3%83%9E%E3%82%AC%E3%83%AA%E3%83%A3%E3%83%B3%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9A%E3%83%83%E3%82%BD%E3%82%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1056864",
     "image_url": "Estádio Municipal de Leiria.jpg",
+    "website": "https://www.cm-leiria.pt/areas-de-atividade/desporto/estadio-municipal-dr-magalhaes-pessoa",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1057274",
@@ -730,20 +902,49 @@
     "lat": 41.445833333,
     "lng": -8.300972222,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30029,
     "opened_year": 1965,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ヴィトーリアSC",
+        "url": "https://www.vitoriasc.pt/"
+      },
+      {
+        "name": "Vitória S.C. B",
+        "url": "https://vitoriasc.pt/equipa-b/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      },
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      },
+      {
+        "name": "Liga 3",
+        "name_ja": "リーガ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BBD._%E3%82%A2%E3%83%95%E3%82%A9%E3%83%B3%E3%82%BD%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%AA%E3%82%B1%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1057274",
     "image_url": "Estádio do Vitória de Guimarães visto da torre central do Castelo de Guimarães 03.JPG",
+    "website": "https://vitoriasc.pt/patrimonio/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1058494",
@@ -752,20 +953,37 @@
     "lat": 41.162222222,
     "lng": -8.642777777,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 28263,
     "opened_year": 1910,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ボアヴィスタFC",
+        "url": "https://boavistafc.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Porto Football Association",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%89%E3%83%BB%E3%83%99%E3%83%83%E3%82%B5",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1058494",
     "image_url": "Estádio do Bessa XXI.jpg",
+    "website": "https://archive.ph/20070606202558/http://www.boavistafc.pt/estadio.php?id=1",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q106345886",
@@ -778,16 +996,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_dos_Barreiros",
     "wikidata_url": "https://www.wikidata.org/wiki/Q106345886",
     "image_url": null,
+    "website": "https://www.csmaritimo.org.pt/tag/pavilhao-dos-barreiros/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1067308",
@@ -796,20 +1019,38 @@
     "lat": 40.203333333,
     "lng": -8.407777777,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 29622,
     "opened_year": 1949,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アカデミカ・コインブラ",
+        "url": "http://www.academica-oaf.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B7%E3%83%80%E3%83%BC%E3%83%87%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%96%E3%83%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1067308",
     "image_url": "Coimbra City Stadium.jpg",
+    "website": "https://www.academica-oaf.pt/instalacoes/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107104537",
@@ -822,15 +1063,20 @@
     "capacity": null,
     "opened_year": 1750,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107104537",
     "image_url": "Picadeiro Real, Museu Nacional dos Coches.tif",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107429898",
@@ -839,19 +1085,26 @@
     "lat": 38.478467974,
     "lng": -8.889428491,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107429898",
     "image_url": null,
+    "website": "https://www.troiaresort.pt/troia-golf/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107717915",
@@ -864,15 +1117,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107717915",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107718340",
@@ -885,57 +1143,25 @@
     "capacity": 1246,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [
+      {
+        "name": "解体",
+        "year": null
+      }
+    ],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107718340",
     "image_url": "Cine-Teatro de Ovar.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q107718409",
-    "name": "Q107718409",
-    "name_ja": null,
-    "lat": 36.999031863,
-    "lng": -8.948783909,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q107718409",
-    "image_url": "Fortaleza de Sagres - Portugal (48906248357).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q109045009",
-    "name": "Q109045009",
-    "name_ja": null,
-    "lat": 38.76979,
-    "lng": -9.18685,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109045009",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109287328",
@@ -948,15 +1174,20 @@
     "capacity": null,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109287328",
     "image_url": "Marina do Parque das Nações, Lisboa 01.jpg",
+    "website": "https://marinaparquedasnacoes.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109408147",
@@ -965,19 +1196,48 @@
     "lat": 38.446916666,
     "lng": -9.100305555,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ローラーホッケー",
+      "バレーボール",
+      "体操",
+      "合気道",
+      "空手",
+      "柔道",
+      "バドミントン",
+      "カポエイラ",
+      "ウエイトトレーニング"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "GDセジンブラ",
+        "url": "http://www.gdsesimbra.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      },
+      {
+        "name": "Portuguese Roller Hockey 3rd Division",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109408147",
     "image_url": "Pavilhão Gimnodesportivo de Sesimbra (24jan2021).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109408396",
@@ -986,19 +1246,45 @@
     "lat": 38.44725,
     "lng": -9.100222222,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "競泳",
+      "バレーボール"
+    ],
     "capacity": null,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "GDセジンブラ",
+        "url": "http://www.gdsesimbra.pt/"
+      },
+      {
+        "name": "セジンブラ",
+        "url": "https://www.sesimbra.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      },
+      {
+        "name": "Portuguese Roller Hockey 3rd Division",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109408396",
     "image_url": null,
+    "website": "https://www.sesimbra.pt/pages/902",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110594449",
@@ -1011,37 +1297,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pista_Autom%C3%B3vel_de_Montalegre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110594449",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
-  },
-  {
-    "id": "Q110601709",
-    "name": "Q110601709",
-    "name_ja": null,
-    "lat": 39.541222222,
-    "lng": -8.007,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q110601709",
-    "image_url": "Pista de Rallycross de Mação - track layout.png",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1108805",
@@ -1054,16 +1324,21 @@
     "capacity": 4300,
     "opened_year": 1890,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseu_dos_Recreios",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1108805",
     "image_url": "Lisboa - Panorama - 06 - Vista desde el Jardín de San Pedro de Alcántara (cropped) Coliseu.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110909514",
@@ -1076,15 +1351,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110909514",
     "image_url": "Praça de Touros da Azambuja 03.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111889736",
@@ -1093,19 +1373,26 @@
     "lat": 32.64367,
     "lng": -16.92517,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": null,
     "opened_year": 1931,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q111889736",
     "image_url": "Van de Polls vrouw Nell Langlais in een tuin op Madeira, Bestanddeelnr 190-0171.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1121591",
@@ -1118,15 +1405,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1121591",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113800022",
@@ -1139,15 +1431,20 @@
     "capacity": null,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113800022",
     "image_url": "Praça de Toiros da Ilha Terceira Angra do Heroísmo 03.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115196367",
@@ -1160,15 +1457,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115196367",
     "image_url": "Inscrição de Estádio Municipal de Ansião.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115288648",
@@ -1181,15 +1483,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115288648",
     "image_url": "Vista para bancadas do Parque das Faianças ou Quinta da Boneca.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116113161",
@@ -1202,16 +1509,21 @@
     "capacity": 2574,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%94%E3%83%8A%E3%83%BB%E3%83%9E%E3%83%8B%E3%82%B1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q116113161",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T07:26:57.663Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116694933",
@@ -1224,15 +1536,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116694933",
     "image_url": "Portugal Azores Terceira island (542979851).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116695571",
@@ -1245,15 +1562,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116695571",
     "image_url": "Horta - haven.jpg",
+    "website": "https://portosdosacores.pt/marinas/marina-da-horta/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1167583",
@@ -1262,41 +1584,37 @@
     "lat": 41.551111111,
     "lng": -8.622777777,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12046,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ジル・ヴィセンテFC",
+        "url": "http://www.gilvicentefc.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B7%E3%83%80%E3%83%BC%E3%83%87%E3%83%BB%E3%83%87%E3%83%BB%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1167583",
     "image_url": "Estádio Cidade de Barcelos.jpg",
+    "website": "https://www.cm-barcelos.pt/viver/desporto/estadio-cidade-de-barcelos/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q116766834",
-    "name": "Q116766834",
-    "name_ja": null,
-    "lat": 38.6460753,
-    "lng": -7.550423238,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q116766834",
-    "image_url": "Coliseu de Redondo 02.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q11813268",
@@ -1309,99 +1627,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q11813268",
     "image_url": "Doca do Cavacas - Funchal 01.jpg",
+    "website": "https://bathingwaters.eu/madeira/madeira/funchal/ptmf2c",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q120756677",
-    "name": "Q120756677",
-    "name_ja": null,
-    "lat": 38.874556,
-    "lng": -7.185333,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q120756677",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q122188133",
-    "name": "Q122188133",
-    "name_ja": null,
-    "lat": 39.607460021,
-    "lng": -8.411162376,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q122188133",
-    "image_url": "Acesso à Piscina Municipal Vasco Jacob em Tomar.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q122759582",
-    "name": "Q122759582",
-    "name_ja": null,
-    "lat": 39.413384,
-    "lng": -7.346842,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q122759582",
-    "image_url": "Praça de Touros de Santo António das Areias - Portugal (49776326498).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q123163782",
-    "name": "Q123163782",
-    "name_ja": null,
-    "lat": 41.095457351,
-    "lng": -7.812921431,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q123163782",
-    "image_url": "Centro Multiusos de Lamego - Portugal (49167950926).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123536703",
@@ -1414,15 +1653,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123536703",
     "image_url": "Docas (2231587104).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1272724",
@@ -1431,41 +1675,37 @@
     "lat": 32.645561,
     "lng": -16.928331,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10600,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSマリティモ",
+        "url": "https://www.csmaritimo.org.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1272724",
     "image_url": "EstádiodosBarreirosCentral.jpg",
+    "website": "https://www.csmaritimo.org.pt/instituicao/contactos-2/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q129032169",
-    "name": "Q129032169",
-    "name_ja": null,
-    "lat": 39.462371,
-    "lng": -8.436605,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1853,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q129032169",
-    "image_url": "Praça de Touros de Vila Nova da Barquinha 06.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1293399",
@@ -1474,41 +1714,37 @@
     "lat": 41.40127778,
     "lng": -8.52242222,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5186,
     "opened_year": 1952,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCファマリカン",
+        "url": "https://www.fcfamalicao.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_22_de_Junho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1293399",
     "image_url": "Blick von der Gegentribüne - Estádio Municipal 22 de Junho.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q130211826",
-    "name": "Q130211826",
-    "name_ja": null,
-    "lat": 38.823713502,
-    "lng": -9.467088801,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q130211826",
-    "image_url": "Piscinas Oceânicas da Praia das Maçãs, Colares, Sintra 01.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130742797",
@@ -1521,15 +1757,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130742797",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1308776",
@@ -1538,20 +1779,37 @@
     "lat": 37.135694,
     "lng": -8.539833,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4961,
     "opened_year": 1937,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ポルティモネンセSC",
+        "url": "https://www.portimonense.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Portim%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1308776",
     "image_url": "Estádio Municipal de Portimão.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131019705",
@@ -1564,15 +1822,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131019705",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131762236",
@@ -1581,20 +1844,34 @@
     "lat": 38.708247596,
     "lng": -9.266396626,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "フットサル",
+      "ビーチサッカー"
+    ],
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ポルトガルサッカー連盟",
+        "url": "https://www.fpf.pt/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cidade_do_Futebol",
     "wikidata_url": "https://www.wikidata.org/wiki/Q131762236",
     "image_url": "Cidade do Futebol FPF Algés 06.jpg",
+    "website": "https://www.fpf.pt/Fotos-e-v%C3%ADdeos/tags/Cidade%20do%20Futebol",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1327324",
@@ -1603,20 +1880,33 @@
     "lat": 38.708806,
     "lng": -9.260833,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 37593,
     "opened_year": 1944,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "サッカーポルトガル代表",
+        "url": "https://www.fpf.pt/pt/selecoes/futebol-masculino/selecao-a"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%8A%E3%82%B7%E3%82%AA%E3%83%8A%E3%83%AB_(%E3%83%AA%E3%82%B9%E3%83%9C%E3%83%B3)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1327324",
     "image_url": "StadionJamor.JPG",
+    "website": "https://jamor.ipdj.pt/index.php?s=white&pid=7&lang=pt",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133805483",
@@ -1629,15 +1919,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133805483",
     "image_url": "Flickr - ronsaunders47 - EXPENSIVE REFLECTIONS. 1. VILAMOURA ALGARVE. PORTUGAL..jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133805515",
@@ -1650,15 +1945,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133805515",
     "image_url": "Marina de Albufeira - Portugal 🇵🇹 (53773450456).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1343518",
@@ -1667,20 +1967,38 @@
     "lat": 39.736977,
     "lng": -8.931459,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 5200,
     "opened_year": 1992,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "A.C. Marinhense",
+        "url": "http://www.acmarinhense.pt"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_da_Marinha_Grande",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1343518",
     "image_url": "Marinha Grande stadium.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136001729",
@@ -1689,19 +2007,26 @@
     "lat": 38.898811,
     "lng": -9.036763,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136001729",
     "image_url": null,
+    "website": "https://fcalvercafutebolsad.pt/venue/alverca/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136111570",
@@ -1714,15 +2039,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136111570",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369675",
@@ -1731,20 +2061,38 @@
     "lat": 40.65944444,
     "lng": -7.90083333,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 6912,
     "opened_year": 1928,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アカデミコ・デ・ヴィゼウFC",
+        "url": "http://academicodeviseufc.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Fontelo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369675",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370636",
@@ -1753,19 +2101,26 @@
     "lat": 38.6575,
     "lng": -9.053611111,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 21498,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370636",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370647",
@@ -1774,20 +2129,37 @@
     "lat": 38.716,
     "lng": -9.406,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5094,
     "opened_year": 1939,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "GDエストリル・プライア",
+        "url": "https://estorilpraia.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BB%E3%83%80%E3%83%BB%E3%83%A2%E3%82%BF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370647",
     "image_url": "20011019 CD Estoril Praia (2).JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370681",
@@ -1796,20 +2168,37 @@
     "lat": 37.029128,
     "lng": -7.848483,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5661,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCオリャネンセ",
+        "url": "https://scolhanense.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Algarve Football Association",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Arcanjo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370681",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370693",
@@ -1818,20 +2207,37 @@
     "lat": 40.926689,
     "lng": -8.545814,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5401,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDフェイレンセ",
+        "url": "http://www.cdfeirense.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Marcolino_de_Castro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370693",
     "image_url": "Estádio Marcolino de Castro.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370699",
@@ -1844,15 +2250,20 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370699",
     "image_url": "Estádio Municipal da Lourinhã.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370706",
@@ -1861,20 +2272,37 @@
     "lat": 40.92833333,
     "lng": -8.24861111,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5600,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCアロウカ",
+        "url": "https://fcarouca.eu/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A0%E3%83%8B%E3%82%B7%E3%83%91%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%83%AD%E3%82%A6%E3%82%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370706",
     "image_url": "Estádio Municipal de Arouca.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370708",
@@ -1883,20 +2311,38 @@
     "lat": 40.162675,
     "lng": -8.859369,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 9000,
     "opened_year": 1953,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アソシアサン・ナヴァル・プリメイロ・デ・マイオ",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Jos%C3%A9_Bento_Pessoa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370708",
     "image_url": "Estádio Municipal José Bento Pessoa 04.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370763",
@@ -1905,20 +2351,37 @@
     "lat": 41.271388888,
     "lng": -8.385277777,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9076,
     "opened_year": 1973,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCパソス・デ・フェレイラ",
+        "url": "http://www.fcpf.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%80%E3%83%BB%E3%83%9E%E3%82%BF%E3%83%BB%E3%83%AC%E3%82%A2%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370763",
     "image_url": "Mata Real.jpg",
+    "website": "https://www.fcpf.pt/estadio/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370765",
@@ -1927,20 +2390,37 @@
     "lat": 32.670625,
     "lng": -16.883525,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5200,
     "opened_year": 1999,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDナシオナル",
+        "url": "http://www.cdnacional.pt"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Madeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370765",
     "image_url": "Estádio Eng. Rui Alves 1.jpg",
+    "website": "https://www.cdnacional.pt/estadio-da-madeira/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370770",
@@ -1953,16 +2433,31 @@
     "capacity": 4000,
     "opened_year": 1926,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アトレチコCP",
+        "url": "https://www.atleticocp.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga 3",
+        "name_ja": "リーガ3"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Tapadinha",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370770",
     "image_url": "Estadio-da-tapadinha 001.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370781",
@@ -1971,41 +2466,37 @@
     "lat": 38.53138889,
     "lng": -8.89111111,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15497,
     "opened_year": 1962,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ヴィトーリアFC",
+        "url": "https://vfc.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Portuguese District Football Associations",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Bonfim",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370781",
     "image_url": "Estádio do Bonfim.png",
+    "website": "https://vfc.pt/clube/bonfim/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q1370783",
-    "name": "Q1370783",
-    "name_ja": null,
-    "lat": 41.20338889,
-    "lng": -8.6887,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q1370783",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370792",
@@ -2014,20 +2505,37 @@
     "lat": 41.18388889,
     "lng": -8.66694444,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "レイションイスSC",
+        "url": "http://www.leixoessc.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Mar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370792",
     "image_url": "Estádio do Mar 00006.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370811",
@@ -2036,20 +2544,42 @@
     "lat": 38.702778,
     "lng": -9.207778,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 19856,
     "opened_year": 1956,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFベレネンセス",
+        "url": "https://www.osbelenenses.com/"
+      },
+      {
+        "name": "C.F. Os Belenenses (rugby union)",
+        "url": "http://www.belenensesrugby.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Restelo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1370811",
     "image_url": "Lisboa Estadio do Restelo Belem September 2013 aerial view.jpg",
+    "website": "https://www.osbelenenses.com/clube/instalacoes/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138516664",
@@ -2062,16 +2592,39 @@
     "capacity": 1683,
     "opened_year": 1977,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "C.F. Os Belenenses (futsal)",
+        "url": null
+      },
+      {
+        "name": "C.F. Os Belenenses (basketball)",
+        "url": "http://www.osbelenenses.com/home/basquetebol/"
+      },
+      {
+        "name": "C.F. Os Belenenses (handball)",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Futsal",
+        "name_ja": "リーガ・ポルトゥゲーザ・ヂ・フットサル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Ac%C3%A1cio_Rosa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q138516664",
     "image_url": null,
+    "website": "https://www.osbelenenses.com/clube/instalacoes/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138634224",
@@ -2084,57 +2637,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138634224",
     "image_url": "Praça de Touros de Sobral de Monte Agraço - Portugal 🇵🇹 (55127799497).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q138790560",
-    "name": "Q138790560",
-    "name_ja": null,
-    "lat": 37.671387,
-    "lng": -7.499515,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q138790560",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q139379864",
-    "name": "Q139379864",
-    "name_ja": null,
-    "lat": 38.020130084,
-    "lng": -8.694804281,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q139379864",
-    "image_url": "Estádio Municipal de Miróbriga, Santiago do Cacém 01.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q139852807",
@@ -2147,36 +2663,20 @@
     "capacity": null,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139852807",
     "image_url": "Piscina Quinta da Conceição (49597931506).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q140067322",
-    "name": "Q140067322",
-    "name_ja": null,
-    "lat": 37.136043,
-    "lng": -8.364891,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q140067322",
-    "image_url": "31-08-2017 Aqualand Algarve, Alcantarilha (2).JPG",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q140129410",
@@ -2185,19 +2685,26 @@
     "lat": 37.1338966,
     "lng": -8.5079436,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q140129410",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1463929",
@@ -2206,20 +2713,27 @@
     "lat": 38.768554,
     "lng": -9.094015,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": 20000,
     "opened_year": 1996,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BB%E3%83%91%E3%83%93%E3%83%AA%E3%82%AA%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1463929",
     "image_url": "Pavilhão Atlântico - dynamosquito.jpg",
+    "website": "https://arena.meo.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15110461",
@@ -2228,20 +2742,38 @@
     "lat": 41.067158,
     "lng": -8.544812,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 8500,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポルトB",
+        "url": "http://www.fcporto.pt"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Jorge_Sampaio",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15110461",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15216991",
@@ -2250,19 +2782,26 @@
     "lat": 38.70972222,
     "lng": -9.25370278,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "テニス"
+    ],
     "capacity": null,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15216991",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16154563",
@@ -2275,16 +2814,31 @@
     "capacity": 1000,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SUプリメイロ・デ・デセンブロ",
+        "url": "http://www.su1dezembro.com"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_Conde_de_Sucena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16154563",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16154569",
@@ -2297,16 +2851,21 @@
     "capacity": null,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Complexo_Desportivo_Conde_de_Sucena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16154569",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16487411",
@@ -2319,15 +2878,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16487411",
     "image_url": "Estádio Municipal de Albufeira 17 April 2015 (2).JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16611566",
@@ -2340,16 +2904,31 @@
     "capacity": 25000,
     "opened_year": 1928,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFベレネンセス",
+        "url": "https://www.osbelenenses.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_das_Sal%C3%A9sias",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16611566",
     "image_url": "CF Belenenses on tiles.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632396",
@@ -2358,20 +2937,37 @@
     "lat": 40.512,
     "lng": -8.08282,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDトンデラ",
+        "url": "https://cdtondela.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jo%C3%A3o_Cardoso",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632396",
     "image_url": "Estádio João Cardoso.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q172874",
@@ -2384,16 +2980,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q172874",
     "image_url": "A5 HPIM4185 (1187021094).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q172890",
@@ -2406,16 +3007,26 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [
+      {
+        "name": "ポルトガルグランプリ",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%88%E3%83%AA%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q172890",
     "image_url": "SL Estoril.jpg",
+    "website": "http://www.circuito-estoril.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q174062",
@@ -2428,16 +3039,26 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [
+      {
+        "name": "ポルトガルグランプリ",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q174062",
     "image_url": "Circuit Monsanto.png",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1750602",
@@ -2450,16 +3071,21 @@
     "capacity": null,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tidal_pools_of_Le%C3%A7a_de_Palmeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1750602",
     "image_url": "Swimming Pool Piscinas de Marés Leça da Palmeira by Álvaro Siza foto Christian Gänshirt.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18476179",
@@ -2472,15 +3098,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18476179",
     "image_url": "Grijoestadio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18479164",
@@ -2493,15 +3124,25 @@
     "capacity": 1150,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "U.D. Caranguejeira",
+        "url": null
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18479164",
     "image_url": "UDCaranguejeira logo.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20060665",
@@ -2514,16 +3155,21 @@
     "capacity": 4148,
     "opened_year": 1901,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vila_Franca_de_Xira_Bullring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20060665",
     "image_url": "Praça de Toiros Palha Blanco - Vila Franca de Xira - Portugal (27744751336).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20161262",
@@ -2536,16 +3182,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Circuito_Internacional_de_Vila_Real",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20161262",
     "image_url": "1950-08-20 Vila Real Allard Ferrari 003S e 0040M.jpg",
+    "website": "https://www.circuitodevilareal.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2064711",
@@ -2558,15 +3209,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2064711",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20716401",
@@ -2579,16 +3235,31 @@
     "capacity": null,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CSマリティモB",
+        "url": "http://www.csmaritimo.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_da_Imaculada_Concei%C3%A7%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20716401",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2096915",
@@ -2601,15 +3272,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2096915",
     "image_url": "Piscina Espinho 1943 Eduardo Martins e Manuel Passos 8.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2096924",
@@ -2622,15 +3298,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2096924",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21051297",
@@ -2639,19 +3320,26 @@
     "lat": 39.41146,
     "lng": -9.150297,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21051297",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21403383",
@@ -2664,15 +3352,20 @@
     "capacity": null,
     "opened_year": 1889,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21403383",
     "image_url": "Bull arena (13468651).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2273637",
@@ -2681,19 +3374,26 @@
     "lat": 32.722222,
     "lng": -16.803611,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2273637",
     "image_url": "CGSS 1.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2303252",
@@ -2702,20 +3402,27 @@
     "lat": 33.05166667,
     "lng": -16.37027778,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Porto_Santo_Golfe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2303252",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419523",
@@ -2728,15 +3435,20 @@
     "capacity": 5600,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419523",
     "image_url": "Lado sudoeste da Praça de Touros de Almeirim.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419525",
@@ -2749,36 +3461,20 @@
     "capacity": 5500,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419525",
     "image_url": "Praça de Toiros da Moita - Portugal (243224322).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q25419585",
-    "name": "Q25419585",
-    "name_ja": null,
-    "lat": 38.74379,
-    "lng": -9.10965,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": 4000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q25419585",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419596",
@@ -2791,15 +3487,20 @@
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419596",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419597",
@@ -2812,16 +3513,31 @@
     "capacity": 3500,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCコヴィリャン",
+        "url": "http://www.sportingdacovilha.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Jos%C3%A9_dos_Santos_Pinto",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419597",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419598",
@@ -2834,15 +3550,20 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419598",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419599",
@@ -2855,15 +3576,30 @@
     "capacity": 6200,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "O Elvas C.A.D.",
+        "url": "https://oelvassad.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419599",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419629",
@@ -2876,15 +3612,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419629",
     "image_url": "Vista aproximada para parte ocidental da Praça de Touros de Coruche.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419741",
@@ -2897,15 +3638,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419741",
     "image_url": "Praça de Touros - Montijo.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25419756",
@@ -2918,36 +3664,46 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25419756",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25421259",
     "name": "Portalegre bullring",
     "name_ja": null,
-    "lat": 39.2645,
-    "lng": -7.4462,
+    "lat": 39.2344,
+    "lng": -7.389416,
     "country": "PT",
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25421259",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T01:56:35.614Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25427549",
@@ -2960,15 +3716,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25427549",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25427573",
@@ -2981,15 +3742,20 @@
     "capacity": 5000,
     "opened_year": 1909,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25427573",
     "image_url": "Beja bullring .jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439319",
@@ -3002,15 +3768,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439319",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439322",
@@ -3023,16 +3794,21 @@
     "capacity": 5552,
     "opened_year": 1891,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nazar%C3%A9_Bullring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439322",
     "image_url": "Praca de Touros Nazare - panoramio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439329",
@@ -3045,15 +3821,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439329",
     "image_url": "Entrada para recinto da Praça de Touros de Tomar.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25439332",
@@ -3066,15 +3847,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25439332",
     "image_url": "Praça de Touros José Mestre Baptista, Reguengos de Monsaraz 03.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440394",
@@ -3087,15 +3873,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440394",
     "image_url": "Praça de Touros de Salvaterra de Magos 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440414",
@@ -3108,15 +3899,20 @@
     "capacity": null,
     "opened_year": 1904,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440414",
     "image_url": "Estremoz (36901493320).jpg",
+    "website": "https://www.cm-estremoz.pt/pagina/camara-municipal/praca-de-toiros-de-estremoz",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440418",
@@ -3129,15 +3925,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440418",
     "image_url": "Praça de Touros (Montemor-o-Novo) 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25440997",
@@ -3150,15 +3951,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25440997",
     "image_url": "Vista para este para Praça de Touros do Cartaxo.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25441120",
@@ -3171,15 +3977,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25441120",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q256588",
@@ -3188,20 +3999,37 @@
     "lat": 41.378089,
     "lng": -8.354761,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6150,
     "opened_year": 2002,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "モレイレンセFC",
+        "url": "https://www.moreirensefc.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Parque_de_Jogos_Comendador_Joaquim_de_Almeida_Freitas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q256588",
     "image_url": "Blick auf die Haupttribüne - Estádio Comendador Joaquim de Almeida Freitas.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2583167",
@@ -3210,20 +4038,28 @@
     "lat": 41.5388,
     "lng": -8.4209,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 28000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_1%C2%BA_de_Maio",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2583167",
     "image_url": "Maratona Estádio 1º de Maio.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2586520",
@@ -3232,20 +4068,27 @@
     "lat": 37.02277778,
     "lng": -7.92861111,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_S%C3%A3o_Lu%C3%ADs",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2586520",
     "image_url": "EstadioSLuis.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2645332",
@@ -3254,20 +4097,33 @@
     "lat": 38.75193,
     "lng": -9.161882,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "テニス",
+      "ラグビーユニオン"
+    ],
     "capacity": 3677,
     "opened_year": 1989,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ラグビーポルトガル代表",
+        "url": "http://www.fpr.pt/xv-senior/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lisbon_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2645332",
     "image_url": "Estadio de Honra EUL 2012.jpg",
+    "website": "https://www.estadio.ulisboa.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q271454",
@@ -3276,20 +4132,42 @@
     "lat": 41.161758,
     "lng": -8.583933,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50033,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポルト",
+        "url": "https://www.fcporto.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [
+      {
+        "name": "2030 FIFAワールドカップ",
+        "year": 2030
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%89%E3%83%BB%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q271454",
     "image_url": "Estádio do Dragão (8468978586).jpg",
+    "website": "https://www.fcporto.pt/en/club/estadio-do-dragao/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2736585",
@@ -3298,20 +4176,37 @@
     "lat": 38.753611,
     "lng": -9.182639,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 120000,
     "opened_year": 1954,
-    "closed_year": null,
+    "closed_year": 2003,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Luz_(1954)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2736585",
     "image_url": "Side view of the old Estádio da Luz model.JPG",
+    "website": "https://www.slbenfica.pt/pt-pt/instituicao/clube/historia/estadios/estadio-slb",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28680614",
@@ -3324,16 +4219,51 @@
     "capacity": 3000,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルティングCP (フットサル)",
+        "url": "https://www.sporting.pt/pt/modalidades/futsal/seniores-masculinos/plantel"
+      },
+      {
+        "name": "Sporting CP (Handball)",
+        "url": "http://www.sporting.pt/Modalidades/Andebol/andebol.asp"
+      },
+      {
+        "name": "Sporting CP (basketball)",
+        "url": "https://www.sporting.pt"
+      },
+      {
+        "name": "Sporting CP (roller hockey)",
+        "url": "http://www.sporting.pt/pt/modalidades/hoquei-em-patins/seniores/plantel"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Futsal",
+        "name_ja": "リーガ・ポルトゥゲーザ・ヂ・フットサル"
+      },
+      {
+        "name": "Liga Portuguesa de Andebol",
+        "name_ja": null
+      },
+      {
+        "name": "Liga Portuguesa de Basquetebol",
+        "name_ja": "ポルトガルリーグ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Jo%C3%A3o_Rocha",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28680614",
     "image_url": "Interior do Pavilhão João Rocha.jpg",
+    "website": "https://www.sporting.pt/pt/clube/infraestruturas/pavilhao-joao-rocha",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q287359",
@@ -3342,20 +4272,42 @@
     "lat": 38.761194444,
     "lng": -9.160783333,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 52095,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルティング・クルーベ・デ・ポルトゥガル",
+        "url": "https://www.sporting.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [
+      {
+        "name": "2030 FIFAワールドカップ",
+        "year": 2030
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%BC%E3%83%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q287359",
     "image_url": "Estádio José Alvalade antes do jogo Sporting - Arouca.jpg",
+    "website": "https://www.sporting.pt/pt/clube/infraestruturas/estadio-jose-alvalade/historia",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2935537",
@@ -3364,19 +4316,36 @@
     "lat": 39.4072,
     "lng": -9.13583,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5700,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "カルダス S.C.",
+        "url": "http://www.caldasportclube.pt"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2935537",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q29450114",
@@ -3385,19 +4354,55 @@
     "lat": 40.479509,
     "lng": -8.475974,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "トラックレース"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29450114",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
+    "id": "Q2945331",
+    "name": "Academia Sporting",
+    "name_ja": null,
+    "lat": 38.73027778,
+    "lng": -8.85,
+    "country": "PT",
+    "sport_types": [
+      "サッカー"
+    ],
+    "capacity": null,
+    "opened_year": 1906,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Academia_Cristiano_Ronaldo",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2945331",
+    "image_url": null,
+    "website": "http://www.sporting.pt/Futebol/Fut_Form/futformacao.asp",
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2990539",
@@ -3406,20 +4411,28 @@
     "lat": 39.3446,
     "lng": -8.9352,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 7000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Rio_Maior",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990539",
     "image_url": "Rio Maior.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2990540",
@@ -3428,19 +4441,37 @@
     "lat": 37.1886,
     "lng": -7.4189,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 2896,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Lusitano Futebol Clube",
+        "url": "http://www.lusitano1916.blogspot.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2990540",
     "image_url": "Vila Real de Santo António (16538333740).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059093",
@@ -3449,19 +4480,36 @@
     "lat": 39.55,
     "lng": -8.98333,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "G.C. Alcobaça",
+        "url": "http://www.ginasioalcobaca.blogspot.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059093",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059094",
@@ -3470,20 +4518,37 @@
     "lat": 38.7628177,
     "lng": -9.1586173,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 75200,
     "opened_year": 1956,
-    "closed_year": null,
+    "closed_year": 2003,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルティング・クルーベ・デ・ポルトゥガル",
+        "url": "https://www.sporting.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Alvalade_(1956)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059094",
     "image_url": "Antigo Estádio José Alvalade.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059095",
@@ -3492,20 +4557,37 @@
     "lat": 38.752036,
     "lng": -9.227967,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 9288,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CFエストレラ・ダ・アマドーラ",
+        "url": "https://www.cdestrela.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Jos%C3%A9_Gomes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059095",
     "image_url": "Estádio José Gomes (Reboleira).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059096",
@@ -3514,19 +4596,36 @@
     "lat": 32.728611111,
     "lng": -16.773333333,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3300,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ADマシコ",
+        "url": "http://www.admachico.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Segunda Divisão",
+        "name_ja": "セグンダ・ディヴィゾン"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059096",
     "image_url": "Estadiomachico.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3059098",
@@ -3535,20 +4634,37 @@
     "lat": 41.135955555,
     "lng": -8.541758333,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2450,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ゴンドマールSC",
+        "url": "http://www.gondomarsc.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_de_S%C3%A3o_Miguel_(Gondomar)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3059098",
     "image_url": "Estadio de Sao Miguel.PNG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30935008",
@@ -3561,16 +4677,31 @@
     "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "F.C. Ferreiras",
+        "url": "https://wecreatebetter.win/fcferreiras/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Nora",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30935008",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3330886",
@@ -3583,16 +4714,31 @@
     "capacity": 3000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCコヴィリャン",
+        "url": "http://www.sportingdacovilha.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Complexo_Desportivo_da_Covilh%C3%A3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3330886",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3446875",
@@ -3601,20 +4747,37 @@
     "lat": 41.332833,
     "lng": -8.564367,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5017,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDトロフェンセ",
+        "url": "https://cdtrofense.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_CD_Trofense",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3446875",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514314",
@@ -3623,20 +4786,37 @@
     "lat": 41.38872222,
     "lng": -8.30751111,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCヴィゼラ",
+        "url": "https://fcvizela.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Futebol_Clube_de_Vizela",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514314",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514858",
@@ -3645,20 +4825,37 @@
     "lat": 37.763708,
     "lng": -25.622589,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12500,
     "opened_year": 1976,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDサンタクララ",
+        "url": "http://www.cdsantaclara.pt"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB_(%E3%83%9D%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%87%E3%83%AB%E3%82%AC%E3%83%80)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514858",
     "image_url": "Estádio de São Miguel (62276).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514962",
@@ -3667,19 +4864,26 @@
     "lat": 38.774,
     "lng": -9.103,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514962",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3514967",
@@ -3688,20 +4892,32 @@
     "lat": 41.2117,
     "lng": -8.277919,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5230,
     "opened_year": 1934,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCペナフィエル",
+        "url": "http://www.fcpenafiel.pt/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_25_de_Abril",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3514967",
     "image_url": "FC Penafiel Estádio 25 Abril.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q387691",
@@ -3710,20 +4926,37 @@
     "lat": 41.164444444,
     "lng": -8.586666666,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50000,
     "opened_year": 1952,
-    "closed_year": null,
+    "closed_year": 2001,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポルト",
+        "url": "https://www.fcporto.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_das_Antas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q387691",
     "image_url": "Porto, Domingos Alvão 10 (9292239868).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39676063",
@@ -3736,16 +4969,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cascais_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39676063",
     "image_url": "Cascais (20049674828).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q47003681",
@@ -3758,15 +4996,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [
+      {
+        "name": "2010 European Rowing Championships",
+        "year": 2010
+      }
+    ],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q47003681",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4736787",
@@ -3775,41 +5023,27 @@
     "lat": 37.1307,
     "lng": -8.5914,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alto_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4736787",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q47527952",
-    "name": "Q47527952",
-    "name_ja": null,
-    "lat": 41.24994444,
-    "lng": -8.10788889,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1994,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q47527952",
-    "image_url": "Parque aquático de Amarante (11).jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4810482",
@@ -3818,20 +5052,38 @@
     "lat": 40.56237222,
     "lng": -8.44179167,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 10000,
     "opened_year": 1974,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "R.D. Águeda",
+        "url": "https://www.recreiodeagueda.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_%C3%81gueda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4810482",
     "image_url": null,
+    "website": "https://www.cm-agueda.pt/viver/desporto-e-juventude/desporto/instalacoes-desportivas-municipais/galeria-75",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48855239",
@@ -3844,15 +5096,20 @@
     "capacity": null,
     "opened_year": 1944,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q48855239",
     "image_url": "StadionJamor.JPG",
+    "website": "https://jamor.ipdj.pt/index.php?lang=pt&s=white&pid=127&title=apresentacao",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48867502",
@@ -3861,19 +5118,26 @@
     "lat": 38.713386133,
     "lng": -8.967586796,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q48867502",
     "image_url": "Campo da Liberdade Montijo.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5014565",
@@ -3886,16 +5150,31 @@
     "capacity": 3800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポルト",
+        "url": "https://www.fcporto.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CTFD_PortoGaia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5014565",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028447",
@@ -3908,16 +5187,21 @@
     "capacity": 2431,
     "opened_year": 1926,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Manuel_Marques",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028447",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028461",
@@ -3930,16 +5214,31 @@
     "capacity": null,
     "opened_year": 1906,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_da_Feiteira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028461",
     "image_url": "Campo Feiteira Benfica.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028463",
@@ -3952,16 +5251,31 @@
     "capacity": 20000,
     "opened_year": 1913,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCポルト",
+        "url": "https://www.fcporto.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_da_Constitui%C3%A7%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028463",
     "image_url": "Campo Constituição 1 (Porto).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028467",
@@ -3974,16 +5288,31 @@
     "capacity": 10000,
     "opened_year": 1917,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_de_Benfica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028467",
     "image_url": "CampoDeBenfica.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028473",
@@ -3992,20 +5321,32 @@
     "lat": 38.6768612,
     "lng": -9.1693152,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "アルマダAC",
+        "url": "http://www.almadaatleticoclube.com/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_de_Jogos_do_Pragal",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028473",
     "image_url": "Campo de Jogos do Pragal.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028478",
@@ -4018,16 +5359,31 @@
     "capacity": 10000,
     "opened_year": 1913,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_de_Sete_Rios",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028478",
     "image_url": "Campo SeteRios.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5028482",
@@ -4036,20 +5392,27 @@
     "lat": 32.647444444,
     "lng": -16.902027777,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": 1800,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_Almirante_Reis",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5028482",
     "image_url": "Torneio Atlético entre a Praça Académica e o Campo de D. Carlos, c. 1909.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5062915",
@@ -4062,16 +5425,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Centro_de_Est%C3%A1gios_da_Acad%C3%A9mica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5062915",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q51341624",
@@ -4080,19 +5448,36 @@
     "lat": 37.116666666,
     "lng": -8.677777777,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Clube de Futebol Esperança de Lagos",
+        "url": "http://www.esperancadelagos.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q51341624",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5141518",
@@ -4101,20 +5486,28 @@
     "lat": 40.205933,
     "lng": -8.434259,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン",
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coimbra_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5141518",
     "image_url": "Santa Clara e Castelo Viegas - Estádio Universitário de Coimbra - 20221023114816.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q533782",
@@ -4127,16 +5520,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Serra_da_Estrela_Ski_Resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q533782",
     "image_url": "Estancia vodafone.JPG",
+    "website": "http://www.skiserradaestrela.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401945",
@@ -4145,20 +5543,27 @@
     "lat": 41.533611111,
     "lng": -8.610277777,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8500,
     "opened_year": 1933,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Adelino_Ribeiro_Novo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401945",
     "image_url": "Estádio Adelino Ribeiro Novo.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401963",
@@ -4167,20 +5572,28 @@
     "lat": 41.193,
     "lng": -8.146,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_do_Marco_de_Canaveses",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401963",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401985",
@@ -4189,20 +5602,37 @@
     "lat": 40.8419,
     "lng": -8.4703,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1750,
     "opened_year": 1932,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "UDオリヴェイレンセ",
+        "url": "https://udoliveirense.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%AA%E3%82%BD%E3%83%BC%E3%83%AA%E3%82%AA",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401985",
     "image_url": "Estadiocarlososorio.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5401997",
@@ -4215,16 +5645,31 @@
     "capacity": 8500,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ADサンジョアネンセ",
+        "url": "http://www.ads.pt"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Terceira Divisão",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5401997",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402024",
@@ -4236,17 +5681,32 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1932,
-    "closed_year": null,
+    "closed_year": 2006,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCサルゲイロス",
+        "url": "http://www.scsalgueiros.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Engenheiro_Vidal_Pinheiro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402024",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402114",
@@ -4255,20 +5715,28 @@
     "lat": 40.18683056,
     "lng": -8.50968333,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 2500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_S%C3%A9rgio_Concei%C3%A7%C3%A3o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402114",
     "image_url": "Estadio sergio conceicao - coimbra.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402118",
@@ -4281,16 +5749,21 @@
     "capacity": null,
     "opened_year": 2005,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Abrantes",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402118",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402126",
@@ -4303,16 +5776,26 @@
     "capacity": 12000,
     "opened_year": 1935,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCベイラ・マル",
+        "url": "http://www.beiramar.pt"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_M%C3%A1rio_Duarte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402126",
     "image_url": "279512 galeria estadio mario duarte.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402128",
@@ -4321,20 +5804,37 @@
     "lat": 41.75064,
     "lng": -7.464985,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8400,
     "opened_year": 1949,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "GDシャヴェス",
+        "url": "http://www.gdchaves.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Eng._Manuel_Branco_Teixeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402128",
     "image_url": "Chaves DSCN0284 (3054928366).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402203",
@@ -4346,17 +5846,32 @@
     "sport_types": [],
     "capacity": 20000,
     "opened_year": 1925,
-    "closed_year": null,
+    "closed_year": 1940,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_das_Amoreiras",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402203",
     "image_url": null,
+    "website": "https://www.slbenfica.pt/pt-pt/instituicao/clube/historia/estadios/estadio-das-amoreiras",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402218",
@@ -4368,17 +5883,36 @@
     "sport_types": [],
     "capacity": 25000,
     "opened_year": 1912,
-    "closed_year": null,
+    "closed_year": 1955,
+    "is_existing": false,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "スポルティング・クルーベ・デ・ポルトゥガル",
+        "url": "https://www.sporting.pt/"
+      },
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Campo_Grande",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402218",
     "image_url": null,
+    "website": "https://www.slbenfica.pt/pt-pt/instituicao/clube/historia/estadios/estadio-do-campo-grande",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402223",
@@ -4387,20 +5921,27 @@
     "lat": 38.765,
     "lng": -9.159,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1914,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Lumiar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402223",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402247",
@@ -4409,20 +5950,27 @@
     "lat": 41.38783611,
     "lng": -8.772575,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 7280,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Varzim_SC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402247",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5410379",
@@ -4434,17 +5982,22 @@
     "sport_types": [],
     "capacity": 5500,
     "opened_year": 1949,
-    "closed_year": null,
+    "closed_year": 2018,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%B3voa_de_Varzim_Bullfighting_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5410379",
     "image_url": "Praça Touros Póvoa Varzim.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q550041",
@@ -4453,20 +6006,37 @@
     "lat": 41.362756,
     "lng": -8.740186,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5300,
     "opened_year": 1985,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "リオ・アヴェFC",
+        "url": "https://rioavefc.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Rio_Ave_FC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q550041",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5510501",
@@ -4479,16 +6049,31 @@
     "capacity": 2644,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Benfica_Campus",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5510501",
     "image_url": "Futebol Campus model at Estádio da Luz.JPG",
+    "website": "https://www.slbenfica.pt/pt-pt/instituicao/instalacoes/benfica-campus",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55990902",
@@ -4501,16 +6086,21 @@
     "capacity": 3250,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pra%C3%A7a_de_Toiros_de_Albufeira",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55990902",
     "image_url": "2018-02-28 Praça de Toiros de Albufeira.JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q570236",
@@ -4523,37 +6113,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Circuito_Vasco_Sameiro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q570236",
     "image_url": "Autódromo de Braga.jpg",
+    "website": "http://www.camminho.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q602279",
-    "name": "Q602279",
-    "name_ja": null,
-    "lat": 40.4858,
-    "lng": -7.5947,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q602279",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q646151",
@@ -4562,20 +6136,54 @@
     "lat": 37.088333,
     "lng": -7.974722,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 30305,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCファレンセ",
+        "url": "https://scfarense.pt/"
+      },
+      {
+        "name": "ロウレターノDC",
+        "url": "http://www.louletanodc.pt/"
+      },
+      {
+        "name": "サッカーポルトガル代表",
+        "url": "https://www.fpf.pt/pt/selecoes/futebol-masculino/selecao-a"
+      },
+      {
+        "name": "サッカージブラルタル代表",
+        "url": "https://www.gibraltarfa.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      },
+      {
+        "name": "Segunda Divisão",
+        "name_ja": "セグンダ・ディヴィゾン"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%AC%E3%83%AB%E3%83%B4%E3%82%A7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q646151",
     "image_url": "EstadioAlgarve.JPG",
+    "website": "https://estadioalgarve.pt/conheca-o-estadio-algarve/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65166860",
@@ -4588,16 +6196,26 @@
     "capacity": 3200,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ADオヴァレンセ",
+        "url": "https://adovarense.pt"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Marques_da_Silva",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65166860",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65926334",
@@ -4610,15 +6228,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q65926334",
     "image_url": "Cais do Ferrão - Norte 2, Covas do Douro - Sabrosa.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q66077616",
@@ -4631,15 +6254,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66077616",
     "image_url": "Cais da Foz do Távora - Tabuaço - APDL - foto 4.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q66814305",
@@ -4652,15 +6280,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66814305",
     "image_url": "Picadeiro do Antigo Colégio dos Nobres 8034.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q66943073",
@@ -4673,15 +6306,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q66943073",
     "image_url": "Vista para norte para Coliseu Figueirense na Figueira da Foz.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q67080240",
@@ -4690,19 +6328,40 @@
     "lat": 38.561944444,
     "lng": -7.913888888,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Juventude Sport Clube",
+        "url": "https://juventudesportclube.blogspot.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato de Portugal",
+        "name_ja": "カンピオナート・デ・ポルトガル"
+      },
+      {
+        "name": "Divisão de Elite",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q67080240",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q69500797",
@@ -4715,15 +6374,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q69500797",
     "image_url": "Pinhão Pier.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7139650",
@@ -4736,16 +6400,31 @@
     "capacity": 4000,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "ADファフェ",
+        "url": "https://www.adfafe.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Segunda Divisão",
+        "name_ja": "セグンダ・ディヴィゾン"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Fafe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7139650",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155855",
@@ -4758,16 +6437,21 @@
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Multiusos_de_Guimar%C3%A3es",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155855",
     "image_url": "Multiusos Guimaraes.jpg",
+    "website": "http://www.tempolivre.pt",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155857",
@@ -4780,16 +6464,26 @@
     "capacity": null,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Associação Académica de Coimbra - basketball",
+        "url": null
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Multidesportos_Dr._M%C3%A1rio_Mexia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155857",
     "image_url": "Pavilhão Municipal Multidesportos Mário Mexia - Vista de norte.jpg",
+    "website": "http://www.cm-coimbra.pt/?option=com_content&task=view&id=1427&Itemid=350",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155861",
@@ -4802,16 +6496,39 @@
     "capacity": 2400,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ (フットサル)",
+        "url": "https://www.slbenfica.pt/fr-fr/modalidades/futsal"
+      },
+      {
+        "name": "SLベンフィカ (バスケットボール)",
+        "url": "https://www.slbenfica.pt/pt-pt/modalidades/basquetebol"
+      },
+      {
+        "name": "S.L. Benfica (roller hockey)",
+        "url": "https://www.slbenfica.pt/pt-pt/modalidades/hoquei"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portuguesa de Futsal",
+        "name_ja": "リーガ・ポルトゥゲーザ・ヂ・フットサル"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Fidelidade",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155861",
     "image_url": "Different view of Pavilhão da Luz n.º1.JPG",
+    "website": "https://www.slbenfica.pt/pt-pt/instituicao/instalacoes/complexo-desportivo",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155862",
@@ -4824,16 +6541,30 @@
     "capacity": 1800,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ (ハンドボール)",
+        "url": "https://www.slbenfica.pt/pt-pt/modalidades/andebol"
+      },
+      {
+        "name": "S.L. Benfica (volleyball)",
+        "url": null
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_da_Luz_N%E1%B5%92_2",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155862",
     "image_url": "View of Pavilhão da Luz.JPG",
+    "website": "https://www.slbenfica.pt/pt-pt/instituicao/instalacoes/complexo-desportivo",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7232664",
@@ -4846,16 +6577,21 @@
     "capacity": null,
     "opened_year": 1640,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Academy_(Portugal)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7232664",
     "image_url": null,
+    "website": "http://www.academiamilitar.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7232670",
@@ -4868,16 +6604,21 @@
     "capacity": null,
     "opened_year": 1845,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Naval_School_(Portugal)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7232670",
     "image_url": null,
+    "website": "http://escolanaval.marinha.pt/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7264811",
@@ -4890,16 +6631,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%B3voa_de_Varzim_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7264811",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7272372",
@@ -4908,20 +6654,27 @@
     "lat": 37.044,
     "lng": -8.02,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Quinta_do_Lago",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7272372",
     "image_url": "Quinta22.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q733194",
@@ -4930,20 +6683,37 @@
     "lat": 41.27638889,
     "lng": -8.33944444,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3919,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCフレアムンデ",
+        "url": "https://scfreamunde.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Complexo_Desportivo_do_SC_Freamunde",
     "wikidata_url": "https://www.wikidata.org/wiki/Q733194",
     "image_url": "Complexo Desportivo do Sport Clube de Freamunde.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q73768776",
@@ -4956,15 +6726,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q73768776",
     "image_url": "Picadeiro Real.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7703316",
@@ -4977,16 +6752,31 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Terras_do_Desembargador",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7703316",
     "image_url": "Terras do Desembargador in 1904.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q771301",
@@ -4995,20 +6785,38 @@
     "lat": 41.23456944,
     "lng": -8.61821944,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "FCマイア",
+        "url": "http://www.fcmaia.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Porto Football Association",
+        "name_ja": null
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Dr._Jos%C3%A9_Vieira_de_Carvalho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q771301",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q784174",
@@ -5021,16 +6829,21 @@
     "capacity": null,
     "opened_year": 1892,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%9D%E3%83%BB%E3%83%9A%E3%82%B1%E3%83%BC%E3%83%8E%E9%97%98%E7%89%9B%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q784174",
     "image_url": "Campo Pequeno.jpg",
+    "website": "http://www.campopequeno.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7875112",
@@ -5039,20 +6852,50 @@
     "lat": 38.752777777,
     "lng": -9.184722222,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 68100,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/"
+      },
+      {
+        "name": "SLベンフィカB",
+        "url": "https://www.slbenfica.pt/pt-pt/futebol/equipa_b"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      },
+      {
+        "name": "Liga Portugal 2",
+        "name_ja": "セグンダ・リーガ"
+      }
+    ],
+    "events": [
+      {
+        "name": "2030 FIFAワールドカップ",
+        "year": 2030
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%80%E3%83%BB%E3%83%AB%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7875112",
     "image_url": "LuzLissabon.jpg",
+    "website": "https://www.slbenfica.pt/pt-pt/instituicao/instalacoes/estadio",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q789427",
@@ -5065,16 +6908,26 @@
     "capacity": null,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [
+      {
+        "name": "ポルトガルグランプリ",
+        "year": null
+      }
+    ],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AC%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q789427",
     "image_url": "Autódromo Internacional do Algarve (2012-09-23), by Klugschnacker in Wikipedia (2).JPG",
+    "website": "https://autodromodoalgarve.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7909516",
@@ -5083,20 +6936,28 @@
     "lat": 37.055,
     "lng": -8.064,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "テニス",
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vale_do_Lobo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7909516",
     "image_url": "Vale do Lobo Beach (cropped).JPG",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7930066",
@@ -5105,20 +6966,27 @@
     "lat": 37.101944444,
     "lng": -8.118055555,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "ゴルフ"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vilamoura_Old_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7930066",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q849239",
@@ -5127,20 +6995,37 @@
     "lat": 41.5624,
     "lng": -8.4308,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30286,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SCブラガ",
+        "url": "https://scbraga.pt/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Liga Portugal",
+        "name_ja": "プリメイラ・リーガ"
+      }
+    ],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A0%E3%83%8B%E3%82%B7%E3%83%91%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%96%E3%83%A9%E3%82%AC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q849239",
     "image_url": "Estadio Braga.JPG",
+    "website": "https://scbraga.pt/estadio/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q90151057",
@@ -5153,15 +7038,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q90151057",
     "image_url": "Vieira do Minho 2018 (1).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9097845",
@@ -5174,15 +7064,20 @@
     "capacity": null,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9097845",
     "image_url": "Zoomarine Imagem aerea.jpg",
+    "website": "http://www.zoomarine.pt",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96209781",
@@ -5195,36 +7090,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96209781",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q9626783",
-    "name": "Q9626783",
-    "name_ja": null,
-    "lat": 37.093894,
-    "lng": -8.072367,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q9626783",
-    "image_url": "Aquashow.jpg",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96280367",
@@ -5237,15 +7116,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96280367",
     "image_url": "Complexo das Piscinas Oceânicas de São Pedro de Moel.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q968244",
@@ -5254,20 +7138,32 @@
     "lat": 41.366932,
     "lng": -8.411789,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6230,
     "opened_year": 1981,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "CDアヴェス",
+        "url": "http://cdaves.pt/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%89%E3%83%BBCD%E3%82%A2%E3%83%B4%E3%82%A7%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q968244",
     "image_url": "Estádio do CD Aves.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97085787",
@@ -5280,15 +7176,25 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Lusitano G.C.",
+        "url": "http://www.lusitanoginasioclube.com/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97085787",
     "image_url": "Campo estrela 2022.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97179007",
@@ -5297,19 +7203,36 @@
     "lat": 38.665167,
     "lng": -9.163333,
     "country": "PT",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "SLベンフィカ",
+        "url": "https://www.slbenfica.pt/pt-pt/futebol/feminino"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Campeonato Nacional de Futebol Feminino",
+        "name_ja": "ポルトガル女子国内選手権"
+      }
+    ],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97179007",
     "image_url": null,
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q980615",
@@ -5322,15 +7245,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q980615",
     "image_url": "Pavilhão Multiusos de Gondomar - Portugal (40789801132).jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9815286",
@@ -5343,56 +7271,19 @@
     "capacity": 6500,
     "opened_year": 2006,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
+    "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9815286",
     "image_url": "Coliseu de Elvas, antiga Praça de Touros de Elvas 01.jpg",
+    "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q98310115",
-    "name": "Q98310115",
-    "name_ja": null,
-    "lat": 41.18252182,
-    "lng": -8.678650856,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q98310115",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
-  },
-  {
-    "id": "Q98961576",
-    "name": "Q98961576",
-    "name_ja": null,
-    "lat": 39.012639,
-    "lng": -7.059552,
-    "country": "PT",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q98961576",
-    "image_url": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-08T15:10:23.011Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

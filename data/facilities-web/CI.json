@@ -10,17 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109318354",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1132986",
@@ -29,10 +32,13 @@
     "lat": 7.68277778,
     "lng": -5.04472222,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40000,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -40,6 +46,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -54,11 +61,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1132986",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q126371939",
@@ -71,6 +79,7 @@
     "capacity": null,
     "opened_year": 2017,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -78,107 +87,17 @@
         "url": "http://www.blaisepascal.ci"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126371939",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q133016601",
-    "name": "Q133016601",
-    "name_ja": null,
-    "lat": 5.344536,
-    "lng": -3.993994,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2020,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q133016601",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q136409745",
-    "name": "Q136409745",
-    "name_ja": null,
-    "lat": 5.354611,
-    "lng": -3.901039,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1970,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q136409745",
-    "image_url": null,
-    "website": "https://www.cme.ci/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q136515301",
-    "name": "Q136515301",
-    "name_ja": null,
-    "lat": 5.362559,
-    "lng": -3.92648,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2000,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q136515301",
-    "image_url": null,
-    "website": "https://ced-ci.org/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q137386962",
-    "name": "Q137386962",
-    "name_ja": null,
-    "lat": 5.468333333,
-    "lng": -3.206944444,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q137386962",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q141175181",
@@ -191,40 +110,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141175181",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q141272441",
-    "name": "Q141272441",
-    "name_ja": null,
-    "lat": 6.2568687,
-    "lng": -7.0086765,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q141272441",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1999706",
@@ -233,10 +132,15 @@
     "lat": 5.32825,
     "lng": -4.018417,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビー",
+      "陸上競技"
+    ],
     "capacity": 34000,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -246,6 +150,12 @@
       {
         "name": "Académie de Sol Beni",
         "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
       }
     ],
     "events": [
@@ -274,11 +184,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q1999706",
     "image_url": "StadeFHB.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20734735",
@@ -287,10 +198,13 @@
     "lat": 5.32617,
     "lng": -3.96058,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -298,15 +212,22 @@
         "url": "http://www.asec.ci"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20734735",
     "image_url": "Sol Beni 01.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28404333",
@@ -315,10 +236,13 @@
     "lat": 5.4807,
     "lng": -4.0746,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 60000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -326,6 +250,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -336,11 +261,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28404333",
     "image_url": "Stade Alassane Ouattara d'Ebimpé 3.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3361150",
@@ -349,22 +275,27 @@
     "lat": 5.298055555,
     "lng": -4.005277777,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 3500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3361150",
     "image_url": "Cipalaisdessports.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3364323",
@@ -373,10 +304,13 @@
     "lat": 5.29732,
     "lng": -4.00618,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "ラグビーユニオン"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -384,43 +318,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3364323",
     "image_url": "Parc des Sports de Treich.PNG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3364324",
-    "name": "Q3364324",
-    "name_ja": null,
-    "lat": 5.4827,
-    "lng": -4.05399,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Rio Sport d'Anyama",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3364324",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495528",
@@ -429,10 +342,13 @@
     "lat": 4.7606,
     "lng": -6.63811,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 8000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -440,95 +356,23 @@
         "url": "http://stella.footeo.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(San-P%C3%A9dro)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495528",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495629",
-    "name": "Q3495629",
-    "name_ja": null,
-    "lat": 5.30825,
-    "lng": -3.98259,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495629",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495630",
-    "name": "Q3495630",
-    "name_ja": null,
-    "lat": 8.02887,
-    "lng": -2.78903,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 7000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Satellite FC Abidjan",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495630",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495900",
-    "name": "Q3495900",
-    "name_ja": null,
-    "lat": 6.12322,
-    "lng": -5.95483,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 20000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Sporting Club de Gagnoa",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495900",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495953",
@@ -537,10 +381,13 @@
     "lat": 6.49017,
     "lng": -6.59169,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -548,123 +395,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_d'Issia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495953",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495964",
-    "name": "Q3495964",
-    "name_ja": null,
-    "lat": 5.3593,
-    "lng": -3.88967,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 4000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "ES Bingerville",
-        "url": "http://esb-ci.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495964",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495965",
-    "name": "Q3495965",
-    "name_ja": null,
-    "lat": 6.98692,
-    "lng": -5.75424,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 4000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "CO Bouaflé",
-        "url": "http://www.co-bouafle.com/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495965",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3495988",
-    "name": "Q3495988",
-    "name_ja": null,
-    "lat": 6.54994,
-    "lng": -5.02403,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Toumodi FC",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3495988",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496088",
-    "name": "Q3496088",
-    "name_ja": null,
-    "lat": 5.25634,
-    "lng": -3.98977,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496088",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496144",
@@ -673,10 +420,13 @@
     "lat": 9.50282,
     "lng": -7.57523,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 3000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -684,16 +434,23 @@
         "url": "http://asdenguele.co.cc/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_El-Hadj-Mamadou-Coulibaly",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496144",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496147",
@@ -702,10 +459,13 @@
     "lat": 5.341944,
     "lng": -4.018889,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -717,67 +477,23 @@
         "url": "http://www.asec.ci"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_d'Abidjan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496147",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496151",
-    "name": "Q3496151",
-    "name_ja": null,
-    "lat": 5.20176,
-    "lng": -3.73524,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "USC Bassam",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496151",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496164",
-    "name": "Q3496164",
-    "name_ja": null,
-    "lat": 7.05023,
-    "lng": -3.95643,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 3000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496164",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496166",
@@ -786,10 +502,13 @@
     "lat": 9.27314,
     "lng": -2.98926,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 10000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -797,16 +516,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Bouna)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496166",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3496167",
@@ -815,10 +536,13 @@
     "lat": 6.88845,
     "lng": -6.45677,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 4000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -826,39 +550,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Daloa)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3496167",
     "image_url": "Stade de Daloa 02.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q3496177",
-    "name": "Q3496177",
-    "name_ja": null,
-    "lat": 5.34189,
-    "lng": -4.01882,
-    "country": "CI",
-    "sport_types": [],
-    "capacity": 5000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3496177",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48783549",
@@ -867,10 +575,14 @@
     "lat": 6.828611111,
     "lng": -5.246388888,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 20000,
     "opened_year": 2022,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -878,6 +590,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -888,11 +601,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q48783549",
     "image_url": "Le stade de Yamoussoukro(Bosson).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48965470",
@@ -901,10 +615,13 @@
     "lat": 9.409722222,
     "lng": -5.628888888,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 2020,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -912,6 +629,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -922,11 +640,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q48965470",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48965473",
@@ -935,10 +654,13 @@
     "lat": 4.816944444,
     "lng": -6.629444444,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 2023,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -946,6 +668,7 @@
         "url": "http://www.fifciv.com/?q=categories/seniors"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "アフリカネイションズカップ2023",
@@ -956,11 +679,12 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q48965473",
     "image_url": "Stade de San-Pédro (Bosson).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596151",
@@ -969,22 +693,27 @@
     "lat": 5.35931,
     "lng": -3.88964,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Bingerville)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596151",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q781453",
@@ -993,10 +722,14 @@
     "lat": 5.30527778,
     "lng": -3.99244444,
     "country": "CI",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 3000,
     "opened_year": 2007,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1004,15 +737,22 @@
         "url": "http://www.africasports.ci/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "name_ja": "コートジボワール・プレミア・ディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Champroux_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q781453",
     "image_url": "Stade R.Champroux marcory.PNG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

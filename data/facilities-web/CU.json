@@ -10,17 +10,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107378735",
     "image_url": "Outdoor gym in Baracoa 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107378752",
@@ -33,17 +36,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107378752",
     "image_url": "Outdoor gym in Cabacú 1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113963287",
@@ -56,6 +62,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -63,15 +70,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Nacional de Fútbol de Cuba",
+        "name_ja": "カンペオナート・ナシオナル・デ・フットボール・デ・キューバ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113963287",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130483203",
@@ -84,17 +98,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130483203",
     "image_url": "Habana-Madrid, Exterior of Havana fronton. Calles Belascoain y Sitios.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130483238",
@@ -107,17 +124,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130483238",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133156807",
@@ -129,18 +149,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1951,
-    "closed_year": null,
+    "closed_year": 1960,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133156807",
     "image_url": "Havana - Air view of Havana Greyhound Kennel Club.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q133530505",
@@ -152,18 +175,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
-    "closed_year": null,
+    "closed_year": 1959,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q133530505",
     "image_url": "Havana - Country Club of Havana 01.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13382101",
@@ -176,18 +202,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_C%C3%A1ndido_Gonz%C3%A1lez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13382101",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369326",
@@ -196,10 +225,13 @@
     "lat": 23.118333,
     "lng": -82.376111,
     "country": "CU",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": 31000,
     "opened_year": 1946,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -211,16 +243,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Cuban National Series",
+        "name_ja": "セリエ・ナシオナル・デ・ベイスボル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8E%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%8E",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369326",
     "image_url": "La Habana - Estadio Latinoamericano.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369571",
@@ -229,10 +268,13 @@
     "lat": 23.10733056,
     "lng": -82.41283889,
     "country": "CU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -240,16 +282,23 @@
         "url": "http://habanafutbol.webnode.es/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Nacional de Fútbol de Cuba",
+        "name_ja": "カンペオナート・ナシオナル・デ・フットボール・デ・キューバ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Marrero_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369571",
     "image_url": "Estadio Pedro Marrero.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137705374",
@@ -262,8 +311,10 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "器物損壊罪",
@@ -282,33 +333,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q137705374",
     "image_url": "Xanadu Mansion Golf Course - Laslovarga.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q16544119",
-    "name": "Q16544119",
-    "name_ja": null,
-    "lat": 21.3787,
-    "lng": -77.9098,
-    "country": "CU",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q16544119",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16889076",
@@ -321,64 +350,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%B3n_Cepero_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16889076",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q17632549",
-    "name": "Q17632549",
-    "name_ja": null,
-    "lat": 23.153913,
-    "lng": -82.315042,
-    "country": "CU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q17632549",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q21099823",
-    "name": "Q21099823",
-    "name_ja": null,
-    "lat": 23.145263,
-    "lng": -82.393719,
-    "country": "CU",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q21099823",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2882082",
@@ -391,30 +377,36 @@
     "capacity": null,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Huelga_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2882082",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3058822",
     "name": "Estadio Panamericano",
     "name_ja": null,
-    "lat": 23.157611111,
-    "lng": -82.31675,
+    "lat": 23.1575,
+    "lng": -82.31666667,
     "country": "CU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50000,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -422,16 +414,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pan_American_Stadium_(Havana)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3058822",
     "image_url": "Estadio Panamericano Cuba.png",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5021450",
@@ -440,22 +434,27 @@
     "lat": 20.8875,
     "lng": -76.24472222,
     "country": "CU",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": 30000,
     "opened_year": 1979,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Calixto_Garc%C3%ADa_%C3%8D%C3%B1iguez_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5021450",
     "image_url": "CalixtoGarcia.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5120384",
@@ -468,18 +467,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cinco_de_Septiembre_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5120384",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5145758",
@@ -488,10 +490,13 @@
     "lat": 23.10257,
     "lng": -82.39304,
     "country": "CU",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -499,16 +504,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5145758",
     "image_url": "Palacio de los Deportes, Ciudad Deportiva. Havana, Cuba. Nicolás Arroyo & Gabriela Menendez.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400111",
@@ -521,18 +528,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Capit%C3%A1n_San_Luis",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400111",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400244",
@@ -545,18 +555,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Guillerm%C3%B3n_Moncada",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400244",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400427",
@@ -569,18 +582,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Nelson_Fern%C3%A1ndez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400427",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5411069",
@@ -593,18 +609,21 @@
     "capacity": 13000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Julio_Antonio_Mella_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5411069",
     "image_url": "JulioAntonioMella.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5480072",
@@ -617,6 +636,7 @@
     "capacity": 5000,
     "opened_year": 1957,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -624,16 +644,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Cuban National Series",
+        "name_ja": "セリエ・ナシオナル・デ・ベイスボル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Crist%C3%B3bal_Labra",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5480072",
     "image_url": "CristobalLabra.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5974857",
@@ -646,18 +673,21 @@
     "capacity": null,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ITM_Jos%C3%A9_Mart%C3%AD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5974857",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q633424",
@@ -670,6 +700,7 @@
     "capacity": 18000,
     "opened_year": 1966,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -681,16 +712,27 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Nacional de Fútbol de Cuba",
+        "name_ja": "カンペオナート・ナシオナル・デ・フットボール・デ・キューバ"
+      },
+      {
+        "name": "Cuban National Series",
+        "name_ja": "セリエ・ナシオナル・デ・ベイスボル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Augusto_C%C3%A9sar_Sandino",
     "wikidata_url": "https://www.wikidata.org/wiki/Q633424",
     "image_url": "Estadio Augusto César Sandino (Santa Clara) - ground.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6949783",
@@ -703,18 +745,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A1rtires_de_Barbados_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6949783",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7023047",
@@ -727,18 +772,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nguyen_Van_Troi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7023047",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7102360",
@@ -750,19 +798,22 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1915,
-    "closed_year": null,
+    "closed_year": 1959,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oriental_Park_Racetrack",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7102360",
     "image_url": "OrientalParkRactrack-1921.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q72980989",
@@ -771,21 +822,26 @@
     "lat": 23.1313431,
     "lng": -82.3496636,
     "country": "CU",
-    "sport_types": [],
+    "sport_types": [
+      "ボクシング"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q72980989",
     "image_url": "Gimnasio de Boxeo Rafael Trejo (34379116893).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7927166",
@@ -794,21 +850,26 @@
     "lat": 23.0381,
     "lng": -81.5883,
     "country": "CU",
-    "sport_types": [],
+    "sport_types": [
+      "野球"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Victoria_de_Gir%C3%B3n_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7927166",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

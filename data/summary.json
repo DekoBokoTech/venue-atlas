@@ -1,5 +1,16 @@
 [
   {
+    "id": "Q473806",
+    "name": "Deutsches Stadion",
+    "name_ja": null,
+    "lat": 49.422197,
+    "lng": 11.114142,
+    "country": "DE",
+    "capacity": 400000,
+    "is_existing": false,
+    "sport_types": []
+  },
+  {
     "id": "Q3531421",
     "name": "Narendra Modi Stadium",
     "name_ja": "ナレンドラ・モディ・スタジアム",
@@ -13,6 +24,32 @@
     ]
   },
   {
+    "id": "Q2736585",
+    "name": "Estádio da Luz (1954)",
+    "name_ja": "エスタディオ・ダ・ルス (1954年)",
+    "lat": 38.753611,
+    "lng": -9.182639,
+    "country": "PT",
+    "capacity": 120000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q320454",
+    "name": "Estadio Azteca",
+    "name_ja": "エスタディオ・アステカ",
+    "lat": 19.303055555,
+    "lng": -99.150555555,
+    "country": "MX",
+    "capacity": 115000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q211618",
     "name": "Rungrado 1st of May Stadium",
     "name_ja": "綾羅島メーデー・スタジアム",
@@ -20,7 +57,10 @@
     "lng": 125.775277777,
     "country": "KP",
     "capacity": 114000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q159848",
@@ -44,7 +84,10 @@
     "lng": 31.312333,
     "country": "EG",
     "capacity": 100500,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q330136",
@@ -61,6 +104,19 @@
       "サッカー",
       "ラグビーユニオン",
       "ラグビーリーグ"
+    ]
+  },
+  {
+    "id": "Q8069248",
+    "name": "Zentralstadion",
+    "name_ja": "ライプツィヒ中央競技場",
+    "lat": 51.345794,
+    "lng": 12.348219,
+    "country": "DE",
+    "capacity": 100000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
     ]
   },
   {
@@ -85,6 +141,21 @@
     "is_existing": false,
     "sport_types": [
       "サッカー"
+    ]
+  },
+  {
+    "id": "Q13205",
+    "name": "Stade de France",
+    "name_ja": "スタッド・ド・フランス",
+    "lat": 48.924444444,
+    "lng": 2.36,
+    "country": "FR",
+    "capacity": 96000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン",
+      "陸上競技"
     ]
   },
   {
@@ -117,6 +188,19 @@
     ]
   },
   {
+    "id": "Q1136764",
+    "name": "Cotton Bowl",
+    "name_ja": "コットン・ボウル",
+    "lat": 32.779722222,
+    "lng": -96.759722222,
+    "country": "US",
+    "capacity": 92100,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q128468",
     "name": "Wembley Stadium",
     "name_ja": "ウェンブリー・スタジアム",
@@ -139,7 +223,10 @@
     "lng": 51.490388888,
     "country": "QA",
     "capacity": 88966,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q557578",
@@ -149,7 +236,37 @@
     "lng": 29.7293,
     "country": "EG",
     "capacity": 86000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q635363",
+    "name": "National Stadium, Bukit Jalil",
+    "name_ja": "ブキット・ジャリル国立競技場",
+    "lat": 3.054666666,
+    "lng": 101.691166666,
+    "country": "MY",
+    "capacity": 85000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q276354",
+    "name": "Monumental Stadium",
+    "name_ja": "エスタディオ・モヌメンタル・アントニオ・ベスプチオ・リベルティ",
+    "lat": -34.545277777,
+    "lng": -58.449722222,
+    "country": "AR",
+    "capacity": 84567,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q653535",
@@ -159,7 +276,23 @@
     "lng": 51.275528,
     "country": "IR",
     "capacity": 84412,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q767558",
+    "name": "Universitary Olympic Stadium",
+    "name_ja": "エスタディオ・オリンピコ・ウニベルシタリオ",
+    "lat": 19.331928,
+    "lng": -99.192106,
+    "country": "MX",
+    "capacity": 83954,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q295886",
@@ -193,6 +326,35 @@
     ]
   },
   {
+    "id": "Q10862290",
+    "name": "MetLife Stadium",
+    "name_ja": "メットライフ・スタジアム",
+    "lat": 40.813611111,
+    "lng": -74.074444444,
+    "country": "US",
+    "capacity": 82500,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q478225",
+    "name": "Croke Park",
+    "name_ja": "クローク・パーク",
+    "lat": 53.360833333,
+    "lng": -6.251111111,
+    "country": "IE",
+    "capacity": 82300,
+    "is_existing": true,
+    "sport_types": [
+      "ラグビーユニオン",
+      "ゲーリックフットボール",
+      "ハーリング",
+      "ゲーリック・ゲームズ"
+    ]
+  },
+  {
     "id": "Q209725",
     "name": "Twickenham Stadium",
     "name_ja": "トゥイッケナム・スタジアム",
@@ -220,6 +382,30 @@
     ]
   },
   {
+    "id": "Q6124453",
+    "name": "Jakarta International Stadium",
+    "name_ja": "ジャカルタ国際スタジアム",
+    "lat": -6.124444444,
+    "lng": 106.860277777,
+    "country": "ID",
+    "capacity": 82000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q150928",
+    "name": "Westfalenstadion",
+    "name_ja": "ヴェストファーレンシュタディオン",
+    "lat": 51.4925,
+    "lng": 7.451667,
+    "country": "DE",
+    "capacity": 81359,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q221122",
     "name": "Atatürk Olympic Stadium",
     "name_ja": "アタテュルク・オリンピヤット・スタディ",
@@ -227,6 +413,32 @@
     "lng": 28.765702777,
     "country": "TR",
     "capacity": 80597,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1651698",
+    "name": "Shah Alam Stadium",
+    "name_ja": "シャー・アラム・スタジアム",
+    "lat": 3.08225,
+    "lng": 101.544944,
+    "country": "MY",
+    "capacity": 80372,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1369426",
+    "name": "Estadio Monumental U",
+    "name_ja": "エスタディオ・モヌメンタル (ペルー)",
+    "lat": -12.055694,
+    "lng": -76.935972,
+    "country": "PE",
+    "capacity": 80093,
     "is_existing": true,
     "sport_types": [
       "サッカー"
@@ -253,7 +465,10 @@
     "lng": 15.31,
     "country": "CD",
     "capacity": 80000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q133525",
@@ -333,6 +548,19 @@
     ]
   },
   {
+    "id": "Q1068044",
+    "name": "Gelora Bung Karno Stadium",
+    "name_ja": "ゲロラ・ブン・カルノ・スタジアム",
+    "lat": -6.218578,
+    "lng": 106.802511,
+    "country": "ID",
+    "capacity": 77193,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1535159",
     "name": "Stade 5 Juillet 1962",
     "name_ja": "1962年7月5日スタジアム",
@@ -340,7 +568,23 @@
     "lng": 2.995194,
     "country": "DZ",
     "capacity": 76200,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技"
+    ]
+  },
+  {
+    "id": "Q1046135",
+    "name": "Empower Field at Mile High",
+    "name_ja": "エンパワー・フィールド・アット・マイル・ハイ",
+    "lat": 39.743888888,
+    "lng": -105.02,
+    "country": "US",
+    "capacity": 76125,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
   },
   {
     "id": "Q82709",
@@ -383,6 +627,32 @@
     ]
   },
   {
+    "id": "Q3059094",
+    "name": "Estádio José Alvalade (1956)",
+    "name_ja": "エスタディオ・ジョゼ・アルヴァラーデ",
+    "lat": 38.7628177,
+    "lng": -9.1586173,
+    "country": "PT",
+    "capacity": 75200,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q3733334",
+    "name": "Estadio Gasómetro",
+    "name_ja": "エスタディオ・エル・ガソメトロ",
+    "lat": -34.63501667,
+    "lng": -58.42352222,
+    "country": "AR",
+    "capacity": 75000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q3107495",
     "name": "Tangier Grand Stadium",
     "name_ja": "スタッド・イブン・バットゥータ",
@@ -390,7 +660,10 @@
     "lng": -5.858105,
     "country": "MA",
     "capacity": 75000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q734097",
@@ -400,7 +673,36 @@
     "lng": 37.117778,
     "country": "SY",
     "capacity": 75000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q151374",
+    "name": "Berlin Olympic Stadium",
+    "name_ja": "ベルリン・オリンピアシュタディオン",
+    "lat": 52.514722222,
+    "lng": 13.239444444,
+    "country": "DE",
+    "capacity": 74475,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1058931",
+    "name": "Georgia Dome",
+    "name_ja": "ジョージア・ドーム",
+    "lat": 33.7575,
+    "lng": -84.400833333,
+    "country": "US",
+    "capacity": 74228,
+    "is_existing": false,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
   },
   {
     "id": "Q204496",
@@ -449,6 +751,32 @@
     ]
   },
   {
+    "id": "Q1124181",
+    "name": "Donald W. Reynolds Razorback Stadium",
+    "name_ja": "ドナルド・W・レイノルズ・レイザーバック・スタジアム",
+    "lat": 36.0681,
+    "lng": -94.1789,
+    "country": "US",
+    "capacity": 72000,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q1100756",
+    "name": "Huntington Bank Field",
+    "name_ja": "ファーストエナジー・スタジアム",
+    "lat": 41.506111111,
+    "lng": -81.699444444,
+    "country": "US",
+    "capacity": 71516,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
     "id": "Q821761",
     "name": "Estádio do Morumbi",
     "name_ja": "エスタジオ・ド・モルンビー",
@@ -458,6 +786,33 @@
     "capacity": 71200,
     "is_existing": true,
     "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1320105",
+    "name": "Faurot Field",
+    "name_ja": null,
+    "lat": 38.935833,
+    "lng": -92.333056,
+    "country": "US",
+    "capacity": 71168,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q1058864",
+    "name": "Reliant Stadium",
+    "name_ja": "NRGスタジアム",
+    "lat": 29.684722222,
+    "lng": -95.410833333,
+    "country": "US",
+    "capacity": 71054,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール",
       "サッカー"
     ]
   },
@@ -472,6 +827,19 @@
     "is_existing": true,
     "sport_types": [
       "サッカー"
+    ]
+  },
+  {
+    "id": "Q1141336",
+    "name": "M&T Bank Stadium",
+    "name_ja": "M&Tバンク・スタジアム",
+    "lat": 39.278055555,
+    "lng": -76.622777777,
+    "country": "US",
+    "capacity": 71008,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
     ]
   },
   {
@@ -510,7 +878,24 @@
     "lng": 46.839236,
     "country": "SA",
     "capacity": 70200,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q183529",
+    "name": "Olimpiyskiy National Sports Complex",
+    "name_ja": "オリンピスキ・スタジアム",
+    "lat": 50.433333333,
+    "lng": 30.521666666,
+    "country": "UA",
+    "capacity": 70050,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
   },
   {
     "id": "Q1138274",
@@ -521,6 +906,19 @@
     "country": "ES",
     "capacity": 70044,
     "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q467373",
+    "name": "Stadion der Weltjugend",
+    "name_ja": "シュタディオーン・デア・ヴェルトユーゲント駅",
+    "lat": 52.533889,
+    "lng": 13.376667,
+    "country": "DE",
+    "capacity": 70000,
+    "is_existing": false,
     "sport_types": [
       "サッカー"
     ]
@@ -559,7 +957,10 @@
     "lng": 125.757694444,
     "country": "KP",
     "capacity": 70000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q259830",
@@ -595,7 +996,38 @@
     "lng": 49.91979,
     "country": "AZ",
     "capacity": 69870,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
+  },
+  {
+    "id": "Q1033076",
+    "name": "Candlestick Park",
+    "name_ja": "キャンドルスティック・パーク",
+    "lat": 37.713611111,
+    "lng": -122.386111111,
+    "country": "US",
+    "capacity": 69732,
+    "is_existing": false,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q189663",
+    "name": "Olympic Stadium in Athens",
+    "name_ja": "アテネ・オリンピックスタジアム",
+    "lat": 38.036111111,
+    "lng": 23.7875,
+    "country": "GR",
+    "capacity": 69618,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
   },
   {
     "id": "Q134713646",
@@ -605,7 +1037,10 @@
     "lng": -6.889111,
     "country": "MA",
     "capacity": 69500,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q215493",
@@ -628,7 +1063,23 @@
     "lng": 51.48777771,
     "country": "QA",
     "capacity": 68895,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1052370",
+    "name": "Lincoln Financial Field",
+    "name_ja": "リンカーン・フィナンシャル・フィールド",
+    "lat": 39.90089,
+    "lng": -75.16776,
+    "country": "US",
+    "capacity": 68532,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
   },
   {
     "id": "Q722970",
@@ -644,6 +1095,19 @@
     ]
   },
   {
+    "id": "Q7875112",
+    "name": "Estádio da Luz",
+    "name_ja": "エスタディオ・ダ・ルス",
+    "lat": 38.752777777,
+    "lng": -9.184722222,
+    "country": "PT",
+    "capacity": 68100,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1858169",
     "name": "Prince Moulay Abdellah Stadium",
     "name_ja": "スタッド・ムーレイ・アブドゥラ",
@@ -651,7 +1115,11 @@
     "lng": -6.889111,
     "country": "MA",
     "capacity": 68095,
-    "sport_types": []
+    "is_existing": false,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
   },
   {
     "id": "Q1362236",
@@ -720,6 +1188,59 @@
     ]
   },
   {
+    "id": "Q1142992",
+    "name": "Nissan Stadium",
+    "name_ja": "ニッサン・スタジアム",
+    "lat": 36.166388888,
+    "lng": -86.771388888,
+    "country": "US",
+    "capacity": 67700,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q2838923",
+    "name": "Estadio Universidad San Marcos",
+    "name_ja": null,
+    "lat": -12.057916,
+    "lng": -77.083634,
+    "country": "PE",
+    "capacity": 67469,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q202150",
+    "name": "Stade Vélodrome",
+    "name_ja": "スタッド・ヴェロドローム",
+    "lat": 43.269241,
+    "lng": 5.394907,
+    "country": "FR",
+    "capacity": 67394,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q39069592",
+    "name": "Puskás Aréna",
+    "name_ja": "プスカシュ・アレーナ",
+    "lat": 47.503035,
+    "lng": 19.097929,
+    "country": "HU",
+    "capacity": 67215,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1024926",
     "name": "Murrayfield Stadium",
     "name_ja": "マレーフィールド",
@@ -740,7 +1261,10 @@
     "lng": -7.646817,
     "country": "MA",
     "capacity": 67000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q3273189",
@@ -750,7 +1274,10 @@
     "lng": 46.295833,
     "country": "IR",
     "capacity": 66833,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q175477",
@@ -793,14 +1320,69 @@
     ]
   },
   {
-    "id": "Q16531664",
-    "name": "Q16531664",
-    "name_ja": null,
-    "lat": 30.4412,
-    "lng": 47.7871,
-    "country": "IQ",
+    "id": "Q127429",
+    "name": "Allianz Arena",
+    "name_ja": "アリアンツ・アレーナ",
+    "lat": 48.218775,
+    "lng": 11.624752777,
+    "country": "DE",
+    "capacity": 66000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1292739",
+    "name": "The Dome at America's Center",
+    "name_ja": "エドワード・ジョーンズ・ドーム",
+    "lat": 38.632777777,
+    "lng": -90.188611111,
+    "country": "US",
+    "capacity": 66000,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q1141343",
+    "name": "Raymond James Stadium",
+    "name_ja": "レイモンド・ジェームス・スタジアム",
+    "lat": 27.975833333,
+    "lng": -82.503333333,
+    "country": "US",
+    "capacity": 65890,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q1067148",
+    "name": "Acrisure Stadium",
+    "name_ja": "アクリシュア・スタジアム",
+    "lat": 40.446666666,
+    "lng": -80.015833333,
+    "country": "US",
+    "capacity": 65500,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q2280722",
+    "name": "Palaran Stadium",
+    "name_ja": "ウタマ・パララン・スタジアム",
+    "lat": -0.5864,
+    "lng": 117.13142,
+    "country": "ID",
     "capacity": 65000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q30314789",
@@ -810,7 +1392,11 @@
     "lng": 47.77979,
     "country": "IQ",
     "capacity": 65000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
   },
   {
     "id": "Q3500331",
@@ -820,7 +1406,10 @@
     "lng": 47.780833,
     "country": "IQ",
     "capacity": 65000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q648214",
@@ -830,7 +1419,10 @@
     "lng": 47.918611111,
     "country": "KW",
     "capacity": 65000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1511121",
@@ -840,7 +1432,25 @@
     "lng": 13.135878,
     "country": "LY",
     "capacity": 65000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q840546",
+    "name": "Rajamangala Stadium",
+    "name_ja": "ラジャマンガラ・スタジアム",
+    "lat": 13.75541,
+    "lng": 100.62213,
+    "country": "TH",
+    "capacity": 65000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技",
+      "自動車競技"
+    ]
   },
   {
     "id": "Q1848770",
@@ -850,7 +1460,64 @@
     "lng": 10.272777777,
     "country": "TN",
     "capacity": 65000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技",
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1142586",
+    "name": "Ford Field",
+    "name_ja": "フォード・フィールド",
+    "lat": 42.34,
+    "lng": -83.045555555,
+    "country": "US",
+    "capacity": 65000,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q134250652",
+    "name": "New Stadium at RFK Campus",
+    "name_ja": null,
+    "lat": 38.89,
+    "lng": -76.971944444,
+    "country": "US",
+    "capacity": 65000,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール",
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1072186",
+    "name": "Hubert H. Humphrey Metrodome",
+    "name_ja": "ヒューバート・H・ハンフリー・メトロドーム",
+    "lat": 44.973888888,
+    "lng": -93.258055555,
+    "country": "US",
+    "capacity": 64121,
+    "is_existing": false,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q676004",
+    "name": "Wankdorf Stadium",
+    "name_ja": "シュタディオン・ヴァンクドルフ",
+    "lat": 46.962778,
+    "lng": 7.465,
+    "country": "CH",
+    "capacity": 64000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q482446",
@@ -875,6 +1542,48 @@
     "capacity": 63667,
     "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q1132413",
+    "name": "Soldier Field",
+    "name_ja": "ソルジャー・フィールド",
+    "lat": 41.8625,
+    "lng": -87.616666666,
+    "country": "US",
+    "capacity": 63500,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q1346716",
+    "name": "Jalisco Stadium",
+    "name_ja": "エスタディオ・ハリスコ",
+    "lat": 20.705,
+    "lng": -103.328139,
+    "country": "MX",
+    "capacity": 63200,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q131610",
+    "name": "Munich Olympic Stadium",
+    "name_ja": "ミュンヘン・オリンピアシュタディオン",
+    "lat": 48.173055555,
+    "lng": 11.546666666,
+    "country": "DE",
+    "capacity": 63118,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技",
+      "スピードウェイ"
+    ]
   },
   {
     "id": "Q55074091",
@@ -937,6 +1646,32 @@
     ]
   },
   {
+    "id": "Q1026837",
+    "name": "California Memorial Stadium",
+    "name_ja": "カリフォルニア記念スタジアム",
+    "lat": 37.871111111,
+    "lng": -122.250833333,
+    "country": "US",
+    "capacity": 62467,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q1025406",
+    "name": "Astrodome",
+    "name_ja": "アストロドーム",
+    "lat": 29.685,
+    "lng": -95.407777777,
+    "country": "US",
+    "capacity": 62439,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
     "id": "Q6411211",
     "name": "King Abdullah Sports City",
     "name_ja": "キング・アブドゥッラー・スポーツシティ・スタジアム",
@@ -944,7 +1679,53 @@
     "lng": 39.165096,
     "country": "SA",
     "capacity": 62345,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "水球",
+      "テニス",
+      "陸上競技"
+    ]
+  },
+  {
+    "id": "Q150961",
+    "name": "Arena AufSchalke",
+    "name_ja": "フェルティンス・アレーナ",
+    "lat": 51.554502777,
+    "lng": 7.067588888,
+    "country": "DE",
+    "capacity": 62271,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "スピードウェイ"
+    ]
+  },
+  {
+    "id": "Q700462",
+    "name": "Parkstadion",
+    "name_ja": "パルクシュタディオン",
+    "lat": 51.559368,
+    "lng": 7.067835,
+    "country": "DE",
+    "capacity": 62008,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1133538",
+    "name": "Scott Stadium",
+    "name_ja": "スコット・スタジアム",
+    "lat": 38.031111111,
+    "lng": -78.513611111,
+    "country": "US",
+    "capacity": 61500,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
   },
   {
     "id": "Q1304837",
@@ -993,7 +1774,10 @@
     "lng": 7.453389,
     "country": "NG",
     "capacity": 60491,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q216037",
@@ -1055,7 +1839,36 @@
     "lng": -56.152778,
     "country": "UY",
     "capacity": 60235,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q15977299",
+    "name": "Stadionul Național",
+    "name_ja": "リア・マノリウ・スタジアム",
+    "lat": 44.437199,
+    "lng": 26.152202,
+    "country": "RO",
+    "capacity": 60120,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q152349",
+    "name": "MHPArena",
+    "name_ja": "MHPアレーナ",
+    "lat": 48.792222,
+    "lng": 9.231944,
+    "country": "DE",
+    "capacity": 60058,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q741064",
@@ -1068,6 +1881,20 @@
     "is_existing": true,
     "sport_types": [
       "サッカー"
+    ]
+  },
+  {
+    "id": "Q1062157",
+    "name": "Mario Alberto Kempes Stadium",
+    "name_ja": "エスタディオ・マリオ・アルベルト・ケンペス",
+    "lat": -31.368956,
+    "lng": -64.246244,
+    "country": "AR",
+    "capacity": 60000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
     ]
   },
   {
@@ -1102,7 +1929,10 @@
     "lng": -4.0746,
     "country": "CI",
     "capacity": 60000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q124727318",
@@ -1177,6 +2007,17 @@
     ]
   },
   {
+    "id": "Q1508970",
+    "name": "Sportforum Chemnitz",
+    "name_ja": null,
+    "lat": 50.805833,
+    "lng": 12.934722,
+    "country": "DE",
+    "capacity": 60000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q918580",
     "name": "Camp de Les Corts",
     "name_ja": "カンプ・ダ・ラス・コルツ",
@@ -1193,10 +2034,22 @@
     "id": "Q20982407",
     "name": "Bahir Dar Stadium",
     "name_ja": null,
-    "lat": 11.584722,
-    "lng": 37.382778,
+    "lat": 11.584528,
+    "lng": 37.382944,
     "country": "ET",
     "capacity": 60000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q3496212",
+    "name": "Olympic Stadium in Grenoble",
+    "name_ja": "スタッド・オランピック・ド・グルノーブル",
+    "lat": 45.1658,
+    "lng": 5.7322,
+    "country": "FR",
+    "capacity": 60000,
+    "is_existing": false,
     "sport_types": []
   },
   {
@@ -1220,7 +2073,10 @@
     "lng": 16.018077777,
     "country": "HR",
     "capacity": 60000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1684271",
@@ -1257,7 +2113,11 @@
     "lng": 36.890556,
     "country": "KE",
     "capacity": 60000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "バドミントン"
+    ]
   },
   {
     "id": "Q7596298",
@@ -1278,7 +2138,11 @@
     "lng": -17.452014,
     "country": "SN",
     "capacity": 60000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "セネガル相撲"
+    ]
   },
   {
     "id": "Q850225",
@@ -1288,7 +2152,23 @@
     "lng": 39.273811,
     "country": "TZ",
     "capacity": 60000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1179474",
+    "name": "Mountaineer Field at Milan Puskar Stadium",
+    "name_ja": null,
+    "lat": 39.650277777,
+    "lng": -79.954722222,
+    "country": "US",
+    "capacity": 60000,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
   },
   {
     "id": "Q16632749",
@@ -1298,7 +2178,10 @@
     "lng": 28.2726,
     "country": "ZM",
     "capacity": 60000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1658746",
@@ -1308,7 +2191,11 @@
     "lng": 30.9947,
     "country": "ZW",
     "capacity": 60000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q754200",
@@ -1319,6 +2206,58 @@
     "country": "IT",
     "capacity": 59972,
     "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q154074",
+    "name": "ista-Borussia-Park",
+    "name_ja": "シュタディオン・イム・ボルシア・パルク",
+    "lat": 51.174583333,
+    "lng": 6.385463888,
+    "country": "DE",
+    "capacity": 59749,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q8507",
+    "name": "Parc Olympique Lyonnais",
+    "name_ja": "スタッド・デ・リュミエール",
+    "lat": 45.765224,
+    "lng": 4.982131,
+    "country": "FR",
+    "capacity": 59286,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1189339",
+    "name": "Three Rivers Stadium",
+    "name_ja": "スリー・リバース・スタジアム",
+    "lat": 40.446666666,
+    "lng": -80.012777777,
+    "country": "US",
+    "capacity": 59000,
+    "is_existing": false,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q499855",
+    "name": "La Bombonera",
+    "name_ja": "ラ・ボンボネーラ",
+    "lat": -34.63565,
+    "lng": -58.36465,
+    "country": "AR",
+    "capacity": 58840,
+    "is_existing": true,
     "sport_types": [
       "サッカー"
     ]
@@ -1394,6 +2333,19 @@
     ]
   },
   {
+    "id": "Q133827423",
+    "name": "Stagg Field",
+    "name_ja": null,
+    "lat": 41.79242291,
+    "lng": -87.599342446,
+    "country": "US",
+    "capacity": 58000,
+    "is_existing": false,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
     "id": "Q958185",
     "name": "Castelão",
     "name_ja": "エスタジオ・ゴヴェルナドール・プラーシド・カステロ",
@@ -1401,6 +2353,32 @@
     "lng": -38.522481,
     "country": "BR",
     "capacity": 57876,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1056326",
+    "name": "Shea Stadium",
+    "name_ja": "シェイ・スタジアム",
+    "lat": 40.755555555,
+    "lng": -73.848055555,
+    "country": "US",
+    "capacity": 57333,
+    "is_existing": false,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q150933",
+    "name": "Volksparkstadion",
+    "name_ja": "フォルクスパルクシュタディオン",
+    "lat": 53.586944,
+    "lng": 9.898611,
+    "country": "DE",
+    "capacity": 57000,
     "is_existing": true,
     "sport_types": [
       "サッカー"
@@ -1462,6 +2440,19 @@
     ]
   },
   {
+    "id": "Q594230",
+    "name": "Ferenc Puskás Stadium",
+    "name_ja": "プシュカーシュ・フェレンツ・シュタディオン",
+    "lat": 47.503094,
+    "lng": 19.0982,
+    "country": "HU",
+    "capacity": 56000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q275715",
     "name": "Lluís Companys Olympic Stadium",
     "name_ja": "エスタディ・オリンピック・リュイス・コンパニス",
@@ -1475,6 +2466,32 @@
     ]
   },
   {
+    "id": "Q1196031",
+    "name": "El Cilindro",
+    "name_ja": "エスタディオ・プレシデンテ・ペロン",
+    "lat": -34.6675,
+    "lng": -58.368611,
+    "country": "AR",
+    "capacity": 55880,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q338602",
+    "name": "National Arena",
+    "name_ja": "スタディオヌル・ナツィオナル",
+    "lat": 44.4372,
+    "lng": 26.1525,
+    "country": "RO",
+    "capacity": 55634,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q478000",
     "name": "Rajko Mitić Stadium",
     "name_ja": "スタディオン・ツルヴェナ・ズヴェズダ",
@@ -1482,7 +2499,10 @@
     "lng": 20.464722222,
     "country": "RS",
     "capacity": 55538,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q917998",
@@ -1519,6 +2539,20 @@
     ]
   },
   {
+    "id": "Q613759",
+    "name": "Plovdiv Stadium",
+    "name_ja": "プロヴディフ・スタジアム",
+    "lat": 42.149722,
+    "lng": 24.719722,
+    "country": "BG",
+    "capacity": 55000,
+    "is_existing": true,
+    "sport_types": [
+      "トラック&フィールド",
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q282533",
     "name": "Helong Stadium",
     "name_ja": "賀竜体育中心",
@@ -1528,6 +2562,19 @@
     "capacity": 55000,
     "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q2090253",
+    "name": "Gelora Bung Tomo Stadium",
+    "name_ja": "ゲロラ・ブン・トモ・スタジアム",
+    "lat": -7.225142,
+    "lng": 112.621708,
+    "country": "ID",
+    "capacity": 55000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q733748",
@@ -1543,6 +2590,20 @@
     ]
   },
   {
+    "id": "Q1347689",
+    "name": "Estadio GNP Seguros",
+    "name_ja": "フォロ・ソル",
+    "lat": 19.404889,
+    "lng": -99.095944,
+    "country": "MX",
+    "capacity": 55000,
+    "is_existing": true,
+    "sport_types": [
+      "野球",
+      "自動車競技"
+    ]
+  },
+  {
     "id": "Q3236019",
     "name": "National Stadium",
     "name_ja": "ナショナルスタジアム",
@@ -1550,6 +2611,7 @@
     "lng": 103.874611111,
     "country": "SG",
     "capacity": 55000,
+    "is_existing": false,
     "sport_types": []
   },
   {
@@ -1560,7 +2622,10 @@
     "lng": 103.8742626,
     "country": "SG",
     "capacity": 55000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q713442",
@@ -1570,7 +2635,11 @@
     "lng": 120.295,
     "country": "TW",
     "capacity": 55000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q606571",
@@ -1599,6 +2668,19 @@
     ]
   },
   {
+    "id": "Q155351",
+    "name": "Merkur Spiel-Arena",
+    "name_ja": "エスプリ・アレーナ",
+    "lat": 51.261539,
+    "lng": 6.733083,
+    "country": "DE",
+    "capacity": 54600,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q290801",
     "name": "Dinamo Arena",
     "name_ja": "ボリス・パイチャーゼ・スタジアム",
@@ -1606,7 +2688,10 @@
     "lng": 44.78975,
     "country": "GE",
     "capacity": 54549,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q612227",
@@ -1672,7 +2757,10 @@
     "lng": 44.494444,
     "country": "AM",
     "capacity": 54208,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q924172",
@@ -1716,6 +2804,19 @@
       "ラグビーユニオン",
       "サッカー",
       "ラグビーリーグ"
+    ]
+  },
+  {
+    "id": "Q3058827",
+    "name": "Estadio Monterrey",
+    "name_ja": "エスタディオBBVAバンコメル",
+    "lat": 25.670172,
+    "lng": -100.2437,
+    "country": "MX",
+    "capacity": 53500,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
     ]
   },
   {
@@ -1769,6 +2870,34 @@
     "sport_types": []
   },
   {
+    "id": "Q1369163",
+    "name": "Unique Diego Armando Maradona Stadium",
+    "name_ja": "エスタディオ・シウダ・デ・ラ・プラタ",
+    "lat": -34.91375,
+    "lng": -57.989028,
+    "country": "AR",
+    "capacity": 53000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q2421018",
+    "name": "Semple Stadium",
+    "name_ja": "センプル・スタジアム",
+    "lat": 52.682222222,
+    "lng": -7.825,
+    "country": "IE",
+    "capacity": 53000,
+    "is_existing": true,
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ]
+  },
+  {
     "id": "Q6936216",
     "name": "EMS Stadium",
     "name_ja": "EMSスタジアム",
@@ -1806,6 +2935,19 @@
     ]
   },
   {
+    "id": "Q180479",
+    "name": "Donbass Arena",
+    "name_ja": "ドンバス・アリーナ",
+    "lat": 48.020833,
+    "lng": 37.809722,
+    "country": "UA",
+    "capacity": 52518,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q643328",
     "name": "Lang Park",
     "name_ja": "サンコープ・スタジアム",
@@ -1830,6 +2972,19 @@
     "capacity": 52500,
     "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q5017115",
+    "name": "Idrætsparken",
+    "name_ja": "コペンハーゲン・イドラーツパルク",
+    "lat": 55.7025,
+    "lng": 12.572222,
+    "country": "DK",
+    "capacity": 52377,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q191774",
@@ -1861,6 +3016,19 @@
     ]
   },
   {
+    "id": "Q287359",
+    "name": "Estádio José Alvalade",
+    "name_ja": "エスタディオ・ジョゼ・アルヴァラーデ",
+    "lat": 38.761194444,
+    "lng": -9.160783333,
+    "country": "PT",
+    "capacity": 52095,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q401009",
     "name": "Stade Ahmadou Ahidjo",
     "name_ja": "スタッド・アフマドゥ・アヒージョ",
@@ -1868,7 +3036,10 @@
     "lng": 11.540528,
     "country": "CM",
     "capacity": 52000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q194576",
@@ -1889,7 +3060,10 @@
     "lng": -63.2677,
     "country": "VE",
     "capacity": 52000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1368280",
@@ -1946,6 +3120,20 @@
     ]
   },
   {
+    "id": "Q244402",
+    "name": "Aviva Stadium",
+    "name_ja": "アビバ・スタジアム",
+    "lat": 53.334956,
+    "lng": -6.228253,
+    "country": "IE",
+    "capacity": 51700,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
     "id": "Q330298",
     "name": "De Kuip",
     "name_ja": "フェイエノールト・スタディオン",
@@ -1953,6 +3141,32 @@
     "lng": 4.523252777,
     "country": "NL",
     "capacity": 51577,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q938693",
+    "name": "St. Jakob Stadium",
+    "name_ja": "シュタディオン・ザンクト・ヤコブ",
+    "lat": 47.541389,
+    "lng": 7.62,
+    "country": "CH",
+    "capacity": 51500,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q157273",
+    "name": "Waldstadion",
+    "name_ja": "ヴァルトシュタディオン",
+    "lat": 50.068611,
+    "lng": 8.645278,
+    "country": "DE",
+    "capacity": 51500,
     "is_existing": true,
     "sport_types": [
       "サッカー"
@@ -2006,7 +3220,23 @@
     "lng": 48.669167,
     "country": "IR",
     "capacity": 51000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q666183",
+    "name": "Estadio Akron",
+    "name_ja": "エスタディオ・アクロン",
+    "lat": 20.681667,
+    "lng": -103.462778,
+    "country": "MX",
+    "capacity": 50850,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q222865",
@@ -2029,7 +3259,38 @@
     "lng": 51.448055555,
     "country": "QA",
     "capacity": 50500,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
+  },
+  {
+    "id": "Q1129916",
+    "name": "Coors Field",
+    "name_ja": "クアーズ・フィールド",
+    "lat": 39.756111111,
+    "lng": -104.994166666,
+    "country": "US",
+    "capacity": 50480,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q1369282",
+    "name": "José María Minella Stadium",
+    "name_ja": "エスタディオ・ホセ・マリア・ミネージャ",
+    "lat": -38.017944,
+    "lng": -57.582333,
+    "country": "AR",
+    "capacity": 50180,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q109373985",
@@ -2045,6 +3306,33 @@
     ]
   },
   {
+    "id": "Q271454",
+    "name": "Estádio do Dragão",
+    "name_ja": "エスタディオ・ド・ドラゴン",
+    "lat": 41.161758,
+    "lng": -8.583933,
+    "country": "PT",
+    "capacity": 50033,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q622671",
+    "name": "King Baudouin Stadium",
+    "name_ja": "ボードゥアン国王競技場",
+    "lat": 50.895705555,
+    "lng": 4.334083333,
+    "country": "BE",
+    "capacity": 50024,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
+  },
+  {
     "id": "Q1370665",
     "name": "Estádio 11 de Novembro",
     "name_ja": "エスタジオ・オンジ・デ・ノヴェンブロ",
@@ -2052,7 +3340,37 @@
     "lng": 13.283672,
     "country": "AO",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1192472",
+    "name": "Estadio Pedro Bidegain",
+    "name_ja": "エスタディオ・ペドロ・ビデガイン",
+    "lat": -34.652064,
+    "lng": -58.440119,
+    "country": "AR",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1196603",
+    "name": "José Amalfitani Stadium",
+    "name_ja": "エスタディオ・ホセ・アマルフィターニ",
+    "lat": -34.635375,
+    "lng": -58.520711,
+    "country": "AR",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q185741",
@@ -2076,7 +3394,23 @@
     "lng": 15.3222,
     "country": "CD",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q668606",
+    "name": "Stade Olympique de la Pontaise",
+    "name_ja": "スタッド・オランピック・ドゥ・ラ・ポンテーズ",
+    "lat": 46.534,
+    "lng": 6.625,
+    "country": "CH",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q5654439",
@@ -2111,11 +3445,14 @@
     "id": "Q3058822",
     "name": "Estadio Panamericano",
     "name_ja": null,
-    "lat": 23.157611111,
-    "lng": -82.31675,
+    "lat": 23.1575,
+    "lng": -82.31666667,
     "country": "CU",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q7596343",
@@ -2129,6 +3466,19 @@
     "sport_types": []
   },
   {
+    "id": "Q152599",
+    "name": "Max-Morlock-Stadion",
+    "name_ja": "フランケンシュタディオン",
+    "lat": 49.426240624,
+    "lng": 11.125617009,
+    "country": "DE",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1395123",
     "name": "May 19, 1956 Stadium",
     "name_ja": "1956年5月19日スタジアム",
@@ -2136,7 +3486,10 @@
     "lng": 7.733056,
     "country": "DZ",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q3495484",
@@ -2146,7 +3499,10 @@
     "lng": 4.014039,
     "country": "DZ",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q968208",
@@ -2156,7 +3512,23 @@
     "lng": -0.621638888,
     "country": "DZ",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1410402",
+    "name": "Pierre Mauroy Stadium",
+    "name_ja": "グラン・スタッド・リール・メトロポール",
+    "lat": 50.611962,
+    "lng": 3.130631,
+    "country": "FR",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2054064",
@@ -2205,6 +3577,47 @@
     "lng": -13.626667,
     "country": "GN",
     "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q208811",
+    "name": "Panathenaic Stadium",
+    "name_ja": "パナシナイコスタジアム",
+    "lat": 37.968333333,
+    "lng": 23.741111111,
+    "country": "GR",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技",
+      "アーチェリー",
+      "レスリング",
+      "重量挙げ",
+      "走高跳",
+      "棒高跳",
+      "走幅跳",
+      "三段跳",
+      "砲丸投",
+      "円盤投",
+      "100メートル競走",
+      "400メートル競走",
+      "800メートル競走",
+      "1500メートル競走",
+      "110メートルハードル"
+    ]
+  },
+  {
+    "id": "Q4357227",
+    "name": "Stadium at Olympia",
+    "name_ja": "オリンピアのスタジアム",
+    "lat": 37.639167,
+    "lng": 21.633056,
+    "country": "GR",
+    "capacity": 50000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -2237,6 +3650,7 @@
     "lng": 52.491389,
     "country": "IR",
     "capacity": 50000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -2260,7 +3674,10 @@
     "lng": 104.912083,
     "country": "KH",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q3496077",
@@ -2270,7 +3687,10 @@
     "lng": -7.921667,
     "country": "ML",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1639369",
@@ -2280,7 +3700,33 @@
     "lng": 96.186828,
     "country": "MM",
     "capacity": 50000,
+    "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q7636706",
+    "name": "Sultan Mizan Zainal Abidin Stadium",
+    "name_ja": "スルタン・ミザン・ザイナル・アビディン・スタジアム",
+    "lat": 5.3697337,
+    "lng": 103.1056112,
+    "country": "MY",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q312411",
+    "name": "Eden Park",
+    "name_ja": "イーデン・パーク",
+    "lat": -36.875277777,
+    "lng": 174.745,
+    "country": "NZ",
+    "capacity": 50000,
+    "is_existing": true,
+    "sport_types": [
+      "クリケット",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q24748157",
@@ -2290,7 +3736,37 @@
     "lng": 67.359475,
     "country": "PK",
     "capacity": 50000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "テスト・クリケット"
+    ]
+  },
+  {
+    "id": "Q387691",
+    "name": "Estádio das Antas",
+    "name_ja": null,
+    "lat": 41.164444444,
+    "lng": -8.586666666,
+    "country": "PT",
+    "capacity": 50000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1766153",
+    "name": "Gaelic Grounds",
+    "name_ja": "ゲーリック・グラウンズ",
+    "lat": 52.670139,
+    "lng": -8.654194,
+    "country": "IE",
+    "capacity": 49866,
+    "is_existing": true,
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ]
   },
   {
     "id": "Q2385498",
@@ -2300,7 +3776,49 @@
     "lng": 28.611389,
     "country": "ZM",
     "capacity": 49800,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q154298",
+    "name": "Fritz Walter Stadium",
+    "name_ja": "フリッツ・ヴァルター・シュタディオン",
+    "lat": 49.434444,
+    "lng": 7.775833,
+    "country": "DE",
+    "capacity": 49780,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1017286",
+    "name": "Busch Memorial Stadium",
+    "name_ja": "ブッシュ・メモリアル・スタジアム",
+    "lat": 38.623888888,
+    "lng": -90.1925,
+    "country": "US",
+    "capacity": 49676,
+    "is_existing": false,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q533015",
+    "name": "Estadio Ciudad de Lanús Néstor Díaz Pérez",
+    "name_ja": "エスタディオ・シウダ・デ・ラヌース (ネストル・ディアス・ペレス)",
+    "lat": -34.717667,
+    "lng": -58.383806,
+    "country": "AR",
+    "capacity": 49584,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q590474",
@@ -2310,7 +3828,10 @@
     "lng": 35.496111111,
     "country": "LB",
     "capacity": 49500,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q202762",
@@ -2352,6 +3873,19 @@
     ]
   },
   {
+    "id": "Q1369357",
+    "name": "Marcelo Bielsa Stadium",
+    "name_ja": "エスタディオ・マルセロ・ビエルサ",
+    "lat": -32.956056,
+    "lng": -60.661444,
+    "country": "AR",
+    "capacity": 49000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q3414046",
     "name": "Queensland Sport and Athletics Centre",
     "name_ja": "クイーンズランド・スポーツ・アンド・アスレティクス・センター",
@@ -2362,6 +3896,46 @@
     "is_existing": true,
     "sport_types": [
       "ラグビーリーグ"
+    ]
+  },
+  {
+    "id": "Q152633",
+    "name": "Niedersachsenstadion",
+    "name_ja": "ニーダーザクセンシュタディオン",
+    "lat": 52.36,
+    "lng": 9.731111,
+    "country": "DE",
+    "capacity": 49000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q1141174",
+    "name": "Oriole Park at Camden Yards",
+    "name_ja": "オリオール・パーク・アット・カムデン・ヤーズ",
+    "lat": 39.283888888,
+    "lng": -76.621666666,
+    "country": "US",
+    "capacity": 48876,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q1068011",
+    "name": "Chase Field",
+    "name_ja": "チェイス・フィールド",
+    "lat": 33.445277777,
+    "lng": -112.066944444,
+    "country": "US",
+    "capacity": 48519,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
     ]
   },
   {
@@ -2379,6 +3953,19 @@
     ]
   },
   {
+    "id": "Q280141",
+    "name": "Estadio Tomás Adolfo Ducó",
+    "name_ja": "エスタディオ・トマス・アドルフォ・ドゥコ",
+    "lat": -34.643494,
+    "lng": -58.396511,
+    "country": "AR",
+    "capacity": 48314,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1689612",
     "name": "Jinnah Sports Stadium",
     "name_ja": null,
@@ -2386,6 +3973,7 @@
     "lng": 73.092778,
     "country": "PK",
     "capacity": 48200,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -2417,6 +4005,19 @@
     ]
   },
   {
+    "id": "Q601162",
+    "name": "Lansdowne Road",
+    "name_ja": "ランズダウン・ロード",
+    "lat": 53.335005555,
+    "lng": -6.229202777,
+    "country": "IE",
+    "capacity": 48000,
+    "is_existing": false,
+    "sport_types": [
+      "ラグビーユニオン"
+    ]
+  },
+  {
     "id": "Q330033",
     "name": "National Stadium in Tokyo",
     "name_ja": "国立霞ヶ丘陸上競技場",
@@ -2427,6 +4028,20 @@
     "is_existing": false,
     "sport_types": [
       "陸上競技",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q193431",
+    "name": "Parc des Princes",
+    "name_ja": "パルク・デ・プランス",
+    "lat": 48.84145,
+    "lng": 2.25305,
+    "country": "FR",
+    "capacity": 47930,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
       "ラグビーユニオン"
     ]
   },
@@ -2458,6 +4073,32 @@
     ]
   },
   {
+    "id": "Q1193117",
+    "name": "T-Mobile Park",
+    "name_ja": "T-モバイル・パーク",
+    "lat": 47.591388888,
+    "lng": -122.3325,
+    "country": "US",
+    "capacity": 47476,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q124769",
+    "name": "Estadio Cuauhtémoc",
+    "name_ja": "エスタディオ・クアウテモック",
+    "lat": 19.078056,
+    "lng": -98.164444,
+    "country": "MX",
+    "capacity": 47417,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q642958",
     "name": "Stadio Nazionale",
     "name_ja": "スタディオ・ナツィオナーレPNF",
@@ -2471,6 +4112,19 @@
     ]
   },
   {
+    "id": "Q1369435",
+    "name": "Estadio Monumental",
+    "name_ja": "エスタディオ・モヌメンタル・ダビド・アレジャーノ",
+    "lat": -33.506611,
+    "lng": -70.605944,
+    "country": "CL",
+    "capacity": 47000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q109298370",
     "name": "Prince Mohammed bin Salman Stadium",
     "name_ja": null,
@@ -2478,6 +4132,7 @@
     "lng": 46.528,
     "country": "SA",
     "capacity": 46979,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -2502,7 +4157,10 @@
     "lng": 51.5225,
     "country": "QA",
     "capacity": 46890,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1369387",
@@ -2512,7 +4170,50 @@
     "lng": -74.80072222,
     "country": "CO",
     "capacity": 46692,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q151893",
+    "name": "RheinEnergie Stadion",
+    "name_ja": "ラインエネルギーシュタディオン",
+    "lat": 50.933611,
+    "lng": 6.875,
+    "country": "DE",
+    "capacity": 46195,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q594994",
+    "name": "Julio Martínez Prádanos National Stadium",
+    "name_ja": "エスタディオ・ナシオナル・デ・チリ",
+    "lat": -33.464444444,
+    "lng": -70.610555555,
+    "country": "CL",
+    "capacity": 46190,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q713597",
+    "name": "Gigante de Arroyito Stadium",
+    "name_ja": "エスタディオ・ヒガンテ・デ・アロシート",
+    "lat": -32.913997,
+    "lng": -60.674567,
+    "country": "AR",
+    "capacity": 46000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q379306",
@@ -2535,7 +4236,10 @@
     "lng": -75.590172,
     "country": "CO",
     "capacity": 46000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技"
+    ]
   },
   {
     "id": "Q1369159",
@@ -2545,7 +4249,10 @@
     "lng": -89.222333333,
     "country": "SV",
     "capacity": 45925,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q285467",
@@ -2573,7 +4280,10 @@
     "lng": -62.696667,
     "country": "VE",
     "capacity": 45600,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q4366184",
@@ -2637,7 +4347,23 @@
     "lng": 51.22,
     "country": "QA",
     "capacity": 45330,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q771800",
+    "name": "Estadio Universitario",
+    "name_ja": "エスタディオ・ウニベルシタリオ",
+    "lat": 25.722805555,
+    "lng": -100.312055555,
+    "country": "MX",
+    "capacity": 45257,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1578430",
@@ -2647,7 +4373,10 @@
     "lng": -7.980556,
     "country": "MA",
     "capacity": 45240,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1369214",
@@ -2657,7 +4386,10 @@
     "lng": -72.501717,
     "country": "CO",
     "capacity": 45220,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q4118193",
@@ -2667,7 +4399,10 @@
     "lng": 32.65888889,
     "country": "UG",
     "capacity": 45202,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q181439",
@@ -2825,6 +4560,19 @@
     "sport_types": []
   },
   {
+    "id": "Q462720",
+    "name": "Preußenstadion",
+    "name_ja": "プロイセンシュターディオン",
+    "lat": 51.929722,
+    "lng": 7.624583,
+    "country": "DE",
+    "capacity": 45000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1773227",
     "name": "Stade Omar Bongo",
     "name_ja": "スタッド・オマル・ボンゴ",
@@ -2832,6 +4580,31 @@
     "lng": 9.452167,
     "country": "GA",
     "capacity": 45000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q2197062",
+    "name": "Harapan Bangsa Stadium",
+    "name_ja": null,
+    "lat": 5.5225,
+    "lng": 95.323611,
+    "country": "ID",
+    "capacity": 45000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q5058518",
+    "name": "Celtic Park",
+    "name_ja": null,
+    "lat": 53.8525,
+    "lng": -9.2975,
+    "country": "IE",
+    "capacity": 45000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -2842,6 +4615,7 @@
     "lng": 51.686203,
     "country": "IR",
     "capacity": 45000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -2865,7 +4639,10 @@
     "lng": -4.968851,
     "country": "MA",
     "capacity": 45000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q4115504",
@@ -2875,6 +4652,7 @@
     "lng": 32.526278,
     "country": "MZ",
     "capacity": 45000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -2885,7 +4663,10 @@
     "lng": 74.335,
     "country": "PK",
     "capacity": 45000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "フィールドホッケー"
+    ]
   },
   {
     "id": "Q74647",
@@ -2895,7 +4676,10 @@
     "lng": 51.4,
     "country": "QA",
     "capacity": 45000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q4439101",
@@ -2918,7 +4702,10 @@
     "lng": -13.249056,
     "country": "SL",
     "capacity": 45000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q983916",
@@ -2928,7 +4715,10 @@
     "lng": 10.185361,
     "country": "TN",
     "capacity": 45000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q16564746",
@@ -2938,7 +4728,10 @@
     "lng": -56.067138888,
     "country": "UY",
     "capacity": 45000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q4439099",
@@ -2974,7 +4767,10 @@
     "lng": -75.590172,
     "country": "CO",
     "capacity": 44826,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q401643",
@@ -2984,7 +4780,10 @@
     "lng": 51.341279,
     "country": "QA",
     "capacity": 44740,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q428177",
@@ -2994,7 +4793,10 @@
     "lng": 51.440562,
     "country": "QA",
     "capacity": 44740,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1370694",
@@ -3017,6 +4819,7 @@
     "lng": 105.789,
     "country": "VN",
     "capacity": 44400,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -3047,6 +4850,17 @@
     ]
   },
   {
+    "id": "Q14715765",
+    "name": "New Fenway Park",
+    "name_ja": null,
+    "lat": 42.34532778,
+    "lng": -71.09895,
+    "country": "US",
+    "capacity": 44130,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q482601",
     "name": "Ulsan Munsu Football Stadium",
     "name_ja": "蔚山文殊サッカー競技場",
@@ -3071,6 +4885,17 @@
     "sport_types": [
       "サッカー"
     ]
+  },
+  {
+    "id": "Q4204332",
+    "name": "Riau Main Stadium",
+    "name_ja": "ウタマ・リアウ・スタジアム",
+    "lat": 0.48363,
+    "lng": 101.38962,
+    "country": "ID",
+    "capacity": 43923,
+    "is_existing": true,
+    "sport_types": []
   },
   {
     "id": "Q4818017",
@@ -3138,6 +4963,20 @@
     ]
   },
   {
+    "id": "Q1766116",
+    "name": "Páirc Uí Chaoimh",
+    "name_ja": "ポールク・イー・ヒーヴ",
+    "lat": 51.89975,
+    "lng": -8.435042,
+    "country": "IE",
+    "capacity": 43550,
+    "is_existing": true,
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ]
+  },
+  {
     "id": "Q585927",
     "name": "Subiaco Oval",
     "name_ja": "スビアコ・オーバル",
@@ -3148,6 +4987,19 @@
     "is_existing": false,
     "sport_types": [
       "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q1192458",
+    "name": "Libertadores de América Stadium",
+    "name_ja": "エスタディオ・リベルタドーレス・デ・アメリカ-リカルド・エンリケ・ボチーニ",
+    "lat": -34.670267,
+    "lng": -58.370969,
+    "country": "AR",
+    "capacity": 43364,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
     ]
   },
   {
@@ -3164,6 +5016,33 @@
     ]
   },
   {
+    "id": "Q1327903",
+    "name": "Vasil Levski National Stadium",
+    "name_ja": "ヴァシル・レフスキ国立競技場",
+    "lat": 42.687583,
+    "lng": 23.335444,
+    "country": "BG",
+    "capacity": 43230,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1115980",
+    "name": "Fitzgerald Stadium",
+    "name_ja": "フィッツジェラルド・スタジアム",
+    "lat": 52.066389,
+    "lng": -9.508056,
+    "country": "IE",
+    "capacity": 43180,
+    "is_existing": true,
+    "sport_types": [
+      "ゲーリックフットボール",
+      "ハーリング"
+    ]
+  },
+  {
     "id": "Q137918892",
     "name": "New Stadium La Romareda",
     "name_ja": null,
@@ -3177,6 +5056,22 @@
     ]
   },
   {
+    "id": "Q1369495",
+    "name": "National Stadium of Peru",
+    "name_ja": "エスタディオ・ナシオナル (リマ)",
+    "lat": -12.067138888,
+    "lng": -77.033722222,
+    "country": "PE",
+    "capacity": 43086,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技",
+      "パワーリフティング",
+      "格闘技"
+    ]
+  },
+  {
     "id": "Q167831",
     "name": "Zayed Sports City Stadium",
     "name_ja": "シェイク・ザイード・スタジアム",
@@ -3184,7 +5079,11 @@
     "lng": 54.453591666,
     "country": "AE",
     "capacity": 43000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q2829383",
@@ -3194,7 +5093,10 @@
     "lng": 32.471556,
     "country": "SD",
     "capacity": 43000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q824352",
@@ -3265,6 +5167,19 @@
     ]
   },
   {
+    "id": "Q1154053",
+    "name": "Progressive Field",
+    "name_ja": "プログレッシブ・フィールド",
+    "lat": 41.495833333,
+    "lng": -81.685277777,
+    "country": "US",
+    "capacity": 42865,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
     "id": "Q188706",
     "name": "Tarczyński Arena Wrocław",
     "name_ja": "ヴロツワフ市立競技場",
@@ -3318,6 +5233,46 @@
     ]
   },
   {
+    "id": "Q252481",
+    "name": "Stade Atlantique",
+    "name_ja": "ヌーヴォ・スタッド・ド・ボルドー",
+    "lat": 44.89735,
+    "lng": -0.56128,
+    "country": "FR",
+    "capacity": 42566,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q154475",
+    "name": "Weserstadion",
+    "name_ja": "ヴェーザーシュタディオン",
+    "lat": 53.066389,
+    "lng": 8.8375,
+    "country": "DE",
+    "capacity": 42500,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q699555",
+    "name": "Rheinstadion",
+    "name_ja": "ラインシュタディオン",
+    "lat": 51.260278,
+    "lng": 6.734167,
+    "country": "DE",
+    "capacity": 42500,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q190779",
     "name": "Central Stadium Yekaterinburg",
     "name_ja": "セントラル・スタジアム",
@@ -3338,7 +5293,11 @@
     "lng": -72.197944444,
     "country": "VE",
     "capacity": 42500,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q181445",
@@ -3386,7 +5345,10 @@
     "lng": -57.65738056,
     "country": "PY",
     "capacity": 42354,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q473519",
@@ -3398,6 +5360,19 @@
     "capacity": 42337,
     "is_existing": false,
     "sport_types": []
+  },
+  {
+    "id": "Q1194586",
+    "name": "Petco Park",
+    "name_ja": "ペトコ・パーク",
+    "lat": 32.707333,
+    "lng": -117.156944,
+    "country": "US",
+    "capacity": 42302,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
   },
   {
     "id": "Q494749",
@@ -3447,7 +5422,10 @@
     "lng": -76.541083,
     "country": "CO",
     "capacity": 42200,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1237378",
@@ -3457,7 +5435,10 @@
     "lng": -71.216667,
     "country": "VE",
     "capacity": 42200,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q482598",
@@ -3487,6 +5468,19 @@
     ]
   },
   {
+    "id": "Q1193671",
+    "name": "Daikin Park",
+    "name_ja": "ダイキン・パーク",
+    "lat": 29.756944444,
+    "lng": -95.355555555,
+    "country": "US",
+    "capacity": 42060,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
     "id": "Q283849",
     "name": "Mohammed Bin Zayed Stadium",
     "name_ja": "アル・ジャジーラ・モハメド・ビン・ザイード・スタジアム",
@@ -3494,7 +5488,24 @@
     "lng": 54.392019,
     "country": "AE",
     "capacity": 42056,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "クリケット"
+    ]
+  },
+  {
+    "id": "Q1072265",
+    "name": "Malvinas Argentinas Stadium",
+    "name_ja": "エスタディオ・マルビナス・アルヘンティナス",
+    "lat": -32.889564,
+    "lng": -68.879994,
+    "country": "AR",
+    "capacity": 42000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q2462392",
@@ -3518,6 +5529,33 @@
     "lng": -76.417036,
     "country": "CO",
     "capacity": 42000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q210466",
+    "name": "Red Bull Arena",
+    "name_ja": "ツェントラールシュタディオン",
+    "lat": 51.345833,
+    "lng": 12.348056,
+    "country": "DE",
+    "capacity": 42000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q3776482",
+    "name": "MacHale Park",
+    "name_ja": "マクヘイル・パーク",
+    "lat": 53.853889,
+    "lng": -9.284444,
+    "country": "IE",
+    "capacity": 42000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -3539,7 +5577,10 @@
     "lng": -9.540425,
     "country": "MA",
     "capacity": 42000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q3132975",
@@ -3549,7 +5590,11 @@
     "lng": 32.57502778,
     "country": "MZ",
     "capacity": 42000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技",
+      "サッカー"
+    ]
   },
   {
     "id": "Q919953",
@@ -3559,7 +5604,10 @@
     "lng": 10.612778,
     "country": "TN",
     "capacity": 42000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q189337",
@@ -3573,6 +5621,33 @@
     "sport_types": [
       "サッカー",
       "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q861000",
+    "name": "Stade Geoffroy-Guichard",
+    "name_ja": "スタッド・ジェフロワ＝ギシャール",
+    "lat": 45.460749,
+    "lng": 4.390171,
+    "country": "FR",
+    "capacity": 41965,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q1072882",
+    "name": "Citi Field",
+    "name_ja": "シティ・フィールド",
+    "lat": 40.756986,
+    "lng": -73.845783,
+    "country": "US",
+    "capacity": 41922,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
     ]
   },
   {
@@ -3661,7 +5736,10 @@
     "lng": -78.489083,
     "country": "EC",
     "capacity": 41596,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q16611580",
@@ -3709,7 +5787,21 @@
     "lng": 33.753175,
     "country": "MW",
     "capacity": 41100,
+    "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q1052807",
+    "name": "Wrigley Field",
+    "name_ja": "リグレー・フィールド",
+    "lat": 41.948055555,
+    "lng": -87.655555555,
+    "country": "US",
+    "capacity": 41072,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
   },
   {
     "id": "Q546383",
@@ -3719,7 +5811,10 @@
     "lng": -71.645011,
     "country": "VE",
     "capacity": 40800,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q494769",
@@ -3761,6 +5856,19 @@
     ]
   },
   {
+    "id": "Q1331178",
+    "name": "Arequipa Stadium",
+    "name_ja": null,
+    "lat": -16.40729,
+    "lng": -71.520203,
+    "country": "PE",
+    "capacity": 40370,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1369388",
     "name": "Estadio Metropolitano de Fútbol de Lara",
     "name_ja": null,
@@ -3768,7 +5876,10 @@
     "lng": -69.219858,
     "country": "VE",
     "capacity": 40312,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1150956",
@@ -3778,7 +5889,10 @@
     "lng": 105.763805555,
     "country": "VN",
     "capacity": 40192,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q968420",
@@ -3794,6 +5908,19 @@
     ]
   },
   {
+    "id": "Q3585",
+    "name": "Metalist Stadium",
+    "name_ja": "メタリスト・スタジアム",
+    "lat": 49.980858,
+    "lng": 36.261703,
+    "country": "UA",
+    "capacity": 40003,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q3321268",
     "name": "Estádio da Cidadela",
     "name_ja": "エスタディオ・ダ・シダデラ",
@@ -3801,7 +5928,35 @@
     "lng": 13.255889,
     "country": "AO",
     "capacity": 40000,
+    "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q1369432",
+    "name": "Estadio Monumental José Fierro",
+    "name_ja": null,
+    "lat": -26.812778,
+    "lng": -65.199167,
+    "country": "AR",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q3733326",
+    "name": "Alvear y Tagle Stadium",
+    "name_ja": null,
+    "lat": -34.581905,
+    "lng": -58.397368,
+    "country": "AR",
+    "capacity": 40000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2827149",
@@ -3828,6 +5983,35 @@
     "sport_types": []
   },
   {
+    "id": "Q1874231",
+    "name": "Stade Vélodrome de Rocourt",
+    "name_ja": null,
+    "lat": 50.670833,
+    "lng": 5.5525,
+    "country": "BE",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q2066462",
+    "name": "stade des Trois Tilleuls",
+    "name_ja": null,
+    "lat": 50.806111,
+    "lng": 4.411667,
+    "country": "BE",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "フェンシング",
+      "ラグビーユニオン",
+      "陸上競技"
+    ]
+  },
+  {
     "id": "Q965446",
     "name": "Stade du 4 Août",
     "name_ja": "スタッド・ドゥ・キャトル＝ウ",
@@ -3835,6 +6019,20 @@
     "lng": -1.55344444,
     "country": "BF",
     "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q8061500",
+    "name": "Yuri Gagarin Stadium",
+    "name_ja": "ユーリイ・ガガーリンスタジアム",
+    "lat": 43.221111,
+    "lng": 27.943056,
+    "country": "BG",
+    "capacity": 40000,
+    "is_existing": false,
     "sport_types": []
   },
   {
@@ -3884,7 +6082,10 @@
     "lng": -5.04472222,
     "country": "CI",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2339455",
@@ -3926,6 +6127,19 @@
     ]
   },
   {
+    "id": "Q1589623",
+    "name": "Hauptstadion",
+    "name_ja": null,
+    "lat": 50.795576,
+    "lng": 6.094255,
+    "country": "DE",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "乗馬"
+    ]
+  },
+  {
     "id": "Q3119087",
     "name": "Ahmed Zabana Stadium",
     "name_ja": null,
@@ -3933,7 +6147,10 @@
     "lng": -0.636221,
     "country": "DZ",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q5300222",
@@ -3943,7 +6160,10 @@
     "lng": 2.961666666,
     "country": "DZ",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q244592",
@@ -4028,21 +6248,27 @@
     "id": "Q288618",
     "name": "Baba Yara Stadium",
     "name_ja": "ババ・ヤラ・スタジアム",
-    "lat": 6.682777777,
-    "lng": -1.605,
+    "lat": 6.682681,
+    "lng": -1.605111,
     "country": "GH",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q339568",
     "name": "Accra Sports Stadium",
     "name_ja": "アクラ・スポーツ・スタジアム",
-    "lat": 5.5516,
-    "lng": -0.19184,
+    "lat": 5.551388888,
+    "lng": -0.191944444,
     "country": "GH",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q455108",
@@ -4052,7 +6278,45 @@
     "lng": -16.6775,
     "country": "GM",
     "capacity": 40000,
+    "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q4199474",
+    "name": "Kanjuruhan Stadium",
+    "name_ja": "カンジュルハン・スタジアム",
+    "lat": -8.150277777,
+    "lng": 112.573888888,
+    "country": "ID",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q54087011",
+    "name": "Barombong Stadium",
+    "name_ja": null,
+    "lat": -5.201859,
+    "lng": 119.383231,
+    "country": "ID",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q55064950",
+    "name": "Gelora Joko Samudro Stadium",
+    "name_ja": null,
+    "lat": -7.185388888,
+    "lng": 112.65075,
+    "country": "ID",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q5512339",
@@ -4102,6 +6366,7 @@
     "lng": 44.011483,
     "country": "IQ",
     "capacity": 40000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -4141,7 +6406,11 @@
     "lng": 79.8639,
     "country": "LK",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "ラグビーユニオン",
+      "繋駕速歩競走"
+    ]
   },
   {
     "id": "Q890722",
@@ -4151,6 +6420,7 @@
     "lng": 96.160725,
     "country": "MM",
     "capacity": 40000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -4161,6 +6431,77 @@
     "lng": 33.758611,
     "country": "MW",
     "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q3272388",
+    "name": "Darul Makmur Stadium",
+    "name_ja": "ダルル・マクムール・スタジアム",
+    "lat": 3.814722222,
+    "lng": 103.323888888,
+    "country": "MY",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q3277702",
+    "name": "Sarawak Stadium",
+    "name_ja": "サラワク・スタジアム",
+    "lat": 1.588544444,
+    "lng": 110.360186111,
+    "country": "MY",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q48727156",
+    "name": "Sultan Ibrahim Stadium",
+    "name_ja": "スルタン・イブラヒム・スタジアム",
+    "lat": 1.481722222,
+    "lng": 103.61925,
+    "country": "MY",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q5647818",
+    "name": "Hang Jebat Stadium",
+    "name_ja": "ハン・ジェバ・スタジアム",
+    "lat": 2.289080555,
+    "lng": 102.233094444,
+    "country": "MY",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q6987317",
+    "name": "Penang State Stadium",
+    "name_ja": null,
+    "lat": 5.260872222,
+    "lng": 100.437469444,
+    "country": "MY",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q7850635",
+    "name": "Tuanku Abdul Rahman Stadium",
+    "name_ja": "トゥアンク・アブドゥル・ラーマン・スタジアム",
+    "lat": 2.726359,
+    "lng": 101.982672,
+    "country": "MY",
+    "capacity": 40000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -4178,6 +6519,19 @@
     ]
   },
   {
+    "id": "Q3733343",
+    "name": "Estadio Nacional del Perú (1897)",
+    "name_ja": null,
+    "lat": -12.067138888,
+    "lng": -77.033722222,
+    "country": "PE",
+    "capacity": 40000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q5834051",
     "name": "Joaquin F. Enriquez Memorial Sports Complex",
     "name_ja": null,
@@ -4185,6 +6539,7 @@
     "lng": 122.062222,
     "country": "PH",
     "capacity": 40000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -4195,7 +6550,10 @@
     "lng": 66.988333,
     "country": "PK",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q285531",
@@ -4205,7 +6563,10 @@
     "lng": 51.574083333,
     "country": "QA",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q4702848",
@@ -4215,7 +6576,34 @@
     "lng": 51.494278,
     "country": "QA",
     "capacity": 40000,
+    "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q11335096",
+    "name": "Braves Field",
+    "name_ja": "ブレーブス・フィールド",
+    "lat": 42.353333333,
+    "lng": -71.119166666,
+    "country": "US",
+    "capacity": 40000,
+    "is_existing": false,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q14711138",
+    "name": "TDECU Stadium",
+    "name_ja": "TDECU・スタジアム",
+    "lat": 29.72194444,
+    "lng": -95.34916667,
+    "country": "US",
+    "capacity": 40000,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
   },
   {
     "id": "Q25409323",
@@ -4225,7 +6613,10 @@
     "lng": -66.940166666,
     "country": "VE",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
   },
   {
     "id": "Q1681126",
@@ -4248,7 +6639,10 @@
     "lng": 28.569624,
     "country": "ZW",
     "capacity": 40000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1369239",
@@ -4258,7 +6652,10 @@
     "lng": -75.75219,
     "country": "CO",
     "capacity": 39890,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q642557",
@@ -4285,6 +6682,19 @@
     "is_existing": true,
     "sport_types": [
       "サッカー"
+    ]
+  },
+  {
+    "id": "Q1156635",
+    "name": "Target Field",
+    "name_ja": "ターゲット・フィールド",
+    "lat": 44.981667,
+    "lng": -93.278333,
+    "country": "US",
+    "capacity": 39504,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
     ]
   },
   {
@@ -4368,6 +6778,19 @@
     ]
   },
   {
+    "id": "Q190010",
+    "name": "St. Jakob-Park",
+    "name_ja": "ザンクト・ヤコブ・パルク",
+    "lat": 47.541389,
+    "lng": 7.62,
+    "country": "CH",
+    "capacity": 38512,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q8062117",
     "name": "Yutong International Sports Center",
     "name_ja": "裕彤国際体育中心",
@@ -4405,6 +6828,47 @@
     ]
   },
   {
+    "id": "Q33003",
+    "name": "Parken Stadium",
+    "name_ja": "パルケン・スタディオン",
+    "lat": 55.702469,
+    "lng": 12.572203,
+    "country": "DK",
+    "capacity": 38065,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "スピードウェイ"
+    ]
+  },
+  {
+    "id": "Q854122",
+    "name": "Stade Bollaert-Delelis",
+    "name_ja": "スタッド・フェリックス・ボラール",
+    "lat": 50.4329,
+    "lng": 2.81491,
+    "country": "FR",
+    "capacity": 38058,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q5400174",
+    "name": "Eduardo Gallardón Stadium",
+    "name_ja": null,
+    "lat": -34.757778,
+    "lng": -58.42,
+    "country": "AR",
+    "capacity": 38000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1369261",
     "name": "Estadio Hernando Siles",
     "name_ja": "エルナンド・シレス競技場",
@@ -4412,7 +6876,10 @@
     "lng": -68.122778,
     "country": "BO",
     "capacity": 38000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1018674",
@@ -4451,6 +6918,17 @@
     "sport_types": []
   },
   {
+    "id": "Q5529669",
+    "name": "Gelora Bandung Lautan Api Stadium",
+    "name_ja": "ゲロラ・バンドン・ラウタン・アピ・スタジアム",
+    "lat": -6.958611,
+    "lng": 107.711389,
+    "country": "ID",
+    "capacity": 38000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q1129161",
     "name": "King Abdulaziz Sports City",
     "name_ja": "キング・アブドゥルアズィーズスタジアム",
@@ -4458,6 +6936,7 @@
     "lng": 39.9737,
     "country": "SA",
     "capacity": 38000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -4468,6 +6947,19 @@
     "lng": 139.717136,
     "country": "JP",
     "capacity": 37933,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
+  },
+  {
+    "id": "Q1151177",
+    "name": "PNC Park",
+    "name_ja": "PNCパーク",
+    "lat": 40.446944444,
+    "lng": -80.005833333,
+    "country": "US",
+    "capacity": 37898,
     "is_existing": true,
     "sport_types": [
       "野球"
@@ -4517,6 +7009,31 @@
     ]
   },
   {
+    "id": "Q1696337",
+    "name": "Stadion Gladbeck",
+    "name_ja": null,
+    "lat": 51.561667,
+    "lng": 6.987222,
+    "country": "DE",
+    "capacity": 37612,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q1327324",
+    "name": "Estádio Nacional",
+    "name_ja": "エスタディオ・ナシオナル",
+    "lat": 38.708806,
+    "lng": -9.260833,
+    "country": "PT",
+    "capacity": 37593,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
+  },
+  {
     "id": "Q598736",
     "name": "Johannesburg Stadium",
     "name_ja": "ヨハネスブルグ・スタジアム",
@@ -4538,7 +7055,10 @@
     "lng": -64.656117,
     "country": "VE",
     "capacity": 37485,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1369538",
@@ -4548,7 +7068,10 @@
     "lng": -88.006761111,
     "country": "HN",
     "capacity": 37325,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1810204",
@@ -4578,6 +7101,48 @@
     ]
   },
   {
+    "id": "Q1369111",
+    "name": "Estadio silvadier Estanislao lopez",
+    "name_ja": "エスタディオ・ブリガディエル・ヘネラル・エスタニスラオ・ロペス",
+    "lat": -31.663217,
+    "lng": -60.725394,
+    "country": "AR",
+    "capacity": 37000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q5400494",
+    "name": "Sportivo Barracas Stadium",
+    "name_ja": null,
+    "lat": -34.651236196,
+    "lng": -58.386917991,
+    "country": "AR",
+    "capacity": 37000,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー",
+      "ボクシング",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q1627588",
+    "name": "Stadion Hoheluft",
+    "name_ja": null,
+    "lat": 53.587222,
+    "lng": 9.969722,
+    "country": "DE",
+    "capacity": 37000,
+    "is_existing": true,
+    "sport_types": [
+      "アメリカンフットボール"
+    ]
+  },
+  {
     "id": "Q619322",
     "name": "Estadio Nacional Jose de la Paz Herrera",
     "name_ja": "エスタディオ・ティブルシオ・カリアス・アンディーノ",
@@ -4585,7 +7150,23 @@
     "lng": -87.203958333,
     "country": "HN",
     "capacity": 37000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1368138",
+    "name": "LoanDepot Park",
+    "name_ja": "ローンデポ・パーク",
+    "lat": 25.778056,
+    "lng": -80.219722,
+    "country": "US",
+    "capacity": 36742,
+    "is_existing": true,
+    "sport_types": [
+      "野球"
+    ]
   },
   {
     "id": "Q725623",
@@ -4608,7 +7189,10 @@
     "lng": -75.489807,
     "country": "CO",
     "capacity": 36553,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q4794137",
@@ -4632,6 +7216,19 @@
     "country": "NL",
     "capacity": 36500,
     "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1369652",
+    "name": "Tecnológico Stadium",
+    "name_ja": null,
+    "lat": 25.65225,
+    "lng": -100.286417,
+    "country": "MX",
+    "capacity": 36485,
+    "is_existing": false,
     "sport_types": [
       "サッカー"
     ]
@@ -4710,7 +7307,10 @@
     "lng": -74.0775,
     "country": "CO",
     "capacity": 36343,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q186425",
@@ -4739,6 +7339,30 @@
     ]
   },
   {
+    "id": "Q127372",
+    "name": "Allianz Riviera",
+    "name_ja": "グラン・スタッド・ドゥ・ニース",
+    "lat": 43.70513,
+    "lng": 7.19262,
+    "country": "FR",
+    "capacity": 36178,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q806456",
+    "name": "National Stadium, Dhaka",
+    "name_ja": "バンガバンドゥ・ナショナル・スタジアム",
+    "lat": 23.72801,
+    "lng": 90.41353,
+    "country": "BD",
+    "capacity": 36000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q143064",
     "name": "Estádio do Café",
     "name_ja": "エスタジオ・ドゥ・カフェ",
@@ -4765,6 +7389,17 @@
     ]
   },
   {
+    "id": "Q3967624",
+    "name": "St Tiernach's Park",
+    "name_ja": null,
+    "lat": 54.185556,
+    "lng": -7.232778,
+    "country": "IE",
+    "capacity": 36000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q5431102",
     "name": "Faisalabad Hockey Stadium",
     "name_ja": null,
@@ -4772,7 +7407,23 @@
     "lng": 73.115556,
     "country": "PK",
     "capacity": 36000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "フィールドホッケー"
+    ]
+  },
+  {
+    "id": "Q1308618",
+    "name": "Morelos Stadium",
+    "name_ja": "エスタディオ・モレーロス",
+    "lat": 19.718742,
+    "lng": -101.233622,
+    "country": "MX",
+    "capacity": 35869,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1857355",
@@ -4788,6 +7439,17 @@
     ]
   },
   {
+    "id": "Q4788891",
+    "name": "Arena Indios",
+    "name_ja": null,
+    "lat": 31.612339,
+    "lng": -106.467959,
+    "country": "MX",
+    "capacity": 35760,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q2020768",
     "name": "Estadio Olímpico Atahualpa",
     "name_ja": "エスタディオ・オリンピコ・アタウアルパ",
@@ -4795,7 +7457,10 @@
     "lng": -78.476583,
     "country": "EC",
     "capacity": 35742,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1369679",
@@ -4805,7 +7470,10 @@
     "lng": 9.7875,
     "country": "GQ",
     "capacity": 35700,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q176157",
@@ -4815,6 +7483,19 @@
     "lng": -38.428117,
     "country": "BR",
     "capacity": 35632,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q713216",
+    "name": "Corregidora Stadium",
+    "name_ja": "エスタディオ・コレヒドラ",
+    "lat": 20.577777777,
+    "lng": -100.366388888,
+    "country": "MX",
+    "capacity": 35575,
     "is_existing": true,
     "sport_types": [
       "サッカー"
@@ -4841,7 +7522,38 @@
     "lng": -1.52466,
     "country": "FR",
     "capacity": 35318,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q703651",
+    "name": "Ludwigsparkstadion",
+    "name_ja": "ルートヴィヒスパルクシュターディオン",
+    "lat": 49.2475,
+    "lng": 6.984167,
+    "country": "DE",
+    "capacity": 35303,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "アメリカンフットボール"
+    ]
+  },
+  {
+    "id": "Q320439",
+    "name": "Stadion am Gesundbrunnen",
+    "name_ja": "ヘルタ・プラッツ・スタジアム",
+    "lat": 52.55,
+    "lng": 13.3933,
+    "country": "DE",
+    "capacity": 35239,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q15217611",
@@ -4864,7 +7576,10 @@
     "lng": -63.183873,
     "country": "BO",
     "capacity": 35180,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2522000",
@@ -4874,7 +7589,23 @@
     "lng": -84.107778,
     "country": "CR",
     "capacity": 35175,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1369097",
+    "name": "Ciudad de los Deportes Stadium",
+    "name_ja": null,
+    "lat": 19.383389,
+    "lng": -99.178225,
+    "country": "MX",
+    "capacity": 35161,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q865093",
@@ -4886,6 +7617,34 @@
     "capacity": 35150,
     "is_existing": false,
     "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1147732",
+    "name": "Oakland Coliseum",
+    "name_ja": "オー・ドットコー・コロシアム",
+    "lat": 37.751666666,
+    "lng": -122.200555555,
+    "country": "US",
+    "capacity": 35067,
+    "is_existing": true,
+    "sport_types": [
+      "野球",
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1980",
+    "name": "Stade de Gerland",
+    "name_ja": "スタッド・ジェルラン",
+    "lat": 45.72377,
+    "lng": 4.83225,
+    "country": "FR",
+    "capacity": 35029,
+    "is_existing": true,
+    "sport_types": [
+      "ラグビーユニオン",
       "サッカー"
     ]
   },
@@ -4916,6 +7675,17 @@
     ]
   },
   {
+    "id": "Q16564696",
+    "name": "Nuevo Francisco Urbano Stadium",
+    "name_ja": "エスタディオ・ヌエボ・フランシスコ・ウルバノ",
+    "lat": -34.661944444,
+    "lng": -58.631666666,
+    "country": "AR",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q2373761",
     "name": "Sydney Sports Ground",
     "name_ja": "シドニー運動場",
@@ -4929,6 +7699,28 @@
     ]
   },
   {
+    "id": "Q15196762",
+    "name": "Kobi Jibananda Das Stadium",
+    "name_ja": null,
+    "lat": 22.68645556,
+    "lng": 90.36817778,
+    "country": "BD",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q8061217",
+    "name": "Yunak Stadium",
+    "name_ja": null,
+    "lat": 42.6863,
+    "lng": 23.3327,
+    "country": "BG",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
     "id": "Q927991",
     "name": "Stade de l'Amitié",
     "name_ja": "スタッド・ドゥ・ラミティエ",
@@ -4936,7 +7728,10 @@
     "lng": 2.379333333,
     "country": "BJ",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技"
+    ]
   },
   {
     "id": "Q2017250",
@@ -4946,7 +7741,10 @@
     "lng": -67.111564,
     "country": "BO",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2705722",
@@ -4956,7 +7754,10 @@
     "lng": -66.16183,
     "country": "BO",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2860815",
@@ -5006,7 +7807,10 @@
     "lng": 27.484,
     "country": "CD",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2990483",
@@ -5016,7 +7820,10 @@
     "lng": 18.564389,
     "country": "CF",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q12379346",
@@ -5037,7 +7844,10 @@
     "lng": -69.918662,
     "country": "DO",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q3319102",
@@ -5047,6 +7857,7 @@
     "lng": -79.893758,
     "country": "EC",
     "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5057,7 +7868,10 @@
     "lng": 31.297,
     "country": "EG",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q352962",
@@ -5067,7 +7881,10 @@
     "lng": 38.756417,
     "country": "ET",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q190793",
@@ -5077,6 +7894,7 @@
     "lng": 44.79013889,
     "country": "GE",
     "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5087,6 +7905,66 @@
     "lng": 16.431667,
     "country": "HR",
     "capacity": 35000,
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技"
+    ]
+  },
+  {
+    "id": "Q14476212",
+    "name": "Sultan Agung Stadium",
+    "name_ja": null,
+    "lat": -7.87525,
+    "lng": 110.380388888,
+    "country": "ID",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q1944010",
+    "name": "Gajayana Stadium",
+    "name_ja": "ガジャヤナスタジアム",
+    "lat": -7.975513,
+    "lng": 112.624975,
+    "country": "ID",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q2063232",
+    "name": "Maguwoharjo Stadium",
+    "name_ja": "スタディオン・マグウォハルジョ",
+    "lat": -7.75051,
+    "lng": 110.418,
+    "country": "ID",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q2518686",
+    "name": "Aji Imbut Stadium",
+    "name_ja": null,
+    "lat": -0.425,
+    "lng": 117.0075,
+    "country": "ID",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q2691028",
+    "name": "Manahan Stadium",
+    "name_ja": "マナハン・スタジアム",
+    "lat": -7.555556,
+    "lng": 110.806389,
+    "country": "ID",
+    "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5108,7 +7986,10 @@
     "lng": 44.435438,
     "country": "IQ",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q988285",
@@ -5118,6 +7999,7 @@
     "lng": 59.383829,
     "country": "IR",
     "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5128,7 +8010,10 @@
     "lng": -76.771667,
     "country": "JM",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "陸上競技"
+    ]
   },
   {
     "id": "Q780111",
@@ -5198,7 +8083,10 @@
     "lng": -10.70206667,
     "country": "LR",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q3495693",
@@ -5208,7 +8096,10 @@
     "lng": -7.54667,
     "country": "MA",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q3495963",
@@ -5218,7 +8109,10 @@
     "lng": -1.934444,
     "country": "MA",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1580974",
@@ -5228,6 +8122,44 @@
     "lng": -7.993056,
     "country": "ML",
     "capacity": 35000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1369661",
+    "name": "Victoria Stadium",
+    "name_ja": null,
+    "lat": 21.880653,
+    "lng": -102.275483,
+    "country": "MX",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q8842798",
+    "name": "Estadio Nido de los Águilas",
+    "name_ja": "エスタディオ・ニド・デ・ロス・アギラス",
+    "lat": 32.655736,
+    "lng": -115.444336,
+    "country": "MX",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q3277807",
+    "name": "Likas Stadium",
+    "name_ja": "リカス・スタジアム",
+    "lat": 5.983355555,
+    "lng": 116.095544444,
+    "country": "MY",
+    "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5235,10 +8167,13 @@
     "name": "Stade Général Seyni Kountché",
     "name_ja": "スタッド・ジェネラル・セイニ・クンチェ",
     "lat": 13.52725,
-    "lng": 2.108972,
+    "lng": 2.10897,
     "country": "NE",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q6716446",
@@ -5248,6 +8183,20 @@
     "lng": 3.35527778,
     "country": "NG",
     "capacity": 35000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q5400352",
+    "name": "Estadio Manuel Rivera Sanchez",
+    "name_ja": null,
+    "lat": -9.10001,
+    "lng": -78.560207,
+    "country": "PE",
+    "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5271,6 +8220,7 @@
     "lng": 50.1141,
     "country": "SA",
     "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5281,6 +8231,7 @@
     "lng": 49.33682,
     "country": "SO",
     "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5291,6 +8242,29 @@
     "lng": 45.4,
     "country": "SO",
     "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q1540869",
+    "name": "Tinsulanonda Stadium",
+    "name_ja": null,
+    "lat": 7.207222,
+    "lng": 100.598611,
+    "country": "TH",
+    "capacity": 35000,
+    "is_existing": true,
+    "sport_types": []
+  },
+  {
+    "id": "Q130238480",
+    "name": "Ryan Field",
+    "name_ja": null,
+    "lat": 42.08750945,
+    "lng": -87.700625419,
+    "country": "US",
+    "capacity": 35000,
+    "is_existing": true,
     "sport_types": []
   },
   {
@@ -5301,7 +8275,10 @@
     "lng": 69.260244,
     "country": "UZ",
     "capacity": 35000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q5081063",
@@ -5328,6 +8305,19 @@
     ]
   },
   {
+    "id": "Q215399",
+    "name": "Arena Lviv",
+    "name_ja": "アリーナ・リヴィウ",
+    "lat": 49.775278055,
+    "lng": 24.027778055,
+    "country": "UA",
+    "capacity": 34915,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1327235",
     "name": "Estádio Couto Pereira",
     "name_ja": "エスタジオ・マジョール・アントニオ・コウト・ペレイラ",
@@ -5341,6 +8331,19 @@
     ]
   },
   {
+    "id": "Q1369290",
+    "name": "Julio Cesar Villagra Stadium",
+    "name_ja": "エスタディオ・フリオ・セサル・ビジャグラ",
+    "lat": -31.4035,
+    "lng": -64.206272,
+    "country": "AR",
+    "capacity": 34830,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q822886",
     "name": "Riverside Stadium",
     "name_ja": "リヴァーサイド・スタジアム",
@@ -5348,6 +8351,87 @@
     "lng": -1.216944444,
     "country": "GB",
     "capacity": 34742,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q64586775",
+    "name": "Europa-Park-Stadion",
+    "name_ja": "ヨーロッパ・パーク・シュタディオン",
+    "lat": 48.021536,
+    "lng": 7.830006,
+    "country": "DE",
+    "capacity": 34700,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q512500",
+    "name": "Grotenburg-Stadion",
+    "name_ja": "グローテンブルク＝シュタディオン",
+    "lat": 51.339167,
+    "lng": 6.603611,
+    "country": "DE",
+    "capacity": 34500,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q820157",
+    "name": "Bökelbergstadion",
+    "name_ja": null,
+    "lat": 51.208889,
+    "lng": 6.439556,
+    "country": "DE",
+    "capacity": 34500,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1348677",
+    "name": "Wellington Regional Stadium",
+    "name_ja": "ウェリントン・リージョナル・スタジアム",
+    "lat": -41.273055555,
+    "lng": 174.785833333,
+    "country": "NZ",
+    "capacity": 34500,
+    "is_existing": true,
+    "sport_types": [
+      "ラグビーユニオン",
+      "サッカー",
+      "ラグビーリーグ",
+      "クリケット"
+    ]
+  },
+  {
+    "id": "Q129115",
+    "name": "Estadio Garcilaso",
+    "name_ja": null,
+    "lat": -13.525,
+    "lng": -71.966,
+    "country": "PE",
+    "capacity": 34500,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q190797",
+    "name": "Chornomorets Stadium",
+    "name_ja": "チョルノモレツ・スタジアム",
+    "lat": 46.480556,
+    "lng": 30.755556,
+    "country": "UA",
+    "capacity": 34164,
     "is_existing": true,
     "sport_types": [
       "サッカー"
@@ -5368,6 +8452,19 @@
     ]
   },
   {
+    "id": "Q392494",
+    "name": "Mewa Arena",
+    "name_ja": "コファス・アレーナ",
+    "lat": 49.984167,
+    "lng": 8.224167,
+    "country": "DE",
+    "capacity": 34034,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1999706",
     "name": "Felix Houphouet Boigny Stadium",
     "name_ja": "スタッド・フェリックス・ウフェボワニ",
@@ -5375,7 +8472,38 @@
     "lng": -4.018417,
     "country": "CI",
     "capacity": 34000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビー",
+      "陸上競技"
+    ]
+  },
+  {
+    "id": "Q479206",
+    "name": "Glückauf-Kampfbahn",
+    "name_ja": null,
+    "lat": 51.53,
+    "lng": 7.079444,
+    "country": "DE",
+    "capacity": 34000,
+    "is_existing": true,
+    "sport_types": [
+      "バスケットボール"
+    ]
+  },
+  {
+    "id": "Q15284032",
+    "name": "Agia Sophia Stadium",
+    "name_ja": "スタディオ・アギア・ソフィア",
+    "lat": 38.03715,
+    "lng": 23.74154,
+    "country": "GR",
+    "capacity": 34000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q7596332",
@@ -5385,7 +8513,10 @@
     "lng": 14.400759,
     "country": "HR",
     "capacity": 34000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1973140",
@@ -5395,7 +8526,23 @@
     "lng": 58.399444444,
     "country": "OM",
     "capacity": 34000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1276360",
+    "name": "Polo Grounds",
+    "name_ja": "ポロ・グラウンズ",
+    "lat": 40.830833333,
+    "lng": -73.9375,
+    "country": "US",
+    "capacity": 34000,
+    "is_existing": false,
+    "sport_types": [
+      "野球"
+    ]
   },
   {
     "id": "Q786149",
@@ -5405,7 +8552,10 @@
     "lng": -56.159,
     "country": "UY",
     "capacity": 34000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q2817374",
@@ -5415,7 +8565,10 @@
     "lng": 69.2125,
     "country": "UZ",
     "capacity": 34000,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1810353",
@@ -5425,6 +8578,19 @@
     "lng": 18.516667,
     "country": "ZA",
     "capacity": 34000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1369054",
+    "name": "Alejandro Villanueva Stadium",
+    "name_ja": "エスタディオ・アレハンドロ・ビジャヌエバ",
+    "lat": -12.068542,
+    "lng": -77.022886,
+    "country": "PE",
+    "capacity": 33938,
     "is_existing": true,
     "sport_types": [
       "サッカー"
@@ -5494,6 +8660,19 @@
     ]
   },
   {
+    "id": "Q124665254",
+    "name": "Estadio de la Doble Visera",
+    "name_ja": null,
+    "lat": -34.670305555,
+    "lng": -58.371,
+    "country": "AR",
+    "capacity": 33500,
+    "is_existing": false,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q3193033",
     "name": "Kardinia Park",
     "name_ja": "カルディニア・パーク",
@@ -5512,7 +8691,11 @@
     "lng": 21.425592,
     "country": "MK",
     "capacity": 33460,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ]
   },
   {
     "id": "Q1671788",
@@ -5526,6 +8709,33 @@
     "sport_types": [
       "カナディアン・フットボール",
       "サッカー"
+    ]
+  },
+  {
+    "id": "Q213508",
+    "name": "Karaiskakis Stadium",
+    "name_ja": "スタディオ・ヨルギオス・カライスカキス",
+    "lat": 37.946169,
+    "lng": 23.664536,
+    "country": "GR",
+    "capacity": 33334,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q386547",
+    "name": "Stade Chaban-Delmas",
+    "name_ja": "スタッド・シャバン・デルマ",
+    "lat": 44.829167,
+    "lng": -0.598056,
+    "country": "FR",
+    "capacity": 33290,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
     ]
   },
   {
@@ -5553,6 +8763,21 @@
     "is_existing": true,
     "sport_types": [
       "サッカー"
+    ]
+  },
+  {
+    "id": "Q738044",
+    "name": "Stadium Municipal",
+    "name_ja": "スタジアム",
+    "lat": 43.583296,
+    "lng": 1.434055,
+    "country": "FR",
+    "capacity": 33150,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーリーグ",
+      "ラグビーユニオン"
     ]
   },
   {
@@ -5603,7 +8828,10 @@
     "lng": 15.24841667,
     "country": "CG",
     "capacity": 33037,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q1188325",
@@ -5656,6 +8884,19 @@
     "sport_types": []
   },
   {
+    "id": "Q454085",
+    "name": "Deutsches Stadion",
+    "name_ja": null,
+    "lat": 52.514722,
+    "lng": 13.239167,
+    "country": "DE",
+    "capacity": 33000,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q1659713",
     "name": "Manor Ground, Plumstead",
     "name_ja": null,
@@ -5676,7 +8917,49 @@
     "lng": 71.593834,
     "country": "UZ",
     "capacity": 33000,
+    "is_existing": true,
     "sport_types": []
+  },
+  {
+    "id": "Q1158963",
+    "name": "Stadionul Dan Păltinișanu",
+    "name_ja": "スタディオヌル・ダン・パルティヌシャヌ",
+    "lat": 45.740556,
+    "lng": 21.244167,
+    "country": "RO",
+    "capacity": 32972,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
+  },
+  {
+    "id": "Q699927",
+    "name": "New Tivoli",
+    "name_ja": "ニュー・ティヴォリ",
+    "lat": 50.793333333,
+    "lng": 6.097222222,
+    "country": "DE",
+    "capacity": 32960,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q815833",
+    "name": "Stade de la Mosson",
+    "name_ja": "スタッド・ドゥ・ラ・モッソン",
+    "lat": 43.62061,
+    "lng": 3.81279,
+    "country": "FR",
+    "capacity": 32900,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ]
   },
   {
     "id": "Q1493501",
@@ -5705,6 +8988,32 @@
     ]
   },
   {
+    "id": "Q1032105",
+    "name": "Estádio Municipal de Aveiro – Mário Duarte",
+    "name_ja": "エスダディオ・ムニシパル・デ・アヴェイロ",
+    "lat": 40.6475,
+    "lng": -8.593611,
+    "country": "PT",
+    "capacity": 32830,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
+    "id": "Q1369635",
+    "name": "Estadio Sergio León Chávez",
+    "name_ja": null,
+    "lat": 20.6845,
+    "lng": -101.3563,
+    "country": "MX",
+    "capacity": 32784,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q190799",
     "name": "Tsentralnyi Profsoyuz Stadion",
     "name_ja": "セントラル・プロフソユーズ・スタジアム",
@@ -5725,7 +9034,10 @@
     "lng": 20.459167,
     "country": "RS",
     "capacity": 32710,
-    "sport_types": []
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
   },
   {
     "id": "Q897533",
@@ -5757,6 +9069,19 @@
     ]
   },
   {
+    "id": "Q3058824",
+    "name": "Estadio Universitario Alberto Chivo Cordova",
+    "name_ja": null,
+    "lat": 19.285156,
+    "lng": -99.676131,
+    "country": "MX",
+    "capacity": 32603,
+    "is_existing": true,
+    "sport_types": [
+      "サッカー"
+    ]
+  },
+  {
     "id": "Q3661678",
     "name": "Casement Park",
     "name_ja": "ケースメント・パーク",
@@ -5769,6 +9094,17 @@
       "ゲーリック・ゲームズ",
       "ハーリング"
     ]
+  },
+  {
+    "id": "Q1771247",
+    "name": "Chang Arena",
+    "name_ja": "ニュー・アイモバイル・スタジアム",
+    "lat": 14.966667,
+    "lng": 103.096111,
+    "country": "TH",
+    "capacity": 32600,
+    "is_existing": true,
+    "sport_types": []
   },
   {
     "id": "Q567339",
@@ -5784,2652 +9120,16 @@
     ]
   },
   {
-    "id": "Q3277842",
-    "name": "Shenzhen Stadium",
-    "name_ja": "深圳体育場",
-    "lat": 22.562175,
-    "lng": 114.086989,
-    "country": "CN",
-    "capacity": 32500,
+    "id": "Q3495828",
+    "name": "Juan Domingo Perón Stadium",
+    "name_ja": "エスタディオ・フアン・ドミンゴ・ペロン",
+    "lat": -31.3837,
+    "lng": -64.1803,
+    "country": "AR",
+    "capacity": 32535,
     "is_existing": true,
     "sport_types": [
       "サッカー"
     ]
-  },
-  {
-    "id": "Q22130",
-    "name": "Estadio Municipal de Abanca Riazor",
-    "name_ja": "エスタディオ・デ・リアソール",
-    "lat": 43.368667,
-    "lng": -8.417372,
-    "country": "ES",
-    "capacity": 32490,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q264906",
-    "name": "Republican Spartak Stadium",
-    "name_ja": null,
-    "lat": 43.023056,
-    "lng": 44.695,
-    "country": "RU",
-    "capacity": 32464,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1086620",
-    "name": "Stadio Nereo Rocco",
-    "name_ja": "スタディオ・ネレオ・ロッコ",
-    "lat": 45.6225,
-    "lng": 13.792778,
-    "country": "IT",
-    "capacity": 32454,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q7596344",
-    "name": "Stadion Zagłębia Lubin",
-    "name_ja": null,
-    "lat": 51.413333,
-    "lng": 16.1975,
-    "country": "PL",
-    "capacity": 32430,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q115585",
-    "name": "Stadio Euganeo",
-    "name_ja": "スタディオ・エウガネオ",
-    "lat": 45.432222,
-    "lng": 11.858333,
-    "country": "IT",
-    "capacity": 32420,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q1763829",
-    "name": "National Tennis Center, Beijing",
-    "name_ja": "北京国家テニスセンター",
-    "lat": 40.019133,
-    "lng": 116.373456,
-    "country": "CN",
-    "capacity": 32400,
-    "is_existing": true,
-    "sport_types": [
-      "テニス"
-    ]
-  },
-  {
-    "id": "Q991419",
-    "name": "Gran Canaria Stadium",
-    "name_ja": "エスタディオ・グラン・カナリア",
-    "lat": 28.1,
-    "lng": -15.456667,
-    "country": "ES",
-    "capacity": 32392,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q620031",
-    "name": "Leicester City Stadium",
-    "name_ja": "キング・パワー・スタジアム",
-    "lat": 52.620277777,
-    "lng": -1.142222222,
-    "country": "GB",
-    "capacity": 32261,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーユニオン",
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1272188",
-    "name": "Estádio de Pituaçu",
-    "name_ja": "エスタジオ・ゴヴェルナドール・ロベルト・サントス",
-    "lat": -12.946636,
-    "lng": -38.417019,
-    "country": "BR",
-    "capacity": 32157,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q751820",
-    "name": "BJK İnönü Stadium",
-    "name_ja": "イニョニュ・スタジアム",
-    "lat": 41.039205555,
-    "lng": 28.994741666,
-    "country": "TR",
-    "capacity": 32145,
-    "is_existing": false,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q190783",
-    "name": "Central Stadium",
-    "name_ja": "ヴォルゴグラード中央スタジアム",
-    "lat": 48.734444,
-    "lng": 44.548333,
-    "country": "RU",
-    "capacity": 32120,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q770946",
-    "name": "Estadio Nueva Condomina",
-    "name_ja": "エスタディオ・ヌエバ・コンドミーナ",
-    "lat": 38.042222,
-    "lng": -1.144722,
-    "country": "ES",
-    "capacity": 32024,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q216167",
-    "name": "Wörthersee Stadion",
-    "name_ja": "ヴェルターゼー・シュターディオン",
-    "lat": 46.608847,
-    "lng": 14.278281,
-    "country": "AT",
-    "capacity": 32000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q2408913",
-    "name": "Estadio Víctor Agustín Ugarte",
-    "name_ja": null,
-    "lat": -19.578611,
-    "lng": -65.761111,
-    "country": "BO",
-    "capacity": 32000,
-    "sport_types": []
-  },
-  {
-    "id": "Q123516866",
-    "name": "Weinan Sports Center Stadium",
-    "name_ja": null,
-    "lat": 34.520277777,
-    "lng": 109.454722222,
-    "country": "CN",
-    "capacity": 32000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q1038647",
-    "name": "Hiroshima Municipal Stadium",
-    "name_ja": "MAZDA Zoom-Zoom スタジアム広島",
-    "lat": 34.3925,
-    "lng": 132.484,
-    "country": "JP",
-    "capacity": 32000,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q5367259",
-    "name": "Fujiidera Stadium",
-    "name_ja": "藤井寺球場",
-    "lat": 34.570325,
-    "lng": 135.590708,
-    "country": "JP",
-    "capacity": 32000,
-    "is_existing": false,
-    "sport_types": []
-  },
-  {
-    "id": "Q1723423",
-    "name": "Kamuzu Stadium",
-    "name_ja": "カムズ・スタジアム",
-    "lat": -15.798889,
-    "lng": 35.0345,
-    "country": "MW",
-    "capacity": 32000,
-    "sport_types": []
-  },
-  {
-    "id": "Q1369622",
-    "name": "Estadio Rommel Fernández",
-    "name_ja": "エスタディオ・ロンメル・フェルナンデス",
-    "lat": 9.035833,
-    "lng": -79.469444,
-    "country": "PA",
-    "capacity": 32000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2412387",
-    "name": "Estadio Jorge \"El Mágico\" González",
-    "name_ja": "エスタディオ・ホルヘ・ゴンサレス",
-    "lat": 13.698261111,
-    "lng": -89.215433333,
-    "country": "SV",
-    "capacity": 32000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3110888",
-    "name": "Homs Municipal Stadium",
-    "name_ja": "ハーリド・イブン・アル・ワリード・スタジアム",
-    "lat": 34.729861,
-    "lng": 36.697917,
-    "country": "SY",
-    "capacity": 32000,
-    "sport_types": []
-  },
-  {
-    "id": "Q8012748",
-    "name": "Hiroshima Municipal Stadium",
-    "name_ja": "広島市民球場",
-    "lat": 34.396983,
-    "lng": 132.454958,
-    "country": "JP",
-    "capacity": 31984,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q206135",
-    "name": "Red Bull Arena",
-    "name_ja": "レッドブル・アレーナ",
-    "lat": 47.81625,
-    "lng": 12.998222222,
-    "country": "AT",
-    "capacity": 31895,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q5402116",
-    "name": "Estádio Municipal Radialista Mário Helênio",
-    "name_ja": "エスタジオ・ムニシパウ・ラジアリスタ・マリオ・エレニオ",
-    "lat": -21.7875,
-    "lng": -43.378056,
-    "country": "BR",
-    "capacity": 31863,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q619409",
-    "name": "Brighton Community Stadium",
-    "name_ja": "ファルマー・スタジアム",
-    "lat": 50.861822222,
-    "lng": -0.083277777,
-    "country": "GB",
-    "capacity": 31800,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q1558939",
-    "name": "Kuban Stadium",
-    "name_ja": "クバン・スタジアム",
-    "lat": 45.025277777,
-    "lng": 38.999444444,
-    "country": "RU",
-    "capacity": 31654,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q1194822",
-    "name": "Seibu Dome",
-    "name_ja": "西武ドーム",
-    "lat": 35.7685,
-    "lng": 139.4205,
-    "country": "JP",
-    "capacity": 31552,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q5402167",
-    "name": "Estádio Santa Cruz",
-    "name_ja": "エスタジオ・サンタクルス",
-    "lat": -21.2025,
-    "lng": -47.789167,
-    "country": "BR",
-    "capacity": 31527,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q684727",
-    "name": "Stadio Via del Mare",
-    "name_ja": "スタディオ・ヴィア・デル・マーレ",
-    "lat": 40.365278,
-    "lng": 18.208889,
-    "country": "IT",
-    "capacity": 31461,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q953600",
-    "name": "Estadio Manuel Martínez Valero",
-    "name_ja": "エスタディオ・マヌエル・マルティネス・バレーロ",
-    "lat": 38.266944,
-    "lng": -0.663333,
-    "country": "ES",
-    "capacity": 31388,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q861117",
-    "name": "Osaka Stadium",
-    "name_ja": "大阪スタヂアム",
-    "lat": 34.66147,
-    "lng": 135.5018,
-    "country": "JP",
-    "capacity": 31379,
-    "is_existing": false,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q245085",
-    "name": "Ewood Park",
-    "name_ja": "イーウッド・パーク",
-    "lat": 53.728611111,
-    "lng": -2.489166666,
-    "country": "GB",
-    "capacity": 31367,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1138958",
-    "name": "Tofiq Bahramov Stadium",
-    "name_ja": "トフィク・バフラモフ・スタジアム",
-    "lat": 40.397333,
-    "lng": 49.852417,
-    "country": "AZ",
-    "capacity": 31200,
-    "sport_types": []
-  },
-  {
-    "id": "Q1121760",
-    "name": "Roazhon Park",
-    "name_ja": "ロアゾン・パルク",
-    "lat": 48.10743,
-    "lng": -1.71282,
-    "country": "FR",
-    "capacity": 31127,
-    "sport_types": []
-  },
-  {
-    "id": "Q928642",
-    "name": "Polish Army Stadium",
-    "name_ja": "スタディオン・ヴォイスカ・ポルスキエゴ",
-    "lat": 52.220461,
-    "lng": 21.040628,
-    "country": "PL",
-    "capacity": 31103,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q331613",
-    "name": "Lord's Cricket Ground",
-    "name_ja": "ローズ・クリケット・グラウンド",
-    "lat": 51.5294,
-    "lng": -0.1727,
-    "country": "GB",
-    "capacity": 31100,
-    "is_existing": true,
-    "sport_types": [
-      "クリケット"
-    ]
-  },
-  {
-    "id": "Q737093",
-    "name": "Stadio Marcantonio Bentegodi",
-    "name_ja": "スタディオ・マルカントニオ・ベンテゴディ",
-    "lat": 45.435356,
-    "lng": 10.968647,
-    "country": "IT",
-    "capacity": 31045,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q614446",
-    "name": "Dalian Jinzhou Stadium",
-    "name_ja": "大連金州体育場",
-    "lat": 39.0953,
-    "lng": 121.7191,
-    "country": "CN",
-    "capacity": 31000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1369326",
-    "name": "Estadio Latinoamericano",
-    "name_ja": "エスタディオ・ラティーノアメリカーノ",
-    "lat": 23.118333,
-    "lng": -82.376111,
-    "country": "CU",
-    "capacity": 31000,
-    "sport_types": []
-  },
-  {
-    "id": "Q387477",
-    "name": "Gifu Nagaragawa Stadium",
-    "name_ja": "岐阜メモリアルセンター長良川競技場",
-    "lat": 35.441337,
-    "lng": 136.766052,
-    "country": "JP",
-    "capacity": 31000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q3824486",
-    "name": "Birkebeineren Ski Stadium",
-    "name_ja": null,
-    "lat": 61.134107,
-    "lng": 10.506368,
-    "country": "NO",
-    "capacity": 31000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q380823",
-    "name": "Molineux Stadium",
-    "name_ja": "モリニュー・スタジアム",
-    "lat": 52.590277777,
-    "lng": -2.130277777,
-    "country": "GB",
-    "capacity": 30852,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q5402002",
-    "name": "Francisco Stédile Stadium",
-    "name_ja": "エスタジオ・フランシスコ・ステージレ",
-    "lat": -29.165,
-    "lng": -51.196667,
-    "country": "BR",
-    "capacity": 30802,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q747644",
-    "name": "Estadio Olímpico Patria",
-    "name_ja": null,
-    "lat": -19.032322,
-    "lng": -65.257912,
-    "country": "BO",
-    "capacity": 30700,
-    "sport_types": []
-  },
-  {
-    "id": "Q7007609",
-    "name": "Foolad Khuzestan Stadium",
-    "name_ja": "フーラードアリーナ",
-    "lat": 31.279084,
-    "lng": 48.779745,
-    "country": "IR",
-    "capacity": 30655,
-    "sport_types": []
-  },
-  {
-    "id": "Q340551",
-    "name": "Akhmat-Arena",
-    "name_ja": "アフマド・アレーナ",
-    "lat": 43.32317778,
-    "lng": 45.74525278,
-    "country": "RU",
-    "capacity": 30597,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q489909",
-    "name": "Sajik Baseball Stadium",
-    "name_ja": "社稷野球場",
-    "lat": 35.194278,
-    "lng": 129.061306,
-    "country": "KR",
-    "capacity": 30543,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q3311998",
-    "name": "Estádio Alfredo Jaconi",
-    "name_ja": "エスタジオ・アウフレッド・ジャコーニ",
-    "lat": -29.162,
-    "lng": -51.176,
-    "country": "BR",
-    "capacity": 30519,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1369536",
-    "name": "Carlos Tartiere Stadium",
-    "name_ja": "エスタディオ・カルロス・タルティエレ",
-    "lat": 43.360783,
-    "lng": -5.870222,
-    "country": "ES",
-    "capacity": 30500,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1144973",
-    "name": "Stadium MK",
-    "name_ja": "スタジアム MK",
-    "lat": 52.009444,
-    "lng": -0.733333,
-    "country": "GB",
-    "capacity": 30500,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q489490",
-    "name": "Incheon SSG Landers Field",
-    "name_ja": "文鶴野球場",
-    "lat": 37.437111,
-    "lng": 126.693306,
-    "country": "KR",
-    "capacity": 30480,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q593446",
-    "name": "City Ground",
-    "name_ja": "シティ・グラウンド",
-    "lat": 52.94,
-    "lng": -1.132778,
-    "country": "GB",
-    "capacity": 30404,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q4390980",
-    "name": "Tianjin Tuanbo Football Stadium",
-    "name_ja": "天津団泊足球場",
-    "lat": 38.969603899,
-    "lng": 117.074194786,
-    "country": "CN",
-    "capacity": 30320,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q619558",
-    "name": "Portman Road",
-    "name_ja": "ポートマン・ロード",
-    "lat": 52.055,
-    "lng": 1.145277777,
-    "country": "GB",
-    "capacity": 30311,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q96640039",
-    "name": "Municipal Stadium (Sidi Bennour)",
-    "name_ja": null,
-    "lat": 32.64564,
-    "lng": -8.427183,
-    "country": "MA",
-    "capacity": 30286,
-    "sport_types": []
-  },
-  {
-    "id": "Q3495726",
-    "name": "Estadio Manuel Murillo Toro",
-    "name_ja": null,
-    "lat": 4.429509,
-    "lng": -75.218325,
-    "country": "CO",
-    "capacity": 30279,
-    "sport_types": []
-  },
-  {
-    "id": "Q490616",
-    "name": "Jamsil Baseball Stadium",
-    "name_ja": "蚕室総合運動場野球場",
-    "lat": 37.512389,
-    "lng": 127.071972,
-    "country": "KR",
-    "capacity": 30265,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q6443417",
-    "name": "Kumamoto Athletics Stadium",
-    "name_ja": "熊本県民総合運動公園陸上競技場",
-    "lat": 32.836944,
-    "lng": 130.8,
-    "country": "JP",
-    "capacity": 30228,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン",
-      "陸上競技"
-    ]
-  },
-  {
-    "id": "Q494766",
-    "name": "Wing Stadium Kobe",
-    "name_ja": "御崎公園球技場",
-    "lat": 34.656666666,
-    "lng": 135.168888888,
-    "country": "JP",
-    "capacity": 30132,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q6587525",
-    "name": "Takhti Stadium (Tehran)",
-    "name_ja": null,
-    "lat": 35.670127,
-    "lng": 51.511953,
-    "country": "IR",
-    "capacity": 30122,
-    "sport_types": []
-  },
-  {
-    "id": "Q903860",
-    "name": "Asim Ferhatović Hase Stadium",
-    "name_ja": "アシム・フェルハトヴィッチ・ハセ競技場",
-    "lat": 43.873888888,
-    "lng": 18.408611111,
-    "country": "BA",
-    "capacity": 30121,
-    "sport_types": []
-  },
-  {
-    "id": "Q4282960",
-    "name": "Kagawa Marugame Stadium",
-    "name_ja": "香川県立丸亀競技場",
-    "lat": 34.261632,
-    "lng": 133.78592,
-    "country": "JP",
-    "capacity": 30099,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q1381223",
-    "name": "Melbourne Rectangular Stadium",
-    "name_ja": "メルボルン・レクタンギュラー・スタジアム",
-    "lat": -37.825278,
-    "lng": 144.983889,
-    "country": "AU",
-    "capacity": 30050,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーリーグ",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q695879",
-    "name": "La Rosaleda Stadium",
-    "name_ja": "エスタディオ・ラ・ロサレーダ",
-    "lat": 36.734092,
-    "lng": -4.426422,
-    "country": "ES",
-    "capacity": 30044,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q819179",
-    "name": "St Andrew's",
-    "name_ja": "セント・アンドルーズ・スタジアム",
-    "lat": 52.475702777,
-    "lng": -1.868188888,
-    "country": "GB",
-    "capacity": 30016,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q2701834",
-    "name": "3Arena",
-    "name_ja": "テレツー・アリーナ",
-    "lat": 59.29138889,
-    "lng": 18.08527778,
-    "country": "SE",
-    "capacity": 30001,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1521498",
-    "name": "Ghazi Stadium",
-    "name_ja": "ガジ・スタジアム",
-    "lat": 34.518611111,
-    "lng": 69.193888888,
-    "country": "AF",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q14934828",
-    "name": "Henson Park",
-    "name_ja": "ヘンソン・パーク",
-    "lat": -33.9046,
-    "lng": 151.1582,
-    "country": "AU",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q28003839",
-    "name": "Western Sydney Stadium",
-    "name_ja": "ウェスタン・シドニー・スタジアム",
-    "lat": -33.808056,
-    "lng": 150.999722,
-    "country": "AU",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q7169829",
-    "name": "Perry Lakes Stadium",
-    "name_ja": null,
-    "lat": -31.946389,
-    "lng": 115.79,
-    "country": "AU",
-    "capacity": 30000,
-    "is_existing": false,
-    "sport_types": []
-  },
-  {
-    "id": "Q7596090",
-    "name": "Stade Balibiè",
-    "name_ja": null,
-    "lat": 12.2481,
-    "lng": -2.36667,
-    "country": "BF",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2298668",
-    "name": "Hassanal Bolkiah National Stadium",
-    "name_ja": "ハサナル・ボルキア国立競技場",
-    "lat": 4.929028,
-    "lng": 114.945444,
-    "country": "BN",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q5302299",
-    "name": "Estádio Fredis Saldívar",
-    "name_ja": null,
-    "lat": -22.244167,
-    "lng": -54.781944,
-    "country": "BR",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q5402140",
-    "name": "Estádio Olímpico Colosso da Lagoa",
-    "name_ja": "エスタジオ・オリンピコ・コロッソ・ダ・ラゴア",
-    "lat": -27.651011,
-    "lng": -52.265039,
-    "country": "BR",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q9255334",
-    "name": "Lacerdão",
-    "name_ja": "エスタジオ・ルイス・ジョゼ・デ・ラセルダ",
-    "lat": -8.278611,
-    "lng": -35.973056,
-    "country": "BR",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q7596135",
-    "name": "Stade Lumumba",
-    "name_ja": null,
-    "lat": 0.521216,
-    "lng": 25.186576,
-    "country": "CD",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q1567328",
-    "name": "Stade de la Réunification",
-    "name_ja": "スタッド・ドゥ・ラ・レユニフィカシオン",
-    "lat": 4.05556,
-    "lng": 9.71861,
-    "country": "CM",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2619879",
-    "name": "Zhengzhou Hanghai Stadium",
-    "name_ja": "鄭州航海体育場",
-    "lat": 34.7167,
-    "lng": 113.725,
-    "country": "CN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q51843",
-    "name": "Jinshan Sports Centre",
-    "name_ja": "金山体育中心",
-    "lat": 30.732392,
-    "lng": 121.335756,
-    "country": "CN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q6191686",
-    "name": "Jiangning Sports Center",
-    "name_ja": "江寧体育中心",
-    "lat": 31.914594,
-    "lng": 118.890846,
-    "country": "CN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q5847891",
-    "name": "Estadio Daniel Villa Zapata",
-    "name_ja": null,
-    "lat": 7.072194444,
-    "lng": -73.864583333,
-    "country": "CO",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q1369571",
-    "name": "Estadio Pedro Marrero",
-    "name_ja": "エスタディオ・ペドロ・マレロ",
-    "lat": 23.10733056,
-    "lng": -82.41283889,
-    "country": "CU",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q252107",
-    "name": "Stade de l'Unité Africaine",
-    "name_ja": null,
-    "lat": 35.388056,
-    "lng": 0.159444,
-    "country": "DZ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2990530",
-    "name": "Colonel Lotfi Stadium",
-    "name_ja": null,
-    "lat": 34.877219778,
-    "lng": -1.301144473,
-    "country": "DZ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3349688",
-    "name": "Stade of 1st November 1954",
-    "name_ja": null,
-    "lat": 35.557222,
-    "lng": 6.187778,
-    "country": "DZ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3496074",
-    "name": "1 November 1954 Stadium",
-    "name_ja": "1954年11月1日スタジアム (ティジ・ウズー)",
-    "lat": 36.706944,
-    "lng": 4.056111,
-    "country": "DZ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q7596078",
-    "name": "Stade Ahmed Kaïd",
-    "name_ja": null,
-    "lat": 35.3619,
-    "lng": 1.33117,
-    "country": "DZ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q430815",
-    "name": "Al Salam Stadium",
-    "name_ja": "アッ＝サラーム・スタジアム",
-    "lat": 30.1745,
-    "lng": 31.435,
-    "country": "EG",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q4666459",
-    "name": "Abebe Bikila Stadium",
-    "name_ja": null,
-    "lat": 9.043055555,
-    "lng": 38.723888888,
-    "country": "ET",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q15260269",
-    "name": "Muntz Street",
-    "name_ja": null,
-    "lat": 52.47027778,
-    "lng": -1.855,
-    "country": "GB",
-    "capacity": 30000,
-    "is_existing": false,
-    "sport_types": []
-  },
-  {
-    "id": "Q582585",
-    "name": "Estadio Doroteo Guamuch Flores",
-    "name_ja": "エスタディオ・マテオ・フローレス",
-    "lat": 14.625764,
-    "lng": -90.510489,
-    "country": "GT",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q14120513",
-    "name": "Jawaharlal Nehru Stadium, Shillong",
-    "name_ja": "ジャワハルラール・ネルー・スタジアム (シロン)",
-    "lat": 25.579995,
-    "lng": 91.894326,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q15238122",
-    "name": "Khuman Lampak Main Stadium",
-    "name_ja": null,
-    "lat": 24.822691,
-    "lng": 93.95245,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q24748038",
-    "name": "Wadia Park Ground",
-    "name_ja": null,
-    "lat": 19.08777778,
-    "lng": 74.73361111,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "クリケット"
-    ]
-  },
-  {
-    "id": "Q5431353",
-    "name": "Dr. Bhimrao Ambedkar International Sports Stadium",
-    "name_ja": null,
-    "lat": 26.729722,
-    "lng": 82.138056,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "フィールドホッケー"
-    ]
-  },
-  {
-    "id": "Q5620422",
-    "name": "Guru Nanak Stadium",
-    "name_ja": null,
-    "lat": 30.910961,
-    "lng": 75.845082,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q6024947",
-    "name": "Sarusajai Stadium (Guwahati)",
-    "name_ja": "インディラ・ガンディー陸上競技場",
-    "lat": 26.115669,
-    "lng": 91.760297,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q7127652",
-    "name": "Paljor Stadium",
-    "name_ja": "パルジャー・スタジアム",
-    "lat": 27.334131,
-    "lng": 88.611981,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q7285799",
-    "name": "Rajarshi Shahu Stadium",
-    "name_ja": "ラージャルシ・シャーフー・スタジアム",
-    "lat": 16.69305556,
-    "lng": 74.23027778,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q7444712",
-    "name": "Sector 42 Stadium",
-    "name_ja": null,
-    "lat": 30.728889,
-    "lng": 76.745833,
-    "country": "IN",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "フィールドホッケー"
-    ]
-  },
-  {
-    "id": "Q18387073",
-    "name": "Karbala Sports City",
-    "name_ja": "カルバラー・スポーツ・シティ",
-    "lat": 30.4403,
-    "lng": 47.7808,
-    "country": "IQ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q7010550",
-    "name": "Najaf Stadium",
-    "name_ja": null,
-    "lat": 32.066197,
-    "lng": 44.317142,
-    "country": "IQ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q764402",
-    "name": "Al Mina'a Stadium",
-    "name_ja": null,
-    "lat": 30.552356,
-    "lng": 47.778155,
-    "country": "IQ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3445299",
-    "name": "Takhti Stadium",
-    "name_ja": null,
-    "lat": 31.314397,
-    "lng": 48.665008,
-    "country": "IR",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3545654",
-    "name": "Shahid Shiroudi Stadium",
-    "name_ja": "シャヒード・シールーディー・スタジアム",
-    "lat": 35.710278,
-    "lng": 51.4275,
-    "country": "IR",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q786449",
-    "name": "Stadio Filadelfia",
-    "name_ja": null,
-    "lat": 45.0385,
-    "lng": 7.65819,
-    "country": "IT",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1267545",
-    "name": "Hanazono Rugby Stadium",
-    "name_ja": "東大阪市花園ラグビー場",
-    "lat": 34.668944444,
-    "lng": 135.626388888,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーユニオン",
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q15221182",
-    "name": "Fukushima Azuma Baseball Stadium",
-    "name_ja": "福島県営あづま球場",
-    "lat": 37.721442,
-    "lng": 140.363474,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q486192",
-    "name": "ZOZO Marine Stadium",
-    "name_ja": "千葉マリンスタジアム",
-    "lat": 35.645239,
-    "lng": 140.030922,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "野球",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q4948544",
-    "name": "Botchan Stadium",
-    "name_ja": "松山中央公園野球場",
-    "lat": 33.808411,
-    "lng": 132.747525,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q5640354",
-    "name": "Hakatanomori Athletic Stadium",
-    "name_ja": "東平尾公園博多の森陸上競技場",
-    "lat": 33.584506,
-    "lng": 130.465717,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q6379828",
-    "name": "Kawasaki Stadium",
-    "name_ja": "川崎球場",
-    "lat": 35.527083,
-    "lng": 139.709722,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "野球",
-      "プロレス"
-    ]
-  },
-  {
-    "id": "Q6429613",
-    "name": "Kōnoike Athletic Stadium",
-    "name_ja": "奈良市鴻ノ池陸上競技場",
-    "lat": 34.698508333,
-    "lng": 135.829194444,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "陸上競技",
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q7034385",
-    "name": "Niigata Prefectural Baseball Stadium",
-    "name_ja": "新潟県立野球場",
-    "lat": 37.879418,
-    "lng": 139.064266,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q981819",
-    "name": "Nagano Olympic Stadium",
-    "name_ja": "長野オリンピックスタジアム",
-    "lat": 36.579722222,
-    "lng": 138.165555555,
-    "country": "JP",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q1582845",
-    "name": "Nyayo National Stadium",
-    "name_ja": "ンヤヨ・ナショナルスタジアム",
-    "lat": -1.303611,
-    "lng": 36.824167,
-    "country": "KE",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q708572",
-    "name": "Yanggakdo Stadium",
-    "name_ja": "羊角島競技場",
-    "lat": 38.991547222,
-    "lng": 125.743525,
-    "country": "KP",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q497430",
-    "name": "Incheon Asiad Main Stadium",
-    "name_ja": "仁川アジアド主競技場",
-    "lat": 37.547675,
-    "lng": 126.666682,
-    "country": "KR",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "陸上競技",
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q746559",
-    "name": "Astana Arena",
-    "name_ja": "アスタナ・アリーナ",
-    "lat": 51.1082,
-    "lng": 71.4026,
-    "country": "KZ",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2742243",
-    "name": "Sheikh Mohamed Laghdaf Stadium",
-    "name_ja": null,
-    "lat": 27.1462,
-    "lng": -13.1918,
-    "country": "MA",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q8067583",
-    "name": "Zayyarthiri Stadium",
-    "name_ja": "ザヤルティエリー・スタジアム",
-    "lat": 19.89595,
-    "lng": 96.2487,
-    "country": "MM",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3053256",
-    "name": "Empire Stadium, Gżira",
-    "name_ja": null,
-    "lat": 35.902461,
-    "lng": 14.49259,
-    "country": "MT",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q7085078",
-    "name": "Old Stadion",
-    "name_ja": "オールド・スタディオン",
-    "lat": 52.344506,
-    "lng": 4.859717,
-    "country": "NL",
-    "capacity": 30000,
-    "is_existing": false,
-    "sport_types": [
-      "フィールドホッケー"
-    ]
-  },
-  {
-    "id": "Q727389",
-    "name": "De Grolsch Veste",
-    "name_ja": "デ・フロルーシュ・フェステ",
-    "lat": 52.236666666,
-    "lng": 6.8375,
-    "country": "NL",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q3126342",
-    "name": "Hamar stadion",
-    "name_ja": null,
-    "lat": 60.796111,
-    "lng": 11.079167,
-    "country": "NO",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q1171789",
-    "name": "Dasarath Rangasala Stadium",
-    "name_ja": "ダサラス・ランガシャラ・スタジアム",
-    "lat": 27.695052,
-    "lng": 85.314835,
-    "country": "NP",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q210710",
-    "name": "Rizal Memorial Stadium",
-    "name_ja": "リサール・メモリアル・スタジアム",
-    "lat": 14.563403,
-    "lng": 120.992,
-    "country": "PH",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2741438",
-    "name": "Punjab Stadium",
-    "name_ja": "パンジャーブ・スタジアム",
-    "lat": 31.510833,
-    "lng": 74.331944,
-    "country": "PK",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q5875566",
-    "name": "Hockey Club of Pakistan",
-    "name_ja": null,
-    "lat": 24.85027778,
-    "lng": 67.03805556,
-    "country": "PK",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2918570",
-    "name": "Grigory Fedotov Stadium",
-    "name_ja": null,
-    "lat": 55.7914,
-    "lng": 37.5161,
-    "country": "RU",
-    "capacity": 30000,
-    "is_existing": false,
-    "sport_types": []
-  },
-  {
-    "id": "Q3660718",
-    "name": "Anji Arena",
-    "name_ja": "ハザール・スタジアム",
-    "lat": 42.907901,
-    "lng": 47.618587,
-    "country": "RU",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q2749637",
-    "name": "Stade Amahoro",
-    "name_ja": "スタッド・アマホロ",
-    "lat": -1.955028,
-    "lng": 30.114222,
-    "country": "RW",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q1475729",
-    "name": "Khartoum Stadium",
-    "name_ja": "ハルツーム・スタジアム",
-    "lat": 15.598392,
-    "lng": 32.515603,
-    "country": "SD",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q306006",
-    "name": "Abbasiyyin Stadium",
-    "name_ja": "アッバーシーン・スタジアム",
-    "lat": 33.52286,
-    "lng": 36.32004,
-    "country": "SY",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3082452",
-    "name": "Stade de Kégué",
-    "name_ja": "スタッド・ド・ケゲ",
-    "lat": 6.202222222,
-    "lng": 1.239722222,
-    "country": "TG",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2343636",
-    "name": "Olympic Stadium",
-    "name_ja": "アシガバート・オリンピック・スタジアム",
-    "lat": 37.904425,
-    "lng": 58.377086111,
-    "country": "TM",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q953887",
-    "name": "Estadio Agustín Tovar",
-    "name_ja": "エスタディオ・アグスティン・トバール",
-    "lat": 8.62443,
-    "lng": -70.207401,
-    "country": "VE",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q440495",
-    "name": "Althawra Sports City Stadium",
-    "name_ja": "アル・サウラ・スポーツ・シティ・スタジアム",
-    "lat": 15.41194444,
-    "lng": 44.20144722,
-    "country": "YE",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q7291439",
-    "name": "Rand Stadium",
-    "name_ja": null,
-    "lat": -26.2346,
-    "lng": 28.0516,
-    "country": "ZA",
-    "capacity": 30000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q201307",
-    "name": "Independence Stadium",
-    "name_ja": null,
-    "lat": -15.371064,
-    "lng": 28.269631,
-    "country": "ZM",
-    "capacity": 30000,
-    "sport_types": []
-  },
-  {
-    "id": "Q1978036",
-    "name": "Ivor Wynne Stadium",
-    "name_ja": "アイヴァー・ウィン・スタジアム",
-    "lat": 43.252572222,
-    "lng": -79.830247222,
-    "country": "CA",
-    "capacity": 29600,
-    "is_existing": false,
-    "sport_types": []
-  },
-  {
-    "id": "Q3378622",
-    "name": "Winnipeg Stadium",
-    "name_ja": "ウィニペグ・スタジアム",
-    "lat": 49.88957,
-    "lng": -97.19832,
-    "country": "CA",
-    "capacity": 29533,
-    "is_existing": false,
-    "sport_types": []
-  },
-  {
-    "id": "Q929315",
-    "name": "El Molinón-Enrique Castro Quini",
-    "name_ja": "エスタディオ・ムニシパル・エル・モリノン",
-    "lat": 43.536111,
-    "lng": -5.637222,
-    "country": "ES",
-    "capacity": 29371,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q2670268",
-    "name": "Estádio Brinco de Ouro",
-    "name_ja": "エスタジオ・ブリンコ・ジ・オウロ・ダ・プリンセーザ",
-    "lat": -22.909722,
-    "lng": -47.043611,
-    "country": "BR",
-    "capacity": 29130,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q2608102",
-    "name": "VEB Arena",
-    "name_ja": "アレナCSKA",
-    "lat": 55.791389,
-    "lng": 37.516111,
-    "country": "RU",
-    "capacity": 29071,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1369136",
-    "name": "Estadio Centenario",
-    "name_ja": null,
-    "lat": 4.515307,
-    "lng": -75.698447,
-    "country": "CO",
-    "capacity": 29000,
-    "sport_types": []
-  },
-  {
-    "id": "Q388470",
-    "name": "Şanlıurfa 11 Nisan Stadium",
-    "name_ja": null,
-    "lat": 37.1478,
-    "lng": 38.8068,
-    "country": "TR",
-    "capacity": 28965,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "陸上競技"
-    ]
-  },
-  {
-    "id": "Q142452",
-    "name": "Lucas Masterpieces Moripe Stadium",
-    "name_ja": null,
-    "lat": -25.775919,
-    "lng": 28.072869,
-    "country": "ZA",
-    "capacity": 28900,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q242772",
-    "name": "Toughsheet Community Stadium",
-    "name_ja": "ユニバーシティ・オブ・ボルトン・スタジアム",
-    "lat": 53.580555555,
-    "lng": -2.535555555,
-    "country": "GB",
-    "capacity": 28723,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q3137585",
-    "name": "Olympic Stadium Adem Jashari",
-    "name_ja": null,
-    "lat": 42.88155556,
-    "lng": 20.85088889,
-    "country": "XK",
-    "capacity": 28500,
-    "sport_types": []
-  },
-  {
-    "id": "Q7830567",
-    "name": "Toyama Athletic Stadium",
-    "name_ja": "富山県総合運動公園陸上競技場",
-    "lat": 36.625056,
-    "lng": 137.195688,
-    "country": "JP",
-    "capacity": 28494,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q3495641",
-    "name": "Jarry Park Stadium",
-    "name_ja": "ジェリー・パーク",
-    "lat": 45.532778,
-    "lng": -73.626944,
-    "country": "CA",
-    "capacity": 28456,
-    "is_existing": false,
-    "sport_types": [
-      "テニス",
-      "野球",
-      "カナディアン・フットボール",
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q606803",
-    "name": "Arena da Baixada",
-    "name_ja": "アレナ・ダ・バイシャーダ",
-    "lat": -25.448333,
-    "lng": -49.276944,
-    "country": "BR",
-    "capacity": 28413,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q5402146",
-    "name": "Estádio Olímpico Regional Arnaldo Busatto",
-    "name_ja": "エスタジオ・オリンピコ・ヘギオナウ・アルナウド・ブサット",
-    "lat": -24.975015,
-    "lng": -53.502538,
-    "country": "BR",
-    "capacity": 28125,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q167042",
-    "name": "Kensington Oval",
-    "name_ja": "ケンジントン・オーバル",
-    "lat": 13.105,
-    "lng": -59.6225,
-    "country": "BB",
-    "capacity": 28000,
-    "sport_types": []
-  },
-  {
-    "id": "Q7427525",
-    "name": "Niranjan Shah Stadium",
-    "name_ja": null,
-    "lat": 22.363,
-    "lng": 70.71,
-    "country": "IN",
-    "capacity": 28000,
-    "is_existing": true,
-    "sport_types": [
-      "クリケット"
-    ]
-  },
-  {
-    "id": "Q94619",
-    "name": "Stadio Renato Curi",
-    "name_ja": "スタディオ・レナト・クーリ",
-    "lat": 43.106111,
-    "lng": 12.357222,
-    "country": "IT",
-    "capacity": 28000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q680291",
-    "name": "Ullevaal Stadion",
-    "name_ja": "ウレヴォール・スタディオン",
-    "lat": 59.949,
-    "lng": 10.734333333,
-    "country": "NO",
-    "capacity": 28000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q4117973",
-    "name": "Al-Assad Stadium",
-    "name_ja": null,
-    "lat": 35.52766,
-    "lng": 35.785335,
-    "country": "SY",
-    "capacity": 28000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3277766",
-    "name": "Lạch Tray Stadium",
-    "name_ja": "ラックチャイ・スタジアム",
-    "lat": 20.851779,
-    "lng": 106.688743,
-    "country": "VN",
-    "capacity": 28000,
-    "sport_types": []
-  },
-  {
-    "id": "Q5095075",
-    "name": "Chi Lang Stadium",
-    "name_ja": "チー・ラン・スタジアム",
-    "lat": 16.069609,
-    "lng": 108.216475,
-    "country": "VN",
-    "capacity": 28000,
-    "sport_types": []
-  },
-  {
-    "id": "Q214629",
-    "name": "Stadio Olimpico Grande Torino",
-    "name_ja": "スタディオ・オリンピコ・ディ・トリノ",
-    "lat": 45.041667,
-    "lng": 7.65,
-    "country": "IT",
-    "capacity": 27958,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン",
-      "ラグビーリーグ",
-      "アメリカンフットボール"
-    ]
-  },
-  {
-    "id": "Q190781",
-    "name": "Central Stadium",
-    "name_ja": "セントラル・スタジアム (カザン)",
-    "lat": 55.796944,
-    "lng": 49.098889,
-    "country": "RU",
-    "capacity": 27756,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q500922",
-    "name": "Britannia Stadium",
-    "name_ja": "ブリタニア・スタジアム",
-    "lat": 52.988333333,
-    "lng": -2.175555555,
-    "country": "GB",
-    "capacity": 27740,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1370747",
-    "name": "Estádio Palestra Itália",
-    "name_ja": "エスタジオ・パレストラ・イタリア",
-    "lat": -23.527556,
-    "lng": -46.678417,
-    "country": "BR",
-    "capacity": 27650,
-    "is_existing": false,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q2541428",
-    "name": "Stadio Erasmo Iacovone",
-    "name_ja": null,
-    "lat": 40.452778,
-    "lng": 17.27,
-    "country": "IT",
-    "capacity": 27584,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q4116944",
-    "name": "Prince Abdullah bin Jalawi Sports City",
-    "name_ja": "アブドゥッラーフ・ビン・ジャラウィー王子記念スタジアム",
-    "lat": 25.305833,
-    "lng": 49.612778,
-    "country": "SA",
-    "capacity": 27550,
-    "sport_types": []
-  },
-  {
-    "id": "Q1538773",
-    "name": "Stadio Oreste Granillo",
-    "name_ja": "スタディオ・オレステ・グラニッロ",
-    "lat": 38.092778,
-    "lng": 15.635278,
-    "country": "IT",
-    "capacity": 27543,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q3053249",
-    "name": "Empire Field",
-    "name_ja": null,
-    "lat": 49.282639,
-    "lng": -123.033222,
-    "country": "CA",
-    "capacity": 27528,
-    "is_existing": false,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q3115714",
-    "name": "Odsal Stadium",
-    "name_ja": "オドサル・スタジアム",
-    "lat": 53.765,
-    "lng": -1.756944,
-    "country": "GB",
-    "capacity": 27491,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーリーグ",
-      "スピードウェイ",
-      "ストックカー"
-    ]
-  },
-  {
-    "id": "Q1711881",
-    "name": "Robina Stadium",
-    "name_ja": "ロビーナ・スタジアム",
-    "lat": -28.066944,
-    "lng": 153.378889,
-    "country": "AU",
-    "capacity": 27400,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q595937",
-    "name": "RZD Arena",
-    "name_ja": "ロコモティフ・スタジアム",
-    "lat": 55.80355,
-    "lng": 37.741169,
-    "country": "RU",
-    "capacity": 27320,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q123017",
-    "name": "Carrow Road",
-    "name_ja": "キャロウ・ロード",
-    "lat": 52.622222222,
-    "lng": 1.309166666,
-    "country": "GB",
-    "capacity": 27244,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1535913",
-    "name": "Mikheil Meskhi Stadium",
-    "name_ja": "ミヘイル・メスヒ・スタジアム",
-    "lat": 41.709617,
-    "lng": 44.746247,
-    "country": "GE",
-    "capacity": 27223,
-    "sport_types": []
-  },
-  {
-    "id": "Q1369079",
-    "name": "Estadio Atilio Paiva Olivera",
-    "name_ja": null,
-    "lat": -30.908333,
-    "lng": -55.548333,
-    "country": "UY",
-    "capacity": 27135,
-    "sport_types": []
-  },
-  {
-    "id": "Q958319",
-    "name": "The Valley",
-    "name_ja": "ザ・ヴァレー (ロンドン)",
-    "lat": 51.487489,
-    "lng": 0.035632,
-    "country": "GB",
-    "capacity": 27111,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーリーグ",
-      "ラグビーリーグ"
-    ]
-  },
-  {
-    "id": "Q726370",
-    "name": "Ashton Gate Stadium",
-    "name_ja": "アシュトン・ゲート・スタジアム",
-    "lat": 51.44,
-    "lng": -2.620278,
-    "country": "GB",
-    "capacity": 27000,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーユニオン",
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1190418",
-    "name": "Mizuho Athletic Stadium",
-    "name_ja": "名古屋市瑞穂公園陸上競技場",
-    "lat": 35.122721,
-    "lng": 136.944301,
-    "country": "JP",
-    "capacity": 27000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q5623304",
-    "name": "Gwangju Baseball Stadium",
-    "name_ja": "光州起亜チャンピオンズフィールド",
-    "lat": 35.1683,
-    "lng": 126.889,
-    "country": "KR",
-    "capacity": 27000,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q3058818",
-    "name": "Estadio Nacional de Panamá",
-    "name_ja": "ロッド・カルー・スタジアム",
-    "lat": 9.041311,
-    "lng": -79.5453,
-    "country": "PA",
-    "capacity": 27000,
-    "sport_types": []
-  },
-  {
-    "id": "Q1369203",
-    "name": "Estadio Feliciano Cáceres",
-    "name_ja": null,
-    "lat": -25.272222,
-    "lng": -57.493056,
-    "country": "PY",
-    "capacity": 27000,
-    "sport_types": []
-  },
-  {
-    "id": "Q3245092",
-    "name": "Prince Abdullah Al Faisal Sports City",
-    "name_ja": "プリンス・アブドゥッラー・アル・ファイサル・スタジアム",
-    "lat": 21.446608,
-    "lng": 39.251693,
-    "country": "SA",
-    "capacity": 27000,
-    "sport_types": []
-  },
-  {
-    "id": "Q702811",
-    "name": "Hasely Crawford Stadium",
-    "name_ja": "ヘイズリー・クロフォード・スタジアム",
-    "lat": 10.661522,
-    "lng": -61.533033,
-    "country": "TT",
-    "capacity": 27000,
-    "sport_types": []
-  },
-  {
-    "id": "Q619348",
-    "name": "Estadio General Francisco Morazán",
-    "name_ja": "エスタディオ・フランシスコ・モラサン",
-    "lat": 15.507455555,
-    "lng": -88.033416666,
-    "country": "HN",
-    "capacity": 26781,
-    "sport_types": []
-  },
-  {
-    "id": "Q3179478",
-    "name": "Atotxa Stadium",
-    "name_ja": "エスタディオ・デ・アトーチャ",
-    "lat": 43.3195118,
-    "lng": -1.9752008,
-    "country": "ES",
-    "capacity": 26700,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q602392",
-    "name": "Ayresome Park",
-    "name_ja": "エアーサム・パーク",
-    "lat": 54.564167,
-    "lng": -1.246944,
-    "country": "GB",
-    "capacity": 26667,
-    "is_existing": false,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q176401",
-    "name": "The Oval",
-    "name_ja": "ザ・オーバル",
-    "lat": 54.602964,
-    "lng": -5.891319,
-    "country": "GB",
-    "capacity": 26556,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q151816",
-    "name": "Estadio Nuevo José Zorrilla",
-    "name_ja": "エスタディオ・ホセ・ソリージャ",
-    "lat": 41.644444,
-    "lng": -4.761111,
-    "country": "ES",
-    "capacity": 26512,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q3012162",
-    "name": "Willows Sports Complex",
-    "name_ja": "ウィロウズ・スポーツコンプレックス",
-    "lat": -19.316111,
-    "lng": 146.711944,
-    "country": "AU",
-    "capacity": 26500,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーリーグ",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q175960",
-    "name": "Malmö stadion",
-    "name_ja": "マルメ・スタディオン",
-    "lat": 55.586111111,
-    "lng": 12.989166666,
-    "country": "SE",
-    "capacity": 26500,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "スピードウェイ"
-    ]
-  },
-  {
-    "id": "Q494472",
-    "name": "Kayseri Atatürk Stadium",
-    "name_ja": null,
-    "lat": 38.72305556,
-    "lng": 35.49666667,
-    "country": "TR",
-    "capacity": 26500,
-    "is_existing": false,
-    "sport_types": []
-  },
-  {
-    "id": "Q31678",
-    "name": "The Hawthorns",
-    "name_ja": "ザ・ホーソンズ",
-    "lat": 52.509166666,
-    "lng": -1.963888888,
-    "country": "GB",
-    "capacity": 26445,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1122715",
-    "name": "Estadi Ciutat de València",
-    "name_ja": "エスタディオ・シウダ・デ・バレンシア",
-    "lat": 39.494722,
-    "lng": -0.364167,
-    "country": "ES",
-    "capacity": 26354,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1066373",
-    "name": "Selhurst Park",
-    "name_ja": "セルハースト・パーク",
-    "lat": 51.398333333,
-    "lng": -0.085555555,
-    "country": "GB",
-    "capacity": 26255,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q318125",
-    "name": "Abe Lenstra Stadion",
-    "name_ja": "アベ・レンストラ・スタディオン",
-    "lat": 52.958611,
-    "lng": 5.936111,
-    "country": "NL",
-    "capacity": 26100,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q859765",
-    "name": "Obed Itani Chilume Stadium",
-    "name_ja": null,
-    "lat": -21.151496,
-    "lng": 27.478742,
-    "country": "BW",
-    "capacity": 26000,
-    "sport_types": []
-  },
-  {
-    "id": "Q2301915",
-    "name": "Estadio Nuevo Mirandilla",
-    "name_ja": "エスタディオ・ラモン・デ・カランサ",
-    "lat": 36.502778,
-    "lng": -6.273056,
-    "country": "ES",
-    "capacity": 26000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q7278758",
-    "name": "Rabindra Sarobar Stadium",
-    "name_ja": null,
-    "lat": 22.51166667,
-    "lng": 88.35222222,
-    "country": "IN",
-    "capacity": 26000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q178107",
-    "name": "Stadio del Conero",
-    "name_ja": "スタディオ・デル・コネーロ",
-    "lat": 43.56425383,
-    "lng": 13.526144,
-    "country": "IT",
-    "capacity": 26000,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q11557872",
-    "name": "Hamamatsu Baseball Stadium",
-    "name_ja": "浜松球場",
-    "lat": 34.743222,
-    "lng": 137.734083,
-    "country": "JP",
-    "capacity": 26000,
-    "is_existing": true,
-    "sport_types": [
-      "野球"
-    ]
-  },
-  {
-    "id": "Q2335120",
-    "name": "Köpetdag Stadium",
-    "name_ja": "コペトダグ・スタジアム",
-    "lat": 37.94935,
-    "lng": 58.37021,
-    "country": "TM",
-    "capacity": 26000,
-    "sport_types": []
-  },
-  {
-    "id": "Q1210262",
-    "name": "Welford Road Stadium",
-    "name_ja": "ウェルフォード・ロード・スタジアム",
-    "lat": 52.624167,
-    "lng": -1.133056,
-    "country": "GB",
-    "capacity": 25849,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーユニオン",
-      "ラグビーリーグ"
-    ]
-  },
-  {
-    "id": "Q1475155",
-    "name": "VTB Arena",
-    "name_ja": "VTBアレーナ",
-    "lat": 55.7914,
-    "lng": 37.5597,
-    "country": "RU",
-    "capacity": 25712,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "アイスホッケー",
-      "バスケットボール"
-    ]
-  },
-  {
-    "id": "Q318043",
-    "name": "Craven Cottage",
-    "name_ja": "クレイヴン・コテージ",
-    "lat": 51.475,
-    "lng": -0.221666666,
-    "country": "GB",
-    "capacity": 25700,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーリーグ"
-    ]
-  },
-  {
-    "id": "Q2576232",
-    "name": "Estadio Universitario",
-    "name_ja": "エスタディオ・ウニベルシタリオ・デ・カラカス",
-    "lat": 10.489481,
-    "lng": -66.884006,
-    "country": "VE",
-    "capacity": 25690,
-    "sport_types": []
-  },
-  {
-    "id": "Q9600912",
-    "name": "Kumagaya Rugby Stadium",
-    "name_ja": "熊谷ラグビー場",
-    "lat": 36.168259,
-    "lng": 139.402453,
-    "country": "JP",
-    "capacity": 25600,
-    "is_existing": true,
-    "sport_types": []
-  },
-  {
-    "id": "Q2944632",
-    "name": "Buxoro Arena",
-    "name_ja": "ブハラ・アレーナ",
-    "lat": 39.768544,
-    "lng": 64.425706,
-    "country": "UZ",
-    "capacity": 25520,
-    "sport_types": []
-  },
-  {
-    "id": "Q3462866",
-    "name": "Mersin Arena",
-    "name_ja": null,
-    "lat": 36.8206,
-    "lng": 34.5389,
-    "country": "TR",
-    "capacity": 25497,
-    "is_existing": true,
-    "sport_types": [
-      "陸上競技"
-    ]
-  },
-  {
-    "id": "Q2925642",
-    "name": "Brisbane Showgrounds",
-    "name_ja": "ブリスベン・エキシビジョン・グラウンド",
-    "lat": -27.45,
-    "lng": 153.032778,
-    "country": "AU",
-    "capacity": 25490,
-    "is_existing": true,
-    "sport_types": [
-      "クリケット"
-    ]
-  },
-  {
-    "id": "Q630160",
-    "name": "MKM Stadium",
-    "name_ja": "KCスタジアム",
-    "lat": 53.746111111,
-    "lng": -0.367777777,
-    "country": "GB",
-    "capacity": 25400,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーリーグ"
-    ]
-  },
-  {
-    "id": "Q640031",
-    "name": "Stadio Friuli",
-    "name_ja": "スタディオ・フリウーリ",
-    "lat": 46.081603,
-    "lng": 13.200136,
-    "country": "IT",
-    "capacity": 25312,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q1016967",
-    "name": "Bursa Atatürk Stadium",
-    "name_ja": "ブルサ・アタトゥルク・スタジアム",
-    "lat": 40.192222,
-    "lng": 29.048333,
-    "country": "TR",
-    "capacity": 25213,
-    "is_existing": false,
-    "sport_types": [
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q25060011",
-    "name": "Woldiya Stadium",
-    "name_ja": null,
-    "lat": 11.82993,
-    "lng": 39.60016,
-    "country": "ET",
-    "capacity": 25155,
-    "sport_types": []
-  },
-  {
-    "id": "Q969279",
-    "name": "Valley Parade",
-    "name_ja": "バレー・パレード",
-    "lat": 53.804222222,
-    "lng": -1.759022222,
-    "country": "GB",
-    "capacity": 25136,
-    "is_existing": true,
-    "sport_types": [
-      "サッカー",
-      "ラグビーリーグ",
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q494388",
-    "name": "Q494388",
-    "name_ja": "DWスタジアム",
-    "lat": 53.547778,
-    "lng": -2.653889,
-    "country": "GB",
-    "capacity": 25133,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーリーグ"
-    ]
-  },
-  {
-    "id": "Q732147",
-    "name": "Percival Molson Memorial Stadium",
-    "name_ja": "パーシバル・モルソン・記念スタジアム",
-    "lat": 45.510083333,
-    "lng": -73.580666666,
-    "country": "CA",
-    "capacity": 25012,
-    "is_existing": true,
-    "sport_types": [
-      "カナディアン・フットボール",
-      "サッカー"
-    ]
-  },
-  {
-    "id": "Q1032882",
-    "name": "Canberra Stadium",
-    "name_ja": "キャンベラ・スタジアム",
-    "lat": -35.25,
-    "lng": 149.102777777,
-    "country": "AU",
-    "capacity": 25011,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビーユニオン"
-    ]
-  },
-  {
-    "id": "Q15646927",
-    "name": "Hazza bin Zayed Stadium",
-    "name_ja": "ハッザーア・ビン・ザーイド・スタジアム",
-    "lat": 24.2456,
-    "lng": 55.7166,
-    "country": "AE",
-    "capacity": 25000,
-    "sport_types": []
-  },
-  {
-    "id": "Q24090121",
-    "name": "Queensland Country Bank Stadium",
-    "name_ja": "ノース・クイーンズランド・スタジアム",
-    "lat": -19.26638889,
-    "lng": 146.81555556,
-    "country": "AU",
-    "capacity": 25000,
-    "is_existing": true,
-    "sport_types": [
-      "ラグビー"
-    ]
-  },
-  {
-    "id": "Q3534981",
-    "name": "Carrara Stadium",
-    "name_ja": "カッラーラ・スタジアム",
-    "lat": -28.006388888,
-    "lng": 153.367222222,
-    "country": "AU",
-    "capacity": 25000,
-    "is_existing": true,
-    "sport_types": [
-      "オーストラリアンフットボール",
-      "クリケット"
-    ]
-  },
-  {
-    "id": "Q4884452",
-    "name": "Belmore Sports Ground",
-    "name_ja": null,
-    "lat": -33.916667,
-    "lng": 151.094722,
-    "country": "AU",
-    "capacity": 25000,
-    "is_existing": true,
-    "sport_types": []
   }
 ]

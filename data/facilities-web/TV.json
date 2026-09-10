@@ -6,10 +6,14 @@
     "lat": -8.523889,
     "lng": 179.198611,
     "country": "TV",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 1500,
     "opened_year": 2004,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,15 +21,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tuvalu A-Division",
+        "name_ja": "FCトファガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tuvalu_Sports_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q182636",
     "image_url": "Vaiaku-stadion 02.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

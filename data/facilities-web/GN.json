@@ -1,56 +1,5 @@
 [
   {
-    "id": "Q102003652",
-    "name": "Q102003652",
-    "name_ja": null,
-    "lat": 9.529444444,
-    "lng": -13.680555555,
-    "country": "GN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Baraka Djoma SSG",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q102003652",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q109018023",
-    "name": "Q109018023",
-    "name_ja": null,
-    "lat": 9.8273854,
-    "lng": -13.4700208,
-    "country": "GN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q109018023",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
     "id": "Q110414247",
     "name": "Stade Petit Sory",
     "name_ja": null,
@@ -61,6 +10,7 @@
     "capacity": 5400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -68,38 +18,22 @@
         "url": "http://s280880476.onlinehome.fr/hafiafc/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Guinée Championnat National",
+        "name_ja": "ギニア・シャンピオナ・ナショナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110414247",
     "image_url": "Stade Petit Sory à Nongo sport.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q116167761",
-    "name": "Q116167761",
-    "name_ja": null,
-    "lat": 9.58909,
-    "lng": -13.615846666,
-    "country": "GN",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2022,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q116167761",
-    "image_url": "Prytanée militaire de Guinée en 2025.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131377290",
@@ -108,50 +42,27 @@
     "lat": 7.758055555,
     "lng": -8.8175,
     "country": "GN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_du_3_Avril",
     "wikidata_url": "https://www.wikidata.org/wiki/Q131377290",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q136194292",
-    "name": "Q136194292",
-    "name_ja": null,
-    "lat": 11.106505,
-    "lng": -13.809515,
-    "country": "GN",
-    "sport_types": [],
-    "capacity": 2000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "AS Mineurs",
-        "url": null
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q136194292",
-    "image_url": "Stade de sangaredi.jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3031607",
@@ -160,10 +71,13 @@
     "lat": 9.54586111,
     "lng": -13.67291667,
     "country": "GN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 25000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -171,16 +85,18 @@
         "url": "http://www.feguifoot.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/9%E6%9C%8828%E6%97%A5%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3031607",
     "image_url": "Over conakry (3326330162).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495980",
@@ -189,10 +105,13 @@
     "lat": 9.624167,
     "lng": -13.626667,
     "country": "GN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 50000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -200,16 +119,18 @@
         "url": "http://www.feguifoot.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_General_Lansana_Cont%C3%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495980",
     "image_url": "Supporteur du syli.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q42913875",
@@ -218,10 +139,13 @@
     "lat": 9.511787,
     "lng": -13.703581,
     "country": "GN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 1000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -229,27 +153,37 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Guinée Championnat National",
+        "name_ja": "ギニア・シャンピオナ・ナショナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q42913875",
     "image_url": "Stade de la mission 05.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596201",
     "name": "Stade Régional Saifoullaye Diallo",
     "name_ja": null,
-    "lat": 11.312835,
-    "lng": -12.270581944,
+    "lat": 11.3128,
+    "lng": -12.2705,
     "country": "GN",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -257,15 +191,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Guinée Championnat National",
+        "name_ja": "ギニア・シャンピオナ・ナショナル"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_R%C3%A9gional_Saifoullaye_Diallo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596201",
     "image_url": "Stade de Labé.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T18:52:37.437Z"
   }
 ]

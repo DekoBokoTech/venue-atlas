@@ -10,6 +10,7 @@
     "capacity": 7300,
     "opened_year": 1968,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,16 +18,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gani_Muratbayev_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1008046",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q105834123",
@@ -35,33 +43,39 @@
     "lat": 43.264085375,
     "lng": 68.342428028,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q105834123",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1072092",
     "name": "Alau Ice Palace",
     "name_ja": null,
-    "lat": 51.105,
+    "lat": 51.10472222,
     "lng": 71.405,
     "country": "KZ",
     "sport_types": [],
     "capacity": 8000,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -69,16 +83,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alau_Ice_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1072092",
     "image_url": null,
     "website": "http://www.alau.info/eng/index.php",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1074493",
@@ -91,6 +107,7 @@
     "capacity": 6300,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -98,16 +115,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shakhtyor_Stadium_(Ekibastuz)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1074493",
     "image_url": "Shahter Stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1125989",
@@ -120,6 +139,7 @@
     "capacity": 12525,
     "opened_year": 1936,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -127,16 +147,23 @@
         "url": "http://www.fctaraz.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan First League",
+        "name_ja": "ビリンシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Taraz_Central_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1125989",
     "image_url": "Central stadium in Taraz.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113566511",
@@ -149,18 +176,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ak-Bulak_(ski_resort)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q113566511",
     "image_url": null,
     "website": "https://ak-bulak.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q114347070",
@@ -173,18 +203,21 @@
     "capacity": null,
     "opened_year": 2014,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sokol_International_Racetrack",
     "wikidata_url": "https://www.wikidata.org/wiki/Q114347070",
     "image_url": "Sokol Circuit - Big Ring.png",
     "website": "https://sokolinternationalcircuit.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q120669431",
@@ -193,21 +226,26 @@
     "lat": 42.30127113,
     "lng": 69.632850676,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120669431",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125252907",
@@ -216,21 +254,26 @@
     "lat": 51.203561256,
     "lng": 51.36775263,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125252907",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12528566",
@@ -243,18 +286,21 @@
     "capacity": null,
     "opened_year": 1930,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Almaty_hippodrome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12528566",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135089978",
@@ -267,40 +313,20 @@
     "capacity": 800,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135089978",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q135106379",
-    "name": "Q135106379",
-    "name_ja": null,
-    "lat": 51.132222222,
-    "lng": 71.719722222,
-    "country": "KZ",
-    "sport_types": [],
-    "capacity": 500,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q135106379",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1445312",
@@ -313,6 +339,7 @@
     "capacity": 16000,
     "opened_year": 1986,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -320,16 +347,23 @@
         "url": "https://www.fcbunyodkor.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Uzbekistan Super League",
+        "name_ja": "ウズベキスタン・スーパーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/MHSK%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1445312",
     "image_url": "MHSK Stadioni 081022 183350.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1641948",
@@ -342,6 +376,7 @@
     "capacity": 2500,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -349,16 +384,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Akzholtay_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1641948",
     "image_url": "Ак Жолтай - panoramio.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632800",
@@ -371,6 +408,7 @@
     "capacity": 12000,
     "opened_year": 2015,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -378,16 +416,23 @@
         "url": "http://hcbarys.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kontinental Hockey League",
+        "name_ja": "KHL"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632800",
     "image_url": "Barys Arena 2014-03-15.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18125175",
@@ -400,18 +445,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Almaty_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18125175",
     "image_url": "Ice Palace \"Almaty Arena\".jpg",
     "website": "https://almatyarena.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18128224",
@@ -424,18 +472,21 @@
     "capacity": null,
     "opened_year": 2010,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Soldatskoe_Valley_Cross_Country_Skiing_and_Biathlon_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18128224",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q190784",
@@ -444,10 +495,13 @@
     "lat": 50.291389,
     "lng": 57.160278,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12800,
     "opened_year": 1975,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -455,16 +509,23 @@
         "url": "https://fcaktobe.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Aktobe)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q190784",
     "image_url": "Aktobe Central Stadium (02).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q190788",
@@ -473,10 +534,14 @@
     "lat": 43.238331,
     "lng": 76.92435,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "ラグビーユニオン"
+    ],
     "capacity": 23804,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -484,16 +549,23 @@
         "url": "http://www.fckairat.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%88%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%AA%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q190788",
     "image_url": "Kazakhstan P9240988 08 (39408856325).jpg",
     "website": "http://centralstadium.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q190789",
@@ -506,6 +578,7 @@
     "capacity": 15000,
     "opened_year": 1947,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -513,16 +586,23 @@
         "url": "http://www.fcirtysh.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavlodar_Central_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q190789",
     "image_url": "Centralny stadium Pavlodar.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q190791",
@@ -535,6 +615,7 @@
     "capacity": 8323,
     "opened_year": 1964,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -542,16 +623,23 @@
         "url": "https://fctobol.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kostanay_Central_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q190791",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20036756",
@@ -564,6 +652,7 @@
     "capacity": null,
     "opened_year": 2008,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -571,16 +660,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Daulet_National_Tennis_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20036756",
     "image_url": null,
     "website": "http://ntc-daulet.kz/index.php/ru/o-nas/obshchaya-informatsiya",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2047375",
@@ -593,18 +684,21 @@
     "capacity": null,
     "opened_year": 1970,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_the_Republic%2C_Almaty",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2047375",
     "image_url": "Palace of the Republic, Almaty 2022.jpg",
     "website": "http://www.almaty-ayenderi.kz",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25212545",
@@ -617,18 +711,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yunost_Stadium_(Oral)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25212545",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q268402",
@@ -641,6 +738,7 @@
     "capacity": 8320,
     "opened_year": 1927,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -648,16 +746,23 @@
         "url": "https://fc-akzhayik.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan First League",
+        "name_ja": "ビリンシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Petr_Atoyan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q268402",
     "image_url": "Стадион имени Петра Атояна.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2963663",
@@ -670,18 +775,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shymbulak",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2963663",
     "image_url": "Shymbulak in Almaty.JPG",
     "website": "http://www.shymbulak.com/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2986461",
@@ -690,10 +798,13 @@
     "lat": 51.162739,
     "lng": 71.413312,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12350,
     "opened_year": 1938,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -701,16 +812,23 @@
         "url": "https://jenisfk.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kazhymukan_Munaitpasov_Stadium_(Astana)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2986461",
     "image_url": "Стадион имени Мунайтпасова.jpg",
     "website": "http://www.skdostykastana.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4126424",
@@ -723,6 +841,7 @@
     "capacity": 8500,
     "opened_year": 1963,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -730,16 +849,23 @@
         "url": "http://www.fc-vostok.ucoz.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan First League",
+        "name_ja": "ビリンシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vostok_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4126424",
     "image_url": "Восток (Стадион).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4155968",
@@ -752,6 +878,7 @@
     "capacity": 4400,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -763,16 +890,27 @@
         "url": "https://hctorpedo.pro/zhkhk-torpedo.html"
       }
     ],
+    "leagues": [
+      {
+        "name": "Russian Supreme Hockey League",
+        "name_ja": "スプリーム・ホッケー・リーグ"
+      },
+      {
+        "name": "Qyzdar Hokei Ligasy",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Boris_Alexandrov_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4155968",
     "image_url": "Aleksandrov Sports Arena.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4155969",
@@ -785,6 +923,7 @@
     "capacity": null,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -792,16 +931,27 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "European Women's Hockey League",
+        "name_ja": null
+      },
+      {
+        "name": "Qyzdar Hokei Ligasy",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baluan_Sholak_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4155969",
     "image_url": "Baluan Sholak sport centre.jpg",
     "website": "http://dvorecsporta.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4179789",
@@ -814,6 +964,7 @@
     "capacity": 4000,
     "opened_year": 1982,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -821,16 +972,23 @@
         "url": "http://www.fc-zhetisu.kz"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jetisu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4179789",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4213697",
@@ -843,6 +1001,7 @@
     "capacity": 5500,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -850,16 +1009,18 @@
         "url": "http://www.hc-saryarka.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Karagandy-Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4213697",
     "image_url": "Ледовый дворец - panoramio (1).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4230441",
@@ -872,17 +1033,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4230441",
     "image_url": "Astana Concert Hall.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4366821",
@@ -895,18 +1059,21 @@
     "capacity": null,
     "opened_year": 1931,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_the_Border_Service_of_the_National_Security_Committee",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4366821",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4408858",
@@ -915,10 +1082,13 @@
     "lat": 51.11011,
     "lng": 71.40743,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "バスケットボール"
+    ],
     "capacity": 9200,
     "opened_year": 2011,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -926,16 +1096,18 @@
         "url": "https://astanabasket.kz/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saryarka_Velodrome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4408858",
     "image_url": "Saryarka Velodrome (inside).JPG",
     "website": "http://velotrek.kz/index.php/en/#",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4430724",
@@ -948,6 +1120,7 @@
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -955,15 +1128,22 @@
         "url": "http://spartak-kz.ru/en"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan First League",
+        "name_ja": "ビリンシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4430724",
     "image_url": "Spartak Semej Stadion.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4827654",
@@ -976,6 +1156,7 @@
     "capacity": 11000,
     "opened_year": 1967,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -983,16 +1164,23 @@
         "url": "https://fkqyzyljar.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Karasai_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4827654",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55606151",
@@ -1005,18 +1193,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Burabay_Ski_Jumps",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55606151",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q588138",
@@ -1029,6 +1220,7 @@
     "capacity": 8660,
     "opened_year": 1954,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1036,16 +1228,23 @@
         "url": "http://www.rfcatyrau.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Munaishy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q588138",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q606918",
@@ -1058,6 +1257,7 @@
     "capacity": 4158,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1065,16 +1265,23 @@
         "url": "http://www.okzhetpes.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Okzhetpes_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q606918",
     "image_url": "Кокшетау, стадион \"Окжетпес\". Начало матча \"Окжетпес\" - \"Тобол\" (25.06.2005).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60851842",
@@ -1087,6 +1294,7 @@
     "capacity": null,
     "opened_year": 2016,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1094,16 +1302,18 @@
         "url": "https://almaty-hc.kz/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Halyk_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60851842",
     "image_url": "Халык Арена.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q746559",
@@ -1112,10 +1322,13 @@
     "lat": 51.1082,
     "lng": 71.4026,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 30000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1131,16 +1344,27 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      },
+      {
+        "name": "Kazakhstan First League",
+        "name_ja": "ビリンシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%8A%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q746559",
     "image_url": "Astana Arena (inside interior).JPG",
     "website": "https://astanaarena.kz/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q798494",
@@ -1149,10 +1373,13 @@
     "lat": 42.335493,
     "lng": 69.593568,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 20000,
     "opened_year": 1969,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1160,16 +1387,23 @@
         "url": "https://fcordabasy.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kazhymukan_Munaitpasov_Stadium%2C_Shymkent",
     "wikidata_url": "https://www.wikidata.org/wiki/Q798494",
     "image_url": "Kazhymukan-Munaitpasov- Stadium-Shymkent-Kazakhstan.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8070634",
@@ -1182,6 +1416,7 @@
     "capacity": 3500,
     "opened_year": 1995,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1189,16 +1424,23 @@
         "url": "https://fccaspy.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan Premier League",
+        "name_ja": "カザフスタン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zhastar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8070634",
     "image_url": "Жас Канат.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q846879",
@@ -1211,6 +1453,7 @@
     "capacity": 19000,
     "opened_year": 1958,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1218,16 +1461,23 @@
         "url": "https://shakhter.kz/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan First League",
+        "name_ja": "ビリンシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shakhter_Stadium%2C_Karaganda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q846879",
     "image_url": "Shakhtyor Stadium (Karagandy) 2013-05-22 18.11.25.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q864796",
@@ -1240,6 +1490,7 @@
     "capacity": 8500,
     "opened_year": 1951,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1247,16 +1498,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Medeu",
     "wikidata_url": "https://www.wikidata.org/wiki/Q864796",
     "image_url": "Medeobanen1.jpg",
     "website": "http://www.medey.kz/en/",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q954730",
@@ -1269,18 +1522,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%B3%E3%82%AB%E3%83%AB%E5%9B%BD%E9%9A%9B%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E8%A4%87%E5%90%88%E6%96%BD%E8%A8%AD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q954730",
     "image_url": "AlmatySkiJump.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96626780",
@@ -1289,10 +1545,13 @@
     "lat": 50.0676,
     "lng": 72.9777,
     "country": "KZ",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 12000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -1300,14 +1559,21 @@
         "url": "http://bulatamt.kz"
       }
     ],
+    "leagues": [
+      {
+        "name": "Kazakhstan First League",
+        "name_ja": "ビリンシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q96626780",
     "image_url": "Metallurg stadium (Temirtau).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

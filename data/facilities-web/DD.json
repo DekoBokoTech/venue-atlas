@@ -9,46 +9,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": null,
-    "closed_year": null,
+    "closed_year": 2000,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q115105832",
     "image_url": "Marienbad 1910.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q123986926",
-    "name": "Q123986926",
-    "name_ja": null,
-    "lat": 51.15142,
-    "lng": 11.78971,
-    "country": "DD",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1956,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [
-      {
-        "name": "開会式",
-        "year": null
-      }
-    ],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q123986926",
-    "image_url": "Naumburg Kadettenanstalt (01).jpg",
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124362080",
@@ -57,21 +32,26 @@
     "lat": 50.946267266,
     "lng": 13.943473192,
     "country": "DD",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124362080",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124474752",
@@ -84,18 +64,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Harder_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q124474752",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1248342",
@@ -107,18 +90,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1986,
-    "closed_year": null,
+    "closed_year": 1990,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1248342",
     "image_url": null,
     "website": "http://home.snafu.de/veith/ohs.htm",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q141142247",
@@ -127,10 +113,13 @@
     "lat": 51.142205,
     "lng": 14.942591,
     "country": "DD",
-    "sport_types": [],
+    "sport_types": [
+      "ハンドボール"
+    ],
     "capacity": null,
     "opened_year": null,
-    "closed_year": null,
+    "closed_year": 2006,
+    "is_existing": false,
     "roof_type": null,
     "teams": [
       {
@@ -138,15 +127,17 @@
         "url": "https://www.bsv-goerlitz.de/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q141142247",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1439122",
@@ -158,18 +149,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1964,
-    "closed_year": null,
+    "closed_year": 1991,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1439122",
     "image_url": "Prora, opuštěný rekreační objekt II.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16320531",
@@ -181,18 +175,21 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1956,
-    "closed_year": null,
+    "closed_year": 1990,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16320531",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2015903",
@@ -205,17 +202,20 @@
     "capacity": null,
     "opened_year": 1952,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2015903",
     "image_url": null,
     "website": "http://home.snafu.de/veith/ohs.htm",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q26012645",
@@ -228,17 +228,20 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q26012645",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q26014233",
@@ -251,17 +254,20 @@
     "capacity": null,
     "opened_year": 1950,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q26014233",
     "image_url": "Leipzig Schwimmstadion Nordtribuene Kassenhalle2.JPG",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28121567",
@@ -270,10 +276,14 @@
     "lat": 51.596111111,
     "lng": 13.432780555,
     "country": "DD",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン",
+      "ハンドボール"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -293,6 +303,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "1960 International Badminton Tournament in Tröbitz",
@@ -319,38 +330,11 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q28121567",
     "image_url": "Sporthalle Troebitz.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q30656120",
-    "name": "Q30656120",
-    "name_ja": null,
-    "lat": 54.1047,
-    "lng": 11.9038,
-    "country": "DD",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 1903,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [
-      {
-        "name": "Friderico-Francisceum",
-        "url": "http://www.ffg-dbr.de/"
-      }
-    ],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q30656120",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30914660",
@@ -362,17 +346,20 @@
     "sport_types": [],
     "capacity": null,
     "opened_year": 1952,
-    "closed_year": null,
+    "closed_year": 1990,
+    "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30914660",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

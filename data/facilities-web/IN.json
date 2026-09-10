@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gulmarg_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q104865540",
@@ -25,7 +26,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q105972684",
@@ -43,6 +44,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%82%B5%E3%83%BB%E3%83%A0%E3%83%B3%E3%83%80%E5%9B%BD%E9%9A%9B%E3%83%9B%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q105972684",
@@ -53,7 +55,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107349059",
@@ -69,6 +71,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_Sports_Enclave",
     "wikidata_url": "https://www.wikidata.org/wiki/Q107349059",
@@ -79,7 +82,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108084320",
@@ -95,6 +98,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Desert_Dolphin_Skatepark",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108084320",
@@ -105,7 +109,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108392442",
@@ -121,6 +125,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sonam_Gyatso_Mountaineering_Institute",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108392442",
@@ -131,7 +136,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108428150",
@@ -147,6 +152,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Center_of_Excellence",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108428150",
@@ -157,7 +163,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109373985",
@@ -192,6 +198,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      },
+      {
+        "name": "Women's Premier League",
+        "name_ja": "女子プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ekana_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109373985",
@@ -202,7 +218,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110131095",
@@ -223,6 +239,7 @@
         "url": "https://diamondharbourfc.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bankimanjali_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110131095",
@@ -233,7 +250,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111327401",
@@ -249,6 +266,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sardar_Patel_Stadium%2C_Mehsana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q111327401",
@@ -259,7 +277,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113677432",
@@ -277,6 +295,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113677432",
@@ -286,7 +305,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113818208",
@@ -304,6 +323,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113818208",
@@ -313,7 +333,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115112795",
@@ -329,6 +349,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hyderabad_Street_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q115112795",
@@ -339,7 +360,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1156264",
@@ -359,6 +380,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/DY%E3%83%91%E3%83%86%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1156264",
@@ -369,7 +391,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116413580",
@@ -385,6 +407,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dumurjala_Sports_City",
     "wikidata_url": "https://www.wikidata.org/wiki/Q116413580",
@@ -395,7 +418,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q117073478",
@@ -413,6 +436,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117073478",
@@ -422,7 +446,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q11774589",
@@ -446,6 +470,7 @@
         "url": "http://punefc.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%B4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%88%E3%83%A9%E3%83%91%E3%83%86%E3%82%A3%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q11774589",
@@ -456,7 +481,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1188061",
@@ -472,6 +497,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/M._A._Chidambaram_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1188061",
@@ -482,7 +508,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119603091",
@@ -498,6 +524,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q119603091",
@@ -507,7 +534,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12066592",
@@ -523,6 +550,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pune_International_Cricket_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12066592",
@@ -533,7 +561,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q120685277",
@@ -551,6 +579,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120685277",
@@ -560,7 +589,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q120900067",
@@ -578,6 +607,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120900067",
@@ -587,7 +617,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q120972084",
@@ -603,6 +633,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120972084",
@@ -612,7 +643,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q122617914",
@@ -628,6 +659,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122617914",
@@ -637,7 +669,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q122971551",
@@ -655,6 +687,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q122971551",
@@ -664,7 +697,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123496921",
@@ -682,6 +715,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123496921",
@@ -691,7 +725,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124022024",
@@ -707,6 +741,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124022024",
@@ -716,7 +751,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12447878",
@@ -734,6 +769,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Moti_Bagh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12447878",
@@ -744,7 +780,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124793598",
@@ -762,6 +798,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124793598",
@@ -771,7 +808,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125145591",
@@ -789,6 +826,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/East_Point_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q125145591",
@@ -799,7 +837,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125887695",
@@ -815,6 +853,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125887695",
@@ -824,7 +863,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125945424",
@@ -840,6 +879,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Jubilee_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q125945424",
@@ -850,7 +890,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q127699527",
@@ -866,6 +906,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_College_of_Materials_Management",
     "wikidata_url": "https://www.wikidata.org/wiki/Q127699527",
@@ -876,7 +917,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13118380",
@@ -892,6 +933,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nehru_Stadium%2C_Guwahati",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13118380",
@@ -902,7 +944,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131747804",
@@ -918,6 +960,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131747804",
@@ -927,7 +970,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q131867166",
@@ -945,6 +988,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q131867166",
@@ -954,7 +998,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135067916",
@@ -970,6 +1014,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135067916",
@@ -979,7 +1024,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135316239",
@@ -995,6 +1040,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135316239",
@@ -1004,7 +1050,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135316356",
@@ -1020,6 +1066,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135316356",
@@ -1029,7 +1076,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13652399",
@@ -1047,6 +1094,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nehru_Stadium%2C_Indore",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13652399",
@@ -1057,7 +1105,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137135028",
@@ -1075,6 +1123,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Madurai_International_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q137135028",
@@ -1085,7 +1134,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138565423",
@@ -1101,6 +1150,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Goa_Street_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q138565423",
@@ -1111,7 +1161,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138763343",
@@ -1127,6 +1177,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138763343",
@@ -1136,7 +1187,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q139769843",
@@ -1152,6 +1203,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139769843",
@@ -1161,7 +1213,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1398213",
@@ -1185,6 +1237,16 @@
         "url": "http://www.churchillbrothersgoa.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Football League",
+        "name_ja": "インディアン・フットボールリーグ"
+      },
+      {
+        "name": "Goa Professional League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%88%E3%83%AB%E3%83%80%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1398213",
@@ -1195,7 +1257,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14120513",
@@ -1218,6 +1280,7 @@
         "url": "http://www.shillonglajong.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium_(Shillong)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14120513",
@@ -1228,7 +1291,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14956997",
@@ -1244,6 +1307,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/High_Altitude_Warfare_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14956997",
@@ -1254,7 +1318,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14957027",
@@ -1270,6 +1334,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_College_of_Telecommunication_Engineering",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14957027",
@@ -1280,7 +1345,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15181230",
@@ -1298,6 +1363,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Anna_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15181230",
@@ -1308,7 +1374,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15214983",
@@ -1329,6 +1395,7 @@
         "url": "http://www.upca.co.in/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr._Akhilesh_Das_Gupta_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15214983",
@@ -1339,7 +1406,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15217611",
@@ -1362,6 +1429,12 @@
         "url": "https://www.delhicapitals.in"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%88%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15217611",
@@ -1372,7 +1445,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15229080",
@@ -1393,6 +1466,7 @@
         "url": "https://www.bcci.tv/players/men"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/JSCA_International_Stadium_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15229080",
@@ -1403,7 +1477,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15229942",
@@ -1419,6 +1493,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K._D._Singh_Babu_Stadium%2C_Barabanki",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15229942",
@@ -1429,7 +1504,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15238122",
@@ -1450,6 +1525,7 @@
         "url": "http://www.shillonglajong.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khuman_Lampak_Main_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15238122",
@@ -1460,7 +1536,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15238600",
@@ -1476,6 +1552,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kishore_Bharati_Krirangan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15238600",
@@ -1486,7 +1563,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15243713",
@@ -1504,6 +1581,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maharaja_Bir_Bikram_College_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15243713",
@@ -1514,7 +1592,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15254588",
@@ -1537,6 +1615,7 @@
         "url": "http://www.themohunbaganac.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mohun_Bagan_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15254588",
@@ -1547,7 +1626,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15265675",
@@ -1566,6 +1645,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Patliputra_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15265675",
@@ -1576,7 +1656,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15271417",
@@ -1592,6 +1672,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajarathinam_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15271417",
@@ -1602,7 +1683,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15616459",
@@ -1620,6 +1701,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q15616459",
@@ -1629,7 +1711,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16238312",
@@ -1645,6 +1727,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shri_Shivaji_Preparatory_Military_School_(Pune)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16238312",
@@ -1655,7 +1738,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16254622",
@@ -1673,6 +1756,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16254622",
@@ -1682,7 +1766,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16254849",
@@ -1698,6 +1782,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Birsa_Munda_Football_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16254849",
@@ -1708,7 +1793,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16257820",
@@ -1726,6 +1811,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chaudhary_Bansi_Lal_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16257820",
@@ -1736,7 +1822,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632444",
@@ -1757,6 +1843,7 @@
         "url": "http://www.aizawlfc.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lammual_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632444",
@@ -1767,7 +1854,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632521",
@@ -1788,6 +1875,7 @@
         "url": "http://www.orissacricket.org"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/East_Coast_Railway_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632521",
@@ -1798,7 +1886,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632585",
@@ -1814,6 +1902,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yashwant_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632585",
@@ -1824,7 +1913,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632620",
@@ -1840,6 +1929,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_Stadium%2C_Kollam",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632620",
@@ -1850,7 +1940,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632635",
@@ -1873,6 +1963,7 @@
         "url": "http://www.unitedsportsclub.in/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kalyani_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632635",
@@ -1883,7 +1974,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632664",
@@ -1899,6 +1990,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Silli_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632664",
@@ -1909,7 +2001,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632666",
@@ -1925,6 +2017,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jawahar_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632666",
@@ -1935,7 +2028,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632762",
@@ -1958,6 +2051,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mohali_International_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632762",
@@ -1968,7 +2062,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1684271",
@@ -1992,6 +2086,12 @@
         "url": "https://keralablastersfc.in/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Super League",
+        "name_ja": "インディアン・スーパーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AF%E3%83%8F%E3%83%AB%E3%83%A9%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%AB%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_(%E3%82%B3%E3%83%BC%E3%83%81)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1684271",
@@ -2002,7 +2102,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16844321",
@@ -2020,6 +2120,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Madan_Mohan_Malaviya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16844321",
@@ -2030,7 +2131,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16858519",
@@ -2048,6 +2149,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CB_Patel_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16858519",
@@ -2058,7 +2160,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16880050",
@@ -2074,6 +2176,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mannamkuzhi_stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16880050",
@@ -2084,7 +2187,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16891828",
@@ -2102,6 +2205,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Government_Boys'_HS_School_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16891828",
@@ -2112,7 +2216,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16892869",
@@ -2130,6 +2234,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nehru_Stadium%2C_Tiruchirappalli",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16892869",
@@ -2140,7 +2245,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16919556",
@@ -2156,6 +2261,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Eklavya_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16919556",
@@ -2166,7 +2272,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16981637",
@@ -2184,6 +2290,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gangotri_Glades_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16981637",
@@ -2194,7 +2301,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17068459",
@@ -2212,6 +2319,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lalabhai_Contractor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17068459",
@@ -2222,7 +2330,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17071008",
@@ -2238,6 +2346,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maharaja_Ranjit_Singh_Armed_Forces_Preparatory_Institute",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17071008",
@@ -2248,7 +2357,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17071735",
@@ -2266,6 +2375,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ACA_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17071735",
@@ -2276,7 +2386,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17073340",
@@ -2294,6 +2404,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Middle_Income_Group_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17073340",
@@ -2304,7 +2415,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q172906",
@@ -2320,6 +2431,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "インドグランプリ",
@@ -2339,7 +2451,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17514696",
@@ -2357,6 +2469,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr._Shyama_Prasad_Mukherjee_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17514696",
@@ -2367,7 +2480,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q177067",
@@ -2390,6 +2503,12 @@
         "url": "https://www.mumbaiindians.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wankhede_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q177067",
@@ -2400,7 +2519,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18126040",
@@ -2418,6 +2537,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kollam_International_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18126040",
@@ -2428,7 +2548,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18126257",
@@ -2446,6 +2566,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jaypee_Sports_City",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18126257",
@@ -2456,7 +2577,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18207815",
@@ -2477,6 +2598,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Swami_Vivekananda_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18207815",
@@ -2487,7 +2609,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18217170",
@@ -2505,6 +2627,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Cricket_Stadium%2C_Dehradun",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18217170",
@@ -2515,7 +2638,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18354746",
@@ -2531,6 +2654,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18354746",
@@ -2540,7 +2664,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18392255",
@@ -2558,6 +2682,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nagaland_Cricket_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18392255",
@@ -2568,7 +2693,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1861907",
@@ -2589,6 +2714,12 @@
         "url": "http://www.royalchallengers.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/M._Chinnaswamy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1861907",
@@ -2599,7 +2730,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1923182",
@@ -2617,6 +2748,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Delhi_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1923182",
@@ -2627,7 +2759,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19457260",
@@ -2643,6 +2775,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Basawan_Singh_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19457260",
@@ -2653,7 +2786,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19458217",
@@ -2671,6 +2804,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/DRIEMS_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19458217",
@@ -2681,7 +2815,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19458905",
@@ -2699,6 +2833,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q19458905",
@@ -2708,7 +2843,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19891345",
@@ -2724,6 +2859,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q19891345",
@@ -2733,7 +2869,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19892816",
@@ -2749,6 +2885,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/KIIT_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19892816",
@@ -2759,7 +2896,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19898470",
@@ -2775,6 +2912,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SSB_Ranidanga_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19898470",
@@ -2785,7 +2923,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19898521",
@@ -2801,6 +2939,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q19898521",
@@ -2810,7 +2949,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2035004",
@@ -2837,6 +2976,12 @@
         "url": "https://www.bcci.tv/players/men"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%87%E3%83%B3%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%BA",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2035004",
@@ -2847,7 +2992,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20713124",
@@ -2865,6 +3010,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay_Presidency_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20713124",
@@ -2875,7 +3021,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20745467",
@@ -2893,6 +3039,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Deccan_Gymkhana_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20745467",
@@ -2903,7 +3050,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20873555",
@@ -2919,6 +3066,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Krishnagiri_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20873555",
@@ -2929,7 +3077,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20874628",
@@ -2945,6 +3093,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jaipal_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20874628",
@@ -2955,7 +3104,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20874642",
@@ -2973,6 +3122,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20874642",
@@ -2983,7 +3133,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20874644",
@@ -3001,6 +3151,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mohan_Meakins_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20874644",
@@ -3011,7 +3162,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20874659",
@@ -3029,6 +3180,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pandit_Ravishankar_Shukla_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20874659",
@@ -3039,7 +3191,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20874664",
@@ -3057,6 +3209,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Raja_Raghuraj_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20874664",
@@ -3067,7 +3220,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20875503",
@@ -3085,6 +3238,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Angul_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20875503",
@@ -3095,7 +3249,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20875764",
@@ -3111,6 +3265,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/DDA_Netaji_Subhash_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20875764",
@@ -3121,7 +3276,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20875915",
@@ -3139,6 +3294,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Veer_Surendra_Sai_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20875915",
@@ -3149,7 +3305,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20894706",
@@ -3167,6 +3323,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Netaji_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20894706",
@@ -3177,7 +3334,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20909119",
@@ -3195,6 +3352,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jorhat_Gymkhana_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20909119",
@@ -3205,7 +3363,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20926349",
@@ -3223,6 +3381,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Madhya_Pradesh_Cricket_Association_Ground%2C_Jabalpur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20926349",
@@ -3233,7 +3392,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21160925",
@@ -3251,6 +3410,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ACA_Women's_Cricket_Academy_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21160925",
@@ -3261,7 +3421,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21160984",
@@ -3284,6 +3444,7 @@
         "url": "https://www.hockeyindia.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Biju_Patnaik_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21160984",
@@ -3294,7 +3455,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21161062",
@@ -3310,6 +3471,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Madhya_Pradesh_Cricket_Association_Ground%2C_Sagar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21161062",
@@ -3320,7 +3482,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21161125",
@@ -3343,6 +3505,7 @@
         "url": "https://www.hockeyindia.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shilaroo_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21161125",
@@ -3353,7 +3516,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21161175",
@@ -3369,6 +3532,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/YSR_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21161175",
@@ -3379,7 +3543,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21161214",
@@ -3397,6 +3561,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Abhimanyu_Cricket_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21161214",
@@ -3407,7 +3572,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21161227",
@@ -3426,6 +3591,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cooch_Behar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21161227",
@@ -3436,7 +3602,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21161379",
@@ -3454,6 +3620,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tau_Devi_Lal_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21161379",
@@ -3464,7 +3631,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21161641",
@@ -3480,6 +3647,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hindustan_Zinc_Limited_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21161641",
@@ -3490,7 +3658,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21406816",
@@ -3508,6 +3676,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amitabh_Bachchan_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21406816",
@@ -3518,7 +3687,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21519711",
@@ -3541,6 +3710,12 @@
         "url": "http://jaipurpinkpanthers.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Pro Kabaddi League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sawai_Mansingh_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21519711",
@@ -3551,7 +3726,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21809579",
@@ -3567,6 +3742,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maharana_Bhupal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21809579",
@@ -3577,7 +3753,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22031622",
@@ -3593,6 +3769,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pandit_Deendayal_Upadhyay_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22031622",
@@ -3603,7 +3780,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22032158",
@@ -3621,6 +3798,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sukhadia_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22032158",
@@ -3631,7 +3809,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22032205",
@@ -3647,6 +3825,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Abhay_Prashal_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22032205",
@@ -3657,7 +3836,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22079903",
@@ -3673,6 +3852,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/GBU_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22079903",
@@ -3683,7 +3863,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22080367",
@@ -3701,6 +3881,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr_PVG_Raju_ACA_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22080367",
@@ -3711,7 +3892,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22080549",
@@ -3729,6 +3910,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MIT_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22080549",
@@ -3739,7 +3921,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2272848",
@@ -3755,6 +3937,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Air_Force_Academy_(India)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2272848",
@@ -3765,7 +3948,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22952133",
@@ -3783,6 +3966,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sanatana_Dharma_College_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22952133",
@@ -3793,7 +3977,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23035357",
@@ -3811,6 +3995,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Major_Dhyan_Chand_Hockey_Stadium%2C_Jhansi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23035357",
@@ -3821,7 +4006,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23035864",
@@ -3842,6 +4027,7 @@
         "url": "http://www.upca.co.in/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sadar_Bazar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23035864",
@@ -3852,7 +4038,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23038221",
@@ -3875,6 +4061,7 @@
         "url": "http://www.assamcricket.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Northeast_Frontier_Railway_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23038221",
@@ -3885,7 +4072,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23039237",
@@ -3903,6 +4090,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Emerald_High_School_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23039237",
@@ -3913,7 +4101,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23039322",
@@ -3931,6 +4119,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kalina_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23039322",
@@ -3941,7 +4130,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23039431",
@@ -3964,6 +4153,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23039431",
@@ -3974,7 +4164,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23043348",
@@ -3997,6 +4187,7 @@
         "url": "http://goacricketassociation.co.in/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Goa_Cricket_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23043348",
@@ -4007,7 +4198,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23043448",
@@ -4023,6 +4214,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Awadhesh_Pratap_Singh_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23043448",
@@ -4033,7 +4225,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23043475",
@@ -4051,6 +4243,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q23043475",
@@ -4060,7 +4253,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23198429",
@@ -4078,6 +4271,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/RN_Shetty_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23198429",
@@ -4088,7 +4282,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2357255",
@@ -4111,6 +4305,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R._K._Khanna_Tennis_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2357255",
@@ -4121,7 +4316,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23808194",
@@ -4137,6 +4332,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luv_Kush_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23808194",
@@ -4147,7 +4343,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q23975544",
@@ -4165,6 +4361,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ACA%E2%80%93VDCA_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23975544",
@@ -4175,7 +4372,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2408126",
@@ -4198,6 +4395,7 @@
         "url": "https://eastbengalclub.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/East_Bengal_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2408126",
@@ -4208,7 +4406,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2448826",
@@ -4226,6 +4424,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2448826",
@@ -4235,7 +4434,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747912",
@@ -4253,6 +4452,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh_Stadium%2C_Nanded",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747912",
@@ -4263,7 +4463,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747917",
@@ -4281,6 +4481,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aurangabad_District_Cricket_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747917",
@@ -4291,7 +4492,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747918",
@@ -4309,6 +4510,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747918",
@@ -4318,7 +4520,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747920",
@@ -4341,6 +4543,7 @@
         "url": "http://www.mpcaonline.com/index.php"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ravishankar_Shukla_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747920",
@@ -4351,7 +4554,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747922",
@@ -4369,6 +4572,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Indira_Gandhi_Stadium_(Alwar)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747922",
@@ -4379,7 +4583,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747923",
@@ -4402,6 +4606,7 @@
         "url": "http://www.calicutmedicalcollege.ac.in/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Calicut_Medical_College_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747923",
@@ -4412,7 +4617,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747927",
@@ -4430,6 +4635,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nehru_Smarak_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747927",
@@ -4440,7 +4646,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747928",
@@ -4458,6 +4664,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mining_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747928",
@@ -4468,7 +4675,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747931",
@@ -4486,6 +4693,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Syed_Modi_Railway_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747931",
@@ -4496,7 +4704,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747936",
@@ -4514,6 +4722,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maharaja_Yadavindra_Singh_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747936",
@@ -4524,7 +4733,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747937",
@@ -4542,6 +4751,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hutatma_Anant_Kanhere_Maidan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747937",
@@ -4552,7 +4762,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747940",
@@ -4570,6 +4780,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shaheed_Bhagat_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747940",
@@ -4580,7 +4791,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747949",
@@ -4598,6 +4809,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hazaribagh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747949",
@@ -4608,7 +4820,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747950",
@@ -4626,6 +4838,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Railway_Stadium%2C_Dhanbad",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747950",
@@ -4636,7 +4849,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747954",
@@ -4654,6 +4867,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Reliance_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747954",
@@ -4664,7 +4878,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747957",
@@ -4682,6 +4896,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shri_Chhatrapati_Shivaji_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747957",
@@ -4692,7 +4907,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747958",
@@ -4710,6 +4925,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luwangpokpa_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747958",
@@ -4720,7 +4936,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747972",
@@ -4738,6 +4954,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ukku_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747972",
@@ -4748,7 +4965,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747976",
@@ -4766,6 +4983,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajgir_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747976",
@@ -4776,7 +4994,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747982",
@@ -4794,6 +5012,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pithwala_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747982",
@@ -4804,7 +5023,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747991",
@@ -4822,6 +5041,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tata_Digwadih_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747991",
@@ -4832,7 +5052,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747993",
@@ -4850,6 +5070,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nehru_Stadium%2C_Hubli",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747993",
@@ -4860,7 +5081,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747995",
@@ -4883,6 +5104,7 @@
         "url": "https://www.keralafa.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/FACT_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747995",
@@ -4893,7 +5115,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24747998",
@@ -4911,6 +5133,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mahadji_Scindia_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24747998",
@@ -4921,7 +5144,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748001",
@@ -4939,6 +5162,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ispat_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748001",
@@ -4949,7 +5173,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748004",
@@ -4967,6 +5191,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Railway_Cricket_Ground%2C_Jaipur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748004",
@@ -4977,7 +5202,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748007",
@@ -4995,6 +5220,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polytechnic_Institute_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748007",
@@ -5005,7 +5231,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748010",
@@ -5021,6 +5247,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Port_Trust_Diamond_Jubilee_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748010",
@@ -5031,7 +5258,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748014",
@@ -5047,6 +5274,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Digvijay_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748014",
@@ -5057,7 +5285,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748022",
@@ -5075,6 +5303,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Metallurgical_%26_Engineering_Consultant_Ltd_Sail_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748022",
@@ -5085,7 +5314,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748029",
@@ -5103,6 +5332,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Garrison_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748029",
@@ -5113,7 +5343,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748038",
@@ -5136,6 +5366,7 @@
         "url": "http://cricketmaharashtra.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Wadia_Park_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748038",
@@ -5146,7 +5377,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748047",
@@ -5162,6 +5393,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dori_Lal_Agarawal_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748047",
@@ -5172,7 +5404,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748052",
@@ -5188,6 +5420,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/South_Coast_Railway_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748052",
@@ -5198,7 +5431,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748061",
@@ -5216,6 +5449,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nehru_Stadium%2C_Durgapur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748061",
@@ -5226,7 +5460,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748064",
@@ -5244,6 +5478,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium_(Ghaziabad)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748064",
@@ -5254,7 +5489,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748065",
@@ -5272,6 +5507,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ajjarakadu_Mahatma_Gandhi_District_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748065",
@@ -5282,7 +5518,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748068",
@@ -5300,6 +5536,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shrimant_Madhavrao_Scindia_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748068",
@@ -5310,7 +5547,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748069",
@@ -5329,6 +5566,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/LCPE_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748069",
@@ -5339,7 +5577,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748070",
@@ -5357,6 +5595,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ramakrishna_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748070",
@@ -5367,7 +5606,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748080",
@@ -5385,6 +5624,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vikram_University_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748080",
@@ -5395,7 +5635,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748083",
@@ -5413,6 +5653,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cochin_Refineries_Limited_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748083",
@@ -5423,7 +5664,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748093",
@@ -5441,6 +5682,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rashtriya_Chemicals_%26_Fertilisers_Company_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748093",
@@ -5451,7 +5693,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748105",
@@ -5469,6 +5711,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Indira_Gandhi_Stadium_(Vijayawada)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748105",
@@ -5479,7 +5722,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748117",
@@ -5497,6 +5740,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajaram_Maidan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748117",
@@ -5507,7 +5751,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748122",
@@ -5525,6 +5769,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Indira_Gandhi_Stadium_(Solapur)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748122",
@@ -5535,7 +5780,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748139",
@@ -5558,6 +5803,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gujarat_College_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748139",
@@ -5568,7 +5814,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748148",
@@ -5586,6 +5832,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nishan_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748148",
@@ -5596,7 +5843,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24748164",
@@ -5614,6 +5861,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ACA%E2%80%93KDCA_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24748164",
@@ -5624,7 +5872,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24912675",
@@ -5640,6 +5888,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fr._Agnel_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24912675",
@@ -5650,7 +5899,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24928029",
@@ -5673,6 +5922,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Babu_Banarasi_Das_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24928029",
@@ -5683,7 +5933,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24928074",
@@ -5701,6 +5951,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Annasaheb_Magar_PCMC_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24928074",
@@ -5711,7 +5962,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24928669",
@@ -5727,6 +5978,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Indira_Gandhi_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24928669",
@@ -5737,7 +5989,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24942149",
@@ -5753,6 +6005,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Balbir_Singh_Juneja_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24942149",
@@ -5763,7 +6016,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24946786",
@@ -5779,6 +6032,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Master_Chandgiram_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24946786",
@@ -5789,7 +6043,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25212072",
@@ -5805,6 +6059,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Worlds_of_Wonder_(amusement_park)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25212072",
@@ -5815,7 +6070,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25247471",
@@ -5831,6 +6086,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25247471",
@@ -5840,7 +6096,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2576004",
@@ -5858,6 +6114,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Calcutta_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2576004",
@@ -5868,7 +6125,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28154339",
@@ -5886,6 +6143,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jamshedpur_Golf_Courses",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28154339",
@@ -5896,7 +6154,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28169786",
@@ -5912,6 +6170,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gorkha_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28169786",
@@ -5922,7 +6181,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28170063",
@@ -5940,6 +6199,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kalhaar_Blues_%26_Greens_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28170063",
@@ -5950,7 +6210,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28173036",
@@ -5968,6 +6228,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St_Xavier's_College_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28173036",
@@ -5978,7 +6239,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28179260",
@@ -5994,6 +6255,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/EKA_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28179260",
@@ -6004,7 +6266,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q287770",
@@ -6020,6 +6282,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_Stadium%2C_Hyderabad",
     "wikidata_url": "https://www.wikidata.org/wiki/Q287770",
@@ -6030,7 +6293,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q29532057",
@@ -6048,6 +6311,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29532057",
@@ -6057,7 +6321,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30622722",
@@ -6075,6 +6339,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Noida_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30622722",
@@ -6085,7 +6350,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30623293",
@@ -6101,6 +6366,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Appu_Ghar_(Gurgaon)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30623293",
@@ -6111,7 +6377,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3269725",
@@ -6129,6 +6395,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%A9%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3269725",
@@ -6139,7 +6406,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3317050",
@@ -6162,6 +6429,7 @@
         "url": "https://www.hockeyindia.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Major_Dhyan_Chand_National_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3317050",
@@ -6172,7 +6440,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3515393",
@@ -6188,6 +6456,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Captain_Roop_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3515393",
@@ -6198,7 +6467,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3521656",
@@ -6216,6 +6485,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thyagaraj_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3521656",
@@ -6226,7 +6496,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3521690",
@@ -6242,6 +6512,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Talkatora_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3521690",
@@ -6252,7 +6523,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3522142",
@@ -6270,6 +6541,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/I._S._Bindra_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3522142",
@@ -6280,7 +6552,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3530699",
@@ -6303,6 +6575,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Siri_Fort_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3530699",
@@ -6313,7 +6586,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3531246",
@@ -6329,6 +6602,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr._Karni_Singh_Shooting_Range",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3531246",
@@ -6339,7 +6613,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3531421",
@@ -6362,6 +6636,12 @@
         "url": "https://www.gujarattitansipl.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AC%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%83%A2%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3531421",
@@ -6372,7 +6652,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3533459",
@@ -6395,6 +6675,7 @@
         "url": "http://www.maharashtraopen.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/SDAT%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3533459",
@@ -6405,7 +6686,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3545234",
@@ -6428,6 +6709,12 @@
         "url": "https://www.bengalurufc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Super League",
+        "name_ja": "インディアン・スーパーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AC%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3545234",
@@ -6438,7 +6725,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3595281",
@@ -6454,6 +6741,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E5%85%B5%E5%AD%A6%E6%A0%A1_(%E3%82%A4%E3%83%B3%E3%83%89)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3595281",
@@ -6464,7 +6752,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3595639",
@@ -6480,6 +6768,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Indian_Military_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3595639",
@@ -6490,7 +6779,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3630909",
@@ -6506,6 +6795,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defence_Academy_(India)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3630909",
@@ -6516,7 +6806,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q37159935",
@@ -6534,6 +6824,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gangarampur_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q37159935",
@@ -6544,7 +6835,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4382775",
@@ -6562,6 +6853,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4382775",
@@ -6571,7 +6863,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q456749",
@@ -6592,6 +6884,7 @@
         "url": "https://www.the-aiff.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ambedkar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q456749",
@@ -6602,7 +6895,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4616975",
@@ -6618,6 +6911,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/2010_Commonwealth_Games_Village",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4616975",
@@ -6628,7 +6922,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4697968",
@@ -6644,6 +6938,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Air_Force_Technical_College%2C_Bengaluru",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4697968",
@@ -6654,7 +6949,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4699164",
@@ -6672,6 +6967,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aishbagh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4699164",
@@ -6682,7 +6978,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4701511",
@@ -6700,6 +6996,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Akola_Cricket_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4701511",
@@ -6710,7 +7007,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4748880",
@@ -6728,6 +7025,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4748880",
@@ -6738,7 +7036,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4754330",
@@ -6754,6 +7052,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Andheri_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4754330",
@@ -6764,7 +7063,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4782815",
@@ -6780,6 +7079,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4782815",
@@ -6789,7 +7089,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4786546",
@@ -6807,6 +7107,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Brabourne_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4786546",
@@ -6817,7 +7118,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4792119",
@@ -6835,6 +7136,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arlem_Breweries_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4792119",
@@ -6845,7 +7147,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4794270",
@@ -6861,6 +7163,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Army_War_College%2C_Mhow",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4794270",
@@ -6871,7 +7174,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4811740",
@@ -6894,6 +7197,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Birsa_Munda_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4811740",
@@ -6904,7 +7208,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4832044",
@@ -6920,6 +7224,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Azad_Maidan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4832044",
@@ -6930,7 +7235,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4843168",
@@ -6946,6 +7251,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bhaichung_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4843168",
@@ -6956,7 +7262,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4855048",
@@ -6979,6 +7285,7 @@
         "url": "http://www.worldserieshockey.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bangalore_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4855048",
@@ -6989,7 +7296,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4858084",
@@ -7005,6 +7312,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Barabati_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4858084",
@@ -7015,7 +7323,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4858458",
@@ -7038,6 +7346,7 @@
         "url": "http://www.themohunbaganac.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Barasat_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4858458",
@@ -7048,7 +7357,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4860916",
@@ -7064,6 +7373,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Barkatullah_Khan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4860916",
@@ -7074,7 +7384,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4864977",
@@ -7090,6 +7400,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Assam_Cricket_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4864977",
@@ -7100,7 +7411,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4866287",
@@ -7116,6 +7427,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Basavanagudi_Aquatic_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4866287",
@@ -7126,7 +7438,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48727039",
@@ -7142,6 +7454,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amaazia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q48727039",
@@ -7152,7 +7465,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4901480",
@@ -7170,6 +7483,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bhausaheb_Bandodkar_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4901480",
@@ -7180,7 +7494,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4907501",
@@ -7196,6 +7510,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bilakhiya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4907501",
@@ -7206,7 +7521,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4916967",
@@ -7227,6 +7542,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Birsa_Munda_Athletics_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4916967",
@@ -7237,7 +7553,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4922019",
@@ -7253,6 +7569,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Thunder_(theme_park)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4922019",
@@ -7263,7 +7580,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4940560",
@@ -7279,6 +7596,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay_Gymkhana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4940560",
@@ -7289,7 +7607,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5008592",
@@ -7305,6 +7623,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CAFVD_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5008592",
@@ -7315,7 +7634,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5071066",
@@ -7333,6 +7652,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chandigarh_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5071066",
@@ -7343,7 +7663,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5071453",
@@ -7359,6 +7679,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chandrasekharan_Nair_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5071453",
@@ -7369,7 +7690,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5088134",
@@ -7387,6 +7708,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chaugan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5088134",
@@ -7397,7 +7719,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5090646",
@@ -7415,6 +7737,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chemplast_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5090646",
@@ -7425,7 +7748,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5094824",
@@ -7441,6 +7764,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chhatrasal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5094824",
@@ -7451,7 +7775,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5141502",
@@ -7469,6 +7793,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coimbatore_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5141502",
@@ -7479,7 +7804,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5167851",
@@ -7500,6 +7825,7 @@
         "url": "http://www.mumbaifc.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cooperage_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5167851",
@@ -7510,7 +7836,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5176887",
@@ -7526,6 +7852,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Counter-Insurgency_and_Jungle_Warfare_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5176887",
@@ -7536,7 +7863,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5184963",
@@ -7556,6 +7883,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cricket_Club_of_India",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5184963",
@@ -7566,7 +7894,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5205540",
@@ -7584,6 +7912,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/DLF_Golf_and_Country_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5205540",
@@ -7594,7 +7923,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5207905",
@@ -7610,6 +7939,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dadoji_Kondadev_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5207905",
@@ -7620,7 +7950,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5226563",
@@ -7636,6 +7966,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dash_n_Splash",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5226563",
@@ -7646,7 +7977,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5251267",
@@ -7662,6 +7993,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Defence_Services_Staff_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5251267",
@@ -7672,7 +8004,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5253833",
@@ -7688,6 +8020,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Delhi_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5253833",
@@ -7698,7 +8031,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5269942",
@@ -7721,6 +8054,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Major_Dhyan_Chand_Hockey_Stadium%2C_Lucknow",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5269942",
@@ -7731,7 +8065,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5283330",
@@ -7749,6 +8083,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Goa_Cricket_Association_Academy_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5283330",
@@ -7759,7 +8094,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5304339",
@@ -7780,6 +8115,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr_Rajendra_Prasad_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5304339",
@@ -7790,7 +8126,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5304551",
@@ -7808,6 +8144,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr_Sampurnanand_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5304551",
@@ -7818,7 +8155,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5313386",
@@ -7845,6 +8182,12 @@
         "url": "http://www.sportingclubedegoa.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Goa Professional League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Duler_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5313386",
@@ -7855,7 +8198,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5395264",
@@ -7871,6 +8214,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/VOC_Park_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5395264",
@@ -7881,7 +8225,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5420212",
@@ -7899,6 +8243,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Exhibition_Ground%2C_Eluru",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5420212",
@@ -7909,7 +8254,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5431353",
@@ -7932,6 +8277,7 @@
         "url": "http://www.upca.co.in/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dr_Bhimrao_Ambedkar_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5431353",
@@ -7942,7 +8288,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5455373",
@@ -7958,6 +8304,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mahalaxmi_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5455373",
@@ -7968,7 +8315,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5455467",
@@ -7984,6 +8331,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pune_Race_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5455467",
@@ -7994,7 +8342,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5455523",
@@ -8010,6 +8358,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Guindy_Race_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5455523",
@@ -8020,7 +8369,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5455744",
@@ -8036,6 +8385,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hyderabad_Race_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5455744",
@@ -8046,7 +8396,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5455830",
@@ -8062,6 +8412,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kolkata_Race_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5455830",
@@ -8072,7 +8423,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5471579",
@@ -8090,6 +8441,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Maidan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5471579",
@@ -8100,7 +8452,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5512339",
@@ -8123,6 +8475,7 @@
         "url": "http://www.fatehhyderabad.com/"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "2003 Afro-Asian Games",
@@ -8142,7 +8495,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5516201",
@@ -8162,6 +8515,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2003 Afro-Asian Games",
@@ -8177,7 +8531,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5520721",
@@ -8193,6 +8547,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gandhi_Sports_Complex_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5520721",
@@ -8203,7 +8558,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5520723",
@@ -8219,6 +8574,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gandhi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5520723",
@@ -8229,7 +8585,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55636187",
@@ -8245,6 +8601,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tribal_Research_and_Training_Institute%2C_Pune",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55636187",
@@ -8255,7 +8612,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55757655",
@@ -8273,6 +8630,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/NPR_College_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55757655",
@@ -8283,7 +8641,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5600695",
@@ -8301,6 +8659,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shaheed_Vijay_Singh_Pathik_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5600695",
@@ -8311,7 +8670,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5602959",
@@ -8327,6 +8686,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Green_Park_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5602959",
@@ -8337,7 +8697,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5620367",
@@ -8360,6 +8720,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5620367",
@@ -8370,7 +8731,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5620422",
@@ -8395,6 +8756,12 @@
         "url": "https://rgpunjabfc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "All India Football Federation",
+        "name_ja": "全インドサッカー連盟"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Guru_Nanak_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5620422",
@@ -8405,7 +8772,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5635576",
@@ -8423,6 +8790,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Himachal_Pradesh_Cricket_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5635576",
@@ -8433,7 +8801,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5651370",
@@ -8449,6 +8817,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hanuman_Vyayam_Prasarak_Mandal_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5651370",
@@ -8459,7 +8828,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5654349",
@@ -8477,6 +8846,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Harbax_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5654349",
@@ -8487,7 +8857,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q57158168",
@@ -8505,6 +8875,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/IGl_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q57158168",
@@ -8515,7 +8886,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5880726",
@@ -8533,6 +8904,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Holkar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5880726",
@@ -8543,7 +8915,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5922511",
@@ -8559,6 +8931,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sailen_Manna_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5922511",
@@ -8569,7 +8942,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5953889",
@@ -8587,6 +8960,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hyderabad_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5953889",
@@ -8597,7 +8971,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5972984",
@@ -8615,6 +8989,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Reliance_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5972984",
@@ -8625,7 +9000,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6024947",
@@ -8648,6 +9023,12 @@
         "url": "http://gauhatitownclub.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "I-League U20",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%A9%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E9%99%B8%E4%B8%8A%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6024947",
@@ -8658,7 +9039,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6025002",
@@ -8676,6 +9057,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Indira_Gandhi_Stadium_(Una)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6025002",
@@ -8686,7 +9068,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6025059",
@@ -8704,6 +9086,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Indira_Priyadarshini_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6025059",
@@ -8714,7 +9097,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6074068",
@@ -8730,6 +9113,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Madras_International_Circuit",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6074068",
@@ -8740,7 +9124,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6108828",
@@ -8758,6 +9142,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/JRD_Tata_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6108828",
@@ -8768,7 +9153,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6146431",
@@ -8786,6 +9171,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nawab_Mansur_Ali_Khan_Pataudi_Sports_Complex%2C_Jamia_Millia_Islamia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6146431",
@@ -8796,7 +9182,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6165964",
@@ -8814,6 +9200,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jawaharlal_Navoday_Vidhyalay_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6165964",
@@ -8824,7 +9211,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6165990",
@@ -8848,6 +9235,12 @@
         "url": "https://chennaiyinfc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Super League",
+        "name_ja": "インディアン・スーパーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium_(Chennai)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6165990",
@@ -8858,7 +9251,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6167619",
@@ -8876,6 +9269,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jayanti_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6167619",
@@ -8886,7 +9280,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6200174",
@@ -8902,6 +9296,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_George_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6200174",
@@ -8912,7 +9307,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6323290",
@@ -8928,6 +9323,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K._D._Singh_Babu_Stadium%2C_Lucknow",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6323290",
@@ -8938,7 +9334,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6352873",
@@ -8980,6 +9376,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Super League",
+        "name_ja": "インディアン・スーパーリーグ"
+      }
+    ],
     "events": [
       {
         "name": "2014 Hockey India League",
@@ -9011,7 +9413,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6361043",
@@ -9029,6 +9431,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kanchenjunga_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6361043",
@@ -9039,7 +9442,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6362649",
@@ -9057,6 +9460,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kangda_Police_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6362649",
@@ -9067,7 +9471,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6365381",
@@ -9090,6 +9494,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Pro Kabaddi League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kanteerava_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6365381",
@@ -9100,7 +9510,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6370393",
@@ -9116,6 +9526,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kari_Motor_Speedway",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6370393",
@@ -9126,7 +9537,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6370461",
@@ -9147,6 +9558,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Greenfield_International_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6370461",
@@ -9157,7 +9569,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6382882",
@@ -9173,6 +9585,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Keenan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6382882",
@@ -9183,7 +9596,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6400825",
@@ -9199,6 +9612,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khasbag_Wrestling_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6400825",
@@ -9209,7 +9623,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6424865",
@@ -9225,6 +9639,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kochi_International_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6424865",
@@ -9235,7 +9650,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6425072",
@@ -9253,6 +9668,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kodaikanal_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6425072",
@@ -9263,7 +9679,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6434102",
@@ -9282,6 +9698,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kotla_Vijay_Bhaskar_Reddy_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6434102",
@@ -9292,7 +9709,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6668037",
@@ -9310,6 +9727,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Luhnu_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6668037",
@@ -9320,7 +9738,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6715772",
@@ -9336,6 +9754,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MGR_Race_Course_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6715772",
@@ -9346,7 +9765,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6727334",
@@ -9364,6 +9783,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Madhavrao_Scindia_Cricket_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6727334",
@@ -9374,7 +9794,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6732714",
@@ -9390,6 +9810,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mahabir_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6732714",
@@ -9400,7 +9821,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6733235",
@@ -9418,6 +9839,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maharaja_Lakshman_Sen_Memorial_College_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6733235",
@@ -9428,7 +9850,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6734042",
@@ -9451,6 +9873,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mahindra_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6734042",
@@ -9461,7 +9884,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6792428",
@@ -9479,6 +9902,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maulana_Azad_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6792428",
@@ -9489,7 +9913,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6797639",
@@ -9507,6 +9931,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mayor_Radhakrishnan_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6797639",
@@ -9517,7 +9942,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6893503",
@@ -9540,6 +9965,12 @@
         "url": "https://www.mohammedansc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Super League",
+        "name_ja": "インディアン・スーパーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammedan_Sporting_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6893503",
@@ -9550,7 +9981,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6893546",
@@ -9568,6 +9999,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mohan_Kumar_Mangalam_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6893546",
@@ -9578,7 +10010,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6894602",
@@ -9596,6 +10028,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Moin-ul-Haq_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6894602",
@@ -9606,7 +10039,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6936216",
@@ -9631,6 +10064,7 @@
         "url": "http://www.keralafa.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kozhikode_Corporation_EMS_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6936216",
@@ -9641,7 +10075,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6959199",
@@ -9659,6 +10093,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nahar_Singh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6959199",
@@ -9669,7 +10104,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6972158",
@@ -9685,6 +10120,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Defence_College_(India)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6972158",
@@ -9695,7 +10131,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6978646",
@@ -9713,6 +10149,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/National_Sports_Club_of_India",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6978646",
@@ -9723,7 +10160,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6986772",
@@ -9741,6 +10178,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Neelam_Sanjiva_Reddy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6986772",
@@ -9751,7 +10189,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6987906",
@@ -9767,6 +10205,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium_(Coimbatore)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6987906",
@@ -9777,7 +10216,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6987910",
@@ -9795,6 +10234,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nehru_Stadium%2C_Pune",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6987910",
@@ -9805,7 +10245,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6998605",
@@ -9824,6 +10264,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Netaji_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6998605",
@@ -9834,7 +10275,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7079478",
@@ -9850,6 +10291,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Officers_Training_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7079478",
@@ -9860,7 +10302,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7095459",
@@ -9878,6 +10320,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ooty_Golf_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7095459",
@@ -9888,7 +10331,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7113212",
@@ -9904,6 +10347,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oval_Maidan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7113212",
@@ -9914,7 +10358,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7118617",
@@ -9935,6 +10379,7 @@
         "url": "http://www.worldserieshockey.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/PCMC_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7118617",
@@ -9945,7 +10390,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7127652",
@@ -9966,6 +10411,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Paljor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7127652",
@@ -9976,7 +10422,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7135318",
@@ -9994,6 +10440,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Paramount_Cricket_Promotion_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7135318",
@@ -10004,7 +10451,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7189562",
@@ -10020,6 +10467,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7189562",
@@ -10029,7 +10477,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7209506",
@@ -10047,6 +10495,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Police_Stadium%2C_Chamba",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7209506",
@@ -10057,7 +10506,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7233984",
@@ -10075,6 +10524,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Postal_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7233984",
@@ -10085,7 +10535,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7241777",
@@ -10103,6 +10553,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Prestige_Golfshire",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7241777",
@@ -10113,7 +10564,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7260103",
@@ -10131,6 +10582,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pune_Club_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7260103",
@@ -10141,7 +10593,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7278758",
@@ -10164,6 +10616,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Calcutta Premier Division",
+        "name_ja": "カルカッタ・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rabindra_Sarobar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7278758",
@@ -10174,7 +10632,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7284203",
@@ -10192,6 +10650,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Railway_Stadium%2C_Vasco_da_Gama",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7284203",
@@ -10202,7 +10661,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7285044",
@@ -10218,6 +10677,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shaheed_Veer_Narayan_Singh_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7285044",
@@ -10228,7 +10688,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7285799",
@@ -10249,6 +10709,7 @@
         "url": "http://www.mumbaifc.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chhatrapati_Shahu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7285799",
@@ -10259,7 +10720,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7286209",
@@ -10282,6 +10743,12 @@
         "url": "http://www.sunrisershyderabad.in/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7286209",
@@ -10292,7 +10759,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7286218",
@@ -10313,6 +10780,7 @@
         "url": "http://www.aizawlfc.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_Stadium_(Aizawl)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7286218",
@@ -10323,7 +10791,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7309158",
@@ -10341,6 +10809,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7309158",
@@ -10351,7 +10820,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7374868",
@@ -10369,6 +10838,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Springs_Golf_Course",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7374868",
@@ -10379,7 +10849,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7392622",
@@ -10399,6 +10869,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2010年コモンウェルスゲームズ",
@@ -10414,7 +10885,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7423742",
@@ -10435,6 +10906,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_Stadium%2C_Ahmedabad",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7423742",
@@ -10445,7 +10917,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7423743",
@@ -10463,6 +10935,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_Stadium%2C_Valsad",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7423743",
@@ -10473,7 +10946,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7426224",
@@ -10491,6 +10964,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Satindra_Mohan_Dev_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7426224",
@@ -10501,7 +10975,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7427525",
@@ -10524,6 +10998,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Niranjan_Shah_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7427525",
@@ -10534,7 +11009,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7428548",
@@ -10555,6 +11030,12 @@
         "url": "https://www.rajasthanroyals.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sawai_Mansingh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7428548",
@@ -10565,7 +11046,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7444709",
@@ -10583,6 +11064,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sector_16_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7444709",
@@ -10593,7 +11075,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7444712",
@@ -10616,6 +11098,7 @@
         "url": "http://www.worldserieshockey.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chandigarh_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7444712",
@@ -10626,7 +11109,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7449976",
@@ -10644,6 +11127,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Senapati_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7449976",
@@ -10654,7 +11138,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7461539",
@@ -10672,6 +11156,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shaheed_Krishan_Chand_Memorial_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7461539",
@@ -10682,7 +11167,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7494601",
@@ -10700,6 +11185,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sher-e-Kashmir_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7494601",
@@ -10710,7 +11196,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7585638",
@@ -10733,6 +11219,12 @@
         "url": "https://www.bengalurufc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Super League",
+        "name_ja": "インディアン・スーパーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%B4%E3%82%A1%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7585638",
@@ -10743,7 +11235,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7631918",
@@ -10766,6 +11258,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Premier League",
+        "name_ja": "インディアン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maharashtra_Cricket_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7631918",
@@ -10776,7 +11274,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7646398",
@@ -10799,6 +11297,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Surjit_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7646398",
@@ -10809,7 +11308,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7688613",
@@ -10830,6 +11329,7 @@
         "url": "http://www.amity.edu/aufc/default.asp"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tau_Devi_Lal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7688613",
@@ -10840,7 +11340,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7709535",
@@ -10858,6 +11358,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Thalassery_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7709535",
@@ -10868,7 +11369,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7785503",
@@ -10886,6 +11387,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Trivandrum_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7785503",
@@ -10896,7 +11398,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7802032",
@@ -10917,6 +11419,16 @@
         "url": "http://www.churchillbrothersgoa.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Indian Football League",
+        "name_ja": "インディアン・フットボールリーグ"
+      },
+      {
+        "name": "Goa Professional League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tilak_Maidan",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7802032",
@@ -10927,7 +11439,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q787124",
@@ -10950,6 +11462,7 @@
         "url": "http://the-ifa.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AB%E3%83%88%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q787124",
@@ -10960,7 +11473,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7894707",
@@ -10978,6 +11491,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lucknow_University_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7894707",
@@ -10988,7 +11502,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7894939",
@@ -11004,6 +11518,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/University_Stadium_(Thiruvananthapuram)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7894939",
@@ -11014,7 +11529,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7905965",
@@ -11030,6 +11545,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/V.K.N._Menon_Indoor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7905965",
@@ -11040,7 +11556,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7927721",
@@ -11058,6 +11574,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vidarbha_Cricket_Association_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7927721",
@@ -11068,7 +11585,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7927722",
@@ -11086,6 +11603,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vidarbha_Cricket_Association_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7927722",
@@ -11096,7 +11614,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8048119",
@@ -11112,6 +11630,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yamuna_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8048119",
@@ -11122,7 +11641,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85821630",
@@ -11143,6 +11662,7 @@
         "url": "https://www.tnca.cricket/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Salem_Cricket_Foundation_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85821630",
@@ -11153,7 +11673,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q864849",
@@ -11176,6 +11696,7 @@
         "url": "http://www.cwgdelhi2010.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AF%E3%83%8F%E3%83%AB%E3%83%A9%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%AB%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q864849",
@@ -11186,7 +11707,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97609952",
@@ -11202,6 +11723,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/College_Square_Swimming_Pool",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97609952",
@@ -11212,7 +11734,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q98802504",
@@ -11228,6 +11750,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q98802504",
@@ -11237,7 +11760,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q98803874",
@@ -11253,6 +11776,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q98803874",
@@ -11262,6 +11786,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

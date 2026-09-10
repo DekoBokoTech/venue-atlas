@@ -10,6 +10,7 @@
     "capacity": null,
     "opened_year": 1998,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -17,39 +18,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Burkinabé Premier League",
+        "name_ja": "ブルキナファソ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_G%C3%A9n%C3%A9ral_Aboubacar_Sangoul%C3%A9_Lamizana",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1129303",
     "image_url": "Stadiumbobodioulasso1.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q136263313",
-    "name": "Q136263313",
-    "name_ja": null,
-    "lat": 12.401795557,
-    "lng": -1.506859639,
-    "country": "BF",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": 2020,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q136263313",
-    "image_url": "Simplon Burkina Faso.jpg",
-    "website": "https://simplon.bf/",
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136327405",
@@ -62,17 +47,20 @@
     "capacity": null,
     "opened_year": 2021,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136327405",
     "image_url": null,
     "website": "https://citadel.bf/",
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138003485",
@@ -81,21 +69,27 @@
     "lat": 11.200603515,
     "lng": -4.241121103,
     "country": "BF",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138003485",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q174463",
@@ -104,22 +98,30 @@
     "lat": 11.18194444,
     "lng": -4.29694444,
     "country": "BF",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー",
+      "バスケットボール",
+      "バレーボール",
+      "ハンドボール"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Wobi_Bobo-Dioulasso",
     "wikidata_url": "https://www.wikidata.org/wiki/Q174463",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1752676",
@@ -128,45 +130,27 @@
     "lat": 12.3603768,
     "lng": -1.5290332,
     "country": "BF",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 15000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Ouagadougou)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1752676",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q2047283",
-    "name": "Q2047283",
-    "name_ja": null,
-    "lat": 12.31616667,
-    "lng": -1.49872222,
-    "country": "BF",
-    "sport_types": [],
-    "capacity": null,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q2047283",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3408695",
@@ -179,18 +163,21 @@
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Prytan%C3%A9e_militaire_de_Kadiogo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3408695",
     "image_url": "Insigne de formation PMK.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596090",
@@ -203,6 +190,7 @@
     "capacity": 30000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -210,16 +198,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Burkinabé Premier League",
+        "name_ja": "ブルキナファソ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Balibi%C3%A8",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596090",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596091",
@@ -232,6 +227,7 @@
     "capacity": 6000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -239,16 +235,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Burkinabé Premier League",
+        "name_ja": "ブルキナファソ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Banfora",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596091",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596237",
@@ -261,6 +264,7 @@
     "capacity": 9000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -268,16 +272,23 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Burkinabé Premier League",
+        "name_ja": "ブルキナファソ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_de_l'USFA",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596237",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596246",
@@ -290,6 +301,7 @@
     "capacity": 5000,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -297,16 +309,23 @@
         "url": "http://www.as-sonabel.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Burkinabé Premier League",
+        "name_ja": "ブルキナファソ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_de_la_SONABEL",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596246",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q965446",
@@ -315,10 +334,13 @@
     "lat": 12.36869444,
     "lng": -1.55344444,
     "country": "BF",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 40000,
     "opened_year": 1984,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -326,15 +348,22 @@
         "url": "http://www.efo-bf.net"
       }
     ],
+    "leagues": [
+      {
+        "name": "Burkinabé Premier League",
+        "name_ja": "ブルキナファソ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%88%E3%83%AB%EF%BC%9D%E3%82%A6",
     "wikidata_url": "https://www.wikidata.org/wiki/Q965446",
     "image_url": "Stade du 4-Août A.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]

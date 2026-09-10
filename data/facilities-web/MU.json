@@ -1,26 +1,57 @@
 [
   {
+    "id": "Q107837674",
+    "name": "Côte d'Or",
+    "name_ja": null,
+    "lat": -20.241417,
+    "lng": 57.541889,
+    "country": "MU",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q107837674",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
+  },
+  {
     "id": "Q28819784",
     "name": "Stadium Badminton Rose Hill",
     "name_ja": "スタジアム・バドミントン・ローズバッド・ヒル",
     "lat": -20.246088888,
     "lng": 57.4765,
     "country": "MU",
-    "sport_types": [],
+    "sport_types": [
+      "バドミントン"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q28819784",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3025709",
@@ -29,10 +60,13 @@
     "lat": -20.321267,
     "lng": 57.52965,
     "country": "MU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6200,
     "opened_year": 1955,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -40,16 +74,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/George_V_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3025709",
     "image_url": "Mauritius stade george v.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30913462",
@@ -58,22 +94,27 @@
     "lat": -20.23972222,
     "lng": 57.47166667,
     "country": "MU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 6500,
     "opened_year": 1972,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_Ga%C3%ABtan_Duval_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30913462",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495512",
@@ -82,10 +123,13 @@
     "lat": -20.078889,
     "lng": 57.6,
     "country": "MU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 18000,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -93,16 +137,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Anjalay_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495512",
     "image_url": "Mauritius anjalay coopen stadium.jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495606",
@@ -111,10 +157,13 @@
     "lat": -20.245833,
     "lng": 57.421111,
     "country": "MU",
-    "sport_types": [],
+    "sport_types": [
+      "陸上競技"
+    ],
     "capacity": 15000,
     "opened_year": 2003,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -122,16 +171,18 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9E%E3%83%AB%E3%83%A2%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495606",
     "image_url": "Stade Germain-Comarmond, 2020 (2).jpg",
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48731364",
@@ -140,22 +191,27 @@
     "lat": -20.1875,
     "lng": 57.72527778,
     "country": "MU",
-    "sport_types": [],
+    "sport_types": [
+      "サッカー"
+    ],
     "capacity": 2500,
     "opened_year": 2009,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/St._Fran%C3%A7ois_Xavier_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q48731364",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5069865",
@@ -164,22 +220,27 @@
     "lat": -20.169158333,
     "lng": 57.510088888,
     "country": "MU",
-    "sport_types": [],
+    "sport_types": [
+      "競馬"
+    ],
     "capacity": null,
     "opened_year": null,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Champ_de_Mars_Racecourse",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5069865",
     "image_url": "The Champ de Mars Racecourse.JPG",
     "website": "http://www.mauritiusturfclub.com",
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596088",
@@ -192,6 +253,7 @@
     "capacity": 4000,
     "opened_year": 1991,
     "closed_year": null,
+    "is_existing": true,
     "roof_type": null,
     "teams": [
       {
@@ -199,38 +261,22 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Mauritian League",
+        "name_ja": "モーリシャンリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Auguste_Vollaire",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596088",
     "image_url": null,
     "website": null,
+    "res_url": null,
     "sources": [
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
-  },
-  {
-    "id": "Q94368037",
-    "name": "Q94368037",
-    "name_ja": null,
-    "lat": -20.27395,
-    "lng": 57.47539,
-    "country": "MU",
-    "sport_types": [],
-    "capacity": 1000,
-    "opened_year": null,
-    "closed_year": null,
-    "roof_type": null,
-    "teams": [],
-    "events": [],
-    "wikipedia_url": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q94368037",
-    "image_url": null,
-    "website": null,
-    "sources": [
-      "Wikidata"
-    ],
-    "last_synced_at": "2026-09-09T07:42:48.488Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
