@@ -20,6 +20,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104759128",
@@ -29,7 +30,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109041518",
@@ -45,6 +46,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109041518",
@@ -54,7 +56,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109043083",
@@ -70,6 +72,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109043083",
@@ -79,7 +82,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109044997",
@@ -95,6 +98,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109044997",
@@ -104,7 +108,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109044999",
@@ -120,6 +124,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q109044999",
@@ -129,7 +134,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113330739",
@@ -145,6 +150,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113330739",
@@ -154,7 +160,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12869347",
@@ -170,6 +176,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Shatili_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12869347",
@@ -180,7 +187,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130421043",
@@ -196,6 +203,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130421043",
@@ -205,7 +213,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134779728",
@@ -221,6 +229,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134779728",
@@ -230,7 +239,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1383071",
@@ -251,6 +260,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Evgrapi_Shevardnadze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1383071",
@@ -261,7 +271,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1519723",
@@ -284,6 +294,12 @@
         "url": "http://fcdila.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tengiz_Burjanadze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1519723",
@@ -294,7 +310,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1528840",
@@ -317,6 +333,12 @@
         "url": "https://fctorpedokutaisi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ramaz_Shengelia_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1528840",
@@ -327,7 +349,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1535913",
@@ -354,6 +376,12 @@
         "url": "https://www.fcsaburtalo.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%98%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%A1%E3%82%B9%E3%83%92%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1535913",
@@ -364,7 +392,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1553013",
@@ -380,6 +408,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gudauri",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1553013",
@@ -390,7 +419,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16372227",
@@ -411,6 +440,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16372227",
@@ -420,7 +455,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16605713",
@@ -443,6 +478,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga 3",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/David_Kipiani_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16605713",
@@ -453,7 +494,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1688179",
@@ -474,6 +515,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Poladi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1688179",
@@ -484,7 +531,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1781298",
@@ -500,6 +547,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rustavi_International_Motorpark",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1781298",
@@ -510,7 +558,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q189920",
@@ -531,6 +579,12 @@
         "url": "http://dinamobatumi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Batumi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q189920",
@@ -541,7 +595,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q189921",
@@ -562,6 +616,7 @@
         "url": "http://www.fczestafoni.ge/Eng/FcZestafoni.htm"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/David_Abashidze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q189921",
@@ -572,7 +627,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q190793",
@@ -593,6 +648,12 @@
         "url": "https://fcdinamo.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Stadium_(Tbilisi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q190793",
@@ -603,7 +664,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2075609",
@@ -626,6 +687,12 @@
         "url": "http://fcsamtredia.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Erosi_Manjgaladze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2075609",
@@ -636,7 +703,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25110954",
@@ -654,6 +721,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dinamo_Stadium%2C_Sokhumi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25110954",
@@ -664,7 +732,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25212595",
@@ -685,6 +753,7 @@
         "url": "https://www.aia-rugby.ge"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25212595",
@@ -695,7 +764,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2645803",
@@ -716,6 +785,12 @@
         "url": "https://www.witgeorgia.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mtskheta_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2645803",
@@ -726,7 +801,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q290801",
@@ -749,6 +824,7 @@
         "url": "https://rugby.ge/%e1%83%94%e1%83%a0%e1%83%9d%e1%83%95%e1%83%9c%e1%83%a3%e1%83%9a%e1%83%98/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%91%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q290801",
@@ -759,7 +835,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2919558",
@@ -780,6 +856,7 @@
         "url": "http://www.gbf.ge/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2919558",
@@ -790,7 +867,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3545125",
@@ -811,6 +888,12 @@
         "url": "https://poti.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fazisi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3545125",
@@ -821,7 +904,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3649248",
@@ -842,6 +925,7 @@
         "url": "http://fczugdidi.ge"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gulia_Tutberidze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3649248",
@@ -852,7 +936,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3649322",
@@ -868,6 +952,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3649322",
@@ -877,7 +962,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3649379",
@@ -898,6 +983,12 @@
         "url": "https://fctelavi.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Municipal_Stadium_(Telavi)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3649379",
@@ -908,7 +999,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3650758",
@@ -929,6 +1020,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3650758",
@@ -938,7 +1035,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q37181445",
@@ -956,6 +1053,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Olympic_Palace",
     "wikidata_url": "https://www.wikidata.org/wiki/Q37181445",
@@ -966,7 +1064,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4242676",
@@ -982,6 +1080,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Krtsanisi_National_Training_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4242676",
@@ -992,7 +1091,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4439105",
@@ -1010,6 +1109,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Daur_Akhvlediani_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4439105",
@@ -1020,7 +1120,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4750983",
@@ -1036,6 +1136,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4750983",
@@ -1045,7 +1146,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4849605",
@@ -1061,6 +1162,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bakuriani_K-115",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4849605",
@@ -1071,7 +1173,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4873358",
@@ -1094,6 +1196,12 @@
         "url": "http://dinamobatumi.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%82%A5%E3%83%9F%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4873358",
@@ -1104,7 +1212,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q502180",
@@ -1125,6 +1233,12 @@
         "url": "http://fcshukura.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga 4 (Georgia)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chele_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q502180",
@@ -1135,7 +1249,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5608996",
@@ -1156,6 +1270,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Grigol_Jomartidze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5608996",
@@ -1166,7 +1281,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61459729",
@@ -1190,6 +1305,12 @@
         "url": "https://gagrafc.ge/en/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q61459729",
@@ -1199,7 +1320,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6177080",
@@ -1215,6 +1336,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jemal_Zeinklishvili_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6177080",
@@ -1225,7 +1347,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6373576",
@@ -1246,6 +1368,7 @@
         "url": "http://www.fcspartak.ge/index.php?LanG=2"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kartli_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6373576",
@@ -1256,7 +1379,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6849801",
@@ -1277,6 +1400,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mikheil_Iadze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6849801",
@@ -1287,7 +1411,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q750051",
@@ -1308,6 +1432,12 @@
         "url": "http://fcsioni.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tamaz_Stepania_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q750051",
@@ -1318,7 +1448,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7579289",
@@ -1334,6 +1464,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sport-kompleksi_Shatili",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579289",
@@ -1344,7 +1475,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7699089",
@@ -1365,6 +1496,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Temur_Maghradze_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7699089",
@@ -1375,7 +1512,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7938224",
@@ -1396,6 +1533,12 @@
         "url": "https://meshakhte-fc.ge/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga",
+        "name_ja": "ウマグレシ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimer_Bochorishvili_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7938224",
@@ -1406,7 +1549,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q839989",
@@ -1427,6 +1570,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Erovnuli Liga 2",
+        "name_ja": "ピルヴェリ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sinatle_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q839989",
@@ -1437,6 +1586,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
