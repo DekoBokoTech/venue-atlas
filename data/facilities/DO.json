@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117301980",
@@ -24,7 +25,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q120763216",
@@ -42,6 +43,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120763216",
@@ -51,7 +53,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13219261",
@@ -67,6 +69,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Braga%C3%B1a_Garcia",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13219261",
@@ -77,7 +80,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369664",
@@ -98,6 +101,7 @@
         "url": "https://www.fedofutbol.do/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Panamericano%2C_San_Crist%C3%B3bal",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369664",
@@ -108,7 +112,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16544115",
@@ -129,6 +133,12 @@
         "url": "http://www.barcelonaatletico.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Republica Dominicana",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Parque_del_Este",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16544115",
@@ -139,7 +149,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18286626",
@@ -155,6 +165,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18286626",
@@ -164,7 +175,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20021946",
@@ -185,6 +196,12 @@
         "url": "https://www.cibaofc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Republica Dominicana",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Cibao_FC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20021946",
@@ -195,7 +212,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24204903",
@@ -216,6 +233,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Leonel_Pl%C3%A1cido",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24204903",
@@ -226,7 +244,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24204907",
@@ -247,6 +265,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Republica Dominicana",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Braga%C3%B1a_Garc%C3%ADa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24204907",
@@ -257,7 +281,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q29427284",
@@ -273,6 +297,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29427284",
@@ -282,7 +307,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3545525",
@@ -303,6 +328,12 @@
         "url": "http://www.barcelonaatletico.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Primera División de Republica Dominicana",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_La_Barranquita",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3545525",
@@ -313,7 +344,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4826253",
@@ -329,6 +360,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Autodr%C3%B3mo_Internacional_de_Las_Am%C3%A9ricas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4826253",
@@ -339,7 +371,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48791436",
@@ -355,6 +387,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Academia_de_Prospecto_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q48791436",
@@ -365,7 +398,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5062863",
@@ -384,6 +417,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Centro_Ol%C3%ADmpico_Juan_Pablo_Duarte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5062863",
@@ -394,7 +428,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q51439980",
@@ -410,6 +444,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q51439980",
@@ -419,7 +454,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400137",
@@ -440,6 +475,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%B7%E3%83%90%E3%82%AA",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400137",
@@ -450,7 +486,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400219",
@@ -471,6 +507,12 @@
         "url": "https://torosdeleste.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Dominican Professional Baseball League",
+        "name_ja": "リーガ・デ・ベイスボル・プロフェシオナル・デ・ラ・レプブリカ・ドミニカーナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%9F%E3%83%81%E3%82%A7%E3%83%AA",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400219",
@@ -481,7 +523,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400308",
@@ -497,6 +539,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%95%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%93%E3%82%A8%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400308",
@@ -507,7 +550,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400439",
@@ -528,6 +571,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_(La_Vega)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400439",
@@ -538,7 +582,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400466",
@@ -559,6 +603,12 @@
         "url": "https://tigresdellicey.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Dominican Professional Baseball League",
+        "name_ja": "リーガ・デ・ベイスボル・プロフェシオナル・デ・ラ・レプブリカ・ドミニカーナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%AD%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%A3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400466",
@@ -569,7 +619,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400511",
@@ -585,6 +635,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%86%E3%83%86%E3%83%BC%E3%83%AD%E3%83%BB%E3%83%90%E3%83%AB%E3%82%AC%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400511",
@@ -595,7 +646,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5593976",
@@ -616,6 +667,7 @@
         "url": "http://www.metrosdesantiago.net/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gran_Arena_del_Cibao",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5593976",
@@ -626,7 +678,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q770641",
@@ -649,6 +701,7 @@
         "url": "https://www.fedofutbol.do/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%82%B3%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q770641",
@@ -659,6 +712,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
