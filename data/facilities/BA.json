@@ -20,6 +20,12 @@
         "url": "http://fkigman.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Federation of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Konjic_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109652601",
@@ -30,7 +36,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123885906",
@@ -53,6 +59,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Federation of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Danac_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123885906",
@@ -63,7 +75,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12631753",
@@ -86,6 +98,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Second League of the Republika Srpska",
+        "name_ja": "ドルガ・リーガ・レプブリケ・スルプスケ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Lakta%C5%A1i)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12631753",
@@ -96,7 +114,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1268333",
@@ -117,6 +135,12 @@
         "url": "http://www.hkk.siroki.net/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball Championship of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1268333",
@@ -126,7 +150,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1268862",
@@ -149,6 +173,12 @@
         "url": "http://kkbosna.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball Championship of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch_Olympic_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1268862",
@@ -159,7 +189,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1280411",
@@ -177,6 +207,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%83%B3%E3%83%87%E3%83%AA%E3%83%A4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1280411",
@@ -187,7 +218,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1649384",
@@ -210,6 +241,12 @@
         "url": "http://www.fkzeljeznicar.ba"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%90%E3%83%B4%E3%82%A3%E3%83%84%E3%82%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1649384",
@@ -220,7 +257,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1657209",
@@ -238,6 +275,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Igman_Olympic_Jumps",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1657209",
@@ -248,7 +286,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1671726",
@@ -271,6 +309,12 @@
         "url": "http://www.fksloboda.ba"
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Federation of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tu%C5%A1anj_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1671726",
@@ -281,7 +325,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1726821",
@@ -308,6 +352,12 @@
         "url": "http://www.olimpik.ba"
       }
     ],
+    "leagues": [
+      {
+        "name": "Bosnia and Herzegovina women's football championship",
+        "name_ja": "ボスニア＝ヘルツェゴビナ女子サッカー選手権"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Otoka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1726821",
@@ -318,7 +368,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19401452",
@@ -334,6 +384,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_Perica-Pero_Pavlovi%C4%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19401452",
@@ -344,7 +395,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2008334",
@@ -365,6 +416,12 @@
         "url": "http://kkbosna.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball Championship of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mirza_Deliba%C5%A1i%C4%87_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2008334",
@@ -375,7 +432,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25346113",
@@ -391,6 +448,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_Stadion_(Krupa_na_Vrbasu)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25346113",
@@ -401,7 +459,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25346115",
@@ -419,6 +477,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Mra%C4%8Daj",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25346115",
@@ -429,7 +488,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25346116",
@@ -445,6 +504,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MGM_Farm_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25346116",
@@ -455,7 +515,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25346119",
@@ -471,6 +531,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vitez_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25346119",
@@ -481,7 +542,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2618577",
@@ -499,6 +560,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Stadium_SRC_Slavija",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2618577",
@@ -509,7 +571,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q31182739",
@@ -525,6 +587,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jahorina_Ski_Resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q31182739",
@@ -535,7 +598,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3434169",
@@ -556,6 +619,12 @@
         "url": "http://www.nk-sirokibrijeg.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Pecara",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3434169",
@@ -566,7 +635,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435164",
@@ -587,6 +656,12 @@
         "url": "http://www.rudarprijedor.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_stadion_(Prijedor)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435164",
@@ -597,7 +672,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435214",
@@ -613,6 +688,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Dr._Milan_Jeli%C4%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435214",
@@ -623,7 +699,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3441966",
@@ -644,6 +720,7 @@
         "url": "http://www.nktravnik.ba/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Pirota",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3441966",
@@ -654,7 +731,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3441970",
@@ -675,6 +752,7 @@
         "url": "https://www.basket.ba/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arena_Zenica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3441970",
@@ -685,7 +763,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3441989",
@@ -708,6 +786,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Republika Srpska",
+        "name_ja": "スルプスカ共和国サッカー1部リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Police_Stadium%2C_Trebinje",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3441989",
@@ -718,7 +802,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3441998",
@@ -741,6 +825,7 @@
         "url": "http://www.nkzvijezda.ba/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Banja_Ilid%C5%BEa_(Grada%C4%8Dac)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3441998",
@@ -751,7 +836,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3446823",
@@ -772,6 +857,12 @@
         "url": "https://hsk-posusje.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mokri_Dolac_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3446823",
@@ -782,7 +873,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3515221",
@@ -800,6 +891,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%BDep%C4%8De_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3515221",
@@ -810,7 +902,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q43951438",
@@ -826,6 +918,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q43951438",
@@ -835,7 +928,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5217117",
@@ -856,6 +949,12 @@
         "url": "http://www.igokea.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball Championship of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lakta%C5%A1i_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5217117",
@@ -866,7 +965,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55636459",
@@ -882,6 +981,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ugljevik_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55636459",
@@ -892,7 +992,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5591984",
@@ -913,6 +1013,12 @@
         "url": "http://www.fkradnik.ba/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bijeljina_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5591984",
@@ -923,7 +1029,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5591985",
@@ -944,6 +1050,12 @@
         "url": "http://www.fkkozara.info/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Republika Srpska",
+        "name_ja": "スルプスカ共和国サッカー1部リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradi%C5%A1ka_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5591985",
@@ -954,7 +1066,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5591987",
@@ -972,6 +1084,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ora%C5%A1je_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5591987",
@@ -982,7 +1095,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5591989",
@@ -1003,6 +1116,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Republika Srpska",
+        "name_ja": "スルプスカ共和国サッカー1部リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gradski_stadion_Luke_(Mrkonji%C4%87_Grad)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5591989",
@@ -1013,7 +1132,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q57080056",
@@ -1029,6 +1148,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q57080056",
@@ -1038,7 +1158,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q593076",
@@ -1065,6 +1185,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%AD%E3%82%B8%E3%82%A7%E3%83%8B",
     "wikidata_url": "https://www.wikidata.org/wiki/Q593076",
@@ -1075,7 +1201,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60627378",
@@ -1091,6 +1217,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q60627378",
@@ -1100,7 +1227,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q61133683",
@@ -1116,6 +1243,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q61133683",
@@ -1125,7 +1253,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q621027",
@@ -1148,6 +1276,12 @@
         "url": "https://www.fkborac.net/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Banja_Luka_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q621027",
@@ -1158,7 +1292,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6471287",
@@ -1174,6 +1308,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_FK_Budu%C4%87nost",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6471287",
@@ -1184,7 +1319,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6471308",
@@ -1205,6 +1340,12 @@
         "url": "http://www.nkjedinstvo.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Federation of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_pod_Bori%C4%87ima",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6471308",
@@ -1215,7 +1356,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7086889",
@@ -1236,6 +1377,7 @@
         "url": "http://www.vkbosna.ba/loc/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Olimpijski_Bazen_Otoka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7086889",
@@ -1246,7 +1388,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7422989",
@@ -1266,6 +1408,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sarajevo_Olympic_Bobsleigh_and_Luge_Track",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7422989",
@@ -1276,7 +1419,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8069772",
@@ -1292,6 +1435,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zetra_Ice_Rink",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8069772",
@@ -1302,7 +1446,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q859905",
@@ -1329,6 +1473,12 @@
         "url": "https://fkvelez.ba/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_pod_Bijelim_Brijegom",
     "wikidata_url": "https://www.wikidata.org/wiki/Q859905",
@@ -1339,7 +1489,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q861838",
@@ -1362,6 +1512,7 @@
         "url": "https://nkcelik.ba/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%8E%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%A7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q861838",
@@ -1372,7 +1523,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q86686446",
@@ -1395,6 +1546,12 @@
         "url": "http://www.rudarkakanj.ba/"
       }
     ],
+    "leagues": [
+      {
+        "name": "First League of the Federation of Bosnia and Herzegovina",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q86686446",
@@ -1404,7 +1561,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q903860",
@@ -1427,6 +1584,12 @@
         "url": "https://www.fksarajevo.ba/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Premier League of Bosnia and Herzegovina",
+        "name_ja": "プレミイェル・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%83%A0%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8F%E3%83%88%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81%E3%83%BB%E3%83%8F%E3%82%BB%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q903860",
@@ -1437,7 +1600,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97256308",
@@ -1453,6 +1616,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97256308",
@@ -1462,6 +1626,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
