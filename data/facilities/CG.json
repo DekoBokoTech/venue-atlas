@@ -18,6 +18,7 @@
         "url": "https://fecofoot.cg/equipea/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B7%E3%83%91%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%82%AD%E3%83%B3%E3%83%86%E3%83%AC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20775738",
@@ -28,7 +29,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21000973",
@@ -44,6 +45,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kint%C3%A9l%C3%A9_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21000973",
@@ -54,7 +56,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21074128",
@@ -70,6 +72,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21074128",
@@ -80,7 +83,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2330956",
@@ -103,6 +106,7 @@
         "url": "https://fecofoot.cg/equipea/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Pointe-Noire)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2330956",
@@ -113,7 +117,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25382405",
@@ -129,6 +133,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_de_Sibiti",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25382405",
@@ -139,7 +144,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25382416",
@@ -157,6 +162,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25382416",
@@ -166,7 +172,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25384185",
@@ -187,6 +193,12 @@
         "url": "http://www.acleopards.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Congo Premier League",
+        "name_ja": "コンゴ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Omnisport_Marien_Ngouabi_d'Owando",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25384185",
@@ -197,7 +209,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2743618",
@@ -232,6 +244,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Congo Premier League",
+        "name_ja": "コンゴ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Alphonse_Massemba-D%C3%A9bat",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2743618",
@@ -242,7 +260,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28450652",
@@ -260,6 +278,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Omnisports_de_Kinkala",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28450652",
@@ -270,7 +289,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596103",
@@ -293,6 +312,12 @@
         "url": "http://www.acleopards.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Congo Premier League",
+        "name_ja": "コンゴ・プレミアリーグ"
+      }
+    ],
     "events": [
       {
         "name": "リフォーム",
@@ -312,7 +337,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596137",
@@ -333,6 +358,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Congo Premier League",
+        "name_ja": "コンゴ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Marchand",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596137",
@@ -343,6 +374,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
