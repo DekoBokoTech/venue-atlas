@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/New_Capital_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q104775800",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q105482972",
@@ -39,6 +40,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q105482972",
@@ -48,7 +50,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q105760413",
@@ -64,6 +66,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q105760413",
@@ -73,7 +76,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108474414",
@@ -89,6 +92,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108474414",
@@ -98,7 +102,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110420027",
@@ -114,6 +118,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110420027",
@@ -123,7 +128,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110888393",
@@ -139,6 +144,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%A1%8C%E6%94%BF%E9%A6%96%E9%83%BD%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110888393",
@@ -149,7 +155,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111400510",
@@ -165,6 +171,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q111400510",
@@ -174,7 +181,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q115785718",
@@ -190,6 +197,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Military_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q115785718",
@@ -200,7 +208,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q117046805",
@@ -216,6 +224,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117046805",
@@ -225,7 +234,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1199860",
@@ -248,6 +257,12 @@
         "url": "https://al-masrysc.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1199860",
@@ -258,7 +273,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124466568",
@@ -274,6 +289,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124466568",
@@ -283,7 +299,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1266243",
@@ -299,6 +315,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "沈没",
@@ -318,7 +335,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134029317",
@@ -336,6 +353,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134029317",
@@ -345,7 +363,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q140756872",
@@ -363,6 +381,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Ahly_SC_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q140756872",
@@ -373,7 +392,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14201842",
@@ -389,6 +408,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14201842",
@@ -398,7 +418,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14208294",
@@ -414,6 +434,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14208294",
@@ -423,7 +444,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14210166",
@@ -439,6 +460,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14210166",
@@ -448,7 +470,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14212222",
@@ -464,6 +486,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14212222",
@@ -473,7 +496,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14212223",
@@ -489,6 +512,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14212223",
@@ -498,7 +522,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14213694",
@@ -514,6 +538,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14213694",
@@ -523,7 +548,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14218651",
@@ -539,6 +564,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14218651",
@@ -548,7 +574,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14219878",
@@ -564,6 +590,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14219878",
@@ -573,7 +600,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14220255",
@@ -589,6 +616,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14220255",
@@ -598,7 +626,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14220276",
@@ -614,6 +642,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14220276",
@@ -623,7 +652,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14221722",
@@ -639,6 +668,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14221722",
@@ -648,7 +678,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14223403",
@@ -664,6 +694,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14223403",
@@ -673,7 +704,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14300517",
@@ -689,6 +720,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q14300517",
@@ -698,7 +730,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1567601",
@@ -723,6 +755,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Haras_El_Hodoud_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1567601",
@@ -733,7 +771,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q158985",
@@ -764,6 +802,12 @@
         "url": "https://www.efa.com.eg"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AD%E5%9B%BD%E9%9A%9B%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q158985",
@@ -774,7 +818,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632647",
@@ -795,6 +839,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Second Division League",
+        "name_ja": "エジプト・セカンド・ディヴィジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aluminium_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632647",
@@ -805,7 +855,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1850929",
@@ -828,6 +878,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cairo_Military_Academy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1850929",
@@ -838,7 +894,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1951620",
@@ -856,6 +912,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Army_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1951620",
@@ -866,7 +923,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20421853",
@@ -882,6 +939,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Medical_Academy_(Egypt)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20421853",
@@ -892,7 +950,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22936456",
@@ -915,6 +973,12 @@
         "url": "http://www.elsharkiaclub.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zagazig_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22936456",
@@ -925,7 +989,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25452272",
@@ -941,6 +1005,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q25452272",
@@ -950,7 +1015,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2699278",
@@ -973,6 +1038,12 @@
         "url": "https://alahlyegypt.com/ar"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mokhtar_El_Tetsh_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2699278",
@@ -983,7 +1054,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3133086",
@@ -1006,6 +1077,12 @@
         "url": "https://www.zamaleksc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Helmy_Zamora_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3133086",
@@ -1016,7 +1093,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q32276",
@@ -1032,6 +1109,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "進水式",
@@ -1051,7 +1129,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q335216",
@@ -1067,6 +1145,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sha%CA%BDb_Abu_Nu%C4%A7as",
     "wikidata_url": "https://www.wikidata.org/wiki/Q335216",
@@ -1077,7 +1156,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495950",
@@ -1100,6 +1179,12 @@
         "url": "https://elgounafootballclub.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khaled_Bichara_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495950",
@@ -1110,7 +1195,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495951",
@@ -1133,6 +1218,12 @@
         "url": "https://ghazlelmahalla.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ghazl_El_Mahalla_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495951",
@@ -1143,7 +1234,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3603942",
@@ -1159,6 +1250,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Military_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3603942",
@@ -1169,7 +1261,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q376281",
@@ -1185,6 +1277,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Technical_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q376281",
@@ -1195,7 +1288,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4118762",
@@ -1211,6 +1304,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Sekka_El_Hadid_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4118762",
@@ -1221,7 +1315,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4118765",
@@ -1237,6 +1331,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suez_Canal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4118765",
@@ -1247,7 +1342,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4119429",
@@ -1268,6 +1363,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Second Division League",
+        "name_ja": "エジプト・セカンド・ディヴィジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mit_Okba_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4119429",
@@ -1278,7 +1379,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q430815",
@@ -1305,6 +1406,12 @@
         "url": "https://alahlyegypt.com/ar"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Salam_Stadium_(Egypt)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q430815",
@@ -1315,7 +1422,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4634507",
@@ -1333,6 +1440,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/30_June_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4634507",
@@ -1343,7 +1451,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4705080",
@@ -1364,6 +1472,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Second Division League",
+        "name_ja": "エジプト・セカンド・ディヴィジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ala'ab_Damanhour_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4705080",
@@ -1374,7 +1488,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4807041",
@@ -1395,6 +1509,12 @@
         "url": "https://asyutpetroleum.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Second Division League",
+        "name_ja": "エジプト・セカンド・ディヴィジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Asiut_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4807041",
@@ -1405,7 +1525,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4811979",
@@ -1428,6 +1548,12 @@
         "url": "https://aswanclub.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aswan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4811979",
@@ -1438,7 +1564,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4855679",
@@ -1454,6 +1580,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Beni_Ebeid_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4855679",
@@ -1464,7 +1591,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4855722",
@@ -1485,6 +1612,12 @@
         "url": "http://www.telefonatbns.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Beni_Suef_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4855722",
@@ -1495,7 +1628,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5017791",
@@ -1526,6 +1659,7 @@
         "url": "https://www.handballegypt2021.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cairo_Stadium_Indoor_Halls_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5017791",
@@ -1536,7 +1670,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5211958",
@@ -1552,6 +1686,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Damanhour_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5211958",
@@ -1562,7 +1697,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5264876",
@@ -1583,6 +1718,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Third Division",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Desouk_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5264876",
@@ -1593,7 +1734,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5348369",
@@ -1609,6 +1750,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Air_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5348369",
@@ -1619,7 +1761,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5348370",
@@ -1635,6 +1777,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Air_Defense_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5348370",
@@ -1645,7 +1788,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5348429",
@@ -1661,6 +1804,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Naval_College",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5348429",
@@ -1671,7 +1815,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5351553",
@@ -1687,6 +1831,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Mansoura_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5351553",
@@ -1697,7 +1842,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5439093",
@@ -1720,6 +1865,12 @@
         "url": "http://www.makasasc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Faiyum_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5439093",
@@ -1730,7 +1881,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5530062",
@@ -1748,6 +1899,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gehaz_El_Reyada_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5530062",
@@ -1758,7 +1910,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55641472",
@@ -1785,6 +1937,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Police_Academy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55641472",
@@ -1795,7 +1953,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q557578",
@@ -1818,6 +1976,7 @@
         "url": "http://www.efa.com.eg/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B0%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%A9%E3%83%96%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q557578",
@@ -1828,7 +1987,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60753534",
@@ -1844,6 +2003,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tolip_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60753534",
@@ -1854,7 +2014,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q616874",
@@ -1877,6 +2037,12 @@
         "url": "https://www.arabcontclub.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Osman_Ahmed_Osman_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q616874",
@@ -1887,7 +2053,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q622225",
@@ -1914,6 +2080,12 @@
         "url": "https://smouhasportingclub.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandria_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q622225",
@@ -1924,7 +2096,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q67254945",
@@ -1940,6 +2112,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q67254945",
@@ -1949,7 +2122,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6967633",
@@ -1965,6 +2138,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Academy_for_Postgraduate_and_Strategic_Studies",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6967633",
@@ -1975,7 +2149,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7178880",
@@ -1998,6 +2172,12 @@
         "url": "https://enppisc.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Petrosport_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7178880",
@@ -2008,7 +2188,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7202075",
@@ -2024,6 +2204,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7202075",
@@ -2033,7 +2214,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7554594",
@@ -2054,6 +2235,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Second Division League",
+        "name_ja": "エジプト・セカンド・ディヴィジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sohag_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7554594",
@@ -2064,7 +2251,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q779930",
@@ -2087,6 +2274,12 @@
         "url": "https://www.ismailyclub.org/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ismailia_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q779930",
@@ -2097,7 +2290,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q82073711",
@@ -2113,6 +2306,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q82073711",
@@ -2122,7 +2316,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q840778",
@@ -2145,6 +2339,12 @@
         "url": "https://petrojetsc.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Egyptian Premier League",
+        "name_ja": "エジプト・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suez_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q840778",
@@ -2155,7 +2355,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q90407079",
@@ -2171,6 +2371,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hassan_Moustafa_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q90407079",
@@ -2181,7 +2382,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q90910581",
@@ -2197,6 +2398,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q90910581",
@@ -2206,7 +2408,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9304163",
@@ -2222,6 +2424,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9304163",
@@ -2231,6 +2434,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
