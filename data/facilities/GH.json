@@ -20,6 +20,12 @@
         "url": "http://www.hasaacas.net/index.php"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sekondi-Takoradi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1082017",
@@ -30,7 +36,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1134550",
@@ -46,6 +52,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Coronation_Park_(Sunyani)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1134550",
@@ -56,7 +63,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q119770305",
@@ -74,6 +81,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Akoon_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q119770305",
@@ -84,7 +92,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123349076",
@@ -110,6 +118,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Borteyman_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123349076",
@@ -120,7 +129,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124655864",
@@ -141,6 +150,7 @@
         "url": "https://www.accra2023ag.com/"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "2023年アフリカ競技大会",
@@ -155,7 +165,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q140354479",
@@ -171,6 +181,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q140354479",
@@ -180,7 +191,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16548490",
@@ -201,6 +212,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nkawkaw_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16548490",
@@ -211,7 +223,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18387343",
@@ -232,6 +244,12 @@
         "url": "http://www.medeamasc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/TNA_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18387343",
@@ -242,7 +260,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q288618",
@@ -265,6 +283,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baba_Yara_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q288618",
@@ -275,7 +299,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q339568",
@@ -310,6 +334,16 @@
         "url": "https://www.accra2023ag.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      },
+      {
+        "name": "Ghana Division One League",
+        "name_ja": null
+      }
+    ],
     "events": [
       {
         "name": "2023年アフリカ競技大会",
@@ -325,7 +359,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q38251661",
@@ -341,6 +375,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nduom_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q38251661",
@@ -351,7 +386,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4669417",
@@ -372,6 +407,12 @@
         "url": "http://www.medeamasc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Abrankese_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4669417",
@@ -382,7 +423,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4694729",
@@ -403,6 +444,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Agyeman_Badu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4694729",
@@ -413,7 +460,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4833064",
@@ -429,6 +476,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Azumah_Nelson_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4833064",
@@ -439,7 +487,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48791425",
@@ -455,6 +503,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Wak_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q48791425",
@@ -465,7 +514,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48791532",
@@ -488,6 +537,7 @@
         "url": "https://www.accra2023ag.com/"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "2022 Men's Hockey Africa Cup of Nations",
@@ -511,7 +561,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4891237",
@@ -532,6 +582,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Berekum_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4891237",
@@ -542,7 +598,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5034664",
@@ -563,6 +619,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Coast_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5034664",
@@ -573,7 +635,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5221095",
@@ -591,6 +653,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Reindorf_Park_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5221095",
@@ -601,7 +664,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5242708",
@@ -622,6 +685,12 @@
         "url": "http://righttodream.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Football Leagues",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dawu_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5242708",
@@ -632,7 +701,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5623984",
@@ -653,6 +722,12 @@
         "url": "http://www.hasaacas.net/index.php"
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gyandu_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5623984",
@@ -663,7 +738,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5874159",
@@ -679,6 +754,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ho_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5874159",
@@ -689,7 +765,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6350071",
@@ -707,6 +783,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kaladan_Park%2C_Tamale",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6350071",
@@ -717,7 +794,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6425738",
@@ -733,6 +810,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Koforidua_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6425738",
@@ -743,7 +821,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6435712",
@@ -759,6 +837,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kpando_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6435712",
@@ -769,7 +848,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6521726",
@@ -790,6 +869,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Len_Clay_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6521726",
@@ -800,7 +885,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q76803468",
@@ -818,6 +903,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q76803468",
@@ -827,7 +913,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q928853",
@@ -854,6 +940,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Ghana Premier League",
+        "name_ja": "ガーナ・プレミアリーグ"
+      },
+      {
+        "name": "Division One",
+        "name_ja": "ディビジョン1リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aliu_Mahama_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q928853",
@@ -864,7 +960,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q94522358",
@@ -882,6 +978,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bukom_Boxing_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q94522358",
@@ -892,6 +989,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
