@@ -10098,5 +10098,18 @@
     "deletedCount": 282,
     "errorCount": 0,
     "errors": []
+  },
+  {
+    "timestamp": "2026-09-10T03:50:25.821Z",
+    "countryCode": "FR",
+    "pagesFetched": 133,
+    "totalFetched": 1399,
+    "newCount": 0,
+    "updatedCount": 1399,
+    "deletedCount": 101,
+    "errorCount": 1,
+    "errors": [
+      "SPARQL query failed after 4 attempts: Retryable HTTP status: 504"
+    ]
   }
 ]
