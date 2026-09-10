@@ -15,6 +15,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yarmouk_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12015461",
@@ -25,7 +26,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124481253",
@@ -46,6 +47,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yatta_International_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q124481253",
@@ -56,7 +58,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q126089798",
@@ -83,6 +85,20 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "West Bank Premier League",
+        "name_ja": "ウェストバンク・プレミアリーグ"
+      },
+      {
+        "name": "Palestine Cup",
+        "name_ja": "パレスチナ・カップ"
+      },
+      {
+        "name": "West Bank First League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126089798",
@@ -92,7 +108,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q126090049",
@@ -108,6 +124,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126090049",
@@ -117,7 +134,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q126145969",
@@ -133,6 +150,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126145969",
@@ -142,7 +160,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17151122",
@@ -163,6 +181,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dura_International_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17151122",
@@ -173,7 +192,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2916041",
@@ -194,6 +213,7 @@
         "url": "http://www.pfa.ps/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%B5%E3%83%AB%E3%83%BB%E3%83%95%E3%82%B5%E3%82%A4%E3%83%8B%E3%83%BC%E5%9B%BD%E9%9A%9B%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2916041",
@@ -204,7 +224,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3544695",
@@ -220,6 +240,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nablus_Football_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3544695",
@@ -230,7 +251,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q38250550",
@@ -251,6 +272,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "West Bank Premier League",
+        "name_ja": "ウェストバンク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hussein_Bin_Ali_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q38250550",
@@ -261,7 +288,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q38250891",
@@ -277,6 +304,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Majed_Asad_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q38250891",
@@ -287,7 +315,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702679",
@@ -308,6 +336,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "West Bank Premier League",
+        "name_ja": "ウェストバンク・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Khader_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702679",
@@ -318,7 +352,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4802826",
@@ -334,6 +368,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/As-Sadaka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4802826",
@@ -344,7 +379,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56376703",
@@ -360,6 +395,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q56376703",
@@ -369,7 +405,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56376840",
@@ -385,6 +421,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Istiqlal_University",
     "wikidata_url": "https://www.wikidata.org/wiki/Q56376840",
@@ -395,7 +432,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6182168",
@@ -416,6 +453,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jericho_International_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6182168",
@@ -426,7 +464,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7127323",
@@ -442,6 +480,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palestine_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7127323",
@@ -452,6 +491,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
