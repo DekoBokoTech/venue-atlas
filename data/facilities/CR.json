@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q11967977",
@@ -24,7 +25,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q130348326",
@@ -40,6 +41,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q130348326",
@@ -49,7 +51,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369050",
@@ -76,6 +78,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Alejandro_Morera_Soto",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369050",
@@ -86,7 +94,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369626",
@@ -109,6 +117,12 @@
         "url": "https://www.saprissa.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ricardo_Saprissa_Aym%C3%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369626",
@@ -119,7 +133,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16492923",
@@ -135,6 +149,12 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [
+      {
+        "name": "Segunda División de Costa Rica",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16492923",
@@ -144,7 +164,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16492931",
@@ -167,6 +187,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda División de Costa Rica",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16492931",
@@ -176,7 +202,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1656772",
@@ -199,6 +225,12 @@
         "url": "https://www.herediano.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Eladio_Rosabal_Cordero_Stadium_(1949)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1656772",
@@ -209,7 +241,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1657264",
@@ -230,6 +262,12 @@
         "url": "https://cartagines.cr/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Rafael_Fello_Meza_Ivankovich",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1657264",
@@ -240,7 +278,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19607991",
@@ -259,6 +297,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q19607991",
@@ -268,7 +307,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24284189",
@@ -286,6 +325,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q24284189",
@@ -295,7 +335,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24285240",
@@ -313,6 +353,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q24285240",
@@ -322,7 +363,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2522000",
@@ -345,6 +386,7 @@
         "url": "https://www.fcrf.cr/category/noticias/seles-masculinas/sele-mayor/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%8A%E3%82%B7%E3%82%AA%E3%83%8A%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2522000",
@@ -355,7 +397,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3067683",
@@ -378,6 +420,7 @@
         "url": "https://www.fcrf.cr/category/noticias/seles-masculinas/sele-mayor/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Costa_Rica_National_Stadium_(1924)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3067683",
@@ -388,7 +431,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30915228",
@@ -404,6 +447,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30915228",
@@ -413,7 +457,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3371208",
@@ -436,6 +480,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda División de Costa Rica",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3371208",
@@ -445,7 +495,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495572",
@@ -468,6 +518,12 @@
         "url": "http://www.santos.cr"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ebal_Rodr%C3%ADguez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495572",
@@ -478,7 +534,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495574",
@@ -501,6 +557,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "1921 Costa Rican Primera División season",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Edgardo_Baltodano_Brice%C3%B1o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495574",
@@ -511,7 +573,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495614",
@@ -534,6 +596,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda División de Costa Rica",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Guillermo_Vargas_Rold%C3%A1n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495614",
@@ -544,7 +612,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495661",
@@ -567,6 +635,12 @@
         "url": "http://www.brujasfc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Hern%C3%A1n_%22Cuty%22_Monge_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495661",
@@ -577,7 +651,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495669",
@@ -600,6 +674,12 @@
         "url": "http://www.limonfc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495669",
@@ -609,7 +689,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495703",
@@ -627,6 +707,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Lito_P%C3%A9rez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495703",
@@ -637,7 +718,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495785",
@@ -660,6 +741,12 @@
         "url": "http://municipalpz.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Municipal_P%C3%A9rez_Zeled%C3%B3n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495785",
@@ -670,7 +757,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495797",
@@ -693,6 +780,12 @@
         "url": "http://www.limonfc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495797",
@@ -702,7 +795,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q47482045",
@@ -725,6 +818,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rafael_Bola%C3%B1os",
     "wikidata_url": "https://www.wikidata.org/wiki/Q47482045",
@@ -735,7 +834,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5847758",
@@ -758,6 +857,12 @@
         "url": "http://municipalgrecia.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda División de Costa Rica",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5847758",
@@ -767,7 +872,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q70146436",
@@ -790,6 +895,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda División de Costa Rica",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q70146436",
@@ -799,7 +910,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7126322",
@@ -817,6 +928,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_(Heredia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7126322",
@@ -827,7 +939,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8842819",
@@ -843,6 +955,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q8842819",
@@ -852,7 +965,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q967466",
@@ -875,6 +988,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga FPD",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Carlos_Ugalde_%C3%81lvarez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q967466",
@@ -885,6 +1004,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
