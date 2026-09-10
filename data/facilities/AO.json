@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Nacional_do_Chiazi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1293260",
@@ -25,7 +26,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1312957",
@@ -43,6 +44,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%8A%E3%82%B7%E3%82%AA%E3%83%8A%E3%83%AB%E3%83%BB%E3%83%80%E3%83%BB%E3%83%88%E3%82%A5%E3%83%B3%E3%83%80%E3%83%B4%E3%82%A1%E3%83%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1312957",
@@ -53,7 +55,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1343366",
@@ -71,6 +73,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Nacional_de_Ombaka",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1343366",
@@ -81,7 +84,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1370665",
@@ -104,6 +107,12 @@
         "url": "http://www.primeiroagosto.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Girabola",
+        "name_ja": "ジラボーラ"
+      }
+    ],
     "events": [
       {
         "name": "アフリカネイションズカップ2010",
@@ -119,7 +128,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138009",
@@ -135,6 +144,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_de_Luanda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q138009",
@@ -145,7 +155,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16548579",
@@ -161,6 +171,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_do_Tafe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16548579",
@@ -171,7 +182,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632534",
@@ -187,6 +198,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_28_de_Fevereiro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632534",
@@ -197,7 +209,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632577",
@@ -213,6 +225,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Anexo_II",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632577",
@@ -223,7 +236,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632578",
@@ -242,6 +255,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Anexo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632578",
@@ -252,7 +266,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632634",
@@ -273,6 +287,12 @@
         "url": "http://www.recreativolibolo.ao"
       }
     ],
+    "leagues": [
+      {
+        "name": "Girabola",
+        "name_ja": "ジラボーラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_de_Calulo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632634",
@@ -283,7 +303,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16847389",
@@ -299,6 +319,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Victorino_Cunha",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16847389",
@@ -309,7 +330,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16896501",
@@ -329,6 +350,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Dream_Space",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16896501",
@@ -339,7 +361,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16896526",
@@ -355,6 +377,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Multiusos_de_Luanda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16896526",
@@ -365,7 +388,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16920424",
@@ -381,6 +404,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_22_de_Junho",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16920424",
@@ -391,7 +415,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17103164",
@@ -407,6 +431,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Welwitschia_Mirabilis",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17103164",
@@ -417,7 +442,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18816158",
@@ -433,6 +458,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Palanca_Negra_Gigante",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18816158",
@@ -443,7 +469,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30589914",
@@ -459,6 +485,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_M%C3%A1rtires_da_Canhala",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30589914",
@@ -469,7 +496,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30590899",
@@ -485,6 +512,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Mundunduleno",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30590899",
@@ -495,7 +523,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30591389",
@@ -516,6 +544,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Girabola",
+        "name_ja": "ジラボーラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_4_de_Janeiro",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30591389",
@@ -526,7 +560,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3321268",
@@ -547,6 +581,12 @@
         "url": "http://www.slbenfica.co.ao/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Girabola",
+        "name_ja": "ジラボーラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_da_Cidadela",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3321268",
@@ -557,7 +597,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39050181",
@@ -578,6 +618,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_das_Mangueiras",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39050181",
@@ -588,7 +629,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4117894",
@@ -606,6 +647,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Joaquim_Dinis",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4117894",
@@ -616,7 +658,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4355255",
@@ -632,6 +674,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Ferrovi%C3%A1rio_da_Hu%C3%ADla",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4355255",
@@ -642,7 +685,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402037",
@@ -658,6 +701,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_dos_Imbondeiros",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402037",
@@ -668,7 +712,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402055",
@@ -684,6 +728,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Joaquim_Morais",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402055",
@@ -694,7 +739,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402122",
@@ -715,6 +760,12 @@
         "url": "http://carloskioko.wix.com/ec1omaiobenguela#!home/mainPage"
       }
     ],
+    "leagues": [
+      {
+        "name": "Girabola",
+        "name_ja": "ジラボーラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Edelfride_Palhares_da_Costa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402122",
@@ -725,7 +776,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402131",
@@ -741,6 +792,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Nossa_Senhora_do_Monte",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402131",
@@ -751,7 +803,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402155",
@@ -767,6 +819,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Sagrada_Esperan%C3%A7a",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402155",
@@ -777,7 +830,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402234",
@@ -793,6 +846,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_do_Tafe",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402234",
@@ -803,7 +857,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402250",
@@ -824,6 +878,12 @@
         "url": "http://www.recreativocaalafutebol.blogspot.de/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Girabola",
+        "name_ja": "ジラボーラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_dos_Kurikutelas",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402250",
@@ -834,7 +894,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5402252",
@@ -855,6 +915,12 @@
         "url": "http://interclube.co.ao/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Girabola",
+        "name_ja": "ジラボーラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_dos_Coqueiros",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5402252",
@@ -865,7 +931,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55611089",
@@ -881,6 +947,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Santos_Diniz",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55611089",
@@ -891,7 +958,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55611090",
@@ -907,6 +974,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_do_Dande",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55611090",
@@ -917,7 +985,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q64818045",
@@ -933,6 +1001,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64818045",
@@ -942,7 +1011,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155859",
@@ -958,6 +1027,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_Serra_Van-D%C3%BAnem",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155859",
@@ -968,7 +1038,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7155860",
@@ -989,6 +1059,7 @@
         "url": "https://petroatletico.co.ao/basquetebol"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_da_Cidadela",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7155860",
@@ -999,7 +1070,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q789433",
@@ -1015,6 +1086,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_de_Benguela",
     "wikidata_url": "https://www.wikidata.org/wiki/Q789433",
@@ -1025,7 +1097,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9255579",
@@ -1043,6 +1115,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Buraco",
     "wikidata_url": "https://www.wikidata.org/wiki/Q9255579",
@@ -1053,7 +1126,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q965139",
@@ -1069,6 +1142,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Campo_de_S%C3%A3o_Paulo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q965139",
@@ -1079,6 +1153,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
