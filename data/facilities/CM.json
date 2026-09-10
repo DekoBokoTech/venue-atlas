@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107209304",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107209321",
@@ -38,6 +39,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107209321",
@@ -47,7 +49,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110239438",
@@ -63,6 +65,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110239438",
@@ -72,7 +75,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116272470",
@@ -88,6 +91,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116272470",
@@ -97,7 +101,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1567328",
@@ -120,6 +124,12 @@
         "url": "http://unionsportivededouala.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Elite One",
+        "name_ja": "エリート1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Reunification_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1567328",
@@ -130,7 +140,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16628198",
@@ -151,6 +161,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Elite One",
+        "name_ja": "エリート1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_Ndoumbe_Oumar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16628198",
@@ -161,7 +177,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16649585",
@@ -179,6 +195,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Limbe_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16649585",
@@ -189,7 +206,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21619235",
@@ -207,6 +224,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kouekong_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21619235",
@@ -217,7 +235,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25381938",
@@ -237,6 +255,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Olembe_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25381938",
@@ -247,7 +266,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q27516338",
@@ -265,6 +284,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Japoma_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q27516338",
@@ -275,7 +295,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3361089",
@@ -294,6 +314,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3361089",
@@ -304,7 +325,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495852",
@@ -327,6 +348,12 @@
         "url": "http://www.cotonsportfc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Elite One",
+        "name_ja": "エリート1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Roumd%C3%A9_Adjia_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495852",
@@ -337,7 +364,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q401009",
@@ -368,6 +395,16 @@
         "url": "https://fecafoot-officiel.com/lions-indomptables/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Elite One",
+        "name_ja": "エリート1"
+      },
+      {
+        "name": "Elite Two",
+        "name_ja": "エリート2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%83%89%E3%83%BB%E3%82%A2%E3%83%9E%E3%83%89%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%B8%E3%83%A7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q401009",
@@ -378,7 +415,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596082",
@@ -396,6 +433,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Mbapp%C3%A9_L%C3%A9pp%C3%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596082",
@@ -406,7 +444,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596147",
@@ -424,6 +462,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Akonolinga)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596147",
@@ -434,7 +473,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596154",
@@ -452,6 +491,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Foumban)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596154",
@@ -462,7 +502,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596158",
@@ -480,6 +520,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Maroua)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596158",
@@ -490,7 +531,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596164",
@@ -508,6 +549,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_(Yaound%C3%A9)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596164",
@@ -518,7 +560,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596171",
@@ -534,6 +576,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_de_Bamendzi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596171",
@@ -544,7 +587,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596173",
@@ -567,6 +610,12 @@
         "url": "https://www.pantheresportivenzuisa.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Elite One",
+        "name_ja": "エリート1"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_de_Bangangt%C3%A9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596173",
@@ -577,7 +626,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596177",
@@ -595,6 +644,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_Municipal_de_Guider",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596177",
@@ -605,7 +655,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596218",
@@ -623,6 +673,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stade_de_Baham",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596218",
@@ -633,7 +684,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596231",
@@ -651,6 +702,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Molyko_Omnisport_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596231",
@@ -661,7 +713,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9005978",
@@ -679,6 +731,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mbankomo_Centre_of_Excellence",
     "wikidata_url": "https://www.wikidata.org/wiki/Q9005978",
@@ -689,6 +742,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
