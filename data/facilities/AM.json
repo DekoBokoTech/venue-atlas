@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1124949",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q120246588",
@@ -39,6 +40,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120246588",
@@ -48,7 +50,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1459459",
@@ -75,6 +77,12 @@
         "url": "http://www.fcararat.am"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B9%E3%82%B2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%AB%E3%82%AD%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%A9%E3%83%9A%E3%82%BF%E3%82%AB%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B6%E3%83%80%E3%82%B7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1459459",
@@ -85,7 +93,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15195487",
@@ -106,6 +114,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian First League",
+        "name_ja": "アルメニア・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ayg_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15195487",
@@ -116,7 +130,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15217986",
@@ -139,6 +153,12 @@
         "url": "https://fcpyunik.am/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yerevan_Football_Academy_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15217986",
@@ -149,7 +169,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15226095",
@@ -165,6 +185,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hovik_Hayrapetyan_Equestrian_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15226095",
@@ -175,7 +196,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15229585",
@@ -191,6 +212,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yerevan_Water_World",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15229585",
@@ -201,7 +223,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15269462",
@@ -222,6 +244,12 @@
         "url": "https://fcpyunik.am/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pyunik_Training_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15269462",
@@ -232,7 +260,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16300304",
@@ -253,6 +281,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Etchmiadzin_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16300304",
@@ -263,7 +292,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16311622",
@@ -284,6 +313,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "1985 FIFAワールドユース選手権",
@@ -299,7 +329,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16833755",
@@ -315,6 +345,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Armenia_Sports_Union",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16833755",
@@ -325,7 +356,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16846580",
@@ -346,6 +377,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Noyemberyan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16846580",
@@ -356,7 +388,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16868989",
@@ -380,6 +412,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Artashat_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16868989",
@@ -390,7 +423,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20987674",
@@ -411,6 +444,12 @@
         "url": "https://fcvan.am"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Charentsavan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20987674",
@@ -421,7 +460,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21697940",
@@ -437,6 +476,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vazgen_Sargsyan_Military_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q21697940",
@@ -447,7 +487,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21778015",
@@ -463,6 +503,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21778015",
@@ -472,7 +513,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2499412",
@@ -495,6 +536,12 @@
         "url": "https://noah.am"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mika_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2499412",
@@ -505,7 +552,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2503458",
@@ -528,6 +575,12 @@
         "url": "http://fcgandzasarkapan.am/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kapan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2503458",
@@ -538,7 +591,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495794",
@@ -561,6 +614,12 @@
         "url": "https://fcalashkert.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nairi_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495794",
@@ -571,7 +630,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3499859",
@@ -594,6 +653,12 @@
         "url": "https://fcshirak.am"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gyumri_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3499859",
@@ -604,7 +669,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3655326",
@@ -627,6 +692,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vahagn_Tumasyan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3655326",
@@ -637,7 +703,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3655988",
@@ -658,6 +724,7 @@
         "url": "http://fcimpulse.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dilijan_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3655988",
@@ -668,7 +735,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4069762",
@@ -691,6 +758,7 @@
         "url": "http://fcimpulse.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arnar_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4069762",
@@ -701,7 +769,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4145704",
@@ -722,6 +790,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Metallurg_Stadium%2C_Alaverdi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4145704",
@@ -732,7 +801,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6681149",
@@ -753,6 +822,7 @@
         "url": "https://lori-vanadzor-fc.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vanadzor_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6681149",
@@ -763,7 +833,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q683493",
@@ -786,6 +856,7 @@
         "url": "http://www.ffa.am/en/1383993963"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BA%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q683493",
@@ -796,7 +867,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7849301",
@@ -812,6 +883,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tsaghkadzor_ski_resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7849301",
@@ -822,7 +894,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8052584",
@@ -838,6 +910,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Yerevan_Velodrome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8052584",
@@ -848,7 +921,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q806110",
@@ -871,6 +944,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian Premier League",
+        "name_ja": "アルメニア・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Urartu_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q806110",
@@ -881,7 +960,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q80779",
@@ -904,6 +983,12 @@
         "url": "http://www.fcmika.am/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Armenian First League",
+        "name_ja": "アルメニア・ファーストリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kasakhi_Marzik_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q80779",
@@ -914,7 +999,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96372369",
@@ -930,6 +1015,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Armenak_Khanperyants_Military_Aviation_University",
     "wikidata_url": "https://www.wikidata.org/wiki/Q96372369",
@@ -940,6 +1026,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
