@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%86%E3%82%A3%E3%83%8F%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q105393795",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1067672",
@@ -39,6 +40,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%BB%E3%83%89%E3%83%90%E3%82%A4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1067672",
@@ -49,7 +51,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107649270",
@@ -65,6 +67,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%80%E3%82%A4%E3%83%96%E3%83%BB%E3%83%89%E3%83%90%E3%82%A4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q107649270",
@@ -75,7 +78,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108804099",
@@ -91,6 +94,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108804099",
@@ -100,7 +104,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q11323916",
@@ -116,6 +120,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%90%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q11323916",
@@ -126,7 +131,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123524426",
@@ -142,6 +147,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123524426",
@@ -151,7 +157,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13574521",
@@ -169,6 +175,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dubai_Creek_Golf_%26_Yacht_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q13574521",
@@ -179,7 +186,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138787051",
@@ -195,6 +202,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "マネジメント・バイアウト",
@@ -214,7 +222,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15646927",
@@ -237,6 +245,12 @@
         "url": "https://alainclub.ae/"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B6%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BC%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15646927",
@@ -247,7 +261,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q167831",
@@ -271,6 +285,7 @@
         "url": "https://www.uaefa.ae/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q167831",
@@ -281,7 +296,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q172869",
@@ -297,6 +312,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q172869",
@@ -307,7 +323,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18434851",
@@ -325,6 +341,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q18434851",
@@ -334,7 +351,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2000728",
@@ -357,6 +374,7 @@
         "url": "https://www.uaefa.ae/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A1%E5%9B%BD%E9%9A%9B%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2000728",
@@ -367,7 +385,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q200856",
@@ -383,6 +401,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%BB%E3%83%AF%E3%83%87%E3%82%A3%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q200856",
@@ -393,7 +412,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2056065",
@@ -412,6 +431,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2056065",
@@ -422,7 +442,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2080478",
@@ -445,6 +465,12 @@
         "url": "http://www.emiratesclub.ae"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9F%E3%83%AC%E3%83%BC%E3%83%84%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%96%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2080478",
@@ -455,7 +481,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20807637",
@@ -473,6 +499,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ICC_Academy_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20807637",
@@ -483,7 +510,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2081620",
@@ -499,6 +526,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2081620",
@@ -508,7 +536,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q21152188",
@@ -526,6 +554,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q21152188",
@@ -535,7 +564,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2525218",
@@ -559,6 +588,12 @@
         "url": "https://www.shababalahli.ae/"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2525218",
@@ -569,7 +604,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2701976",
@@ -592,6 +627,12 @@
         "url": "https://alwaslsc.ae"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%93%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2701976",
@@ -602,7 +643,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2758483",
@@ -625,6 +666,12 @@
         "url": "http://alshabab.ae/"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%89%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2758483",
@@ -635,7 +682,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28221604",
@@ -651,6 +698,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ittihad_Kalba_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28221604",
@@ -661,7 +709,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q283849",
@@ -684,6 +732,12 @@
         "url": "https://www.jc.ae/"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%BB%E3%83%A0%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%89%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BC%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q283849",
@@ -694,7 +748,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q285692",
@@ -717,6 +771,12 @@
         "url": "https://alwahda-sc.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8A%E3%83%92%E3%83%A4%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q285692",
@@ -727,7 +787,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q29565518",
@@ -745,6 +805,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q29565518",
@@ -754,7 +815,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3056365",
@@ -772,6 +833,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sharjah_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3056365",
@@ -782,7 +844,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30590751",
@@ -798,6 +860,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Masfout_Club_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30590751",
@@ -808,7 +871,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30590752",
@@ -826,6 +889,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Hamriya_Sports_Club_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30590752",
@@ -836,7 +900,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3119433",
@@ -859,6 +923,12 @@
         "url": "https://alwaslsc.ae"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3119433",
@@ -869,7 +939,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3277528",
@@ -890,6 +960,12 @@
         "url": "http://www.sharjahclub.org.ae/"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Division 1 Group A",
+        "name_ja": "UAEファーストディヴィジョンリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3277528",
@@ -900,7 +976,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3607490",
@@ -918,6 +994,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Dhafra_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3607490",
@@ -928,7 +1005,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39050568",
@@ -944,6 +1021,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hamdan_Bin_Rashid_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39050568",
@@ -954,7 +1032,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4116974",
@@ -977,6 +1055,12 @@
         "url": "https://www.baniyasclub.ae/"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Baniyas_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4116974",
@@ -987,7 +1071,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4118113",
@@ -1005,6 +1089,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jumeirah_Golf_Estates",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4118113",
@@ -1015,7 +1100,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4670136",
@@ -1038,6 +1123,7 @@
         "url": "https://www.mubadalaabudhabiopen.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Abu_Dhabi_International_Tennis_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4670136",
@@ -1048,7 +1134,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4699899",
@@ -1064,6 +1150,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ajman_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4699899",
@@ -1074,7 +1161,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4828629",
@@ -1097,6 +1184,7 @@
         "url": "http://www.dubaidutyfreetennischampionships.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dubai_Duty_Free_Tennis_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4828629",
@@ -1107,7 +1195,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5206119",
@@ -1125,6 +1213,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dubai_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5206119",
@@ -1135,7 +1224,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5206120",
@@ -1153,6 +1242,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/DSC_Hockey_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5206120",
@@ -1163,7 +1253,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5206123",
@@ -1179,6 +1269,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/DSC_Multi-Purpose_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5206123",
@@ -1189,7 +1280,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5310526",
@@ -1207,6 +1298,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dubai_Cricket_Council_Grounds",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5310526",
@@ -1217,7 +1309,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5310611",
@@ -1240,6 +1332,7 @@
         "url": "https://archive.is/uWqTw"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A0%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5310611",
@@ -1250,7 +1343,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5358067",
@@ -1268,6 +1361,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%8F%E3%83%8C%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%8F%E3%83%A1%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5358067",
@@ -1278,7 +1372,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5372570",
@@ -1296,6 +1390,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Emirates_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5372570",
@@ -1306,7 +1401,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q54205139",
@@ -1324,6 +1419,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q54205139",
@@ -1333,7 +1429,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5507334",
@@ -1349,6 +1445,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%95%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%A9%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5507334",
@@ -1359,7 +1456,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56071912",
@@ -1375,6 +1472,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q56071912",
@@ -1384,7 +1482,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q588356",
@@ -1400,6 +1498,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q588356",
@@ -1410,7 +1509,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q605556",
@@ -1433,6 +1532,12 @@
         "url": "http://www.alshaabclub.ae"
       }
     ],
+    "leagues": [
+      {
+        "name": "UAE Pro League",
+        "name_ja": "UAEプロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khalid_bin_Mohammed_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q605556",
@@ -1443,7 +1548,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q63859108",
@@ -1464,6 +1569,12 @@
         "url": "https://dubaibasketball.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "EuroLeague",
+        "name_ja": "ユーロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q63859108",
@@ -1474,7 +1585,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7209487",
@@ -1490,6 +1601,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Police_Officers'_Club_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7209487",
@@ -1500,7 +1612,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7492977",
@@ -1518,6 +1630,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Zayed_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7492977",
@@ -1528,7 +1641,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7751415",
@@ -1544,6 +1657,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Military_High_School%2C_Al-Ain",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7751415",
@@ -1554,7 +1668,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7836567",
@@ -1570,6 +1684,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%80%E3%83%B3%E7%AB%B6%E9%A6%AC%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7836567",
@@ -1580,7 +1695,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q90912517",
@@ -1596,6 +1711,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q90912517",
@@ -1605,6 +1721,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
