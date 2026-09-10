@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q106929995",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q10782307",
@@ -40,6 +41,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ta%C5%A1majdan_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q10782307",
@@ -50,7 +52,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108133838",
@@ -68,6 +70,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q108133838",
@@ -77,7 +80,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q108414747",
@@ -95,6 +98,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/TSC_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q108414747",
@@ -105,7 +109,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109652714",
@@ -121,6 +125,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_SC_Mladost",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109652714",
@@ -131,7 +136,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q109652716",
@@ -149,6 +154,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lagator_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109652716",
@@ -159,7 +165,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110045338",
@@ -177,6 +183,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Po%C5%BEarevac_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110045338",
@@ -187,7 +194,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1123407",
@@ -210,6 +217,12 @@
         "url": "https://partizan.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%91%E3%83%AB%E3%83%81%E3%82%B6%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1123407",
@@ -220,7 +233,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113164580",
@@ -243,6 +256,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113164580",
@@ -252,7 +271,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113947423",
@@ -270,6 +289,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113947423",
@@ -279,7 +299,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q122418128",
@@ -295,6 +315,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%89%E3%82%A5%E3%83%9C%E3%83%81%E3%83%84%E3%82%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q122418128",
@@ -305,7 +326,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125318049",
@@ -326,6 +347,12 @@
         "url": "https://fkradnicki-obrenovac.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian League Belgrade",
+        "name_ja": "セルビア・スルプスカ・リーガ・ベオグラード"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125318049",
@@ -335,7 +362,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125886420",
@@ -353,6 +380,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125886420",
@@ -362,7 +390,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1278216",
@@ -378,6 +406,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sava_Centar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1278216",
@@ -388,7 +417,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q13567334",
@@ -411,6 +440,12 @@
         "url": "http://www.fkmladostlucani.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q13567334",
@@ -420,7 +455,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1500139",
@@ -443,6 +478,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SPC_Vojvodina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1500139",
@@ -453,7 +489,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1515291",
@@ -477,6 +513,12 @@
         "url": "http://www.kkvrsac.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia",
+        "name_ja": "セルビア・モンテネグロ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Millennium_Centar",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1515291",
@@ -487,7 +529,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15244014",
@@ -511,6 +553,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maki%C5%A1_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15244014",
@@ -521,7 +564,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1570168",
@@ -542,6 +585,12 @@
         "url": "http://www.kkproleter.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia B",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Crystal_Hall%2C_Zrenjanin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1570168",
@@ -552,7 +601,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1570192",
@@ -577,6 +626,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Cair_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1570192",
@@ -587,7 +637,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16087249",
@@ -603,6 +653,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16087249",
@@ -612,7 +663,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16088040",
@@ -630,6 +681,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16088040",
@@ -639,7 +691,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1638077",
@@ -660,6 +712,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Kara%C4%91or%C4%91ev_park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1638077",
@@ -670,7 +728,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16602027",
@@ -691,6 +749,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16602027",
@@ -700,7 +759,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16632693",
@@ -716,6 +775,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_FK_%C5%BDAK",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16632693",
@@ -726,7 +786,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1782654",
@@ -753,6 +813,12 @@
         "url": "https://akvojvodina.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%A9%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%82%A7",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1782654",
@@ -763,7 +829,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20436619",
@@ -779,6 +845,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kopaonik_ski_resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20436619",
@@ -789,7 +856,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20438001",
@@ -810,6 +877,7 @@
         "url": "http://www.kksloga.srbijasport.info"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kraljevo_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q20438001",
@@ -820,7 +888,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2075436",
@@ -836,6 +904,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Military_Academy_(Serbia)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2075436",
@@ -846,7 +915,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22666723",
@@ -876,6 +945,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "First Regional Basketball League (Serbia)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lagator_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22666723",
@@ -886,7 +961,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2326167",
@@ -909,6 +984,12 @@
         "url": "https://fkradnickinis.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Cair_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2326167",
@@ -919,7 +1000,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25346100",
@@ -937,6 +1018,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Surdulica_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25346100",
@@ -947,7 +1029,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2743782",
@@ -971,6 +1053,12 @@
         "url": "https://fkzemun.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian League Belgrade",
+        "name_ja": "セルビア・スルプスカ・リーガ・ベオグラード"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zemun_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2743782",
@@ -981,7 +1069,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2749462",
@@ -1004,6 +1092,12 @@
         "url": "http://www.ofkbeograd.co.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Omladinski_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2749462",
@@ -1014,7 +1108,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2812886",
@@ -1035,6 +1129,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Veliki_Park_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2812886",
@@ -1045,7 +1140,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2938170",
@@ -1066,6 +1161,12 @@
         "url": "http://www.srbijafudbal.net/bask.htm"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian League Belgrade",
+        "name_ja": "セルビア・スルプスカ・リーガ・ベオグラード"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q2938170",
@@ -1075,7 +1176,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2945013",
@@ -1096,6 +1197,7 @@
         "url": "http://www.kkmladost.org.rs"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pinki_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2945013",
@@ -1106,7 +1208,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3280007",
@@ -1124,6 +1226,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Serbian_FA_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3280007",
@@ -1134,7 +1237,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3327321",
@@ -1155,6 +1258,12 @@
         "url": "http://www.kkradnicki.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia",
+        "name_ja": "セルビア・モンテネグロ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jezero_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3327321",
@@ -1165,7 +1274,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q33277",
@@ -1194,6 +1303,20 @@
         "url": "http://www.kkpartizan.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia",
+        "name_ja": "セルビア・モンテネグロ"
+      },
+      {
+        "name": "ABA League",
+        "name_ja": "アドリアティック・バスケットボール・アソシエーション"
+      },
+      {
+        "name": "EuroLeague",
+        "name_ja": "ユーロリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q33277",
@@ -1204,7 +1327,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3335099",
@@ -1225,6 +1348,12 @@
         "url": "http://www.fkradnicki.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Cika_Da%C4%8Da_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3335099",
@@ -1235,7 +1364,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435009",
@@ -1256,6 +1385,12 @@
         "url": "https://gfkjagodina.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "dissolution",
+        "name_ja": "解散"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jagodina_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435009",
@@ -1266,7 +1401,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435028",
@@ -1287,6 +1422,7 @@
         "url": "http://www.fksmederevo.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Smederevo_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435028",
@@ -1297,7 +1433,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435068",
@@ -1320,6 +1456,12 @@
         "url": "https://fknapredak.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mladost_Stadium_(Kru%C5%A1evac)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435068",
@@ -1330,7 +1472,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435880",
@@ -1351,6 +1493,7 @@
         "url": "http://www.fkhajduk.rs/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Milan_Sredanovi%C4%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435880",
@@ -1361,7 +1504,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435888",
@@ -1384,6 +1527,12 @@
         "url": "https://fkjavor.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Javor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435888",
@@ -1394,7 +1543,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3435895",
@@ -1415,6 +1564,12 @@
         "url": "https://fkspartak.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Subotica_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3435895",
@@ -1425,7 +1580,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3440635",
@@ -1446,6 +1601,12 @@
         "url": "http://www.boracfk.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Ca%C4%8Dak_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3440635",
@@ -1456,7 +1617,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3440669",
@@ -1479,6 +1640,12 @@
         "url": "https://www.fkcukaricki.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%8Cukari%C4%8Dki_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3440669",
@@ -1489,7 +1656,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3440735",
@@ -1512,6 +1679,7 @@
         "url": "http://fkbskborca.rs/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3440735",
@@ -1521,7 +1689,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3441751",
@@ -1544,6 +1712,12 @@
         "url": "http://www.fcrad.co.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/King_Peter_I_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3441751",
@@ -1554,7 +1728,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q348848",
@@ -1575,6 +1749,12 @@
         "url": "https://ofkbacka.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Slavko_Maletin_Vava_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q348848",
@@ -1585,7 +1765,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q367802",
@@ -1608,6 +1788,12 @@
         "url": "http://www.kkpartizan.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia",
+        "name_ja": "セルビア・モンテネグロ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aleksandar_Nikoli%C4%87_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q367802",
@@ -1618,7 +1804,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q393333",
@@ -1641,6 +1827,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian League Vojvodina",
+        "name_ja": "セルビア・スルプスカ・リーガ・ヴォイヴォディナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q393333",
@@ -1650,7 +1842,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q41795236",
@@ -1666,6 +1858,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "1978 World Rowing Junior Championships",
@@ -1680,7 +1873,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4457040",
@@ -1703,6 +1896,12 @@
         "url": "https://fk-indjija.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/In%C4%91ija_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4457040",
@@ -1713,7 +1912,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q478000",
@@ -1736,6 +1935,12 @@
         "url": "http://www.crvenazvezdafk.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%84%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%8A%E3%83%BB%E3%82%BA%E3%83%B4%E3%82%A7%E3%82%BA%E3%83%80",
     "wikidata_url": "https://www.wikidata.org/wiki/Q478000",
@@ -1746,7 +1951,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q51749558",
@@ -1762,6 +1967,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q51749558",
@@ -1771,7 +1977,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5249969",
@@ -1794,6 +2000,12 @@
         "url": "http://www.fkmetalac.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Metalac",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5249969",
@@ -1804,7 +2016,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5265659",
@@ -1825,6 +2037,12 @@
         "url": "http://rfknovisad.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5265659",
@@ -1834,7 +2052,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5426276",
@@ -1857,6 +2075,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/FK_Obili%C4%87_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5426276",
@@ -1867,7 +2086,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5426473",
@@ -1885,6 +2104,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5426473",
@@ -1894,7 +2114,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56323114",
@@ -1912,6 +2132,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jusuf_Buli%C4%87_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q56323114",
@@ -1922,7 +2143,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5640966",
@@ -1943,6 +2164,12 @@
         "url": "http://www.kkborac.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia",
+        "name_ja": "セルビア・モンテネグロ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Borac_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5640966",
@@ -1953,7 +2180,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5640987",
@@ -1974,6 +2201,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ranko_%C5%BDeravica_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5640987",
@@ -1984,7 +2212,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60755697",
@@ -2000,6 +2228,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bor_Skate_Plaza",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60755697",
@@ -2010,7 +2239,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60776288",
@@ -2026,6 +2255,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tornik_ski_resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60776288",
@@ -2036,7 +2266,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60776290",
@@ -2052,6 +2282,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stara_Planina_ski_resort",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60776290",
@@ -2062,7 +2293,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60854100",
@@ -2080,6 +2311,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q60854100",
@@ -2089,7 +2321,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6427922",
@@ -2110,6 +2342,12 @@
         "url": "https://fkkolubara1919.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kolubara_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6427922",
@@ -2120,7 +2358,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6435987",
@@ -2143,6 +2381,12 @@
         "url": "http://www.fksloga.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q6435987",
@@ -2152,7 +2396,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6591266",
@@ -2173,6 +2417,7 @@
         "url": "http://www.fksloboda.rs"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Radomir_Anti%C4%87_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6591266",
@@ -2183,7 +2428,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6593856",
@@ -2204,6 +2449,12 @@
         "url": "https://fknovipazar.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian SuperLiga",
+        "name_ja": "セルビア・スーペルリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%BA%E3%82%AD%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%8E%E3%83%B4%E3%82%A3%E3%83%BB%E3%83%91%E3%82%B6%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6593856",
@@ -2214,7 +2465,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7196887",
@@ -2239,6 +2490,12 @@
         "url": "http://www.khkcrvenazvezda.org.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian Hockey League",
+        "name_ja": "セルビア・ホッケー・リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pionir_Ice_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7196887",
@@ -2249,7 +2506,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7242537",
@@ -2270,6 +2527,12 @@
         "url": "https://fkfap1955.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Drina Zone League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Priboj_City_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7242537",
@@ -2280,7 +2543,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7389386",
@@ -2296,6 +2559,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SC_Partizan-Teleoptik",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7389386",
@@ -2306,7 +2570,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7389400",
@@ -2327,6 +2591,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/CCS_%C5%A0umice",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7389400",
@@ -2337,7 +2602,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7392798",
@@ -2358,6 +2623,7 @@
         "url": "http://www.kkzdravlje.com"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SRC_Dubo%C4%8Dica",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7392798",
@@ -2368,7 +2634,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7579732",
@@ -2389,6 +2655,7 @@
         "url": "http://www.kksmederevo1953.rs/index.htm"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Smederevo_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7579732",
@@ -2399,7 +2666,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596297",
@@ -2417,6 +2684,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Dragan_Nikoli%C4%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596297",
@@ -2427,7 +2695,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596301",
@@ -2448,6 +2716,12 @@
         "url": "http://www.fcbezanija.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Be%C5%BEanija_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596301",
@@ -2458,7 +2732,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596313",
@@ -2479,6 +2753,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Kr%C4%8Dagovo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596313",
@@ -2489,7 +2769,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596319",
@@ -2507,6 +2787,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Mirko_Vu%C4%8Durevi%C4%87",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596319",
@@ -2517,7 +2798,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596326",
@@ -2538,6 +2819,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian League Vojvodina",
+        "name_ja": "セルビア・スルプスカ・リーガ・ヴォイヴォディナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596326",
@@ -2547,7 +2834,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596333",
@@ -2568,6 +2855,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596333",
@@ -2577,7 +2870,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596334",
@@ -2600,6 +2893,7 @@
         "url": "http://www.fkproleter.rs/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596334",
@@ -2609,7 +2903,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7911748",
@@ -2630,6 +2924,12 @@
         "url": "http://www.kkmetalac.org.rs"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia",
+        "name_ja": "セルビア・モンテネグロ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Valjevo_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7911748",
@@ -2640,7 +2940,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7938032",
@@ -2661,6 +2961,12 @@
         "url": "http://www.bcmegabasket.net/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Basketball League of Serbia",
+        "name_ja": "セルビア・モンテネグロ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vizura_Sports_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7938032",
@@ -2671,7 +2977,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7942542",
@@ -2694,6 +3000,12 @@
         "url": "https://fkvozdovac.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A9%E3%82%B8%E3%83%A5%E3%83%89%E3%83%B4%E3%82%A1%E3%83%84",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7942542",
@@ -2704,7 +3016,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8064920",
@@ -2725,6 +3037,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian First League",
+        "name_ja": "セルビア・プルヴァ・リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kraljevica_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8064920",
@@ -2735,7 +3053,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8083629",
@@ -2756,6 +3074,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian League Belgrade",
+        "name_ja": "セルビア・スルプスカ・リーガ・ベオグラード"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%BDeleznik_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8083629",
@@ -2766,7 +3090,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q85760247",
@@ -2782,6 +3106,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/FK_Bor_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q85760247",
@@ -2792,7 +3117,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q88216210",
@@ -2808,6 +3133,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q88216210",
@@ -2817,7 +3143,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9275338",
@@ -2840,6 +3166,12 @@
         "url": "https://ofk-kikinda.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Serbian League Vojvodina",
+        "name_ja": "セルビア・スルプスカ・リーガ・ヴォイヴォディナ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Stadium_Kikinda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q9275338",
@@ -2850,7 +3182,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9341121",
@@ -2871,6 +3203,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Vojvodina League East",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Suva%C4%8Da_Sportcenter",
     "wikidata_url": "https://www.wikidata.org/wiki/Q9341121",
@@ -2881,7 +3219,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97187712",
@@ -2902,6 +3240,12 @@
         "url": "http://www.fkdinamo.rs/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Vojvodina League East",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97187712",
@@ -2911,6 +3255,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
