@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sundlaugin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1109456",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q117832663",
@@ -41,6 +42,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117832663",
@@ -50,7 +52,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q121536235",
@@ -66,6 +68,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q121536235",
@@ -75,7 +78,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134587905",
@@ -91,6 +94,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134587905",
@@ -100,7 +104,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134588490",
@@ -116,6 +120,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134588490",
@@ -125,7 +130,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134589278",
@@ -141,6 +146,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134589278",
@@ -150,7 +156,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134589346",
@@ -166,6 +172,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134589346",
@@ -175,7 +182,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134881375",
@@ -191,6 +198,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134881375",
@@ -200,7 +208,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1352200",
@@ -216,6 +224,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1352200",
@@ -225,7 +234,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1354416",
@@ -248,6 +257,12 @@
         "url": "http://www.trottur.is"
       }
     ],
+    "leagues": [
+      {
+        "name": "1. deild karla",
+        "name_ja": "1. テイルト・カルトラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Valbjarnarv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1354416",
@@ -258,7 +273,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q14857353",
@@ -274,6 +289,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%9E%C3%B3rsv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q14857353",
@@ -284,7 +300,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q151212",
@@ -319,6 +335,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Besta deild karla",
+        "name_ja": "ウルヴァルステイルト"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%82%AC%E3%83%AB%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%AB",
     "wikidata_url": "https://www.wikidata.org/wiki/Q151212",
@@ -329,7 +351,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16420014",
@@ -345,6 +367,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Laugardalslaug",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16420014",
@@ -355,7 +378,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16429637",
@@ -371,6 +394,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Vallalaug",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16429637",
@@ -381,7 +405,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16430124",
@@ -397,6 +421,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16430124",
@@ -406,7 +431,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16930904",
@@ -422,6 +447,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rei%C3%B0h%C3%B6llin",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16930904",
@@ -432,7 +458,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16980971",
@@ -448,6 +474,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fj%C3%B6lnisv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16980971",
@@ -458,7 +485,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1728656",
@@ -481,6 +508,7 @@
         "url": "https://www.ksi.is"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kaplakriki",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1728656",
@@ -491,7 +519,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19364974",
@@ -509,6 +537,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Akureyri_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19364974",
@@ -519,7 +548,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2135947",
@@ -542,6 +571,12 @@
         "url": "http://www.kfia.is"
       }
     ],
+    "leagues": [
+      {
+        "name": "Besta deild karla",
+        "name_ja": "ウルヴァルステイルト"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Akranesv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2135947",
@@ -552,7 +587,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2286006",
@@ -568,6 +603,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Silfra",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2286006",
@@ -578,7 +614,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2333092",
@@ -596,6 +632,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%ADkingsv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2333092",
@@ -606,7 +643,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2348517",
@@ -629,6 +666,12 @@
         "url": "https://umfg.is/knattspyrna/"
       }
     ],
+    "leagues": [
+      {
+        "name": "1. deild karla",
+        "name_ja": "1. テイルト・カルトラ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Grindav%C3%ADkurv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2348517",
@@ -639,7 +682,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25064256",
@@ -657,6 +700,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Reykjavik_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25064256",
@@ -667,7 +711,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2527041",
@@ -690,6 +734,7 @@
         "url": "https://www.keflavik.is/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Keflav%C3%ADkurv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2527041",
@@ -700,7 +745,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2530849",
@@ -723,6 +768,12 @@
         "url": "http://www.kr.is"
       }
     ],
+    "leagues": [
+      {
+        "name": "Besta deild karla",
+        "name_ja": "ウルヴァルステイルト"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/KR-v%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2530849",
@@ -733,7 +784,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q26257423",
@@ -749,6 +800,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q26257423",
@@ -758,7 +810,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2779785",
@@ -781,6 +833,12 @@
         "url": "https://www.ibv.is/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Besta deild karla",
+        "name_ja": "ウルヴァルステイルト"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A1steinsv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2779785",
@@ -791,7 +849,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2796402",
@@ -814,6 +872,7 @@
         "url": "https://breidablik.is/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K%C3%B3pavogsv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2796402",
@@ -824,7 +883,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2829176",
@@ -847,6 +906,12 @@
         "url": "http://www.ka.is"
       }
     ],
+    "leagues": [
+      {
+        "name": "Besta deild karla",
+        "name_ja": "ウルヴァルステイルト"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Akureyrarv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2829176",
@@ -857,7 +922,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2982533",
@@ -880,6 +945,12 @@
         "url": "http://www.valur.is/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Besta deild karla",
+        "name_ja": "ウルヴァルステイルト"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hl%C3%AD%C3%B0arendi_(stadium)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2982533",
@@ -890,7 +961,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3304951",
@@ -913,6 +984,7 @@
         "url": "http://www.ksi.is/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q3304951",
@@ -922,7 +994,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3499565",
@@ -949,6 +1021,12 @@
         "url": "http://stjarnan.is/knattspyrnudeild/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Besta deild karla",
+        "name_ja": "ウルヴァルステイルト"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stj%C3%B6rnuv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3499565",
@@ -959,7 +1037,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5348031",
@@ -980,6 +1058,7 @@
         "url": "https://www.issf-sports.org/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egilsh%C3%B6ll",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5348031",
@@ -990,7 +1069,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q64517411",
@@ -1008,6 +1087,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64517411",
@@ -1017,7 +1097,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6453755",
@@ -1033,6 +1113,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K%C3%B3rinn",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6453755",
@@ -1043,7 +1124,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q666834",
@@ -1059,6 +1140,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q666834",
@@ -1068,7 +1150,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7427650",
@@ -1097,6 +1179,16 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "1. deild karla",
+        "name_ja": "1. テイルト・カルトラ"
+      },
+      {
+        "name": "2. deild karla",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sau%C3%B0%C3%A1rkr%C3%B3ksv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7427650",
@@ -1107,7 +1199,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7448515",
@@ -1123,6 +1215,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Seljavallalaug",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7448515",
@@ -1133,7 +1226,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q763750",
@@ -1149,6 +1242,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fylkisv%C3%B6llur",
     "wikidata_url": "https://www.wikidata.org/wiki/Q763750",
@@ -1159,7 +1253,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8078619",
@@ -1180,6 +1274,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%8D%C3%BEr%C3%B3ttarh%C3%BAsi%C3%B0_%C3%A1_Torfnesi",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8078619",
@@ -1190,7 +1285,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8079380",
@@ -1206,6 +1301,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%9Alflj%C3%B3tsvatn_Scout_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8079380",
@@ -1216,7 +1312,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q86752115",
@@ -1232,6 +1328,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q86752115",
@@ -1241,7 +1338,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q886946",
@@ -1257,6 +1354,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q886946",
@@ -1267,6 +1365,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
