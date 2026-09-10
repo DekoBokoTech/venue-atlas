@@ -65,11 +65,27 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
   const wikipediaUrlEn = wikipediaUrlFromSitelink(entity?.sitelinks, 'enwiki', 'en');
   const wikipediaUrl = wikipediaUrlJa || wikipediaUrlEn;
 
-  const teams = resolveClaimIds(entity, 'P466')
+  const teamQids = resolveClaimIds(entity, 'P466');
+
+  const teams = teamQids
     .map((teamQid) => relatedEntities.get(teamQid))
     .filter((info) => info && info.label)
     .slice(0, TEAM_CAP)
     .map((info) => ({ name: info.label, url: info.website }));
+
+  // Derived from ALL of the venue's teams (not just the TEAM_CAP slice
+  // shown above -- that cap is purely presentational for the team list).
+  const leagueMap = new Map();
+  for (const teamQid of teamQids) {
+    const teamInfo = relatedEntities.get(teamQid);
+    for (const leagueQid of teamInfo?.leagueQids ?? []) {
+      if (leagueMap.has(leagueQid)) continue;
+      const leagueInfo = relatedEntities.get(leagueQid);
+      if (!leagueInfo || (!leagueInfo.labelEn && !leagueInfo.labelJa)) continue;
+      leagueMap.set(leagueQid, { name: leagueInfo.labelEn ?? leagueInfo.labelJa, name_ja: leagueInfo.labelJa ?? null });
+    }
+  }
+  const leagues = Array.from(leagueMap.values());
 
   const sportTypes = resolveClaimIds(entity, 'P641')
     .map((sportQid) => relatedEntities.get(sportQid))
@@ -101,6 +117,7 @@ export function normalizeEntity(coordBinding, entity, countryCode, syncedAt, rel
     is_existing: isExisting,
     roof_type: null,
     teams,
+    leagues,
     events,
     wikipedia_url: wikipediaUrl,
     wikidata_url: `https://www.wikidata.org/wiki/${qid}`,

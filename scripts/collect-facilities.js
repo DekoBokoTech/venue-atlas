@@ -120,6 +120,25 @@ async function collectCountry(countryQid, countryCode, countryIndex, totalCountr
         break;
       }
 
+      // Second hop: resolve each team's current league(s) (P118), now that
+      // resolveRelatedEntities has populated each team's leagueQids above.
+      // Leagues are supplementary (search enrichment only), so a failure
+      // here is logged but does not abort the page -- venues simply end up
+      // with an empty `leagues` array for this pass.
+      const teamQids = [];
+      for (const qid of qids) {
+        teamQids.push(...resolveClaimIds(entities[qid], 'P466'));
+      }
+      const leagueQids = teamQids.flatMap((teamQid) => relatedEntities.get(teamQid)?.leagueQids ?? []);
+      if (leagueQids.length > 0) {
+        try {
+          const leagueEntities = await resolveRelatedEntities(leagueQids, relatedEntityCache);
+          for (const [leagueQid, info] of leagueEntities) relatedEntities.set(leagueQid, info);
+        } catch (error) {
+          allErrors.push(`[${countryCode}] leagues: ${error.message}`);
+        }
+      }
+
       const normalized = coordBindings.map((binding) => {
         const qid = binding.item.value.split('/').pop();
         return { qid, record: normalizeEntity(binding, entities[qid], countryCode, syncedAt, relatedEntities, resNameIndex) };

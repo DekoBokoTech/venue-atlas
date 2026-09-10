@@ -63,6 +63,11 @@ export async function buildSearchIndex(facilitiesDir) {
     const records = JSON.parse(content);
 
     for (const record of records) {
+      const teamNames = Array.isArray(record.teams) ? record.teams.map((t) => t.name).filter(Boolean) : [];
+      const leagueNames = Array.isArray(record.leagues)
+        ? Array.from(new Set(record.leagues.flatMap((l) => [l.name, l.name_ja]).filter(Boolean)))
+        : [];
+
       index.push({
         id: record.id,
         name: record.name,
@@ -71,6 +76,8 @@ export async function buildSearchIndex(facilitiesDir) {
         lng: record.lng,
         country: record.country,
         capacity: record.capacity,
+        teams: teamNames,
+        leagues: leagueNames,
       });
     }
   }

@@ -235,7 +235,44 @@ test('buildSearchIndex only includes the fields needed for search', () => withTe
 
   const index = await buildSearchIndex(dir);
 
-  assert.deepEqual(index[0], { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000 });
+  assert.deepEqual(index[0], { id: 'Q1', name: 'A', name_ja: 'エー', lat: 1, lng: 1, country: 'XX', capacity: 1000, teams: [], leagues: [] });
+}));
+
+test('buildSearchIndex includes team names for team-based search', () => withTempDir(async (dir) => {
+  await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
+    { id: 'Q1', name: 'A', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: 1000, teams: [{ name: 'FC Bayern München', url: null }, { name: 'Munich 1860', url: null }] },
+  ]));
+
+  const index = await buildSearchIndex(dir);
+
+  assert.deepEqual(index[0].teams, ['FC Bayern München', 'Munich 1860']);
+}));
+
+test('buildSearchIndex includes both English and Japanese league names, deduped, for league-based search', () => withTempDir(async (dir) => {
+  await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
+    {
+      id: 'Q1', name: 'A', name_ja: null, lat: 1, lng: 1, country: 'DE', capacity: 1000,
+      leagues: [
+        { name: 'Bundesliga', name_ja: 'ブンデスリーガ' },
+        { name: 'DEL', name_ja: null },
+      ],
+    },
+  ]));
+
+  const index = await buildSearchIndex(dir);
+
+  assert.deepEqual(index[0].leagues, ['Bundesliga', 'ブンデスリーガ', 'DEL']);
+}));
+
+test('buildSearchIndex defaults teams/leagues to empty arrays when the source record has neither field', () => withTempDir(async (dir) => {
+  await writeFile(path.join(dir, 'XX.json'), JSON.stringify([
+    { id: 'Q1', name: 'A', name_ja: null, lat: 1, lng: 1, country: 'XX', capacity: 1000 },
+  ]));
+
+  const index = await buildSearchIndex(dir);
+
+  assert.deepEqual(index[0].teams, []);
+  assert.deepEqual(index[0].leagues, []);
 }));
 
 test('buildSearchIndex contributes zero entries from an empty country file', () => withTempDir(async (dir) => {

@@ -850,11 +850,21 @@
     return searchIndexFetchPromise;
   }
 
+  function arrayFieldMatches(values, lowerQuery) {
+    if (!Array.isArray(values)) return false;
+    for (var i = 0; i < values.length; i++) {
+      if (String(values[i]).toLowerCase().indexOf(lowerQuery) !== -1) return true;
+    }
+    return false;
+  }
+
   function recordMatchesQuery(record, lowerQuery) {
     var name = (record.name || '').toLowerCase();
     if (name.indexOf(lowerQuery) !== -1) return true;
     var nameJa = record.name_ja ? String(record.name_ja).toLowerCase() : '';
-    return nameJa !== '' && nameJa.indexOf(lowerQuery) !== -1;
+    if (nameJa !== '' && nameJa.indexOf(lowerQuery) !== -1) return true;
+    if (arrayFieldMatches(record.teams, lowerQuery)) return true;
+    return arrayFieldMatches(record.leagues, lowerQuery);
   }
 
   // Case-insensitive substring match against name/name_ja, sorted by

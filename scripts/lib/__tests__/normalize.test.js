@@ -39,6 +39,7 @@ test('normalizeEntity extracts all fields from a full coord binding + entity', (
     is_existing: true,
     roof_type: null,
     teams: [],
+    leagues: [],
     events: [],
     wikipedia_url: 'https://ja.wikipedia.org/wiki/Test_Stadium',
     wikidata_url: 'https://www.wikidata.org/wiki/Q123456',
@@ -171,6 +172,81 @@ test('normalizeEntity caps teams at 4 and skips unresolved (null-label) QIDs', (
   const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', relatedEntities);
 
   assert.deepEqual(record.teams.map((t) => t.name), ['A', 'C', 'D', 'E']);
+});
+
+test('normalizeEntity derives leagues from teams\' leagueQids, deduped by league QID', () => {
+  const coordBinding = {
+    item: { value: 'http://www.wikidata.org/entity/Q13205' },
+    coord: { value: 'Point(2.36 48.924444)' },
+  };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Shared Stadium' } },
+    claims: {
+      P466: [
+        { mainsnak: { datavalue: { value: { id: 'QTEAM1' } } } },
+        { mainsnak: { datavalue: { value: { id: 'QTEAM2' } } } },
+      ],
+    },
+  };
+  const relatedEntities = new Map([
+    ['QTEAM1', { label: 'Team One', website: null, year: null, leagueQids: ['QLEAGUE1'] }],
+    ['QTEAM2', { label: 'Team Two', website: null, year: null, leagueQids: ['QLEAGUE1', 'QLEAGUE2'] }],
+    ['QLEAGUE1', { label: 'ブンデスリーガ', labelEn: 'Bundesliga', labelJa: 'ブンデスリーガ', website: null, year: null, leagueQids: [] }],
+    ['QLEAGUE2', { label: 'DEL', labelEn: 'DEL', labelJa: null, website: null, year: null, leagueQids: [] }],
+  ]);
+
+  const record = normalizeEntity(coordBinding, entity, 'DE', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.leagues, [
+    { name: 'Bundesliga', name_ja: 'ブンデスリーガ' },
+    { name: 'DEL', name_ja: null },
+  ]);
+});
+
+test('normalizeEntity derives leagues from all teams, not just the TEAM_CAP-limited displayed list', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Some Facility' } },
+    claims: {
+      P466: ['Q1', 'Q2', 'Q3', 'Q4', 'Q5'].map((id) => ({ mainsnak: { datavalue: { value: { id } } } })),
+    },
+  };
+  const relatedEntities = new Map([
+    ['Q1', { label: 'A', website: null, year: null, leagueQids: [] }],
+    ['Q2', { label: 'B', website: null, year: null, leagueQids: [] }],
+    ['Q3', { label: 'C', website: null, year: null, leagueQids: [] }],
+    ['Q4', { label: 'D', website: null, year: null, leagueQids: [] }],
+    ['Q5', { label: 'E (5th team, beyond TEAM_CAP)', website: null, year: null, leagueQids: ['QLEAGUE'] }],
+    ['QLEAGUE', { label: 'X', labelEn: 'Fifth League', labelJa: null, website: null, year: null, leagueQids: [] }],
+  ]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.leagues, [{ name: 'Fifth League', name_ja: null }]);
+});
+
+test('normalizeEntity skips a league QID that fails to resolve to a label', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = {
+    labels: { en: { language: 'en', value: 'Some Facility' } },
+    claims: {
+      P466: [{ mainsnak: { datavalue: { value: { id: 'QTEAM' } } } }],
+    },
+  };
+  const relatedEntities = new Map([
+    ['QTEAM', { label: 'Team', website: null, year: null, leagueQids: ['QMISSING'] }],
+  ]);
+
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', relatedEntities);
+
+  assert.deepEqual(record.leagues, []);
+});
+
+test('normalizeEntity returns an empty leagues array when there are no P466 claims', () => {
+  const coordBinding = { item: { value: 'http://www.wikidata.org/entity/Q1' }, coord: { value: 'Point(0.0 0.0)' } };
+  const entity = { labels: { en: { language: 'en', value: 'Some Facility' } } };
+  const record = normalizeEntity(coordBinding, entity, 'FR', '2026-09-09T00:00:00.000Z', new Map());
+  assert.deepEqual(record.leagues, []);
 });
 
 test('normalizeEntity resolves events from P793, sorted by year, filtering non-sporting entries', () => {
@@ -336,6 +412,7 @@ test('normalizeEntity does not throw when called without relatedEntities on an e
 
   assert.deepEqual(record.teams, []);
   assert.deepEqual(record.events, []);
+  assert.deepEqual(record.leagues, []);
 });
 
 test('normalizeEntity derives closed_year from P576 and marks is_existing false', () => {
