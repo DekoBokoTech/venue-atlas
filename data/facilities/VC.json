@@ -20,6 +20,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "NLA Premier League",
+        "name_ja": "SVGFFプレミアディビジョン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Victoria_Park_(Kingstown)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2522793",
@@ -30,7 +36,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q697149",
@@ -51,6 +57,7 @@
         "url": "https://www.windiescricket.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arnos_Vale_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q697149",
@@ -61,6 +68,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
