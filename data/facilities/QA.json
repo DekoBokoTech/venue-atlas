@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -30,7 +31,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1050220",
@@ -53,6 +54,7 @@
         "url": "https://www.qfa.qa/"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -68,7 +70,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1073161",
@@ -89,6 +91,12 @@
       {
         "name": "アル・サッド",
         "url": "https://al-saddclub.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
       }
     ],
     "events": [
@@ -114,7 +122,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1134439",
@@ -132,6 +140,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -147,7 +156,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1135010",
@@ -170,6 +179,7 @@
         "url": "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shamal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1135010",
@@ -180,7 +190,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1151332",
@@ -203,6 +213,12 @@
         "url": "https://qatarsc.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%ABSC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1151332",
@@ -213,7 +229,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1186328",
@@ -236,6 +252,7 @@
         "url": "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sports_City_Stadium_(Doha)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1186328",
@@ -246,7 +263,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1186333",
@@ -269,6 +286,7 @@
         "url": "https://www.qfa.qa/"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -284,7 +302,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q124613598",
@@ -300,6 +318,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q124613598",
@@ -309,7 +328,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q125420104",
@@ -325,6 +344,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q125420104",
@@ -334,7 +354,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15270047",
@@ -352,6 +372,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Qatar_University_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15270047",
@@ -362,7 +383,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18326505",
@@ -385,6 +406,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18326505",
@@ -395,7 +417,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18326544",
@@ -411,6 +433,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18326544",
@@ -421,7 +444,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18378601",
@@ -439,6 +462,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/West_End_Park_International_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18378601",
@@ -449,7 +473,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18411229",
@@ -472,6 +496,7 @@
         "url": "https://www.qatarhandball.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18411229",
@@ -482,7 +507,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q22948827",
@@ -498,6 +523,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Doha_Sports_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q22948827",
@@ -508,7 +534,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2413365",
@@ -526,6 +552,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Doha_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2413365",
@@ -536,7 +563,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2454084",
@@ -552,6 +579,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%BE%E3%83%BC%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2454084",
@@ -562,7 +590,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2778760",
@@ -590,6 +618,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khalifa_International_Tennis_and_Squash_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2778760",
@@ -600,7 +629,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q285531",
@@ -623,6 +652,12 @@
         "url": "https://alwakrahsc.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -638,7 +673,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q288320",
@@ -661,6 +696,12 @@
         "url": "https://alkhor-club.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Khor_SC_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q288320",
@@ -671,7 +712,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3271676",
@@ -692,6 +733,12 @@
         "url": "http://alarabi.qa"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%8F%E3%83%9E%E3%83%89%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3271676",
@@ -702,7 +749,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3448636",
@@ -718,6 +765,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hamad_Aquatic_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3448636",
@@ -728,7 +776,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q38250455",
@@ -751,6 +799,12 @@
         "url": "https://alwakrahsc.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Saoud_bin_Abdulrahman_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q38250455",
@@ -761,7 +815,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39049425",
@@ -779,6 +833,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -794,7 +849,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q401643",
@@ -817,6 +872,12 @@
         "url": "https://alrayyansc.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -832,7 +893,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q424961",
@@ -855,6 +916,12 @@
         "url": "https://alahli.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AA%E7%AB%B6%E6%8A%80%E5%A0%B4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q424961",
@@ -865,7 +932,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q428177",
@@ -888,6 +955,12 @@
         "url": "https://algharafa.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q428177",
@@ -898,7 +971,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4702848",
@@ -919,6 +992,12 @@
         "url": "https://almarkhiyasc.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League 2",
+        "name_ja": "カタール・スターズリーグ2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Markhiya_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4702848",
@@ -929,7 +1008,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4703223",
@@ -950,6 +1029,12 @@
         "url": "https://alshamal.qa/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League 2",
+        "name_ja": "カタール・スターズリーグ2"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shamal_SC_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4703223",
@@ -960,7 +1045,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q547535",
@@ -976,6 +1061,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q547535",
@@ -986,7 +1072,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6181753",
@@ -1013,6 +1099,12 @@
         "url": "http://www.eljaish.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Qatar Stars League",
+        "name_ja": "カタール・スターズリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%83%83%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6181753",
@@ -1023,7 +1115,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q737587",
@@ -1044,6 +1136,7 @@
         "url": "http://www.ocasia.org/Game/GamesL1.aspx?GPCode=1"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aspire_Dome",
     "wikidata_url": "https://www.wikidata.org/wiki/Q737587",
@@ -1054,7 +1147,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q74647",
@@ -1077,6 +1170,7 @@
         "url": "https://www.fifa.com/en/tournaments/mens/worldcup/qatar2022"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Umm_Salal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q74647",
@@ -1087,7 +1181,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q772988",
@@ -1111,6 +1205,7 @@
         "url": "https://www.qfa.qa/"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "2022 FIFAワールドカップ",
@@ -1126,7 +1221,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97232334",
@@ -1142,6 +1237,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_bin_Ali_Stadium_(original)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97232334",
@@ -1152,6 +1248,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
