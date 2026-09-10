@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q120466452",
@@ -24,7 +25,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q128088543",
@@ -40,6 +41,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "2022年中央アメリカ・カリブ海競技大会",
@@ -54,7 +56,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369159",
@@ -77,6 +79,7 @@
         "url": "https://fesfut.org.sv/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cuscatl%C3%A1n_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369159",
@@ -87,7 +90,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15792225",
@@ -103,6 +106,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_El_Jabal%C3%AD",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15792225",
@@ -113,7 +117,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2382357",
@@ -136,6 +140,12 @@
         "url": "https://cdfas.com.sv/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_%C3%93scar_Quite%C3%B1o",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2382357",
@@ -146,7 +156,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2412387",
@@ -169,6 +179,12 @@
         "url": "https://alianzafc.com.sv/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jorge_%22El_M%C3%A1gico%22_Gonz%C3%A1lez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2412387",
@@ -179,7 +195,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25042366",
@@ -195,6 +211,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_San_Sebasti%C3%A1n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25042366",
@@ -205,7 +222,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q26252584",
@@ -221,6 +238,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Captain_General_Gerardo_Barrios_Military_School",
     "wikidata_url": "https://www.wikidata.org/wiki/Q26252584",
@@ -231,7 +249,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495513",
@@ -254,6 +272,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Anna_Mercedes_Campos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495513",
@@ -264,7 +288,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495516",
@@ -287,6 +311,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda División de Fútbol Salvadoreño",
+        "name_ja": "エルサルバドル第2リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Toledo_Valle_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495516",
@@ -297,7 +327,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495526",
@@ -320,6 +350,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sime%C3%B3n_Maga%C3%B1a_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495526",
@@ -330,7 +366,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495559",
@@ -353,6 +389,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Correcaminos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495559",
@@ -363,7 +405,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495658",
@@ -386,6 +428,12 @@
         "url": "http://somosmetapan.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jorge_%22Calero%22_Su%C3%A1rez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495658",
@@ -396,7 +444,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495662",
@@ -419,6 +467,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Ram%C3%B3n_Flores",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495662",
@@ -429,7 +483,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495668",
@@ -452,6 +506,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gregorio_Mart%C3%ADnez_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495668",
@@ -462,7 +522,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495676",
@@ -485,6 +545,12 @@
         "url": "http://www.cdaguilaoficial.net/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Francisco_Barraza_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495676",
@@ -495,7 +561,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495734",
@@ -518,6 +584,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Segunda División de Fútbol Salvadoreño",
+        "name_ja": "エルサルバドル第2リーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Marcelino_Imbers_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495734",
@@ -528,7 +600,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495880",
@@ -551,6 +623,12 @@
         "url": "https://www.lafirpo.com.sv/"
       }
     ],
+    "leagues": [
+      {
+        "name": "torneo apertura 2017 (El Salvador)",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sergio_Torres_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495880",
@@ -561,7 +639,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495897",
@@ -584,6 +662,12 @@
         "url": "http://www.eluniversitario.ues.edu.sv/index.php?option=com_content&view=category&layout=blog&id=58"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Universitario_(UES)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495897",
@@ -594,7 +678,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5156394",
@@ -615,6 +699,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5156394",
@@ -624,7 +714,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400329",
@@ -645,6 +735,12 @@
         "url": "http://santateclafc.com.sv/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Tercera División de El Salvador",
+        "name_ja": "プリメーラ・ディビシオン"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Las_Delicias",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400329",
@@ -655,7 +751,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400334",
@@ -676,6 +772,7 @@
         "url": "https://fesfut.org.sv/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Luis_Am%C3%ADlcar_Moreno",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400334",
@@ -686,7 +783,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5400359",
@@ -702,6 +799,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Mauricio_Vides",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5400359",
@@ -712,7 +810,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5562761",
@@ -728,6 +826,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5562761",
@@ -738,7 +837,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7209723",
@@ -759,6 +858,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Polideportivo_Vitoria-Gasteiz",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7209723",
@@ -769,7 +869,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9054655",
@@ -787,6 +887,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9054655",
@@ -796,7 +897,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9255029",
@@ -814,6 +915,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q9255029",
@@ -823,6 +925,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
