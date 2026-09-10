@@ -15,6 +15,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q104772242",
@@ -24,7 +25,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q106002920",
@@ -40,6 +41,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q106002920",
@@ -49,7 +51,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q106690823",
@@ -67,6 +69,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q106690823",
@@ -76,7 +79,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107376726",
@@ -92,6 +95,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107376726",
@@ -101,7 +105,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107376858",
@@ -117,6 +121,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107376858",
@@ -126,7 +131,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107376883",
@@ -142,6 +147,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107376883",
@@ -151,7 +157,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107380009",
@@ -167,6 +173,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107380009",
@@ -176,7 +183,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q107619526",
@@ -192,6 +199,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q107619526",
@@ -201,7 +209,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1096418",
@@ -222,6 +230,12 @@
         "url": "http://www.vasasfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Illovszky_Rudolf_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1096418",
@@ -232,7 +246,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110401216",
@@ -248,6 +262,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pick_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110401216",
@@ -258,7 +273,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110660499",
@@ -274,6 +289,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110660499",
@@ -283,7 +299,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1108706",
@@ -299,6 +315,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%81%E3%82%A7%E3%83%A0%E3%83%91%E3%83%BC%E3%82%AF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1108706",
@@ -309,7 +326,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q110874213",
@@ -330,6 +347,12 @@
         "url": "http://egrivizilabda.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Országos Bajnokság I",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q110874213",
@@ -339,7 +362,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q111252409",
@@ -355,6 +378,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q111252409",
@@ -364,7 +388,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1126598",
@@ -380,6 +404,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K%C5%91b%C3%A1nya_cellar_system",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1126598",
@@ -390,7 +415,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1128308",
@@ -411,6 +436,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lauber_Dezs%C5%91_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1128308",
@@ -421,7 +447,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1130039",
@@ -442,6 +468,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ligeti_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1130039",
@@ -452,7 +484,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113586188",
@@ -470,6 +502,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113586188",
@@ -479,7 +512,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113683052",
@@ -495,6 +528,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113683052",
@@ -504,7 +538,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113683755",
@@ -520,6 +554,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113683755",
@@ -529,7 +564,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113684121",
@@ -545,6 +580,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113684121",
@@ -554,7 +590,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q113988262",
@@ -572,6 +608,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q113988262",
@@ -581,7 +618,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q114929865",
@@ -597,6 +634,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q114929865",
@@ -606,7 +644,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1161796",
@@ -627,6 +665,7 @@
         "url": "http://www.gyorietokc.hu"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Magvassy_Mih%C3%A1ly_Sportcsarnok",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1161796",
@@ -637,7 +676,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q116257116",
@@ -653,6 +692,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q116257116",
@@ -662,7 +702,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q117241590",
@@ -680,6 +720,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117241590",
@@ -689,7 +730,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1177284",
@@ -712,6 +753,7 @@
         "url": "https://www.mlsz.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Millen%C3%A1ris_Sporttelep",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1177284",
@@ -722,7 +764,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1177762",
@@ -738,6 +780,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1177762",
@@ -747,7 +790,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q118511681",
@@ -763,6 +806,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%83%88%E3%83%B3%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%83%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q118511681",
@@ -773,7 +817,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q118595396",
@@ -791,6 +835,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q118595396",
@@ -800,7 +845,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1214829",
@@ -823,6 +868,12 @@
         "url": "https://www.dvsc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A4%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1214829",
@@ -833,7 +884,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1216649",
@@ -849,6 +900,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1216649",
@@ -858,7 +910,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1228106",
@@ -874,6 +926,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1228106",
@@ -883,7 +936,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1229081",
@@ -899,6 +952,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pann%C3%B3nia-Ring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1229081",
@@ -909,7 +963,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q123255244",
@@ -925,6 +979,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nyir%C3%A1d_Racing_Center",
     "wikidata_url": "https://www.wikidata.org/wiki/Q123255244",
@@ -935,7 +990,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q126734350",
@@ -953,6 +1008,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q126734350",
@@ -962,7 +1018,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q12814146",
@@ -989,6 +1045,16 @@
         "url": "https://www.fradi.hu/kezilabda"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      },
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Elek_Gyula_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12814146",
@@ -999,7 +1065,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q129980668",
@@ -1022,6 +1088,12 @@
         "url": "http://nyiregyhazaspartacus.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%A1rosi_Stadion_(Ny%C3%ADregyh%C3%A1za)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q129980668",
@@ -1032,7 +1104,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1314261",
@@ -1053,6 +1125,7 @@
         "url": "https://bvsc.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sz%C5%91nyi_%C3%BAti_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1314261",
@@ -1063,7 +1136,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1321567",
@@ -1084,6 +1157,12 @@
         "url": "https://szolnokimavfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tiszaligeti_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1321567",
@@ -1094,7 +1173,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136376524",
@@ -1115,6 +1194,12 @@
         "url": "https://sbtc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság III",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136376524",
@@ -1124,7 +1209,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q136384638",
@@ -1147,6 +1232,12 @@
         "url": "http://aqvitalfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q136384638",
@@ -1156,7 +1247,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1374476",
@@ -1172,6 +1263,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q1374476",
@@ -1181,7 +1273,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q141120613",
@@ -1204,6 +1296,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "移転",
@@ -1218,7 +1311,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q141186803",
@@ -1243,6 +1336,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "リフォーム",
@@ -1257,7 +1351,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1415013",
@@ -1280,6 +1374,12 @@
         "url": "https://www.ztefc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/ZTE_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1415013",
@@ -1290,7 +1390,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1425789",
@@ -1313,6 +1413,12 @@
         "url": "http://www.mkbveszprem.eu"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Veszpr%C3%A9m_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1425789",
@@ -1323,7 +1429,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1462175",
@@ -1346,6 +1452,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%A1rosi_Sportcsarnok_(B%C3%A9k%C3%A9scsaba)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1462175",
@@ -1356,7 +1463,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15243266",
@@ -1377,6 +1484,7 @@
         "url": "https://www.wb-sopron.com/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ar%C3%A9na_Sopron",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15243266",
@@ -1387,7 +1495,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15253632",
@@ -1408,6 +1516,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Miskolc_Ice_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15253632",
@@ -1418,7 +1527,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q15910573",
@@ -1441,6 +1550,12 @@
         "url": "https://www.pfla.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pancho_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15910573",
@@ -1451,7 +1566,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16523771",
@@ -1472,6 +1587,12 @@
         "url": "https://balmazfoci.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Balmaz%C3%BAjv%C3%A1rosi_V%C3%A1rosi_Sportp%C3%A1lya",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16523771",
@@ -1482,7 +1603,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q171356",
@@ -1498,6 +1619,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "ハンガリーグランプリ",
@@ -1517,7 +1639,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17394000",
@@ -1540,6 +1662,12 @@
         "url": "https://www.fradi.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AC%E3%83%B3%E3%83%84%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AD%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17394000",
@@ -1550,7 +1678,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18018503",
@@ -1574,6 +1702,7 @@
         "url": "http://www.gyorietokc.hu"
       }
     ],
+    "leagues": [],
     "events": [
       {
         "name": "2019 Junior World Artistic Gymnastics Championships",
@@ -1589,7 +1718,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q19572920",
@@ -1610,6 +1739,7 @@
         "url": "http://macbudapesthockey.hu"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%BCskecsarnok",
     "wikidata_url": "https://www.wikidata.org/wiki/Q19572920",
@@ -1620,7 +1750,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20438820",
@@ -1636,6 +1766,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20438820",
@@ -1645,7 +1776,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q20439802",
@@ -1661,6 +1792,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q20439802",
@@ -1670,7 +1802,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q24969407",
@@ -1686,6 +1818,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ice_Hockey_Stadium_of_Duna%C3%BAjv%C3%A1ros",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24969407",
@@ -1696,7 +1829,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25454740",
@@ -1716,6 +1849,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25454740",
@@ -1726,7 +1860,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q25460410",
@@ -1747,6 +1881,12 @@
         "url": "https://gyirmotfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%A9nf%C5%91i_%C3%BAti_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25460410",
@@ -1757,7 +1897,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q259307",
@@ -1780,6 +1920,12 @@
         "url": "https://mtkbudapest.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%87%E3%82%AF%E3%83%81%E3%83%BB%E3%83%8A%E3%83%BC%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q259307",
@@ -1790,7 +1936,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q261644",
@@ -1811,6 +1957,12 @@
         "url": "http://www.olajofficial.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I/A",
+        "name_ja": "ハンガリーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tiszaligeti_Sportcsarnok",
     "wikidata_url": "https://www.wikidata.org/wiki/Q261644",
@@ -1821,7 +1973,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q263035",
@@ -1842,6 +1994,12 @@
         "url": "https://www.haladas.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K%C3%A1poszt%C3%A1s_utcai_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q263035",
@@ -1852,7 +2010,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q28401280",
@@ -1875,6 +2033,12 @@
         "url": "https://mtkbudapest.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hung%C3%A1ria_k%C3%B6r%C3%BAti_stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28401280",
@@ -1885,7 +2049,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30318728",
@@ -1908,6 +2072,7 @@
         "url": "http://bse1902.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30318728",
@@ -1917,7 +2082,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30603580",
@@ -1938,6 +2103,12 @@
         "url": "https://mtkbudapest.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hidegkuti_N%C3%A1ndor_Stadion_(1947)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30603580",
@@ -1948,7 +2119,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30603589",
@@ -1964,6 +2135,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Illovszky_Rudolf_Stadion_(1960)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30603589",
@@ -1974,7 +2146,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30603803",
@@ -1995,6 +2167,12 @@
         "url": "http://www.dvtk.eu"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Di%C3%B3sgy%C5%91ri_Stadion_(1939)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30603803",
@@ -2005,7 +2183,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30622113",
@@ -2028,6 +2206,12 @@
         "url": "https://www.haladas.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Halad%C3%A1s_Sportkomplexum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30622113",
@@ -2038,7 +2222,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q30633151",
@@ -2054,6 +2238,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q30633151",
@@ -2063,7 +2248,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3074483",
@@ -2084,6 +2269,7 @@
         "url": "http://bke.fw.hu/indexe.html"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/City_Park_Ice_Rink",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3074483",
@@ -2094,7 +2280,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q32023532",
@@ -2119,6 +2305,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q32023532",
@@ -2128,7 +2315,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q371401",
@@ -2151,6 +2338,12 @@
         "url": "https://rakoczifc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság III",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q371401",
@@ -2161,7 +2354,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q387936",
@@ -2184,6 +2377,12 @@
         "url": "https://www.haladas.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rohonci_%C3%BAt",
     "wikidata_url": "https://www.wikidata.org/wiki/Q387936",
@@ -2194,7 +2393,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39048701",
@@ -2215,6 +2414,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság III",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/B%C3%A9ke_t%C3%A9ri_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39048701",
@@ -2225,7 +2430,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39069592",
@@ -2248,6 +2453,7 @@
         "url": "https://www.mlsz.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39069592",
@@ -2258,7 +2464,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q39291361",
@@ -2274,6 +2480,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kaposv%C3%A1r_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q39291361",
@@ -2284,7 +2491,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q42341514",
@@ -2300,6 +2507,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q42341514",
@@ -2309,7 +2517,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4788911",
@@ -2330,6 +2538,7 @@
         "url": "http://falcokc.nyugat.hu"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arena_Savaria",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4788911",
@@ -2340,7 +2549,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4883791",
@@ -2356,6 +2565,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q4883791",
@@ -2365,7 +2575,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q509841",
@@ -2383,6 +2593,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Alfr%C3%A9d_Haj%C3%B3s_National_Swimming_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q509841",
@@ -2393,7 +2604,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5121013",
@@ -2414,6 +2625,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cinkotai_Royal_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5121013",
@@ -2424,7 +2636,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q518855",
@@ -2447,6 +2659,12 @@
         "url": "http://ujpestfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Szusza_Ferenc_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q518855",
@@ -2457,7 +2675,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5204756",
@@ -2478,6 +2696,12 @@
         "url": "https://www.dvsc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/DEAC_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5204756",
@@ -2488,7 +2712,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q522693",
@@ -2511,6 +2735,12 @@
         "url": "https://www.eto.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/ETO%E3%83%91%E3%83%BC%E3%82%AF",
     "wikidata_url": "https://www.wikidata.org/wiki/Q522693",
@@ -2521,7 +2751,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q529712",
@@ -2544,6 +2774,12 @@
         "url": "http://www.albavolanhockey.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "ICE Hockey League",
+        "name_ja": "ICEアイスホッケーリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ifjabb_Ocskay_G%C3%A1bor_Ice_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q529712",
@@ -2554,7 +2790,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5314044",
@@ -2577,6 +2813,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Duna%C3%BAjv%C3%A1rosi_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5314044",
@@ -2587,7 +2829,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q55723741",
@@ -2603,6 +2845,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%B3dos_Imre_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55723741",
@@ -2613,7 +2856,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q56388977",
@@ -2629,6 +2872,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Imre_F%C3%B6ldi_Sports_Hall",
     "wikidata_url": "https://www.wikidata.org/wiki/Q56388977",
@@ -2639,7 +2883,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q576502",
@@ -2657,6 +2901,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/F%C5%91nix_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q576502",
@@ -2667,7 +2912,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q577719",
@@ -2694,6 +2939,12 @@
         "url": "https://www.fradi.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Albert_Fl%C3%B3ri%C3%A1n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q577719",
@@ -2704,7 +2955,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q58996768",
@@ -2722,6 +2973,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/MOL%E3%82%A2%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q58996768",
@@ -2732,7 +2984,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q592537",
@@ -2748,6 +3000,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ludovica_Academy",
     "wikidata_url": "https://www.wikidata.org/wiki/Q592537",
@@ -2758,7 +3011,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q594230",
@@ -2781,6 +3034,7 @@
         "url": "https://www.mlsz.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AC%E3%83%B3%E3%83%84%E3%83%BB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3",
     "wikidata_url": "https://www.wikidata.org/wiki/Q594230",
@@ -2791,7 +3045,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q599516",
@@ -2812,6 +3066,7 @@
         "url": "https://www.bfc-siofok.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%A9v%C3%A9sz_G%C3%A9za_utcai_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q599516",
@@ -2822,7 +3077,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q60761124",
@@ -2838,6 +3093,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%A0%E3%82%BC%E3%83%86%E3%82%A3%E3%83%BB%E3%82%A2%E3%83%88%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%82%A4%E3%83%BB%E3%82%B1%E3%82%BA%E3%83%9D%E3%83%B3%E3%83%88",
     "wikidata_url": "https://www.wikidata.org/wiki/Q60761124",
@@ -2848,7 +3104,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q614714",
@@ -2871,6 +3127,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Perutz_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q614714",
@@ -2881,7 +3138,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q637344",
@@ -2904,6 +3161,12 @@
         "url": "https://kecskemetite.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sz%C3%A9kt%C3%B3i_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q637344",
@@ -2914,7 +3177,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q672972",
@@ -2937,6 +3200,12 @@
         "url": "http://pmfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság III",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_PMFC",
     "wikidata_url": "https://www.wikidata.org/wiki/Q672972",
@@ -2947,7 +3216,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6744485",
@@ -2968,6 +3237,12 @@
         "url": "http://www.cegledfoci.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Zsengell%C3%A9r_Gyula_Sportcentrum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6744485",
@@ -2978,7 +3253,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q6826732",
@@ -2999,6 +3274,12 @@
         "url": "https://mezokovesdzsory.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Mez%C5%91k%C3%B6vesdi_V%C3%A1rosi_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6826732",
@@ -3009,7 +3290,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q68974614",
@@ -3025,6 +3306,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Szent_Gell%C3%A9rt_F%C3%B3rum",
     "wikidata_url": "https://www.wikidata.org/wiki/Q68974614",
@@ -3035,7 +3317,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q70829713",
@@ -3053,6 +3335,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q70829713",
@@ -3062,7 +3345,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7171826",
@@ -3083,6 +3366,12 @@
         "url": "http://www.kbsc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kolorcity_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7171826",
@@ -3093,7 +3382,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q717734",
@@ -3109,6 +3398,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Normafa",
     "wikidata_url": "https://www.wikidata.org/wiki/Q717734",
@@ -3119,7 +3409,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q721973",
@@ -3142,6 +3432,7 @@
     "is_existing": false,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Budapest_Sportcsarnok",
     "wikidata_url": "https://www.wikidata.org/wiki/Q721973",
@@ -3152,7 +3443,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7264795",
@@ -3170,6 +3461,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/P%C3%B3lus_Palace_Golf_Club",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7264795",
@@ -3180,7 +3472,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q732646",
@@ -3203,6 +3495,12 @@
         "url": "http://nyiregyhazaspartacus.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%A1rosi_Stadion_(Ny%C3%ADregyh%C3%A1za%2C_1958)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q732646",
@@ -3213,7 +3511,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q735115",
@@ -3229,6 +3527,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kisstadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q735115",
@@ -3239,7 +3538,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q736187",
@@ -3262,6 +3561,7 @@
         "url": "https://dvsckezilabda.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ol%C3%A1h_G%C3%A1bor_utcai_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q736187",
@@ -3272,7 +3572,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q75300027",
@@ -3293,6 +3593,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q75300027",
@@ -3302,7 +3603,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596295",
@@ -3323,6 +3624,12 @@
         "url": "http://www.hajravecses.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_D%C3%B3zsa_Gy%C3%B6rgy_%C3%BAt",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596295",
@@ -3333,7 +3640,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596487",
@@ -3354,6 +3661,12 @@
         "url": "http://www.mfktatran.sk"
       }
     ],
+    "leagues": [
+      {
+        "name": "Slovak Second Football League",
+        "name_ja": "2.リーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadium_Liptovsk%C3%BD_Mikul%C3%A1%C5%A1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596487",
@@ -3364,7 +3677,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7661100",
@@ -3380,6 +3693,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/SYMA_Sports_and_Conference_Centre",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7661100",
@@ -3390,7 +3704,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7664532",
@@ -3413,6 +3727,12 @@
         "url": "http://www.szeged2011.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Szegedi_VSE_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7664532",
@@ -3423,7 +3743,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q774505",
@@ -3439,6 +3759,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q774505",
@@ -3448,7 +3769,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q774510",
@@ -3464,6 +3785,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q774510",
@@ -3473,7 +3795,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q784258",
@@ -3496,6 +3818,12 @@
         "url": "https://honvedfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bozsik_J%C3%B3zsef_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q784258",
@@ -3506,7 +3834,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q789302",
@@ -3522,6 +3850,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Balatonring",
     "wikidata_url": "https://www.wikidata.org/wiki/Q789302",
@@ -3532,7 +3861,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7944193",
@@ -3550,6 +3879,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gyula_Grosics_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7944193",
@@ -3560,7 +3890,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q850820",
@@ -3581,6 +3911,12 @@
         "url": "https://www.reac.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság III",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Budai_II._L%C3%A1szl%C3%B3_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q850820",
@@ -3591,7 +3927,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q852441",
@@ -3612,6 +3948,12 @@
         "url": "http://dorogifc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság III",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Buz%C3%A1nszky_Jen%C5%91_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q852441",
@@ -3622,7 +3964,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q86681800",
@@ -3640,6 +3982,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q86681800",
@@ -3649,7 +3992,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q875436",
@@ -3665,6 +4008,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q875436",
@@ -3674,7 +4018,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q901017",
@@ -3697,6 +4041,12 @@
         "url": "http://www.dvtk.eu"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Di%C3%B3sgy%C5%91ri_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q901017",
@@ -3707,7 +4057,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q903089",
@@ -3723,6 +4073,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Debrecen_Swimming_Pool_Complex",
     "wikidata_url": "https://www.wikidata.org/wiki/Q903089",
@@ -3733,7 +4084,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q903542",
@@ -3756,6 +4107,12 @@
         "url": "https://www.fehervarfc.hu"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság II",
+        "name_ja": "ネムゼティ・バイノクシャーグII"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%B3st%C3%B3i_Stadion_(1967)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q903542",
@@ -3766,7 +4123,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q9283297",
@@ -3784,6 +4141,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gyulai_Istv%C3%A1n_Athletic_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q9283297",
@@ -3794,7 +4152,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q960647",
@@ -3820,6 +4178,7 @@
         "url": "https://www.jegkorongszovetseg.hu"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%80%E3%83%9A%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
     "wikidata_url": "https://www.wikidata.org/wiki/Q960647",
@@ -3830,7 +4189,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q961706",
@@ -3846,6 +4205,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q961706",
@@ -3855,7 +4215,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96373879",
@@ -3878,6 +4238,12 @@
         "url": "https://honvedfc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bozsik_Ar%C3%A9na",
     "wikidata_url": "https://www.wikidata.org/wiki/Q96373879",
@@ -3888,7 +4254,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96395325",
@@ -3913,6 +4279,7 @@
         "url": "https://www.mksz.hu/v2h/001/001/p_001.asp"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/MVM%E3%83%89%E3%83%BC%E3%83%A0",
     "wikidata_url": "https://www.wikidata.org/wiki/Q96395325",
@@ -3923,7 +4290,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q966164",
@@ -3946,6 +4313,7 @@
         "url": "http://www.egrifc.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Szentmarjay_Tibor_V%C3%A1rosi_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q966164",
@@ -3956,7 +4324,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q96642935",
@@ -3972,6 +4340,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A1rshegy_Training_Park",
     "wikidata_url": "https://www.wikidata.org/wiki/Q96642935",
@@ -3982,7 +4351,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97342818",
@@ -4005,6 +4374,7 @@
         "url": "http://www.siofokkc.hu/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q97342818",
@@ -4014,7 +4384,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q97372012",
@@ -4032,6 +4402,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Borsod_Vol%C3%A1n_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q97372012",
@@ -4042,7 +4413,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q975234",
@@ -4065,6 +4436,12 @@
         "url": "https://1912elore.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság III",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/K%C3%B3rh%C3%A1z_utcai_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q975234",
@@ -4075,7 +4452,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q978472",
@@ -4096,6 +4473,12 @@
         "url": "https://www.eto.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_ETO",
     "wikidata_url": "https://www.wikidata.org/wiki/Q978472",
@@ -4106,7 +4489,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q997761",
@@ -4127,6 +4510,12 @@
         "url": "https://paksifc.hu/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Nemzeti Bajnokság I",
+        "name_ja": "ネムゼティ・バイノクシャーグI"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Feh%C3%A9rv%C3%A1ri_%C3%BAti_Stadion",
     "wikidata_url": "https://www.wikidata.org/wiki/Q997761",
@@ -4137,6 +4526,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
