@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123151222",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137636047",
@@ -45,6 +46,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q137636047",
@@ -54,7 +61,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q17521096",
@@ -70,6 +77,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q17521096",
@@ -79,7 +87,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q18391584",
@@ -97,6 +105,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rwanda_Cricket_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q18391584",
@@ -107,7 +116,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q2749637",
@@ -130,6 +139,7 @@
         "url": "http://www.ferwafa.rw/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Amahoro_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2749637",
@@ -140,7 +150,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q64597370",
@@ -156,6 +166,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q64597370",
@@ -165,7 +176,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65050783",
@@ -181,6 +192,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/BK_Arena",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65050783",
@@ -191,7 +203,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596121",
@@ -212,6 +224,12 @@
         "url": "http://www.mukuravictorysport.com/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Huye_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7596121",
@@ -222,7 +240,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7596202",
@@ -253,6 +271,16 @@
         "url": "http://www.kiyovusport.co.rw"
       }
     ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
+      },
+      {
+        "name": "Rwanda Women's Football League",
+        "name_ja": null
+      }
+    ],
     "events": [
       {
         "name": "アフリカネイションズチャンピオンシップ2016",
@@ -276,7 +304,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7881843",
@@ -301,6 +329,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Rwanda Premier League",
+        "name_ja": "ルワンダン・プレミアリーグ"
+      }
+    ],
     "events": [
       {
         "name": "アフリカネイションズチャンピオンシップ2016",
@@ -320,6 +354,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
