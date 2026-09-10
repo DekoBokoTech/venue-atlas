@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q123360732",
@@ -22,7 +23,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134862232",
@@ -38,6 +39,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134862232",
@@ -47,7 +49,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q134862267",
@@ -63,6 +65,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q134862267",
@@ -72,7 +75,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135152125",
@@ -88,6 +91,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135152125",
@@ -97,7 +101,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1354024",
@@ -120,6 +124,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Primera",
+        "name_ja": "プリメーラ・ディビジョン・デ・ニカラグア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Cacique_Diriang%C3%A9n",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1354024",
@@ -130,7 +140,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1355066",
@@ -153,6 +163,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Primera",
+        "name_ja": "プリメーラ・ディビジョン・デ・ニカラグア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_del_IND_Managua",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1355066",
@@ -163,7 +179,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135976131",
@@ -186,6 +202,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Rigoberto_L%C3%B3pez_P%C3%A9rez",
     "wikidata_url": "https://www.wikidata.org/wiki/Q135976131",
@@ -196,7 +213,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135976247",
@@ -219,6 +236,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135976247",
@@ -228,7 +246,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q135978104",
@@ -246,6 +264,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q135978104",
@@ -255,7 +274,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q1369488",
@@ -276,6 +295,12 @@
         "url": "http://www.walterferretti.ni"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Primera",
+        "name_ja": "プリメーラ・ディビジョン・デ・ニカラグア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nicaragua_National_Football_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1369488",
@@ -286,7 +311,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137259987",
@@ -302,6 +327,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q137259987",
@@ -311,7 +337,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q137954298",
@@ -327,6 +353,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q137954298",
@@ -336,7 +363,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q138756523",
@@ -352,6 +379,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q138756523",
@@ -361,7 +389,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q139624726",
@@ -377,6 +405,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q139624726",
@@ -386,7 +415,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16487223",
@@ -409,6 +438,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Primera",
+        "name_ja": "プリメーラ・ディビジョン・デ・ニカラグア"
+      }
+    ],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16487223",
@@ -418,7 +453,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q16492911",
@@ -436,6 +471,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q16492911",
@@ -445,7 +481,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3058815",
@@ -468,6 +504,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Primera",
+        "name_ja": "プリメーラ・ディビジョン・デ・ニカラグア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_de_San_Marcos",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3058815",
@@ -478,7 +520,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3447581",
@@ -501,6 +543,12 @@
         "url": "http://www.realestelifc.com"
       }
     ],
+    "leagues": [
+      {
+        "name": "Liga Primera",
+        "name_ja": "プリメーラ・ディビジョン・デ・ニカラグア"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Independencia_(Nicaragua)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3447581",
@@ -511,7 +559,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T03:50:25.821Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495611",
@@ -529,6 +577,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Glorias_Coste%C3%B1as",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495611",
@@ -539,7 +588,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q3495816",
@@ -562,6 +611,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Estadio_Pedro_Selva",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3495816",
@@ -572,7 +622,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q48790021",
@@ -590,6 +640,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [
       {
         "name": "解体",
@@ -608,7 +659,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q537349",
@@ -631,6 +682,12 @@
         "url": null
       }
     ],
+    "leagues": [
+      {
+        "name": "voiceless labiodental fricative",
+        "name_ja": "無声唇歯摩擦音"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8D%E3%82%B9",
     "wikidata_url": "https://www.wikidata.org/wiki/Q537349",
@@ -641,7 +698,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5411088",
@@ -657,6 +714,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5411088",
@@ -666,7 +724,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q5903306",
@@ -682,6 +740,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q5903306",
@@ -691,7 +750,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q86750572",
@@ -707,6 +766,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q86750572",
@@ -716,6 +776,6 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-09T15:31:02.176Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
