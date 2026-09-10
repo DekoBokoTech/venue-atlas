@@ -13,6 +13,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Beaucette_Marina",
     "wikidata_url": "https://www.wikidata.org/wiki/Q28403039",
@@ -23,7 +24,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q4796401",
@@ -41,6 +42,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arsenal_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4796401",
@@ -51,7 +53,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q65083926",
@@ -69,6 +71,7 @@
     "is_existing": true,
     "roof_type": null,
     "teams": [],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/King_George_V_Sports_Ground",
     "wikidata_url": "https://www.wikidata.org/wiki/Q65083926",
@@ -79,7 +82,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7727601",
@@ -100,6 +103,12 @@
         "url": "http://www.valerec.org.gg/"
       }
     ],
+    "leagues": [
+      {
+        "name": "Priaulx League",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Corbet_Field",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7727601",
@@ -110,7 +119,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q7769830",
@@ -131,6 +140,7 @@
         "url": null
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Track_(stadium)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7769830",
@@ -141,7 +151,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
     "id": "Q8564402",
@@ -162,6 +172,7 @@
         "url": "https://www.pitchero.com/clubs/guernseyrfc/"
       }
     ],
+    "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Footes_Lane",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8564402",
@@ -172,6 +183,6 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-09T22:41:39.410Z"
+    "last_synced_at": "2026-09-10T09:17:39.605Z"
   }
 ]
