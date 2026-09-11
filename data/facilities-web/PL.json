@@ -1875,7 +1875,7 @@
   },
   {
     "id": "Q11836158",
-    "name": "Dolcan Arena",
+    "name": "Dozbud Arena",
     "name_ja": null,
     "lat": 52.2928,
     "lng": 21.1219,
@@ -1910,7 +1910,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q11836844",
@@ -2677,6 +2677,40 @@
     "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
+    "id": "Q135980102",
+    "name": "Stadium in Kolbuszowa",
+    "name_ja": null,
+    "lat": 50.254991,
+    "lng": 21.761212,
+    "country": "PL",
+    "sport_types": [
+      "サッカー",
+      "陸上競技"
+    ],
+    "capacity": 960,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [],
+    "leagues": [
+      {
+        "name": "III liga",
+        "name_ja": "IIIリガ"
+      }
+    ],
+    "events": [],
+    "wikipedia_url": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q135980102",
+    "image_url": "Kolbuszowa (stadion) 2024.jpg",
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata"
+    ],
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
+  },
+  {
     "id": "Q136719519",
     "name": "Marina Nowa Sól",
     "name_ja": null,
@@ -3405,7 +3439,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q179693",
@@ -5492,7 +5526,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q3967958",
@@ -5906,8 +5940,18 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
-    "leagues": [],
+    "teams": [
+      {
+        "name": "ŁKS Łomża",
+        "url": "http://www.lks.lomza.pl/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "III liga",
+        "name_ja": "IIIリガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Miejski_(%C5%81om%C5%BCa)",
     "wikidata_url": "https://www.wikidata.org/wiki/Q48843747",
@@ -5918,7 +5962,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q5123444",
@@ -7508,8 +7552,18 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
-    "leagues": [],
+    "teams": [
+      {
+        "name": "Siarka Tarnobrzeg",
+        "url": "https://siarka-tarnobrzeg.pl/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "III liga",
+        "name_ja": "IIIリガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tarnobrzeg_Municipal_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q77248242",
@@ -7520,7 +7574,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q777501",
@@ -7780,7 +7834,12 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Star Starachowice",
+        "url": null
+      }
+    ],
     "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Stadion_Miejski_(Starachowice)",
@@ -7792,7 +7851,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q86668870",
@@ -8808,7 +8867,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q9323887",
@@ -9197,6 +9256,10 @@
       {
         "name": "コロナ・キェルツェ",
         "url": "https://www.korona-kielce.pl/"
+      },
+      {
+        "name": "Korona Kielce II",
+        "url": null
       }
     ],
     "leagues": [
@@ -9214,7 +9277,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q9341140",
@@ -10410,7 +10473,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-11T07:37:57.442Z"
   },
   {
     "id": "Q9360117",
