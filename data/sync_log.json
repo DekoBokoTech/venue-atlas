@@ -17792,5 +17792,18 @@
     "errors": [
       "SPARQL query failed after 4 attempts: Retryable HTTP status: 504"
     ]
+  },
+  {
+    "timestamp": "2026-09-12T07:30:14.550Z",
+    "countryCode": "UNKNOWN",
+    "pagesFetched": 0,
+    "totalFetched": 0,
+    "newCount": 0,
+    "updatedCount": 0,
+    "deletedCount": 0,
+    "errorCount": 1,
+    "errors": [
+      "SPARQL query failed after 4 attempts: Retryable HTTP status: 504"
+    ]
   }
 ]
