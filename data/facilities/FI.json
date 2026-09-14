@@ -65,7 +65,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q10438642",
@@ -117,7 +117,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q10479187",
@@ -225,7 +225,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q10537315",
@@ -7558,7 +7558,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q11868836",
@@ -15889,6 +15889,10 @@
       {
         "name": "Oulu Northern Lights",
         "url": "http://www.northernlights.fi/"
+      },
+      {
+        "name": "ACオウル",
+        "url": "https://acoulu.fi/"
       }
     ],
     "leagues": [
@@ -15903,6 +15907,10 @@
       {
         "name": "Finnish 2nd Division",
         "name_ja": null
+      },
+      {
+        "name": "Veikkausliiga",
+        "name_ja": "ヴェイッカウスリーガ"
       }
     ],
     "events": [],
@@ -15915,7 +15923,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q3736268",
@@ -16041,7 +16049,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q41776798",
@@ -16505,7 +16513,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q5409750",
@@ -16979,7 +16987,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q55095981",
@@ -17391,7 +17399,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-12T07:30:14.550Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q60678244",
@@ -18210,8 +18218,18 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
-    "leagues": [],
+    "teams": [
+      {
+        "name": "ACオウル",
+        "url": "https://acoulu.fi/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Veikkausliiga",
+        "name_ja": "ヴェイッカウスリーガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Raatti_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7278440",
@@ -18222,7 +18240,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-14T08:22:53.630Z"
   },
   {
     "id": "Q74454254",
