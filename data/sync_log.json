@@ -22739,5 +22739,16 @@
     "errors": [
       "SPARQL query failed after 4 attempts: Retryable HTTP status: 502"
     ]
+  },
+  {
+    "timestamp": "2026-09-14T08:22:53.630Z",
+    "countryCode": "CA",
+    "pagesFetched": 4,
+    "totalFetched": 1935,
+    "newCount": 0,
+    "updatedCount": 26,
+    "deletedCount": 0,
+    "errorCount": 0,
+    "errors": []
   }
 ]
