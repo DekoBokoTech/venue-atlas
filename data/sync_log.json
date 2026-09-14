@@ -22726,5 +22726,18 @@
     "deletedCount": 0,
     "errorCount": 0,
     "errors": []
+  },
+  {
+    "timestamp": "2026-09-14T08:22:53.630Z",
+    "countryCode": "SE",
+    "pagesFetched": 2,
+    "totalFetched": 849,
+    "newCount": 0,
+    "updatedCount": 10,
+    "deletedCount": 0,
+    "errorCount": 1,
+    "errors": [
+      "SPARQL query failed after 4 attempts: Retryable HTTP status: 502"
+    ]
   }
 ]
