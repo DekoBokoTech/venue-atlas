@@ -132,7 +132,12 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "GKS Katowice",
+        "url": "http://www.hcgks.katowice.pl/"
+      }
+    ],
     "leagues": [],
     "events": [],
     "wikipedia_url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9D%E3%83%87%E3%82%AF",
@@ -144,7 +149,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q105636202",
@@ -410,13 +415,23 @@
     "lng": 20.930556,
     "country": "PL",
     "sport_types": [],
-    "capacity": null,
+    "capacity": 2000,
     "opened_year": null,
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
-    "leagues": [],
+    "teams": [
+      {
+        "name": "レギア・ワルシャワ",
+        "url": "https://legiakosz.com/"
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Polish national 1st basketball league",
+        "name_ja": "Iリガ"
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hala_OSiR_Bemowo",
     "wikidata_url": "https://www.wikidata.org/wiki/Q109652306",
@@ -427,7 +442,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q109652680",
@@ -1133,6 +1148,10 @@
       {
         "name": "Zagłębie Lubin",
         "url": null
+      },
+      {
+        "name": "Zagłębie Lubin II",
+        "url": null
       }
     ],
     "leagues": [
@@ -1151,7 +1170,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q115129693",
@@ -1699,6 +1718,10 @@
       {
         "name": "Ekstraklasa",
         "name_ja": "エクストラクラサ"
+      },
+      {
+        "name": "III liga",
+        "name_ja": "IIIリガ"
       }
     ],
     "events": [],
@@ -1711,7 +1734,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q11793456",
@@ -2703,6 +2726,38 @@
     "last_synced_at": "2026-09-10T09:17:39.605Z"
   },
   {
+    "id": "Q134877180",
+    "name": "Radomskie Centrum Sportu",
+    "name_ja": null,
+    "lat": 51.4091,
+    "lng": 21.1715,
+    "country": "PL",
+    "sport_types": [],
+    "capacity": null,
+    "opened_year": null,
+    "closed_year": null,
+    "is_existing": true,
+    "roof_type": null,
+    "teams": [
+      {
+        "name": "MOYAラドムカ・ラドム",
+        "url": "https://radomka.com/"
+      }
+    ],
+    "leagues": [],
+    "events": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Radomskie_Centrum_Sportu",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q134877180",
+    "image_url": null,
+    "website": null,
+    "res_url": null,
+    "sources": [
+      "Wikidata",
+      "Wikipedia"
+    ],
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
+  },
+  {
     "id": "Q135980102",
     "name": "Stadium in Kolbuszowa",
     "name_ja": null,
@@ -3431,8 +3486,8 @@
     "id": "Q1787930",
     "name": "Olympic Stadium  in Wrocław",
     "name_ja": "スタディオン・オリンピイスキ (ヴロツワフ)",
-    "lat": 51.117802,
-    "lng": 17.096804,
+    "lat": 51.119444,
+    "lng": 17.096667,
     "country": "PL",
     "sport_types": [
       "サッカー",
@@ -3465,7 +3520,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-14T08:22:53.630Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q179693",
@@ -3933,6 +3988,10 @@
       {
         "name": "Pogoń 04 Szczecin",
         "url": null
+      },
+      {
+        "name": "グルパ アゾティ チェミック ポリツェ",
+        "url": "https://www.chemik-police.com/druzyna/druzyna/"
       }
     ],
     "leagues": [],
@@ -3946,7 +4005,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q2012074",
@@ -3965,8 +4024,8 @@
     "roof_type": null,
     "teams": [
       {
-        "name": "スピードウェイ",
-        "url": "https://www.speedwaygp.com/"
+        "name": "Unia Leszno",
+        "url": "http://www.unia.leszno.pl/"
       }
     ],
     "leagues": [],
@@ -3980,7 +4039,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q2012081",
@@ -4456,8 +4515,18 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
-    "leagues": [],
+    "teams": [
+      {
+        "name": "WKSグヴァルディア・ワルシャワ",
+        "url": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "A-Class",
+        "name_ja": null
+      }
+    ],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Gwardia_Warsaw_Stadium",
     "wikidata_url": "https://www.wikidata.org/wiki/Q26849151",
@@ -4468,7 +4537,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q2694066",
@@ -4584,6 +4653,10 @@
       {
         "name": "Włókniarz Częstochowa",
         "url": null
+      },
+      {
+        "name": "Włókniarz Częstochowa",
+        "url": null
       }
     ],
     "leagues": [],
@@ -4597,7 +4670,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q28673974",
@@ -5552,7 +5625,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-14T08:22:53.630Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q3967958",
@@ -5572,8 +5645,12 @@
     "roof_type": null,
     "teams": [
       {
-        "name": "Energetyk ROW Rybnik",
+        "name": "ROW 1964 Rybnik",
         "url": "https://www.row1964rybnik.com/"
+      },
+      {
+        "name": "RKM Rybnik",
+        "url": null
       }
     ],
     "leagues": [
@@ -5592,7 +5669,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-14T08:22:53.630Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q3967960",
@@ -5784,7 +5861,7 @@
     "sport_types": [
       "アイスホッケー"
     ],
-    "capacity": null,
+    "capacity": 2753,
     "opened_year": null,
     "closed_year": null,
     "is_existing": true,
@@ -5800,7 +5877,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q427377",
@@ -5845,7 +5922,7 @@
     "lng": 19.07861111,
     "country": "PL",
     "sport_types": [],
-    "capacity": null,
+    "capacity": 3450,
     "opened_year": null,
     "closed_year": null,
     "is_existing": true,
@@ -5862,7 +5939,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q4546066",
@@ -6596,7 +6673,7 @@
       "サッカー",
       "スピードウェイ"
     ],
-    "capacity": 17800,
+    "capacity": 9818,
     "opened_year": null,
     "closed_year": null,
     "is_existing": true,
@@ -6608,7 +6685,7 @@
       },
       {
         "name": "Motor Lublin (speedway team)",
-        "url": "http://kmcross.pl/"
+        "url": "https://motorlublin.com.pl/"
       }
     ],
     "leagues": [
@@ -6631,7 +6708,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-14T08:22:53.630Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q64512370",
@@ -7423,6 +7500,10 @@
       {
         "name": "GKP Gorzów Wielkopolski",
         "url": "http://www.gkp.gorzow.pl/"
+      },
+      {
+        "name": "Warta Gorzów Wielkopolski",
+        "url": "https://www.wartagorzow.pl/"
       }
     ],
     "leagues": [
@@ -7441,7 +7522,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-14T08:22:53.630Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q7596504",
@@ -7677,8 +7758,8 @@
     "roof_type": null,
     "teams": [
       {
-        "name": "スピードウェイ",
-        "url": "https://www.speedwaygp.com/"
+        "name": "KS Toruń",
+        "url": "http://www.speedway.torun.pl/"
       }
     ],
     "leagues": [],
@@ -7692,7 +7773,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q783074",
@@ -8097,7 +8178,12 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Wilki Krosno",
+        "url": null
+      }
+    ],
     "leagues": [],
     "events": [],
     "wikipedia_url": "https://en.wikipedia.org/wiki/MOSiR_Stadium_(Krosno)",
@@ -8109,7 +8195,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q86680731",
@@ -8504,7 +8590,12 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "UNI Opole",
+        "url": "http://siatkowka.uni.opole.pl/"
+      }
+    ],
     "leagues": [],
     "events": [],
     "wikipedia_url": null,
@@ -8515,7 +8606,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q9285133",
@@ -8562,6 +8653,14 @@
       {
         "name": "MKS Lublin",
         "url": "http://www.mks.lublin.pl/"
+      },
+      {
+        "name": "Luk Lublin",
+        "url": "https://lkpslublin.pl/"
+      },
+      {
+        "name": "Start Lublin",
+        "url": "http://www.mksstartlublin.pl/"
       }
     ],
     "leagues": [],
@@ -8574,7 +8673,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q9285187",
@@ -8911,7 +9010,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-14T08:22:53.630Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q9323887",
@@ -9166,6 +9265,10 @@
       {
         "name": "アミカ・ウロンキ",
         "url": "http://www.amicasport.pl/"
+      },
+      {
+        "name": "Lech Poznań II",
+        "url": null
       }
     ],
     "leagues": [],
@@ -9179,7 +9282,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q9341105",
@@ -10517,7 +10620,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-14T08:22:53.630Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q9360117",
@@ -10691,6 +10794,10 @@
       {
         "name": "AZS Częstochowa",
         "url": "http://www.azsczestochowa.pl/"
+      },
+      {
+        "name": "KS Norwid Częstochowa",
+        "url": null
       }
     ],
     "leagues": [],
@@ -10704,7 +10811,7 @@
       "Wikidata",
       "Wikipedia"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q9380813",
@@ -10912,7 +11019,12 @@
     "closed_year": null,
     "is_existing": true,
     "roof_type": null,
-    "teams": [],
+    "teams": [
+      {
+        "name": "Ślepsk Suwałki",
+        "url": "https://slepsksuwalki.pl/"
+      }
+    ],
     "leagues": [],
     "events": [],
     "wikipedia_url": null,
@@ -10923,7 +11035,7 @@
     "sources": [
       "Wikidata"
     ],
-    "last_synced_at": "2026-09-10T09:17:39.605Z"
+    "last_synced_at": "2026-09-15T08:14:07.041Z"
   },
   {
     "id": "Q97185647",
